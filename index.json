@@ -50,32 +50,7 @@
       <!-- grid-container -->
       <grid-container id="SWwIMSw" data-type="grid-container">
         <!-- grid-content -->
-        <grid-content id="wKBWcaQ" contenteditable="true" data-type="html">
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-  <grid-box-container id="IehquOY">
-    <grid-box id="VpiOBDO" contenteditable="true"><br></grid-box></grid-box-container>
-  </grid-content>
+        <grid-content id="wKBWcaQ" contenteditable="true" data-type="html"></grid-content>
         <grid-edit-section class="grid-edit-section no-export" contenteditable="false" data-type="grid-edit-section"> 
           <button contenteditable="false" class="section-add-btn" onclick="sectionGridItems('wKBWcaQ', 'beforeend')">+</button>
           <button contenteditable="false" class="section-delete-btn" onclick="flexSectionDelete('CaoejQe')">-</button>   
