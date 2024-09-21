@@ -4,7 +4,9 @@
       <grid-css>
         <style id="ouWXqKh" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#SPiIbXK {
   display: grid;
-  grid-template-columns:1fr 1fr;
+  grid-template-columns: 1fr 1fr;
+  gap:0;
+  padding:0;
 }
 </style>
         <style id="DDnTccK" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
@@ -43,127 +45,8 @@
   <grid-box-container id="FBZphOJ">
     <grid-box id="dgVUfpd" contenteditable="true">
   <img id="RKPImsy" contenteditable="true" src="https://zeroqod.fr/wp-content/uploads//2022/01/Logo-v1.svg
-    " data-type="image-fg" loading="lazy">
+    " data-type="image-fg" loading="lazy"></grid-box></grid-box-container><grid-box-container id="QZXLJzi"><grid-box id="jXmUMFB" contenteditable="true" style="place-content: center;"><h1 class="grid-h1" contenteditable="true">Devenez Expert en IA Generative</h1>
   </grid-box>
-    <grid-edit-box class="grid-edit-box no-export">
-      
-  
-    
-    <div contenteditable="false" class="section-info">Box</div>
-    <button contenteditable="false" class="no-export" onclick="openFlexItems('dgVUfpd')">
-      +
-    </button>
-    <button contenteditable="false" class="delete-grid no-export" onclick="removeContent('FBZphOJ')">
-      -
-    </button>
-    <button contenteditable="false" class="align-items-button no-export" onclick="openAlignModal('dgVUfpd')">
-      ⋮
-    </button>
-
-    <div id="align-modal-dgVUfpd" class="align-modal" style="display: none;">
-      <div class="align-modal-content">
-
-      <details class="toggle-details" open="">
-      <summary>Flex Direction</summary>
-
-        <div class="flexDirection">
-          
-          <button data-boxid="dgVUfpd" data-category="flexDirection" data-style="row" onclick="flexDirection('dgVUfpd', 'row')">row</button>
-          <button data-boxid="dgVUfpd" data-category="flexDirection" data-style="column" data-choice="selected" onclick="flexDirection('dgVUfpd', 'column')">column</button>
-          <button data-boxid="dgVUfpd" data-category="flexDirection" data-style="row-reverse" onclick="flexDirection('dgVUfpd', 'row-reverse')">row-reverse</button>
-          <button data-boxid="dgVUfpd" data-category="flexDirection" data-style="column-reverse" onclick="flexDirection('dgVUfpd', 'column-reverse')">column-reverse</button>
-        </div>
-
-        </details>
-
-        <details class="toggle-details">
-          <summary>Flex Wrap</summary>
-
-        <div class="flexWrap">
-          
-          <button data-boxid="dgVUfpd" data-category="flexWrap" data-style="nowrap" onclick="flexWrap('dgVUfpd', 'nowrap')">nowrap</button>
-          <button data-boxid="dgVUfpd" data-category="flexWrap" data-style="wrap" data-choice="selected" onclick="flexWrap('dgVUfpd', 'wrap')">wrap</button>
-        </div>
-
-        </details>
-
-        <details class="toggle-details">
-          <summary>Background Color</summary>
-
-        <div class="flexColor">
-          
-          <label for="color-picker-dgVUfpd" class="color-picker-button no-export" style="background-color: #ffffff; border-radius: 50%; width: 25px; height: 25px; display: inline-block; border: 2px solid #000;">
-          </label>
-    
-          <input type="color" id="color-picker-dgVUfpd" class="color-picker no-export" oninput="changeBoxColor('dgVUfpd', this.value)" value="#ffffff" style="display: none;">
-          </div>
-
-        </details>
-
-        <details class="toggle-details">
-            <summary>Space</summary>
-            <div class="Padding">
-              
-              <label for="min-padding-dgVUfpd">Min:</label>
-              <input type="text" id="min-padding-dgVUfpd" value="35px">
-
-              <label for="preferred-padding-dgVUfpd">Preferred:</label>
-              <input type="text" id="preferred-padding-dgVUfpd" value="3vw">
-
-              <label for="max-padding-dgVUfpd">Max:</label>
-              <input type="text" id="max-padding-dgVUfpd" value="50px">
-
-              <button onclick="applyPadding('dgVUfpd')">Set Padding</button>
-            </div>
-          </details>
-
-          <details class="toggle-details">
-          <summary>Flex Properties</summary>
-          <div class="FlexProperties">
-
-            <label for="flex-basis-dgVUfpd">Flex Basis:</label>
-            <input type="text" id="flex-basis-dgVUfpd" value="0">
-
-            <label for="flex-shrink-dgVUfpd">Flex Shrink:</label>
-            <input type="text" id="flex-shrink-dgVUfpd" value="1">
-
-            <label for="flex-grow-dgVUfpd">Flex Grow:</label>
-            <input type="text" id="flex-grow-dgVUfpd" value="1">
-
-            <button onclick="setFlexProperties('dgVUfpd')">Set Flex Properties</button>
-          </div>
-        </details>
-
-
-        <details class="toggle-details">
-          <summary>Place Content</summary>
-
-        <div class="placeContent">
-          
-          <button data-boxid="dgVUfpd" data-category="placeContent" data-style="start" data-choice="selected" onclick="placeContent('dgVUfpd', 'start')">start</button>
-          <button data-boxid="dgVUfpd" data-category="placeContent" data-style="start center" onclick="placeContent('dgVUfpd', 'start center')">start center</button>
-          <button data-boxid="dgVUfpd" data-category="placeContent" data-style="start end" onclick="placeContent('dgVUfpd', 'start end')">start end</button>
-          <button data-boxid="dgVUfpd" data-category="placeContent" data-style="center start" onclick="placeContent('dgVUfpd', 'center start')">center start</button>
-          <button data-boxid="dgVUfpd" data-category="placeContent" data-style="center" onclick="placeContent('dgVUfpd', 'center')">center</button>
-          <button data-boxid="dgVUfpd" data-category="placeContent" data-style="center end" onclick="placeContent('dgVUfpd', 'center end')">center end</button>
-          <button data-boxid="dgVUfpd" data-category="placeContent" data-style="end start" onclick="placeContent('dgVUfpd', 'end start')">end start</button>
-          <button data-boxid="dgVUfpd" data-category="placeContent" data-style="end center" onclick="placeContent('dgVUfpd', 'end center')">end center</button>
-          <button data-boxid="dgVUfpd" data-category="placeContent" data-style="end end" onclick="placeContent('dgVUfpd', 'end')">end</button>
-        </div>
-        </details>
-
-        
-
-        <span class="align-close" onclick="closeAlignModal('dgVUfpd')">×</span>
-      </div>
-    </div>
-  
-  
-    </grid-edit-box>
-  </grid-box-container>  
-  
-  <grid-box-container id="QZXLJzi">
-    <grid-box id="jXmUMFB" contenteditable="true"></grid-box>
     <grid-edit-box class="grid-edit-box no-export">
       
   
@@ -179,7 +62,7 @@
       ⋮
     </button>
 
-    <div id="align-modal-jXmUMFB" class="align-modal" style="display:none">
+    <div id="align-modal-jXmUMFB" class="align-modal" style="display: none; width: 16px;">
       <div class="align-modal-content">
 
       <details class="toggle-details">
@@ -254,16 +137,16 @@
         </details>
 
 
-        <details class="toggle-details">
+        <details class="toggle-details" open="">
           <summary>Place Content</summary>
 
         <div class="placeContent">
           
-          <button data-boxid="jXmUMFB" data-category="placeContent" data-style="start" data-choice="selected" onclick="placeContent('jXmUMFB', 'start')">start</button>
+          <button data-boxid="jXmUMFB" data-category="placeContent" data-style="start" onclick="placeContent('jXmUMFB', 'start')">start</button>
           <button data-boxid="jXmUMFB" data-category="placeContent" data-style="start center" onclick="placeContent('jXmUMFB', 'start center')">start center</button>
           <button data-boxid="jXmUMFB" data-category="placeContent" data-style="start end" onclick="placeContent('jXmUMFB', 'start end')">start end</button>
           <button data-boxid="jXmUMFB" data-category="placeContent" data-style="center start" onclick="placeContent('jXmUMFB', 'center start')">center start</button>
-          <button data-boxid="jXmUMFB" data-category="placeContent" data-style="center" onclick="placeContent('jXmUMFB', 'center')">center</button>
+          <button data-boxid="jXmUMFB" data-category="placeContent" data-style="center" onclick="placeContent('jXmUMFB', 'center')" data-choice="selected">center</button>
           <button data-boxid="jXmUMFB" data-category="placeContent" data-style="center end" onclick="placeContent('jXmUMFB', 'center end')">center end</button>
           <button data-boxid="jXmUMFB" data-category="placeContent" data-style="end start" onclick="placeContent('jXmUMFB', 'end start')">end start</button>
           <button data-boxid="jXmUMFB" data-category="placeContent" data-style="end center" onclick="placeContent('jXmUMFB', 'end center')">end center</button>
