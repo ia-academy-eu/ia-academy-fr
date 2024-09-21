@@ -16,7 +16,7 @@
       <grid-css>
         <style id="zseuZwz" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#wKBWcaQ {
   display: grid;
-  
+  padding:35px;
 }
 </style>
         <style id="kFhqozf" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
@@ -1009,6 +1009,10 @@
   
     </grid-edit-box>
   </grid-box-container>  
+  
+    <grid-title class="grid-title" contenteditable="true">Grid Title</grid-title>
+  
+    <grid-subtitle class="grid-title" contenteditable="true">Grid Subtitle</grid-subtitle>
   </grid-content>
         <grid-edit-section class="grid-edit-section no-export" contenteditable="false" data-type="grid-edit-section"> 
           <button contenteditable="false" class="section-add-btn" onclick="sectionGridItems('wKBWcaQ', 'beforeend')">+</button>
