@@ -1,6 +1,6 @@
 <style id="page-laptop.css" type="text/css" data-type="css" data-size="laptop" data-content="page">grid-body{
     display:grid;
-    width:100%;
+    width:100vw;
 }</style><style id="page-tablet.css" type="text/css" data-type="css" data-size="tablet" data-content="page">@media screen and (min-width:641px) and (max-width:1024px) { /* Tablet */ }</style><style id="page-mobile.css" type="text/css" data-type="css" data-size="mobile" data-content="page">@media screen and (max-width:640px) { /* Mobile */ }</style><grid-body id="grid-body">
   <section id="vXuhuKr" data-type="section">  
       <!--CSS-->
