@@ -20,7 +20,7 @@
       <grid-css>
         <style id="iFKgKsJ" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#vyRvZPI {
   display: grid;
-  min-height:70vh;
+  min-height: 100vh;
 }
 </style>
         <style id="BElLrtE" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
@@ -36,7 +36,7 @@
       <!--BG-->
       <grid-bg id="lnwTMYx" data-type="grid-bg">
           <!-- bg-color -->
-          <grid-bg-color id="OoZqOFV" data-type="grid-bg-color" class="div-visible" style="background-color: rgba(255, 255, 255, 1);"></grid-bg-color> 
+          <grid-bg-color id="OoZqOFV" data-type="grid-bg-color" class="div-hidden" style="background-color: rgba(255, 255, 255, 1);"></grid-bg-color> 
           <!-- bg-image -->
           <grid-bg-image id="WDDdYif" data-type="grid-bg-image" class="div-hidden">
             <picture id="RuVVDir">
@@ -46,8 +46,8 @@
             </picture>
           </grid-bg-image> 
           <!-- bg-video -->
-          <grid-bg-video id="lMbRKLC" data-type="grid-bg-video" class="div-hidden">
-            <video id="RvRrrQP" autoplay="" loop="" muted="" loading="lazy" data-type="video-bg" src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4"></video>
+          <grid-bg-video id="lMbRKLC" data-type="grid-bg-video" class="div-visible">
+            <video id="RvRrrQP" autoplay="" loop="" muted="" loading="lazy" data-type="video-bg" src="https://videos.pexels.com/video-files/10041593/10041593-hd_1920_1080_24fps.mp4"></video>
           </grid-bg-video> 
       </grid-bg>
       <!-- grid-container -->
