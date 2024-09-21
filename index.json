@@ -16,7 +16,7 @@
       <grid-css>
         <style id="zseuZwz" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#wKBWcaQ {
   display: grid;
-  grid-template-columns: 100px 2fr 50%;
+  
 }
 </style>
         <style id="kFhqozf" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
