@@ -16,7 +16,7 @@
       <grid-css>
         <style id="zseuZwz" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#wKBWcaQ {
   display: grid;
-  min-height: 100vh;
+  min-height: 80vh;
   place-content: center start;
 }
 </style>
@@ -55,9 +55,9 @@
     <grid-box id="kMTBDkQ" contenteditable="true" style="place-content: center;">
     <h2>Titre H2</h2>
   
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit duis at arcu sed odio aliquet molestie eget at risus.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit duis at arcu sed odio aliquet molestie eget at risus.</p>  
   
-    <a id="sLKcHvi" href="./your-link" data-type="a-link" target="_self" class="">En savoir plus</a>  
+    
   </grid-box>
     <grid-edit-box class="grid-edit-box no-export">
       
