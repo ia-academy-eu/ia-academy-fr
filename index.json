@@ -41,7 +41,10 @@
           <!-- grid-box-container -->    
         
   <grid-box-container id="FBZphOJ">
-    <grid-box id="dgVUfpd" contenteditable="true"></grid-box>
+    <grid-box id="dgVUfpd" contenteditable="true">
+  <img id="RKPImsy" contenteditable="true" src="https://zeroqod.fr/wp-content/uploads//2022/01/Logo-v1.svg
+    " data-type="image-fg" loading="lazy">
+  </grid-box>
     <grid-edit-box class="grid-edit-box no-export">
       
   
@@ -57,10 +60,10 @@
       ⋮
     </button>
 
-    <div id="align-modal-dgVUfpd" class="align-modal" style="display:none">
+    <div id="align-modal-dgVUfpd" class="align-modal" style="display: none;">
       <div class="align-modal-content">
 
-      <details class="toggle-details">
+      <details class="toggle-details" open="">
       <summary>Flex Direction</summary>
 
         <div class="flexDirection">
