@@ -16,7 +16,6 @@
       <grid-css>
         <style id="zseuZwz" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#wKBWcaQ {
   display: grid;
-  padding: 10%;
   min-height: 100vh;
   place-content: center start;
 }
