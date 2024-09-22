@@ -20,8 +20,8 @@
       <grid-css>
         <style id="iFKgKsJ" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#vyRvZPI {
   display: grid;
-  min-height: 80vh;
-  place-content:center;
+  min-height: 100vh;
+  place-content: center;
 }
 </style>
         <style id="BElLrtE" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
@@ -57,124 +57,7 @@
         <grid-content id="vyRvZPI" contenteditable="true" data-type="html">
           <!-- grid-box-container -->    
         
-  <grid-box-container id="uJiacus">
-    <grid-box id="cUsCtRP" contenteditable="true"></grid-box>
-    <grid-edit-box class="grid-edit-box no-export">
-      
-  
     
-    <div contenteditable="false" class="section-info">Box</div>
-    <button contenteditable="false" class="no-export" onclick="openFlexItems('cUsCtRP')">
-      +
-    </button>
-    <button contenteditable="false" class="delete-grid no-export" onclick="removeContent('uJiacus')">
-      -
-    </button>
-    <button contenteditable="false" class="align-items-button no-export" onclick="openAlignModal('cUsCtRP')">
-      ⋮
-    </button>
-
-    <div id="align-modal-cUsCtRP" class="align-modal" style="display:none">
-      <div class="align-modal-content">
-
-      <details class="toggle-details">
-      <summary>Flex Direction</summary>
-
-        <div class="flexDirection">
-          
-          <button data-boxid="cUsCtRP" data-category="flexDirection" data-style="row" onclick="flexDirection('cUsCtRP', 'row')">row</button>
-          <button data-boxid="cUsCtRP" data-category="flexDirection" data-style="column" data-choice="selected" onclick="flexDirection('cUsCtRP', 'column')">column</button>
-          <button data-boxid="cUsCtRP" data-category="flexDirection" data-style="row-reverse" onclick="flexDirection('cUsCtRP', 'row-reverse')">row-reverse</button>
-          <button data-boxid="cUsCtRP" data-category="flexDirection" data-style="column-reverse" onclick="flexDirection('cUsCtRP', 'column-reverse')">column-reverse</button>
-        </div>
-
-        </details>
-
-        <details class="toggle-details">
-          <summary>Flex Wrap</summary>
-
-        <div class="flexWrap">
-          
-          <button data-boxid="cUsCtRP" data-category="flexWrap" data-style="nowrap" onclick="flexWrap('cUsCtRP', 'nowrap')">nowrap</button>
-          <button data-boxid="cUsCtRP" data-category="flexWrap" data-style="wrap" data-choice="selected" onclick="flexWrap('cUsCtRP', 'wrap')">wrap</button>
-        </div>
-
-        </details>
-
-        <details class="toggle-details">
-          <summary>Background Color</summary>
-
-        <div class="flexColor">
-          
-          <label for="color-picker-cUsCtRP" class="color-picker-button no-export" style="background-color: #ffffff; border-radius: 50%; width: 25px; height: 25px; display: inline-block; border: 2px solid #000;">
-          </label>
-    
-          <input type="color" id="color-picker-cUsCtRP" class="color-picker no-export" oninput="changeBoxColor('cUsCtRP', this.value)" value="#ffffff" style="display: none;">
-          </div>
-
-        </details>
-
-        <details class="toggle-details">
-            <summary>Space</summary>
-            <div class="Padding">
-              
-              <label for="min-padding-cUsCtRP">Min:</label>
-              <input type="text" id="min-padding-cUsCtRP" value="35px">
-
-              <label for="preferred-padding-cUsCtRP">Preferred:</label>
-              <input type="text" id="preferred-padding-cUsCtRP" value="3vw">
-
-              <label for="max-padding-cUsCtRP">Max:</label>
-              <input type="text" id="max-padding-cUsCtRP" value="50px">
-
-              <button onclick="applyPadding('cUsCtRP')">Set Padding</button>
-            </div>
-          </details>
-
-          <details class="toggle-details">
-          <summary>Flex Properties</summary>
-          <div class="FlexProperties">
-
-            <label for="flex-basis-cUsCtRP">Flex Basis:</label>
-            <input type="text" id="flex-basis-cUsCtRP" value="0">
-
-            <label for="flex-shrink-cUsCtRP">Flex Shrink:</label>
-            <input type="text" id="flex-shrink-cUsCtRP" value="1">
-
-            <label for="flex-grow-cUsCtRP">Flex Grow:</label>
-            <input type="text" id="flex-grow-cUsCtRP" value="1">
-
-            <button onclick="setFlexProperties('cUsCtRP')">Set Flex Properties</button>
-          </div>
-        </details>
-
-
-        <details class="toggle-details">
-          <summary>Place Content</summary>
-
-        <div class="placeContent">
-          
-          <button data-boxid="cUsCtRP" data-category="placeContent" data-style="start" data-choice="selected" onclick="placeContent('cUsCtRP', 'start')">start</button>
-          <button data-boxid="cUsCtRP" data-category="placeContent" data-style="start center" onclick="placeContent('cUsCtRP', 'start center')">start center</button>
-          <button data-boxid="cUsCtRP" data-category="placeContent" data-style="start end" onclick="placeContent('cUsCtRP', 'start end')">start end</button>
-          <button data-boxid="cUsCtRP" data-category="placeContent" data-style="center start" onclick="placeContent('cUsCtRP', 'center start')">center start</button>
-          <button data-boxid="cUsCtRP" data-category="placeContent" data-style="center" onclick="placeContent('cUsCtRP', 'center')">center</button>
-          <button data-boxid="cUsCtRP" data-category="placeContent" data-style="center end" onclick="placeContent('cUsCtRP', 'center end')">center end</button>
-          <button data-boxid="cUsCtRP" data-category="placeContent" data-style="end start" onclick="placeContent('cUsCtRP', 'end start')">end start</button>
-          <button data-boxid="cUsCtRP" data-category="placeContent" data-style="end center" onclick="placeContent('cUsCtRP', 'end center')">end center</button>
-          <button data-boxid="cUsCtRP" data-category="placeContent" data-style="end end" onclick="placeContent('cUsCtRP', 'end')">end</button>
-        </div>
-        </details>
-
-        
-
-        <span class="align-close" onclick="closeAlignModal('cUsCtRP')">×</span>
-      </div>
-    </div>
-  
-  
-    </grid-edit-box>
-  </grid-box-container>  
   
     
   </grid-content>
