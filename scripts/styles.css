@@ -1,4 +1,5 @@
 grid-body {
   background: red;
   padding: 50px;
+  font-family: system-ui, sans-serif;
 }
