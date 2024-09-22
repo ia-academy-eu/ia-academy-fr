@@ -1,9 +1,9 @@
 body {
   display: flex;
   flex-wrap: wrap;
-  gap: 35px;
-  font-family: Arial, sans-serif;
+  gap: 20px;
+  font-family: 'Helvetica, sans-serif';
   margin: 0;
-  padding: 20px;
-  background-color: #f4f4f4;
+  padding: 15px;
+  background-color: #ffffff;
 }
