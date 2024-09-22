@@ -22,6 +22,7 @@
   display: grid;
   min-height: 100vh;
   place-content: end start;
+  grid-template-columns:1fr;
 }
 </style>
         <style id="BElLrtE" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
