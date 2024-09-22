@@ -1,0 +1,13 @@
+.container {
+  display: grid; /* Establece el contenedor como una cuadrícula */
+  grid-template-columns: repeat(3, 1fr); /* Crea tres columnas de igual tamaño */
+  gap: 10px; /* Espacio de 10px entre los elementos de la cuadrícula */
+}
+
+.item {
+  display: flex; /* Establece el elemento como un contenedor flexible */
+  justify-content: center; /* Centra el contenido horizontalmente */
+  align-items: center; /* Centra el contenido verticalmente */
+  height: 100px; /* Altura fija para los elementos */
+  background-color: lightblue; /* Color de fondo para los elementos */
+}
