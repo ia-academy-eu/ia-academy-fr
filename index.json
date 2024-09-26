@@ -213,8 +213,8 @@ section{
         <style id="LYcPkom" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#idBTzXJ {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  padding: 10px;
-  gap: 10px;
+  padding: 1px;
+  gap: 1px;
 }
 </style>
         <style id="vqixDeG" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
