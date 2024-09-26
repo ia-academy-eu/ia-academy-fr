@@ -207,7 +207,7 @@ section{
       <grid-css>
         <style id="LYcPkom" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#idBTzXJ {
   display: grid;
-  grid-template-columns: minmax(200px, 300px), 1fr;
+  grid-template-columns: 1fr 1fr;
   padding: 0;
 }
 </style>
