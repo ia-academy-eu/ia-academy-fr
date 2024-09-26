@@ -150,7 +150,7 @@
       <grid-css>
         <style id="Oaaqtcz" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#uQFyANv {
   display: grid;
-  min-height:50vh;
+  min-height: 100vh;
 }
 </style>
         <style id="wxqugKR" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
