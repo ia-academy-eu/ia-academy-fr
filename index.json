@@ -4,9 +4,10 @@ grid-page{
      background:red;
      min-height:100vh;
      place-content:baseline;
+     margin: 0 auto;
 }
 grid-body{
-    margin: 0 auto;
+    
     max-width:1280px;
     padding:35px;
     display:grid;
