@@ -3,7 +3,6 @@ grid-page{
      display:block;
      background:red;
      min-height:100vh;
-     place-content:start center;
      margin: 0 auto;
 }
 grid-body{
