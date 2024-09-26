@@ -207,7 +207,8 @@ section{
       <grid-css>
         <style id="LYcPkom" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#idBTzXJ {
   display: grid;
-  grid-template-columns:repeat(12,1fr);
+  grid-template-columns: repeat(12, 1fr);
+  padding:0;
 }
 </style>
         <style id="vqixDeG" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
@@ -223,7 +224,7 @@ section{
       <!--BG-->
       <grid-bg id="QQStXYb" data-type="grid-bg">
           <!-- bg-color -->
-          <grid-bg-color id="VqFSomc" data-type="grid-bg-color" class="div-visible" style="background-color: rgba(255, 255, 255, 1);"></grid-bg-color> 
+          <grid-bg-color id="VqFSomc" data-type="grid-bg-color" class="div-visible" style="background-color: rgba(255, 255, 255, 0);"></grid-bg-color> 
           <!-- bg-image -->
           <grid-bg-image id="RZIjqNa" data-type="grid-bg-image" class="div-hidden">
             <picture id="FAwtOmN">
@@ -371,7 +372,11 @@ section{
     
   
   <grid-box-container id="zHOMmrH">
-    <grid-box id="eFQoVFQ" contenteditable="true"></grid-box>
+    <grid-box id="eFQoVFQ" contenteditable="true" style="padding: clamp(0px, 3vw, 0px);">
+
+  <video id="RaXIpnQ" autoplay="" loop="" muted="" data-type="video-fg" loading="lazy" src="https://github.com/IAMEDIA360/videos/raw/main/1795203691-1.mp4">
+  </video>    
+  </grid-box>
     <grid-edit-box class="grid-edit-box no-export">
       
   
@@ -387,7 +392,7 @@ section{
       ⋮
     </button>
 
-    <div id="align-modal-eFQoVFQ" class="align-modal" style="display:none">
+    <div id="align-modal-eFQoVFQ" class="align-modal" style="display: none;">
       <div class="align-modal-content">
 
       <details class="toggle-details">
@@ -427,7 +432,7 @@ section{
 
         </details>
 
-        <details class="toggle-details">
+        <details class="toggle-details" open="">
             <summary>Space</summary>
             <div class="Padding">
               
