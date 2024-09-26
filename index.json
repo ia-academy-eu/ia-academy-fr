@@ -207,8 +207,8 @@ section{
       <grid-css>
         <style id="LYcPkom" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#idBTzXJ {
   display: grid;
-  grid-template-columns: repeat(12, 1fr);
-  padding:0;
+  grid-template-columns: minmax(200px,300px) 1fr;
+  padding: 0;
 }
 </style>
         <style id="vqixDeG" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
@@ -245,10 +245,12 @@ section{
           <!-- grid-box-container -->    
         
   <grid-box-container id="MeNPcsh">
-    <grid-box id="WAfSDYn" contenteditable="true">
+    <grid-box id="WAfSDYn" contenteditable="true" style="place-content: center; padding: clamp(35px, 5vw, 150px);">
     <h1 class="grid-h1" contenteditable="true">Titre H1</h1>
   
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit duis at arcu sed odio aliquet molestie eget at risus.</p>
+  
+    <a id="CaYKslQ" href="./your-link" data-type="a-link" target="_self" class="">En savoir plus</a>  
   </grid-box>
     <grid-edit-box class="grid-edit-box no-export">
       
@@ -268,7 +270,7 @@ section{
     <div id="align-modal-WAfSDYn" class="align-modal" style="display: none;">
       <div class="align-modal-content">
 
-      <details class="toggle-details">
+      <details class="toggle-details" open="">
       <summary>Flex Direction</summary>
 
         <div class="flexDirection">
@@ -345,11 +347,11 @@ section{
 
         <div class="placeContent">
           
-          <button data-boxid="WAfSDYn" data-category="placeContent" data-style="start" data-choice="selected" onclick="placeContent('WAfSDYn', 'start')">start</button>
+          <button data-boxid="WAfSDYn" data-category="placeContent" data-style="start" onclick="placeContent('WAfSDYn', 'start')">start</button>
           <button data-boxid="WAfSDYn" data-category="placeContent" data-style="start center" onclick="placeContent('WAfSDYn', 'start center')">start center</button>
           <button data-boxid="WAfSDYn" data-category="placeContent" data-style="start end" onclick="placeContent('WAfSDYn', 'start end')">start end</button>
           <button data-boxid="WAfSDYn" data-category="placeContent" data-style="center start" onclick="placeContent('WAfSDYn', 'center start')">center start</button>
-          <button data-boxid="WAfSDYn" data-category="placeContent" data-style="center" onclick="placeContent('WAfSDYn', 'center')">center</button>
+          <button data-boxid="WAfSDYn" data-category="placeContent" data-style="center" onclick="placeContent('WAfSDYn', 'center')" data-choice="selected">center</button>
           <button data-boxid="WAfSDYn" data-category="placeContent" data-style="center end" onclick="placeContent('WAfSDYn', 'center end')">center end</button>
           <button data-boxid="WAfSDYn" data-category="placeContent" data-style="end start" onclick="placeContent('WAfSDYn', 'end start')">end start</button>
           <button data-boxid="WAfSDYn" data-category="placeContent" data-style="end center" onclick="placeContent('WAfSDYn', 'end center')">end center</button>
@@ -376,6 +378,8 @@ section{
 
   <video id="RaXIpnQ" autoplay="" loop="" muted="" data-type="video-fg" loading="lazy" src="https://github.com/IAMEDIA360/videos/raw/main/1795203691-1.mp4">
   </video>    
+  
+    
   </grid-box>
     <grid-edit-box class="grid-edit-box no-export">
       
@@ -432,7 +436,7 @@ section{
 
         </details>
 
-        <details class="toggle-details" open="">
+        <details class="toggle-details">
             <summary>Space</summary>
             <div class="Padding">
               
