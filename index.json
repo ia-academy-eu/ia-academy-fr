@@ -8,6 +8,7 @@ grid-body{
     padding:35px;
     display:grid;
     gap:35px;
+    background:red;
     /*grid-template-columns:repeat(12,1fr);*/
 }
 section{
