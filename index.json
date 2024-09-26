@@ -6,7 +6,7 @@ grid-page{
      place-content:baseline;
 }
 grid-body{
-    margin:auto;
+    margin: 0 auto;
     max-width:1280px;
     padding:35px;
     display:grid;
