@@ -2,6 +2,7 @@
 grid-page{
     display:grid;
      background:red;
+     min-height:100vh;
 }
 grid-body{
     max-width:1280px;
