@@ -3,7 +3,7 @@
     padding:35px;
     display:grid;
     gap:35px;
-    /*grid-template-columns:repeat(12,1fr);*/
+    grid-template-columns:repeat(12,1fr);
 }
 section{
     border-radius:10px;
