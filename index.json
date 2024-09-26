@@ -190,8 +190,6 @@
       <grid-css>
         <style id="mUAjehw" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#NWLhBTv {
   display: grid;
-  padding:35px;
-  gap :  35px;
 }
 </style>
         <style id="NePdtsD" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
