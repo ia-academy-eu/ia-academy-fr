@@ -1,4 +1,8 @@
-<style id="page-laptop.css" type="text/css" data-type="css" data-size="laptop" data-content="page">grid-body{
+<style id="page-laptop.css" type="text/css" data-type="css" data-size="laptop" data-content="page">
+grid-page{
+    backround:red;
+}
+grid-body{
     max-width:1280px;
     padding:35px;
     display:grid;
@@ -377,7 +381,7 @@ section{
   <grid-box-container id="zHOMmrH">
     <grid-box id="eFQoVFQ" contenteditable="true" style="padding: clamp(0px, 3vw, 0px);">
 
-  <video id="RaXIpnQ" autoplay="" loop="" muted="" data-type="video-fg" loading="lazy" src="https://github.com/IAMEDIA360/videos/raw/main/1795203691-1.mp4">
+  <video id="RaXIpnQ" autoplay="" loop="" muted="" data-type="video-fg" loading="lazy" src="https://videos.pexels.com/video-files/3297870/3297870-hd_1366_720_25fps.mp4">
   </video>    
   
     
