@@ -216,7 +216,7 @@
           <!-- bg-color -->
           <grid-bg-color id="KfiUILp" data-type="grid-bg-color" class="div-hidden" style="background-color: rgba(255, 255, 255, 1);"></grid-bg-color> 
           <!-- bg-image -->
-          <grid-bg-image id="ROuSwRi" data-type="grid-bg-image" class="div-visible">
+          <grid-bg-image id="ROuSwRi" data-type="grid-bg-image" class="div-hidden">
             <picture id="KEIKLEU">
               <source srcset="" media="(max-width:640px)">
               <source srcset="" media="(min-width:641px) and (max-width:1024px)">
@@ -224,8 +224,8 @@
             </picture>
           </grid-bg-image> 
           <!-- bg-video -->
-          <grid-bg-video id="VzQtZsf" data-type="grid-bg-video" class="div-hidden">
-            <video id="iHukoCp" autoplay="" loop="" muted="" loading="lazy" data-type="video-bg" src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4"></video>
+          <grid-bg-video id="VzQtZsf" data-type="grid-bg-video" class="div-visible">
+            <video id="iHukoCp" autoplay="" loop="" muted="" loading="lazy" data-type="video-bg" src="https://videos.pexels.com/video-files/2832316/2832316-hd_1920_1080_30fps.mp4"></video>
           </grid-bg-video> 
       </grid-bg>
       <!-- grid-container -->
@@ -235,10 +235,12 @@
           <!-- grid-box-container -->    
         
   <grid-box-container id="jiCPyGk">
-    <grid-box id="nmxLoqh" contenteditable="true">
+    <grid-box id="nmxLoqh" contenteditable="true" style="place-content: center;">
     <h2>Este es un H2</h2>
   
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit duis at arcu sed odio aliquet molestie eget at risus.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit duis&nbsp;</p>
+  
+    <a id="WJMbIxy" href="./your-link" data-type="a-link" target="_self" class="">En savoir plus</a>  
   </grid-box>
     <grid-edit-box class="grid-edit-box no-export">
       
@@ -255,7 +257,7 @@
       ⋮
     </button>
 
-    <div id="align-modal-nmxLoqh" class="align-modal" style="display:none">
+    <div id="align-modal-nmxLoqh" class="align-modal" style="display: none;">
       <div class="align-modal-content">
 
       <details class="toggle-details">
@@ -330,16 +332,16 @@
         </details>
 
 
-        <details class="toggle-details">
+        <details class="toggle-details" open="">
           <summary>Place Content</summary>
 
         <div class="placeContent">
           
-          <button data-boxid="nmxLoqh" data-category="placeContent" data-style="start" data-choice="selected" onclick="placeContent('nmxLoqh', 'start')">start</button>
+          <button data-boxid="nmxLoqh" data-category="placeContent" data-style="start" onclick="placeContent('nmxLoqh', 'start')">start</button>
           <button data-boxid="nmxLoqh" data-category="placeContent" data-style="start center" onclick="placeContent('nmxLoqh', 'start center')">start center</button>
           <button data-boxid="nmxLoqh" data-category="placeContent" data-style="start end" onclick="placeContent('nmxLoqh', 'start end')">start end</button>
           <button data-boxid="nmxLoqh" data-category="placeContent" data-style="center start" onclick="placeContent('nmxLoqh', 'center start')">center start</button>
-          <button data-boxid="nmxLoqh" data-category="placeContent" data-style="center" onclick="placeContent('nmxLoqh', 'center')">center</button>
+          <button data-boxid="nmxLoqh" data-category="placeContent" data-style="center" onclick="placeContent('nmxLoqh', 'center')" data-choice="selected">center</button>
           <button data-boxid="nmxLoqh" data-category="placeContent" data-style="center end" onclick="placeContent('nmxLoqh', 'center end')">center end</button>
           <button data-boxid="nmxLoqh" data-category="placeContent" data-style="end start" onclick="placeContent('nmxLoqh', 'end start')">end start</button>
           <button data-boxid="nmxLoqh" data-category="placeContent" data-style="end center" onclick="placeContent('nmxLoqh', 'end center')">end center</button>
@@ -356,6 +358,16 @@
   
     </grid-edit-box>
   </grid-box-container>  
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
   </grid-content>
         <grid-edit-section class="grid-edit-section no-export" contenteditable="false" data-type="grid-edit-section"> 
           <button contenteditable="false" class="section-add-btn" onclick="sectionGridItems('nlfsUkM', 'beforeend')">+</button>
