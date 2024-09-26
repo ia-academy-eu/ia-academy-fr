@@ -161,6 +161,7 @@
   min-height: 80vh;
   place-content: center start;
   grid-template-columns:minmax(500px,300px);
+  padding:clamp(3%, 35px, 50px);
 }
 </style>
         <style id="MuFMblG" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
