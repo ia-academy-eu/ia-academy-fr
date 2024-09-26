@@ -32,8 +32,8 @@
       <grid-css>
         <style id="PpnvGea" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#dvDfHTz {
   display: grid;
-  min-height:80vh;
-  place-content:center start;
+  min-height:100vh;
+  place-content: center start;
 }
 </style>
         <style id="mpjqUJZ" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
@@ -49,9 +49,9 @@
       <!--BG-->
       <grid-bg id="fHqDAsi" data-type="grid-bg">
           <!-- bg-color -->
-          <grid-bg-color id="hAQPHhO" data-type="grid-bg-color" class="div-visible" style="background-color: rgba(255, 255, 255, 1);"></grid-bg-color> 
+          <grid-bg-color id="hAQPHhO" data-type="grid-bg-color" class="div-hidden" style="background-color: rgba(255, 255, 255, 1);"></grid-bg-color> 
           <!-- bg-image -->
-          <grid-bg-image id="WqkepCI" data-type="grid-bg-image" class="div-hidden">
+          <grid-bg-image id="WqkepCI" data-type="grid-bg-image" class="div-visible">
             <picture id="Ajmbjwr">
               <source srcset="" media="(max-width:640px)">
               <source srcset="" media="(min-width:641px) and (max-width:1024px)">
@@ -70,7 +70,11 @@
           <!-- grid-box-container -->    
         
   <grid-box-container id="zzSEFcs">
-    <grid-box id="XrqFWTk" contenteditable="true"></grid-box>
+    <grid-box id="XrqFWTk" contenteditable="true">
+    <h1 class="grid-h1" contenteditable="true">Titre H1</h1>
+  
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit duis at arcu sed odio aliquet molestie eget at risus.</p>
+  </grid-box>
     <grid-edit-box class="grid-edit-box no-export">
       
   
