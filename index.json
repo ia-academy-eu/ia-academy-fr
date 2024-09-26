@@ -2,7 +2,7 @@
 grid-page{
      display:block;
      background:red;
-     min-height:100vh;
+     min-height:100%;
      margin: 0 auto;
 }
 grid-body{
