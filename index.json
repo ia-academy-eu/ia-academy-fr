@@ -1,14 +1,14 @@
 <style id="page-laptop.css" type="text/css" data-type="css" data-size="laptop" data-content="page">
 grid-page{
     display:grid;
-    backround:red;
+     background:red;
 }
 grid-body{
     max-width:1280px;
     padding:35px;
     display:grid;
     gap:35px;
-    background:red;
+   
     /*grid-template-columns:repeat(12,1fr);*/
 }
 section{
