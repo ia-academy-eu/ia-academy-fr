@@ -207,7 +207,7 @@ section{
       <grid-css>
         <style id="LYcPkom" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#idBTzXJ {
   display: grid;
-  grid-template-columns: 1fr 2fr 1fr;
+  grid-template-columns: 1fr 2fr ;
   padding: 0px;
   gap: 0px;
 }
@@ -505,124 +505,7 @@ section{
   
     
   
-  <grid-box-container id="OAbMZil">
-    <grid-box id="LcJgiCq" contenteditable="true"></grid-box>
-    <grid-edit-box class="grid-edit-box no-export">
-      
-  
     
-    <div contenteditable="false" class="section-info">Box</div>
-    <button contenteditable="false" class="no-export" onclick="openFlexItems('LcJgiCq')">
-      +
-    </button>
-    <button contenteditable="false" class="delete-grid no-export" onclick="removeContent('OAbMZil')">
-      -
-    </button>
-    <button contenteditable="false" class="align-items-button no-export" onclick="openAlignModal('LcJgiCq')">
-      ⋮
-    </button>
-
-    <div id="align-modal-LcJgiCq" class="align-modal" style="display:none">
-      <div class="align-modal-content">
-
-      <details class="toggle-details">
-      <summary>Flex Direction</summary>
-
-        <div class="flexDirection">
-          
-          <button data-boxid="LcJgiCq" data-category="flexDirection" data-style="row" onclick="flexDirection('LcJgiCq', 'row')">row</button>
-          <button data-boxid="LcJgiCq" data-category="flexDirection" data-style="column" data-choice="selected" onclick="flexDirection('LcJgiCq', 'column')">column</button>
-          <button data-boxid="LcJgiCq" data-category="flexDirection" data-style="row-reverse" onclick="flexDirection('LcJgiCq', 'row-reverse')">row-reverse</button>
-          <button data-boxid="LcJgiCq" data-category="flexDirection" data-style="column-reverse" onclick="flexDirection('LcJgiCq', 'column-reverse')">column-reverse</button>
-        </div>
-
-        </details>
-
-        <details class="toggle-details">
-          <summary>Flex Wrap</summary>
-
-        <div class="flexWrap">
-          
-          <button data-boxid="LcJgiCq" data-category="flexWrap" data-style="nowrap" onclick="flexWrap('LcJgiCq', 'nowrap')">nowrap</button>
-          <button data-boxid="LcJgiCq" data-category="flexWrap" data-style="wrap" data-choice="selected" onclick="flexWrap('LcJgiCq', 'wrap')">wrap</button>
-        </div>
-
-        </details>
-
-        <details class="toggle-details">
-          <summary>Background Color</summary>
-
-        <div class="flexColor">
-          
-          <label for="color-picker-LcJgiCq" class="color-picker-button no-export" style="background-color: #ffffff; border-radius: 50%; width: 25px; height: 25px; display: inline-block; border: 2px solid #000;">
-          </label>
-    
-          <input type="color" id="color-picker-LcJgiCq" class="color-picker no-export" oninput="changeBoxColor('LcJgiCq', this.value)" value="#ffffff" style="display: none;">
-          </div>
-
-        </details>
-
-        <details class="toggle-details">
-            <summary>Space</summary>
-            <div class="Padding">
-              
-              <label for="min-padding-LcJgiCq">Min:</label>
-              <input type="text" id="min-padding-LcJgiCq" value="35px">
-
-              <label for="preferred-padding-LcJgiCq">Preferred:</label>
-              <input type="text" id="preferred-padding-LcJgiCq" value="3vw">
-
-              <label for="max-padding-LcJgiCq">Max:</label>
-              <input type="text" id="max-padding-LcJgiCq" value="50px">
-
-              <button onclick="applyPadding('LcJgiCq')">Set Padding</button>
-            </div>
-          </details>
-
-          <details class="toggle-details">
-          <summary>Flex Properties</summary>
-          <div class="FlexProperties">
-
-            <label for="flex-basis-LcJgiCq">Flex Basis:</label>
-            <input type="text" id="flex-basis-LcJgiCq" value="0">
-
-            <label for="flex-shrink-LcJgiCq">Flex Shrink:</label>
-            <input type="text" id="flex-shrink-LcJgiCq" value="1">
-
-            <label for="flex-grow-LcJgiCq">Flex Grow:</label>
-            <input type="text" id="flex-grow-LcJgiCq" value="1">
-
-            <button onclick="setFlexProperties('LcJgiCq')">Set Flex Properties</button>
-          </div>
-        </details>
-
-
-        <details class="toggle-details">
-          <summary>Place Content</summary>
-
-        <div class="placeContent">
-          
-          <button data-boxid="LcJgiCq" data-category="placeContent" data-style="start" data-choice="selected" onclick="placeContent('LcJgiCq', 'start')">start</button>
-          <button data-boxid="LcJgiCq" data-category="placeContent" data-style="start center" onclick="placeContent('LcJgiCq', 'start center')">start center</button>
-          <button data-boxid="LcJgiCq" data-category="placeContent" data-style="start end" onclick="placeContent('LcJgiCq', 'start end')">start end</button>
-          <button data-boxid="LcJgiCq" data-category="placeContent" data-style="center start" onclick="placeContent('LcJgiCq', 'center start')">center start</button>
-          <button data-boxid="LcJgiCq" data-category="placeContent" data-style="center" onclick="placeContent('LcJgiCq', 'center')">center</button>
-          <button data-boxid="LcJgiCq" data-category="placeContent" data-style="center end" onclick="placeContent('LcJgiCq', 'center end')">center end</button>
-          <button data-boxid="LcJgiCq" data-category="placeContent" data-style="end start" onclick="placeContent('LcJgiCq', 'end start')">end start</button>
-          <button data-boxid="LcJgiCq" data-category="placeContent" data-style="end center" onclick="placeContent('LcJgiCq', 'end center')">end center</button>
-          <button data-boxid="LcJgiCq" data-category="placeContent" data-style="end end" onclick="placeContent('LcJgiCq', 'end')">end</button>
-        </div>
-        </details>
-
-        
-
-        <span class="align-close" onclick="closeAlignModal('LcJgiCq')">×</span>
-      </div>
-    </div>
-  
-  
-    </grid-edit-box>
-  </grid-box-container>  
   </grid-content>
         <grid-edit-section class="grid-edit-section no-export" contenteditable="false" data-type="grid-edit-section"> 
           <button contenteditable="false" class="section-add-btn" onclick="sectionGridItems('idBTzXJ', 'beforeend')">+</button>
