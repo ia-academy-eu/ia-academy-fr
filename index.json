@@ -3,7 +3,7 @@ grid-page{
     display:grid;
      background:red;
      min-height:100vh;
-     place-content:start;
+     place-content:baseline;
 }
 grid-body{
     max-width:1280px;
