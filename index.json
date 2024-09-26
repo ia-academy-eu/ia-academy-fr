@@ -32,7 +32,7 @@
       <grid-css>
         <style id="PpnvGea" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#dvDfHTz {
   display: grid;
-  min-height: 80vh;
+  min-height:50vh;
   place-content: center start;
 }
 </style>
