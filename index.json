@@ -1,5 +1,6 @@
 <style id="page-laptop.css" type="text/css" data-type="css" data-size="laptop" data-content="page">
 grid-page{
+    display:grid;
     backround:red;
 }
 grid-body{
