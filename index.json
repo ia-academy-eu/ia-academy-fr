@@ -235,7 +235,7 @@
   display: grid;
   padding: 10px;
   gap: 10px;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
 }
 </style>
         <style id="CWqYWwg" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
@@ -765,4 +765,8 @@
       <!--JS-->
         <script id="UnhXPCB" data-type="js"></script>  
   </section>
+  
+  
+  
+  
   </grid-body><script id="page-global.js" type="text/javascript" data-type="js"></script>
