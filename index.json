@@ -1,4 +1,141 @@
 <style id="page-laptop.css" type="text/css" data-type="css" data-size="laptop" data-content="page">
+:root {
+    --web-outline : 2px solid white;
+    --web-outine-offset : 2px;
+    --web-shadow : 0 1px 3px 0 rgba(0, 0, 0, .1), 0 1px 2px -1px rgba(0, 0, 0, .1);
+    --web-padding : 5px;
+    --web-gap: 5px;
+    --web-border: 1px solid white;
+    --web-border-radius: 5px;
+  }
+
+*, :after, :before {
+    box-sizing: border-box;
+    border: 0 solid #e5e7eb;
+}
+grid-page{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    display:block;
+    background:none;
+    min-height:100%;
+    margin-bottom:100px;
+}
+grid-body{
+    display:grid;
+    max-width:1300px;
+    padding:var(--web-padding);
+    gap:var(--web-gap);
+    margin: 0 auto;
+}
+
+section {
+    position: relative;
+    z-index: 0;
+    display: grid;
+    position: relative;
+    overflow: hidden;
+    box-shadow:var(--web-shadow);
+}
+section h1 {
+    font-size: clamp(28px, 3vw, 50px); 
+  }
+  
+  section h2 {
+    font-size: clamp(22px, 3vw, 40px); 
+  }
+  
+  section h3 {
+    font-size: clamp(18px, 3vw, 32px); 
+  }
+  
+  section h4 {
+    font-size: clamp(16px, 3vw, 26px);
+  }
+  
+  section h5 {
+    font-size: clamp(14px, 3vw, 20px); 
+  }
+  
+  section h6 {
+    font-size: clamp(12px, 3vw, 18px); 
+  }
+
+  section p {
+    font-size: clamp(16px, 3vw, 16px); 
+  }
+
+  grid-title {
+    display: grid;
+    grid-column: 1 / -1;
+    order: -20;
+    font-size: 42px;
+  }
+  grid-subtitle {
+    display: grid;
+    grid-column: 1 / -1;
+    order: -10;
+    font-size: 19px;
+  }
+
+  grid-bg-image,
+  grid-bg-color,
+  grid-bg-video,
+  grid-bg
+  {
+    display:grid;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    
+  }
+  
+  grid-bg img,
+  grid-bg video {
+    position: absolute;
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    display: grid;
+    background-color: black;
+  }
+
+  grid-content{
+    display:grid;
+    padding: var(--grid-padding);
+    gap: var(--grid-gap);
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  }
+  grid-container{
+    display: grid;
+    box-shadow: var(--grid-web-shadow);
+  }
+  grid-box-container{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    box-shadow: var(--grid-web-shadow);
+    border-color: #00000008;
+    border-width: 1px;
+    overflow: hidden;
+  }
+  grid-box {
+    background:white;
+    padding: var(--grid-padding);
+    display: grid;
+    position: relative;
+    gap: var(--grid-gap);
+    min-height:50px;
+
+  }
+  
+  grid-box img,
+  grid-box video{
+    object-fit: cover;
+    width:100%;
+    height:100%;
+  }
 </style><style id="page-tablet.css" type="text/css" data-type="css" data-size="tablet" data-content="page">@media screen and (min-width:641px) and (max-width:1024px) { /* Tablet */ }</style><style id="page-mobile.css" type="text/css" data-type="css" data-size="mobile" data-content="page">@media screen and (max-width:640px) { /* Mobile */ }</style><grid-body id="grid-body">
   
   
