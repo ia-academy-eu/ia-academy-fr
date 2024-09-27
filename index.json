@@ -208,8 +208,7 @@
   min-height: 50vh;
   place-content: center start;
   grid-template-columns: minmax(150px, 400px);
-}
-</style>
+}</style>
         <style id="FxelxcK" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
   grid-content#OXZtcdC{
     display: grid;
