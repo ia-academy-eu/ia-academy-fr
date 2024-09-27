@@ -206,6 +206,7 @@
         <style id="GQMsrtP" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#OXZtcdC {
   display: grid;
   min-height:70vh;
+  place-content:center;
 }
 </style>
         <style id="FxelxcK" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
