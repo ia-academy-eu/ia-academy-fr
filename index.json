@@ -199,7 +199,7 @@
       <grid-css>
         <style id="LYcPkom" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#idBTzXJ {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr 2fr;
   padding: 35px;
   gap: 10px;
 }
@@ -219,16 +219,16 @@
           <!-- bg-color -->
           <grid-bg-color id="VqFSomc" data-type="grid-bg-color" class="div-hidden" style="background-color: rgba(255, 255, 255, 0);"></grid-bg-color> 
           <!-- bg-image -->
-          <grid-bg-image id="RZIjqNa" data-type="grid-bg-image" class="div-visible">
+          <grid-bg-image id="RZIjqNa" data-type="grid-bg-image" class="div-hidden">
             <picture id="FAwtOmN">
               <source srcset="" media="(max-width:640px)">
               <source srcset="" media="(min-width:641px) and (max-width:1024px)">
-              <img id="jiIlcsy" src="https://images.unsplash.com/photo-1635776062043-223faf322554?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw2fHxncmFkaWVudHN8ZW58MHwwfHx8MTcyNzQzNDYwMHww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-bg" loading="lazy">
+              <img id="jiIlcsy" src="https://images.unsplash.com/photo-1618397746666-63405ce5d015?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw3fHxncmFkaWVudHxlbnwwfDB8fHwxNzI3NDM1MzE5fDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-bg" loading="lazy">
             </picture>
           </grid-bg-image> 
           <!-- bg-video -->
-          <grid-bg-video id="vATUqbY" data-type="grid-bg-video" class="div-hidden">
-            <video id="SDxVwmn" autoplay="" loop="" muted="" loading="lazy" data-type="video-bg" src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4"></video>
+          <grid-bg-video id="vATUqbY" data-type="grid-bg-video" class="div-visible">
+            <video id="SDxVwmn" autoplay="" loop="" muted="" loading="lazy" data-type="video-bg" src="https://videos.pexels.com/video-files/3577871/3577871-hd_1920_1080_25fps.mp4"></video>
           </grid-bg-video> 
       </grid-bg>
       <!-- grid-container -->
@@ -366,130 +366,7 @@
   
     
   
-  <grid-box-container id="zHOMmrH">
-    <grid-box id="eFQoVFQ" contenteditable="true" style="padding: clamp(0px, 3vw, 0px);">
-
-  <video id="RaXIpnQ" autoplay="" loop="" muted="" data-type="video-fg" loading="lazy" src="https://videos.pexels.com/video-files/3297870/3297870-hd_1366_720_25fps.mp4">
-  </video>    
-  
     
-  </grid-box>
-    <grid-edit-box class="grid-edit-box no-export">
-      
-  
-    
-    <div contenteditable="false" class="section-info">Box</div>
-    <button contenteditable="false" class="no-export" onclick="openFlexItems('eFQoVFQ')">
-      +
-    </button>
-    <button contenteditable="false" class="delete-grid no-export" onclick="removeContent('zHOMmrH')">
-      -
-    </button>
-    <button contenteditable="false" class="align-items-button no-export" onclick="openAlignModal('eFQoVFQ')">
-      ⋮
-    </button>
-
-    <div id="align-modal-eFQoVFQ" class="align-modal" style="display: none;">
-      <div class="align-modal-content">
-
-      <details class="toggle-details">
-      <summary>Flex Direction</summary>
-
-        <div class="flexDirection">
-          
-          <button data-boxid="eFQoVFQ" data-category="flexDirection" data-style="row" onclick="flexDirection('eFQoVFQ', 'row')">row</button>
-          <button data-boxid="eFQoVFQ" data-category="flexDirection" data-style="column" data-choice="selected" onclick="flexDirection('eFQoVFQ', 'column')">column</button>
-          <button data-boxid="eFQoVFQ" data-category="flexDirection" data-style="row-reverse" onclick="flexDirection('eFQoVFQ', 'row-reverse')">row-reverse</button>
-          <button data-boxid="eFQoVFQ" data-category="flexDirection" data-style="column-reverse" onclick="flexDirection('eFQoVFQ', 'column-reverse')">column-reverse</button>
-        </div>
-
-        </details>
-
-        <details class="toggle-details">
-          <summary>Flex Wrap</summary>
-
-        <div class="flexWrap">
-          
-          <button data-boxid="eFQoVFQ" data-category="flexWrap" data-style="nowrap" onclick="flexWrap('eFQoVFQ', 'nowrap')">nowrap</button>
-          <button data-boxid="eFQoVFQ" data-category="flexWrap" data-style="wrap" data-choice="selected" onclick="flexWrap('eFQoVFQ', 'wrap')">wrap</button>
-        </div>
-
-        </details>
-
-        <details class="toggle-details">
-          <summary>Background Color</summary>
-
-        <div class="flexColor">
-          
-          <label for="color-picker-eFQoVFQ" class="color-picker-button no-export" style="background-color: #ffffff; border-radius: 50%; width: 25px; height: 25px; display: inline-block; border: 2px solid #000;">
-          </label>
-    
-          <input type="color" id="color-picker-eFQoVFQ" class="color-picker no-export" oninput="changeBoxColor('eFQoVFQ', this.value)" value="#ffffff" style="display: none;">
-          </div>
-
-        </details>
-
-        <details class="toggle-details">
-            <summary>Space</summary>
-            <div class="Padding">
-              
-              <label for="min-padding-eFQoVFQ">Min:</label>
-              <input type="text" id="min-padding-eFQoVFQ" value="35px">
-
-              <label for="preferred-padding-eFQoVFQ">Preferred:</label>
-              <input type="text" id="preferred-padding-eFQoVFQ" value="3vw">
-
-              <label for="max-padding-eFQoVFQ">Max:</label>
-              <input type="text" id="max-padding-eFQoVFQ" value="50px">
-
-              <button onclick="applyPadding('eFQoVFQ')">Set Padding</button>
-            </div>
-          </details>
-
-          <details class="toggle-details">
-          <summary>Flex Properties</summary>
-          <div class="FlexProperties">
-
-            <label for="flex-basis-eFQoVFQ">Flex Basis:</label>
-            <input type="text" id="flex-basis-eFQoVFQ" value="0">
-
-            <label for="flex-shrink-eFQoVFQ">Flex Shrink:</label>
-            <input type="text" id="flex-shrink-eFQoVFQ" value="1">
-
-            <label for="flex-grow-eFQoVFQ">Flex Grow:</label>
-            <input type="text" id="flex-grow-eFQoVFQ" value="1">
-
-            <button onclick="setFlexProperties('eFQoVFQ')">Set Flex Properties</button>
-          </div>
-        </details>
-
-
-        <details class="toggle-details">
-          <summary>Place Content</summary>
-
-        <div class="placeContent">
-          
-          <button data-boxid="eFQoVFQ" data-category="placeContent" data-style="start" data-choice="selected" onclick="placeContent('eFQoVFQ', 'start')">start</button>
-          <button data-boxid="eFQoVFQ" data-category="placeContent" data-style="start center" onclick="placeContent('eFQoVFQ', 'start center')">start center</button>
-          <button data-boxid="eFQoVFQ" data-category="placeContent" data-style="start end" onclick="placeContent('eFQoVFQ', 'start end')">start end</button>
-          <button data-boxid="eFQoVFQ" data-category="placeContent" data-style="center start" onclick="placeContent('eFQoVFQ', 'center start')">center start</button>
-          <button data-boxid="eFQoVFQ" data-category="placeContent" data-style="center" onclick="placeContent('eFQoVFQ', 'center')">center</button>
-          <button data-boxid="eFQoVFQ" data-category="placeContent" data-style="center end" onclick="placeContent('eFQoVFQ', 'center end')">center end</button>
-          <button data-boxid="eFQoVFQ" data-category="placeContent" data-style="end start" onclick="placeContent('eFQoVFQ', 'end start')">end start</button>
-          <button data-boxid="eFQoVFQ" data-category="placeContent" data-style="end center" onclick="placeContent('eFQoVFQ', 'end center')">end center</button>
-          <button data-boxid="eFQoVFQ" data-category="placeContent" data-style="end end" onclick="placeContent('eFQoVFQ', 'end')">end</button>
-        </div>
-        </details>
-
-        
-
-        <span class="align-close" onclick="closeAlignModal('eFQoVFQ')">×</span>
-      </div>
-    </div>
-  
-  
-    </grid-edit-box>
-  </grid-box-container>  
   
     
   
