@@ -34,7 +34,7 @@ section {
     display: grid;
     position: relative;
     overflow: hidden;
-    box-shadow:var(--web-shadow);
+    
 }
 section h1 {
     font-size: clamp(28px, 3vw, 50px); 
