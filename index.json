@@ -229,8 +229,8 @@
       <grid-css>
         <style id="jWFRnfM" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#oPLNYZV {
   display: grid;
-  padding: 10px;
-  gap: 10px;
+  padding: 0px;
+  gap: 0px;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 }
 </style>
@@ -247,7 +247,7 @@
       <!--BG-->
       <grid-bg id="rQfterQ" data-type="grid-bg">
           <!-- bg-color -->
-          <grid-bg-color id="KAeATFH" data-type="grid-bg-color" class="div-visible" style="background-color: rgba(255, 255, 255, 1);"></grid-bg-color> 
+          <grid-bg-color id="KAeATFH" data-type="grid-bg-color" class="div-visible" style="background-color: rgba(255, 255, 255, 0);"></grid-bg-color> 
           <!-- bg-image -->
           <grid-bg-image id="ikQyfax" data-type="grid-bg-image" class="div-hidden">
             <picture id="DTLaweu">
