@@ -531,7 +531,7 @@ section{
       <grid-css>
         <style id="XxQzPOW" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#VjFoAsb {
   display: grid;
-  grid-template-columns: minmax(50px, 100px);
+  grid-template-columns: minmax(100px, 100px);
 }
 </style>
         <style id="jinAfKh" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
