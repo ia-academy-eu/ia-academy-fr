@@ -223,10 +223,14 @@
     display: grid;
   }
   }</style>
-        <style id="wqBKOPO" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
-  grid-content#qEDXepe{
+        <style id="wqBKOPO" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px) {
+  grid-content#qEDXepe {
     display: grid;
-  }}</style>
+    padding: 1px;
+    gap: 1px;
+  }
+}
+</style>
       </grid-css>  
       <!--BG-->
       <grid-bg id="amTKVfV" data-type="grid-bg">
