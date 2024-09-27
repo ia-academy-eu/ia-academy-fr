@@ -199,7 +199,7 @@
       <grid-css>
         <style id="LYcPkom" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#idBTzXJ {
   display: grid;
-  grid-template-columns: 1fr 2fr;
+  grid-template-columns: minmax(300px, 500px);
   padding: 35px;
   gap: 10px;
 }
@@ -238,7 +238,7 @@
           <!-- grid-box-container -->    
         
   <grid-box-container id="MeNPcsh">
-    <grid-box id="WAfSDYn" contenteditable="true" style="place-content: center; padding: clamp(35px, 5vw, 150px);">
+    <grid-box id="WAfSDYn" contenteditable="true" style="place-content: center; padding: clamp(35px, 5vw, 150px); display: flex; flex-direction: column;">
     <h1 class="grid-h1" contenteditable="true">Titre H1</h1>
   
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit duis at arcu sed odio aliquet molestie eget at risus.</p>
@@ -256,7 +256,7 @@
       ⋮
     </button>
 
-    <div id="align-modal-WAfSDYn" class="align-modal" style="display: none;">
+    <div id="align-modal-WAfSDYn" class="align-modal" style="display: none; width: 323px;">
       <div class="align-modal-content">
 
       <details class="toggle-details">
@@ -265,7 +265,7 @@
         <div class="flexDirection">
           
           <button data-boxid="WAfSDYn" data-category="flexDirection" data-style="row" onclick="flexDirection('WAfSDYn', 'row')">row</button>
-          <button data-boxid="WAfSDYn" data-category="flexDirection" data-style="column" data-choice="selected" onclick="flexDirection('WAfSDYn', 'column')">column</button>
+          <button data-boxid="WAfSDYn" data-category="flexDirection" data-style="column" onclick="flexDirection('WAfSDYn', 'column')" data-choice="selected">column</button>
           <button data-boxid="WAfSDYn" data-category="flexDirection" data-style="row-reverse" onclick="flexDirection('WAfSDYn', 'row-reverse')">row-reverse</button>
           <button data-boxid="WAfSDYn" data-category="flexDirection" data-style="column-reverse" onclick="flexDirection('WAfSDYn', 'column-reverse')">column-reverse</button>
         </div>
