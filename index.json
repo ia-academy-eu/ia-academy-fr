@@ -370,6 +370,7 @@ section h1 {
         <style id="cjpmEny" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#EHRICIM {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(100px, 100px));
+    place-content:end;
 
 }
 </style>
