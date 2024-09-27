@@ -199,4 +199,54 @@
   
   
   
+  
+  <section id="CTBgXXZ" data-type="section">  
+      <!--CSS-->
+      <grid-css>
+        <style id="GQMsrtP" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#OXZtcdC {
+  display: grid;
+  min-height:70vh;
+}
+</style>
+        <style id="FxelxcK" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
+  grid-content#OXZtcdC{
+    display: grid;
+  }
+  }</style>
+        <style id="BHEKRtl" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
+  grid-content#OXZtcdC{
+    display: grid;
+  }}</style>
+      </grid-css>  
+      <!--BG-->
+      <grid-bg id="qfPiufj" data-type="grid-bg">
+          <!-- bg-color -->
+          <grid-bg-color id="tuBMIxt" data-type="grid-bg-color" class="div-hidden" style="background-color: rgba(255, 255, 255, 1);"></grid-bg-color> 
+          <!-- bg-image -->
+          <grid-bg-image id="rxnjrBY" data-type="grid-bg-image" class="div-visible">
+            <picture id="VTTvLUj">
+              <source srcset="" media="(max-width:640px)">
+              <source srcset="" media="(min-width:641px) and (max-width:1024px)">
+              <img id="wFEQBjO" src="https://images.unsplash.com/photo-1494859802809-d069c3b71a8a?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxM3x8Zm9vZHxlbnwwfDB8fHwxNzI3NDM3MDAwfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-bg" loading="lazy">
+            </picture>
+          </grid-bg-image> 
+          <!-- bg-video -->
+          <grid-bg-video id="WcxzisD" data-type="grid-bg-video" class="div-hidden">
+            <video id="VkXlVQf" autoplay="" loop="" muted="" loading="lazy" data-type="video-bg" src="https://videos.pexels.com/video-files/2832316/2832316-hd_1920_1080_30fps.mp4"></video>
+          </grid-bg-video> 
+      </grid-bg>
+      <!-- grid-container -->
+      <grid-container id="sqlQIiW" data-type="grid-container">
+        <!-- grid-content -->
+        <grid-content id="OXZtcdC" contenteditable="true" data-type="html"></grid-content>
+        <grid-edit-section class="grid-edit-section no-export" contenteditable="false" data-type="grid-edit-section"> 
+          <button contenteditable="false" class="section-add-btn" onclick="sectionGridItems('OXZtcdC', 'beforeend')">+</button>
+          <button contenteditable="false" class="section-delete-btn" onclick="flexSectionDelete('CTBgXXZ')">-</button>   
+          <button contenteditable="false" class="section-open-modal" onclick="toolsOpenModal(this)">⋮</button>
+          <div contenteditable="false" class="section-info">Section</div>
+        </grid-edit-section> 
+      </grid-container>
+      <!--JS-->
+        <script id="hSpRUnF" data-type="js"></script>  
+  </section>
   </grid-body><script id="page-global.js" type="text/javascript" data-type="js"></script>
