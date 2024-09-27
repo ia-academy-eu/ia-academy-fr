@@ -531,7 +531,7 @@ section{
       <grid-css>
         <style id="XxQzPOW" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#VjFoAsb {
   display: grid;
-  grid-template-columns: repeat(minmax(100px, 100px));
+  grid-template-columns: repeat(minmax(50px, 50px));
 }
 </style>
         <style id="jinAfKh" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
@@ -826,6 +826,125 @@ section{
         
 
         <span class="align-close" onclick="closeAlignModal('itYmzsG')">×</span>
+      </div>
+    </div>
+  
+  
+    </grid-edit-box>
+  </grid-box-container>  
+  
+  <grid-box-container id="cJpcYhT">
+    <grid-box id="iZeJuTG" contenteditable="true"></grid-box>
+    <grid-edit-box class="grid-edit-box no-export">
+      
+  
+    
+    <div contenteditable="false" class="section-info">Box</div>
+    <button contenteditable="false" class="no-export" onclick="openFlexItems('iZeJuTG')">
+      +
+    </button>
+    <button contenteditable="false" class="delete-grid no-export" onclick="removeContent('cJpcYhT')">
+      -
+    </button>
+    <button contenteditable="false" class="align-items-button no-export" onclick="openAlignModal('iZeJuTG')">
+      ⋮
+    </button>
+
+    <div id="align-modal-iZeJuTG" class="align-modal" style="display:none">
+      <div class="align-modal-content">
+
+      <details class="toggle-details">
+      <summary>Flex Direction</summary>
+
+        <div class="flexDirection">
+          
+          <button data-boxid="iZeJuTG" data-category="flexDirection" data-style="row" onclick="flexDirection('iZeJuTG', 'row')">row</button>
+          <button data-boxid="iZeJuTG" data-category="flexDirection" data-style="column" data-choice="selected" onclick="flexDirection('iZeJuTG', 'column')">column</button>
+          <button data-boxid="iZeJuTG" data-category="flexDirection" data-style="row-reverse" onclick="flexDirection('iZeJuTG', 'row-reverse')">row-reverse</button>
+          <button data-boxid="iZeJuTG" data-category="flexDirection" data-style="column-reverse" onclick="flexDirection('iZeJuTG', 'column-reverse')">column-reverse</button>
+        </div>
+
+        </details>
+
+        <details class="toggle-details">
+          <summary>Flex Wrap</summary>
+
+        <div class="flexWrap">
+          
+          <button data-boxid="iZeJuTG" data-category="flexWrap" data-style="nowrap" onclick="flexWrap('iZeJuTG', 'nowrap')">nowrap</button>
+          <button data-boxid="iZeJuTG" data-category="flexWrap" data-style="wrap" data-choice="selected" onclick="flexWrap('iZeJuTG', 'wrap')">wrap</button>
+        </div>
+
+        </details>
+
+        <details class="toggle-details">
+          <summary>Background Color</summary>
+
+        <div class="flexColor">
+          
+          <label for="color-picker-iZeJuTG" class="color-picker-button no-export" style="background-color: #ffffff; border-radius: 50%; width: 25px; height: 25px; display: inline-block; border: 2px solid #000;">
+          </label>
+    
+          <input type="color" id="color-picker-iZeJuTG" class="color-picker no-export" oninput="changeBoxColor('iZeJuTG', this.value)" value="#ffffff" style="display: none;">
+          </div>
+
+        </details>
+
+        <details class="toggle-details">
+            <summary>Space</summary>
+            <div class="Padding">
+              
+              <label for="min-padding-iZeJuTG">Min:</label>
+              <input type="text" id="min-padding-iZeJuTG" value="35px">
+
+              <label for="preferred-padding-iZeJuTG">Preferred:</label>
+              <input type="text" id="preferred-padding-iZeJuTG" value="3vw">
+
+              <label for="max-padding-iZeJuTG">Max:</label>
+              <input type="text" id="max-padding-iZeJuTG" value="50px">
+
+              <button onclick="applyPadding('iZeJuTG')">Set Padding</button>
+            </div>
+          </details>
+
+          <details class="toggle-details">
+          <summary>Flex Properties</summary>
+          <div class="FlexProperties">
+
+            <label for="flex-basis-iZeJuTG">Flex Basis:</label>
+            <input type="text" id="flex-basis-iZeJuTG" value="0">
+
+            <label for="flex-shrink-iZeJuTG">Flex Shrink:</label>
+            <input type="text" id="flex-shrink-iZeJuTG" value="1">
+
+            <label for="flex-grow-iZeJuTG">Flex Grow:</label>
+            <input type="text" id="flex-grow-iZeJuTG" value="1">
+
+            <button onclick="setFlexProperties('iZeJuTG')">Set Flex Properties</button>
+          </div>
+        </details>
+
+
+        <details class="toggle-details">
+          <summary>Place Content</summary>
+
+        <div class="placeContent">
+          
+          <button data-boxid="iZeJuTG" data-category="placeContent" data-style="start" data-choice="selected" onclick="placeContent('iZeJuTG', 'start')">start</button>
+          <button data-boxid="iZeJuTG" data-category="placeContent" data-style="start center" onclick="placeContent('iZeJuTG', 'start center')">start center</button>
+          <button data-boxid="iZeJuTG" data-category="placeContent" data-style="start end" onclick="placeContent('iZeJuTG', 'start end')">start end</button>
+          <button data-boxid="iZeJuTG" data-category="placeContent" data-style="center start" onclick="placeContent('iZeJuTG', 'center start')">center start</button>
+          <button data-boxid="iZeJuTG" data-category="placeContent" data-style="center" onclick="placeContent('iZeJuTG', 'center')">center</button>
+          <button data-boxid="iZeJuTG" data-category="placeContent" data-style="center end" onclick="placeContent('iZeJuTG', 'center end')">center end</button>
+          <button data-boxid="iZeJuTG" data-category="placeContent" data-style="end start" onclick="placeContent('iZeJuTG', 'end start')">end start</button>
+          <button data-boxid="iZeJuTG" data-category="placeContent" data-style="end center" onclick="placeContent('iZeJuTG', 'end center')">end center</button>
+          <button data-boxid="iZeJuTG" data-category="placeContent" data-style="end end" onclick="placeContent('iZeJuTG', 'end')">end</button>
+        </div>
+        </details>
+
+        
+
+        <span class="align-close" onclick="closeAlignModal('iZeJuTG')">×</span>
       </div>
     </div>
   
