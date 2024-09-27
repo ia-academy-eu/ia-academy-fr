@@ -531,7 +531,7 @@ section{
       <grid-css>
         <style id="XxQzPOW" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#VjFoAsb {
   display: grid;
-  grid-template-columns: minmax(100px, 100px);
+  grid-template-columns: repeat(minmax(100px, 100px));
 }
 </style>
         <style id="jinAfKh" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
@@ -712,24 +712,26 @@ section{
     </grid-edit-box>
   </grid-box-container>  
   
-  <grid-box-container id="brLuruN">
-    <grid-box id="rnKDPlV" contenteditable="true"></grid-box>
+    
+  
+  <grid-box-container id="rxFWxnP">
+    <grid-box id="itYmzsG" contenteditable="true"></grid-box>
     <grid-edit-box class="grid-edit-box no-export">
       
   
     
     <div contenteditable="false" class="section-info">Box</div>
-    <button contenteditable="false" class="no-export" onclick="openFlexItems('rnKDPlV')">
+    <button contenteditable="false" class="no-export" onclick="openFlexItems('itYmzsG')">
       +
     </button>
-    <button contenteditable="false" class="delete-grid no-export" onclick="removeContent('brLuruN')">
+    <button contenteditable="false" class="delete-grid no-export" onclick="removeContent('rxFWxnP')">
       -
     </button>
-    <button contenteditable="false" class="align-items-button no-export" onclick="openAlignModal('rnKDPlV')">
+    <button contenteditable="false" class="align-items-button no-export" onclick="openAlignModal('itYmzsG')">
       ⋮
     </button>
 
-    <div id="align-modal-rnKDPlV" class="align-modal" style="display:none">
+    <div id="align-modal-itYmzsG" class="align-modal" style="display:none">
       <div class="align-modal-content">
 
       <details class="toggle-details">
@@ -737,10 +739,10 @@ section{
 
         <div class="flexDirection">
           
-          <button data-boxid="rnKDPlV" data-category="flexDirection" data-style="row" onclick="flexDirection('rnKDPlV', 'row')">row</button>
-          <button data-boxid="rnKDPlV" data-category="flexDirection" data-style="column" data-choice="selected" onclick="flexDirection('rnKDPlV', 'column')">column</button>
-          <button data-boxid="rnKDPlV" data-category="flexDirection" data-style="row-reverse" onclick="flexDirection('rnKDPlV', 'row-reverse')">row-reverse</button>
-          <button data-boxid="rnKDPlV" data-category="flexDirection" data-style="column-reverse" onclick="flexDirection('rnKDPlV', 'column-reverse')">column-reverse</button>
+          <button data-boxid="itYmzsG" data-category="flexDirection" data-style="row" onclick="flexDirection('itYmzsG', 'row')">row</button>
+          <button data-boxid="itYmzsG" data-category="flexDirection" data-style="column" data-choice="selected" onclick="flexDirection('itYmzsG', 'column')">column</button>
+          <button data-boxid="itYmzsG" data-category="flexDirection" data-style="row-reverse" onclick="flexDirection('itYmzsG', 'row-reverse')">row-reverse</button>
+          <button data-boxid="itYmzsG" data-category="flexDirection" data-style="column-reverse" onclick="flexDirection('itYmzsG', 'column-reverse')">column-reverse</button>
         </div>
 
         </details>
@@ -750,8 +752,8 @@ section{
 
         <div class="flexWrap">
           
-          <button data-boxid="rnKDPlV" data-category="flexWrap" data-style="nowrap" onclick="flexWrap('rnKDPlV', 'nowrap')">nowrap</button>
-          <button data-boxid="rnKDPlV" data-category="flexWrap" data-style="wrap" data-choice="selected" onclick="flexWrap('rnKDPlV', 'wrap')">wrap</button>
+          <button data-boxid="itYmzsG" data-category="flexWrap" data-style="nowrap" onclick="flexWrap('itYmzsG', 'nowrap')">nowrap</button>
+          <button data-boxid="itYmzsG" data-category="flexWrap" data-style="wrap" data-choice="selected" onclick="flexWrap('itYmzsG', 'wrap')">wrap</button>
         </div>
 
         </details>
@@ -761,10 +763,10 @@ section{
 
         <div class="flexColor">
           
-          <label for="color-picker-rnKDPlV" class="color-picker-button no-export" style="background-color: #ffffff; border-radius: 50%; width: 25px; height: 25px; display: inline-block; border: 2px solid #000;">
+          <label for="color-picker-itYmzsG" class="color-picker-button no-export" style="background-color: #ffffff; border-radius: 50%; width: 25px; height: 25px; display: inline-block; border: 2px solid #000;">
           </label>
     
-          <input type="color" id="color-picker-rnKDPlV" class="color-picker no-export" oninput="changeBoxColor('rnKDPlV', this.value)" value="#ffffff" style="display: none;">
+          <input type="color" id="color-picker-itYmzsG" class="color-picker no-export" oninput="changeBoxColor('itYmzsG', this.value)" value="#ffffff" style="display: none;">
           </div>
 
         </details>
@@ -773,16 +775,16 @@ section{
             <summary>Space</summary>
             <div class="Padding">
               
-              <label for="min-padding-rnKDPlV">Min:</label>
-              <input type="text" id="min-padding-rnKDPlV" value="35px">
+              <label for="min-padding-itYmzsG">Min:</label>
+              <input type="text" id="min-padding-itYmzsG" value="35px">
 
-              <label for="preferred-padding-rnKDPlV">Preferred:</label>
-              <input type="text" id="preferred-padding-rnKDPlV" value="3vw">
+              <label for="preferred-padding-itYmzsG">Preferred:</label>
+              <input type="text" id="preferred-padding-itYmzsG" value="3vw">
 
-              <label for="max-padding-rnKDPlV">Max:</label>
-              <input type="text" id="max-padding-rnKDPlV" value="50px">
+              <label for="max-padding-itYmzsG">Max:</label>
+              <input type="text" id="max-padding-itYmzsG" value="50px">
 
-              <button onclick="applyPadding('rnKDPlV')">Set Padding</button>
+              <button onclick="applyPadding('itYmzsG')">Set Padding</button>
             </div>
           </details>
 
@@ -790,16 +792,16 @@ section{
           <summary>Flex Properties</summary>
           <div class="FlexProperties">
 
-            <label for="flex-basis-rnKDPlV">Flex Basis:</label>
-            <input type="text" id="flex-basis-rnKDPlV" value="0">
+            <label for="flex-basis-itYmzsG">Flex Basis:</label>
+            <input type="text" id="flex-basis-itYmzsG" value="0">
 
-            <label for="flex-shrink-rnKDPlV">Flex Shrink:</label>
-            <input type="text" id="flex-shrink-rnKDPlV" value="1">
+            <label for="flex-shrink-itYmzsG">Flex Shrink:</label>
+            <input type="text" id="flex-shrink-itYmzsG" value="1">
 
-            <label for="flex-grow-rnKDPlV">Flex Grow:</label>
-            <input type="text" id="flex-grow-rnKDPlV" value="1">
+            <label for="flex-grow-itYmzsG">Flex Grow:</label>
+            <input type="text" id="flex-grow-itYmzsG" value="1">
 
-            <button onclick="setFlexProperties('rnKDPlV')">Set Flex Properties</button>
+            <button onclick="setFlexProperties('itYmzsG')">Set Flex Properties</button>
           </div>
         </details>
 
@@ -809,21 +811,21 @@ section{
 
         <div class="placeContent">
           
-          <button data-boxid="rnKDPlV" data-category="placeContent" data-style="start" data-choice="selected" onclick="placeContent('rnKDPlV', 'start')">start</button>
-          <button data-boxid="rnKDPlV" data-category="placeContent" data-style="start center" onclick="placeContent('rnKDPlV', 'start center')">start center</button>
-          <button data-boxid="rnKDPlV" data-category="placeContent" data-style="start end" onclick="placeContent('rnKDPlV', 'start end')">start end</button>
-          <button data-boxid="rnKDPlV" data-category="placeContent" data-style="center start" onclick="placeContent('rnKDPlV', 'center start')">center start</button>
-          <button data-boxid="rnKDPlV" data-category="placeContent" data-style="center" onclick="placeContent('rnKDPlV', 'center')">center</button>
-          <button data-boxid="rnKDPlV" data-category="placeContent" data-style="center end" onclick="placeContent('rnKDPlV', 'center end')">center end</button>
-          <button data-boxid="rnKDPlV" data-category="placeContent" data-style="end start" onclick="placeContent('rnKDPlV', 'end start')">end start</button>
-          <button data-boxid="rnKDPlV" data-category="placeContent" data-style="end center" onclick="placeContent('rnKDPlV', 'end center')">end center</button>
-          <button data-boxid="rnKDPlV" data-category="placeContent" data-style="end end" onclick="placeContent('rnKDPlV', 'end')">end</button>
+          <button data-boxid="itYmzsG" data-category="placeContent" data-style="start" data-choice="selected" onclick="placeContent('itYmzsG', 'start')">start</button>
+          <button data-boxid="itYmzsG" data-category="placeContent" data-style="start center" onclick="placeContent('itYmzsG', 'start center')">start center</button>
+          <button data-boxid="itYmzsG" data-category="placeContent" data-style="start end" onclick="placeContent('itYmzsG', 'start end')">start end</button>
+          <button data-boxid="itYmzsG" data-category="placeContent" data-style="center start" onclick="placeContent('itYmzsG', 'center start')">center start</button>
+          <button data-boxid="itYmzsG" data-category="placeContent" data-style="center" onclick="placeContent('itYmzsG', 'center')">center</button>
+          <button data-boxid="itYmzsG" data-category="placeContent" data-style="center end" onclick="placeContent('itYmzsG', 'center end')">center end</button>
+          <button data-boxid="itYmzsG" data-category="placeContent" data-style="end start" onclick="placeContent('itYmzsG', 'end start')">end start</button>
+          <button data-boxid="itYmzsG" data-category="placeContent" data-style="end center" onclick="placeContent('itYmzsG', 'end center')">end center</button>
+          <button data-boxid="itYmzsG" data-category="placeContent" data-style="end end" onclick="placeContent('itYmzsG', 'end')">end</button>
         </div>
         </details>
 
         
 
-        <span class="align-close" onclick="closeAlignModal('rnKDPlV')">×</span>
+        <span class="align-close" onclick="closeAlignModal('itYmzsG')">×</span>
       </div>
     </div>
   
