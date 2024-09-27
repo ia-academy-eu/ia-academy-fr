@@ -251,7 +251,7 @@
       <!--BG-->
       <grid-bg id="GPJvjHQ" data-type="grid-bg">
           <!-- bg-color -->
-          <grid-bg-color id="UFSpHna" data-type="grid-bg-color" class="div-visible" style="background-color: rgba(255, 255, 255, 1);"></grid-bg-color> 
+          <grid-bg-color id="UFSpHna" data-type="grid-bg-color" class="div-visible" style="background-color: rgb(255, 255, 255);"></grid-bg-color> 
           <!-- bg-image -->
           <grid-bg-image id="vjuUvYM" data-type="grid-bg-image" class="div-hidden">
             <picture id="yxrScsH">
