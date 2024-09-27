@@ -627,6 +627,125 @@
   
     </grid-edit-box>
   </grid-box-container>  
+  
+  <grid-box-container id="bOqTaTm">
+    <grid-box id="KDJAEzV" contenteditable="true"></grid-box>
+    <grid-edit-box class="grid-edit-box no-export">
+      
+  
+    
+    <div contenteditable="false" class="section-info">Box</div>
+    <button contenteditable="false" class="no-export" onclick="openFlexItems('KDJAEzV')">
+      +
+    </button>
+    <button contenteditable="false" class="delete-grid no-export" onclick="removeContent('bOqTaTm')">
+      -
+    </button>
+    <button contenteditable="false" class="align-items-button no-export" onclick="openAlignModal('KDJAEzV')">
+      ⋮
+    </button>
+
+    <div id="align-modal-KDJAEzV" class="align-modal" style="display:none">
+      <div class="align-modal-content">
+
+      <details class="toggle-details">
+      <summary>Flex Direction</summary>
+
+        <div class="flexDirection">
+          
+          <button data-boxid="KDJAEzV" data-category="flexDirection" data-style="row" onclick="flexDirection('KDJAEzV', 'row')">row</button>
+          <button data-boxid="KDJAEzV" data-category="flexDirection" data-style="column" data-choice="selected" onclick="flexDirection('KDJAEzV', 'column')">column</button>
+          <button data-boxid="KDJAEzV" data-category="flexDirection" data-style="row-reverse" onclick="flexDirection('KDJAEzV', 'row-reverse')">row-reverse</button>
+          <button data-boxid="KDJAEzV" data-category="flexDirection" data-style="column-reverse" onclick="flexDirection('KDJAEzV', 'column-reverse')">column-reverse</button>
+        </div>
+
+        </details>
+
+        <details class="toggle-details">
+          <summary>Flex Wrap</summary>
+
+        <div class="flexWrap">
+          
+          <button data-boxid="KDJAEzV" data-category="flexWrap" data-style="nowrap" onclick="flexWrap('KDJAEzV', 'nowrap')">nowrap</button>
+          <button data-boxid="KDJAEzV" data-category="flexWrap" data-style="wrap" data-choice="selected" onclick="flexWrap('KDJAEzV', 'wrap')">wrap</button>
+        </div>
+
+        </details>
+
+        <details class="toggle-details">
+          <summary>Background Color</summary>
+
+        <div class="flexColor">
+          
+          <label for="color-picker-KDJAEzV" class="color-picker-button no-export" style="background-color: #ffffff; border-radius: 50%; width: 25px; height: 25px; display: inline-block; border: 2px solid #000;">
+          </label>
+    
+          <input type="color" id="color-picker-KDJAEzV" class="color-picker no-export" oninput="changeBoxColor('KDJAEzV', this.value)" value="#ffffff" style="display: none;">
+          </div>
+
+        </details>
+
+        <details class="toggle-details">
+            <summary>Space</summary>
+            <div class="Padding">
+              
+              <label for="min-padding-KDJAEzV">Min:</label>
+              <input type="text" id="min-padding-KDJAEzV" value="35px">
+
+              <label for="preferred-padding-KDJAEzV">Preferred:</label>
+              <input type="text" id="preferred-padding-KDJAEzV" value="3vw">
+
+              <label for="max-padding-KDJAEzV">Max:</label>
+              <input type="text" id="max-padding-KDJAEzV" value="50px">
+
+              <button onclick="applyPadding('KDJAEzV')">Set Padding</button>
+            </div>
+          </details>
+
+          <details class="toggle-details">
+          <summary>Flex Properties</summary>
+          <div class="FlexProperties">
+
+            <label for="flex-basis-KDJAEzV">Flex Basis:</label>
+            <input type="text" id="flex-basis-KDJAEzV" value="0">
+
+            <label for="flex-shrink-KDJAEzV">Flex Shrink:</label>
+            <input type="text" id="flex-shrink-KDJAEzV" value="1">
+
+            <label for="flex-grow-KDJAEzV">Flex Grow:</label>
+            <input type="text" id="flex-grow-KDJAEzV" value="1">
+
+            <button onclick="setFlexProperties('KDJAEzV')">Set Flex Properties</button>
+          </div>
+        </details>
+
+
+        <details class="toggle-details">
+          <summary>Place Content</summary>
+
+        <div class="placeContent">
+          
+          <button data-boxid="KDJAEzV" data-category="placeContent" data-style="start" data-choice="selected" onclick="placeContent('KDJAEzV', 'start')">start</button>
+          <button data-boxid="KDJAEzV" data-category="placeContent" data-style="start center" onclick="placeContent('KDJAEzV', 'start center')">start center</button>
+          <button data-boxid="KDJAEzV" data-category="placeContent" data-style="start end" onclick="placeContent('KDJAEzV', 'start end')">start end</button>
+          <button data-boxid="KDJAEzV" data-category="placeContent" data-style="center start" onclick="placeContent('KDJAEzV', 'center start')">center start</button>
+          <button data-boxid="KDJAEzV" data-category="placeContent" data-style="center" onclick="placeContent('KDJAEzV', 'center')">center</button>
+          <button data-boxid="KDJAEzV" data-category="placeContent" data-style="center end" onclick="placeContent('KDJAEzV', 'center end')">center end</button>
+          <button data-boxid="KDJAEzV" data-category="placeContent" data-style="end start" onclick="placeContent('KDJAEzV', 'end start')">end start</button>
+          <button data-boxid="KDJAEzV" data-category="placeContent" data-style="end center" onclick="placeContent('KDJAEzV', 'end center')">end center</button>
+          <button data-boxid="KDJAEzV" data-category="placeContent" data-style="end end" onclick="placeContent('KDJAEzV', 'end')">end</button>
+        </div>
+        </details>
+
+        
+
+        <span class="align-close" onclick="closeAlignModal('KDJAEzV')">×</span>
+      </div>
+    </div>
+  
+  
+    </grid-edit-box>
+  </grid-box-container>  
   </grid-content>
         <grid-edit-section class="grid-edit-section no-export" contenteditable="false" data-type="grid-edit-section"> 
           <button contenteditable="false" class="section-add-btn" onclick="sectionGridItems('BILkdHE', 'beforeend')">+</button>
