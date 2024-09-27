@@ -222,7 +222,7 @@
       <!--BG-->
       <grid-bg id="qfPiufj" data-type="grid-bg">
           <!-- bg-color -->
-          <grid-bg-color id="tuBMIxt" data-type="grid-bg-color" class="div-visible" style="background-color: rgba(255, 255, 255, 0);"></grid-bg-color> 
+          <grid-bg-color id="tuBMIxt" data-type="grid-bg-color" class="div-visible" style="background-color: rgb(235, 235, 235);"></grid-bg-color> 
           <!-- bg-image -->
           <grid-bg-image id="rxnjrBY" data-type="grid-bg-image" class="div-hidden">
             <picture id="VTTvLUj">
