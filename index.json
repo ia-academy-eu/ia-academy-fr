@@ -205,7 +205,7 @@
       <grid-css>
         <style id="GQMsrtP" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#OXZtcdC {
   display: grid;
-  min-height: 70vh;
+  min-height: 50vh;
   place-content: center start;
 }
 </style>
@@ -241,7 +241,11 @@
         <!-- grid-content -->
         <grid-content id="OXZtcdC" contenteditable="true" data-type="html">
   <grid-box-container id="eAJQZOq">
-    <grid-box id="aPVbCrP" contenteditable="true"></grid-box>
+    <grid-box id="aPVbCrP" contenteditable="true">
+    <h1 class="grid-h1" contenteditable="true">Titre H1</h1>
+  
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit duis at arcu sed odio aliquet molestie eget at risus.</p>
+  </grid-box>
     <grid-edit-box class="grid-edit-box no-export">
       
   
@@ -257,7 +261,7 @@
       ⋮
     </button>
 
-    <div id="align-modal-aPVbCrP" class="align-modal" style="display:none">
+    <div id="align-modal-aPVbCrP" class="align-modal" style="display: none; width: 429px;">
       <div class="align-modal-content">
 
       <details class="toggle-details">
@@ -297,7 +301,7 @@
 
         </details>
 
-        <details class="toggle-details">
+        <details class="toggle-details" open="">
             <summary>Space</summary>
             <div class="Padding">
               
