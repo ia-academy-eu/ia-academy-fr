@@ -531,7 +531,8 @@ section{
       <grid-css>
         <style id="XxQzPOW" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#VjFoAsb {
   display: grid;
-  grid-template-columns:minmax(100px, 300px);
+  grid-template-columns: minmax(100px, 300px);
+  place-content:center;
 }
 </style>
         <style id="jinAfKh" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
@@ -587,24 +588,28 @@ section{
   
     
   
-  <grid-box-container id="pxBmZKP">
-    <grid-box id="gaLwmPI" contenteditable="true"></grid-box>
+    
+  
+    
+  
+  <grid-box-container id="FygiKbr">
+    <grid-box id="pfIFqnT" contenteditable="true"></grid-box>
     <grid-edit-box class="grid-edit-box no-export">
       
   
     
     <div contenteditable="false" class="section-info">Box</div>
-    <button contenteditable="false" class="no-export" onclick="openFlexItems('gaLwmPI')">
+    <button contenteditable="false" class="no-export" onclick="openFlexItems('pfIFqnT')">
       +
     </button>
-    <button contenteditable="false" class="delete-grid no-export" onclick="removeContent('pxBmZKP')">
+    <button contenteditable="false" class="delete-grid no-export" onclick="removeContent('FygiKbr')">
       -
     </button>
-    <button contenteditable="false" class="align-items-button no-export" onclick="openAlignModal('gaLwmPI')">
+    <button contenteditable="false" class="align-items-button no-export" onclick="openAlignModal('pfIFqnT')">
       ⋮
     </button>
 
-    <div id="align-modal-gaLwmPI" class="align-modal" style="display:none">
+    <div id="align-modal-pfIFqnT" class="align-modal" style="display:none">
       <div class="align-modal-content">
 
       <details class="toggle-details">
@@ -612,10 +617,10 @@ section{
 
         <div class="flexDirection">
           
-          <button data-boxid="gaLwmPI" data-category="flexDirection" data-style="row" onclick="flexDirection('gaLwmPI', 'row')">row</button>
-          <button data-boxid="gaLwmPI" data-category="flexDirection" data-style="column" data-choice="selected" onclick="flexDirection('gaLwmPI', 'column')">column</button>
-          <button data-boxid="gaLwmPI" data-category="flexDirection" data-style="row-reverse" onclick="flexDirection('gaLwmPI', 'row-reverse')">row-reverse</button>
-          <button data-boxid="gaLwmPI" data-category="flexDirection" data-style="column-reverse" onclick="flexDirection('gaLwmPI', 'column-reverse')">column-reverse</button>
+          <button data-boxid="pfIFqnT" data-category="flexDirection" data-style="row" onclick="flexDirection('pfIFqnT', 'row')">row</button>
+          <button data-boxid="pfIFqnT" data-category="flexDirection" data-style="column" data-choice="selected" onclick="flexDirection('pfIFqnT', 'column')">column</button>
+          <button data-boxid="pfIFqnT" data-category="flexDirection" data-style="row-reverse" onclick="flexDirection('pfIFqnT', 'row-reverse')">row-reverse</button>
+          <button data-boxid="pfIFqnT" data-category="flexDirection" data-style="column-reverse" onclick="flexDirection('pfIFqnT', 'column-reverse')">column-reverse</button>
         </div>
 
         </details>
@@ -625,8 +630,8 @@ section{
 
         <div class="flexWrap">
           
-          <button data-boxid="gaLwmPI" data-category="flexWrap" data-style="nowrap" onclick="flexWrap('gaLwmPI', 'nowrap')">nowrap</button>
-          <button data-boxid="gaLwmPI" data-category="flexWrap" data-style="wrap" data-choice="selected" onclick="flexWrap('gaLwmPI', 'wrap')">wrap</button>
+          <button data-boxid="pfIFqnT" data-category="flexWrap" data-style="nowrap" onclick="flexWrap('pfIFqnT', 'nowrap')">nowrap</button>
+          <button data-boxid="pfIFqnT" data-category="flexWrap" data-style="wrap" data-choice="selected" onclick="flexWrap('pfIFqnT', 'wrap')">wrap</button>
         </div>
 
         </details>
@@ -636,10 +641,10 @@ section{
 
         <div class="flexColor">
           
-          <label for="color-picker-gaLwmPI" class="color-picker-button no-export" style="background-color: #ffffff; border-radius: 50%; width: 25px; height: 25px; display: inline-block; border: 2px solid #000;">
+          <label for="color-picker-pfIFqnT" class="color-picker-button no-export" style="background-color: #ffffff; border-radius: 50%; width: 25px; height: 25px; display: inline-block; border: 2px solid #000;">
           </label>
     
-          <input type="color" id="color-picker-gaLwmPI" class="color-picker no-export" oninput="changeBoxColor('gaLwmPI', this.value)" value="#ffffff" style="display: none;">
+          <input type="color" id="color-picker-pfIFqnT" class="color-picker no-export" oninput="changeBoxColor('pfIFqnT', this.value)" value="#ffffff" style="display: none;">
           </div>
 
         </details>
@@ -648,16 +653,16 @@ section{
             <summary>Space</summary>
             <div class="Padding">
               
-              <label for="min-padding-gaLwmPI">Min:</label>
-              <input type="text" id="min-padding-gaLwmPI" value="35px">
+              <label for="min-padding-pfIFqnT">Min:</label>
+              <input type="text" id="min-padding-pfIFqnT" value="35px">
 
-              <label for="preferred-padding-gaLwmPI">Preferred:</label>
-              <input type="text" id="preferred-padding-gaLwmPI" value="3vw">
+              <label for="preferred-padding-pfIFqnT">Preferred:</label>
+              <input type="text" id="preferred-padding-pfIFqnT" value="3vw">
 
-              <label for="max-padding-gaLwmPI">Max:</label>
-              <input type="text" id="max-padding-gaLwmPI" value="50px">
+              <label for="max-padding-pfIFqnT">Max:</label>
+              <input type="text" id="max-padding-pfIFqnT" value="50px">
 
-              <button onclick="applyPadding('gaLwmPI')">Set Padding</button>
+              <button onclick="applyPadding('pfIFqnT')">Set Padding</button>
             </div>
           </details>
 
@@ -665,16 +670,16 @@ section{
           <summary>Flex Properties</summary>
           <div class="FlexProperties">
 
-            <label for="flex-basis-gaLwmPI">Flex Basis:</label>
-            <input type="text" id="flex-basis-gaLwmPI" value="0">
+            <label for="flex-basis-pfIFqnT">Flex Basis:</label>
+            <input type="text" id="flex-basis-pfIFqnT" value="0">
 
-            <label for="flex-shrink-gaLwmPI">Flex Shrink:</label>
-            <input type="text" id="flex-shrink-gaLwmPI" value="1">
+            <label for="flex-shrink-pfIFqnT">Flex Shrink:</label>
+            <input type="text" id="flex-shrink-pfIFqnT" value="1">
 
-            <label for="flex-grow-gaLwmPI">Flex Grow:</label>
-            <input type="text" id="flex-grow-gaLwmPI" value="1">
+            <label for="flex-grow-pfIFqnT">Flex Grow:</label>
+            <input type="text" id="flex-grow-pfIFqnT" value="1">
 
-            <button onclick="setFlexProperties('gaLwmPI')">Set Flex Properties</button>
+            <button onclick="setFlexProperties('pfIFqnT')">Set Flex Properties</button>
           </div>
         </details>
 
@@ -684,140 +689,21 @@ section{
 
         <div class="placeContent">
           
-          <button data-boxid="gaLwmPI" data-category="placeContent" data-style="start" data-choice="selected" onclick="placeContent('gaLwmPI', 'start')">start</button>
-          <button data-boxid="gaLwmPI" data-category="placeContent" data-style="start center" onclick="placeContent('gaLwmPI', 'start center')">start center</button>
-          <button data-boxid="gaLwmPI" data-category="placeContent" data-style="start end" onclick="placeContent('gaLwmPI', 'start end')">start end</button>
-          <button data-boxid="gaLwmPI" data-category="placeContent" data-style="center start" onclick="placeContent('gaLwmPI', 'center start')">center start</button>
-          <button data-boxid="gaLwmPI" data-category="placeContent" data-style="center" onclick="placeContent('gaLwmPI', 'center')">center</button>
-          <button data-boxid="gaLwmPI" data-category="placeContent" data-style="center end" onclick="placeContent('gaLwmPI', 'center end')">center end</button>
-          <button data-boxid="gaLwmPI" data-category="placeContent" data-style="end start" onclick="placeContent('gaLwmPI', 'end start')">end start</button>
-          <button data-boxid="gaLwmPI" data-category="placeContent" data-style="end center" onclick="placeContent('gaLwmPI', 'end center')">end center</button>
-          <button data-boxid="gaLwmPI" data-category="placeContent" data-style="end end" onclick="placeContent('gaLwmPI', 'end')">end</button>
+          <button data-boxid="pfIFqnT" data-category="placeContent" data-style="start" data-choice="selected" onclick="placeContent('pfIFqnT', 'start')">start</button>
+          <button data-boxid="pfIFqnT" data-category="placeContent" data-style="start center" onclick="placeContent('pfIFqnT', 'start center')">start center</button>
+          <button data-boxid="pfIFqnT" data-category="placeContent" data-style="start end" onclick="placeContent('pfIFqnT', 'start end')">start end</button>
+          <button data-boxid="pfIFqnT" data-category="placeContent" data-style="center start" onclick="placeContent('pfIFqnT', 'center start')">center start</button>
+          <button data-boxid="pfIFqnT" data-category="placeContent" data-style="center" onclick="placeContent('pfIFqnT', 'center')">center</button>
+          <button data-boxid="pfIFqnT" data-category="placeContent" data-style="center end" onclick="placeContent('pfIFqnT', 'center end')">center end</button>
+          <button data-boxid="pfIFqnT" data-category="placeContent" data-style="end start" onclick="placeContent('pfIFqnT', 'end start')">end start</button>
+          <button data-boxid="pfIFqnT" data-category="placeContent" data-style="end center" onclick="placeContent('pfIFqnT', 'end center')">end center</button>
+          <button data-boxid="pfIFqnT" data-category="placeContent" data-style="end end" onclick="placeContent('pfIFqnT', 'end')">end</button>
         </div>
         </details>
 
         
 
-        <span class="align-close" onclick="closeAlignModal('gaLwmPI')">×</span>
-      </div>
-    </div>
-  
-  
-    </grid-edit-box>
-  </grid-box-container>  
-  
-  <grid-box-container id="yRoxVFp">
-    <grid-box id="czYFMwJ" contenteditable="true"></grid-box>
-    <grid-edit-box class="grid-edit-box no-export">
-      
-  
-    
-    <div contenteditable="false" class="section-info">Box</div>
-    <button contenteditable="false" class="no-export" onclick="openFlexItems('czYFMwJ')">
-      +
-    </button>
-    <button contenteditable="false" class="delete-grid no-export" onclick="removeContent('yRoxVFp')">
-      -
-    </button>
-    <button contenteditable="false" class="align-items-button no-export" onclick="openAlignModal('czYFMwJ')">
-      ⋮
-    </button>
-
-    <div id="align-modal-czYFMwJ" class="align-modal" style="display:none">
-      <div class="align-modal-content">
-
-      <details class="toggle-details">
-      <summary>Flex Direction</summary>
-
-        <div class="flexDirection">
-          
-          <button data-boxid="czYFMwJ" data-category="flexDirection" data-style="row" onclick="flexDirection('czYFMwJ', 'row')">row</button>
-          <button data-boxid="czYFMwJ" data-category="flexDirection" data-style="column" data-choice="selected" onclick="flexDirection('czYFMwJ', 'column')">column</button>
-          <button data-boxid="czYFMwJ" data-category="flexDirection" data-style="row-reverse" onclick="flexDirection('czYFMwJ', 'row-reverse')">row-reverse</button>
-          <button data-boxid="czYFMwJ" data-category="flexDirection" data-style="column-reverse" onclick="flexDirection('czYFMwJ', 'column-reverse')">column-reverse</button>
-        </div>
-
-        </details>
-
-        <details class="toggle-details">
-          <summary>Flex Wrap</summary>
-
-        <div class="flexWrap">
-          
-          <button data-boxid="czYFMwJ" data-category="flexWrap" data-style="nowrap" onclick="flexWrap('czYFMwJ', 'nowrap')">nowrap</button>
-          <button data-boxid="czYFMwJ" data-category="flexWrap" data-style="wrap" data-choice="selected" onclick="flexWrap('czYFMwJ', 'wrap')">wrap</button>
-        </div>
-
-        </details>
-
-        <details class="toggle-details">
-          <summary>Background Color</summary>
-
-        <div class="flexColor">
-          
-          <label for="color-picker-czYFMwJ" class="color-picker-button no-export" style="background-color: #ffffff; border-radius: 50%; width: 25px; height: 25px; display: inline-block; border: 2px solid #000;">
-          </label>
-    
-          <input type="color" id="color-picker-czYFMwJ" class="color-picker no-export" oninput="changeBoxColor('czYFMwJ', this.value)" value="#ffffff" style="display: none;">
-          </div>
-
-        </details>
-
-        <details class="toggle-details">
-            <summary>Space</summary>
-            <div class="Padding">
-              
-              <label for="min-padding-czYFMwJ">Min:</label>
-              <input type="text" id="min-padding-czYFMwJ" value="35px">
-
-              <label for="preferred-padding-czYFMwJ">Preferred:</label>
-              <input type="text" id="preferred-padding-czYFMwJ" value="3vw">
-
-              <label for="max-padding-czYFMwJ">Max:</label>
-              <input type="text" id="max-padding-czYFMwJ" value="50px">
-
-              <button onclick="applyPadding('czYFMwJ')">Set Padding</button>
-            </div>
-          </details>
-
-          <details class="toggle-details">
-          <summary>Flex Properties</summary>
-          <div class="FlexProperties">
-
-            <label for="flex-basis-czYFMwJ">Flex Basis:</label>
-            <input type="text" id="flex-basis-czYFMwJ" value="0">
-
-            <label for="flex-shrink-czYFMwJ">Flex Shrink:</label>
-            <input type="text" id="flex-shrink-czYFMwJ" value="1">
-
-            <label for="flex-grow-czYFMwJ">Flex Grow:</label>
-            <input type="text" id="flex-grow-czYFMwJ" value="1">
-
-            <button onclick="setFlexProperties('czYFMwJ')">Set Flex Properties</button>
-          </div>
-        </details>
-
-
-        <details class="toggle-details">
-          <summary>Place Content</summary>
-
-        <div class="placeContent">
-          
-          <button data-boxid="czYFMwJ" data-category="placeContent" data-style="start" data-choice="selected" onclick="placeContent('czYFMwJ', 'start')">start</button>
-          <button data-boxid="czYFMwJ" data-category="placeContent" data-style="start center" onclick="placeContent('czYFMwJ', 'start center')">start center</button>
-          <button data-boxid="czYFMwJ" data-category="placeContent" data-style="start end" onclick="placeContent('czYFMwJ', 'start end')">start end</button>
-          <button data-boxid="czYFMwJ" data-category="placeContent" data-style="center start" onclick="placeContent('czYFMwJ', 'center start')">center start</button>
-          <button data-boxid="czYFMwJ" data-category="placeContent" data-style="center" onclick="placeContent('czYFMwJ', 'center')">center</button>
-          <button data-boxid="czYFMwJ" data-category="placeContent" data-style="center end" onclick="placeContent('czYFMwJ', 'center end')">center end</button>
-          <button data-boxid="czYFMwJ" data-category="placeContent" data-style="end start" onclick="placeContent('czYFMwJ', 'end start')">end start</button>
-          <button data-boxid="czYFMwJ" data-category="placeContent" data-style="end center" onclick="placeContent('czYFMwJ', 'end center')">end center</button>
-          <button data-boxid="czYFMwJ" data-category="placeContent" data-style="end end" onclick="placeContent('czYFMwJ', 'end')">end</button>
-        </div>
-        </details>
-
-        
-
-        <span class="align-close" onclick="closeAlignModal('czYFMwJ')">×</span>
+        <span class="align-close" onclick="closeAlignModal('pfIFqnT')">×</span>
       </div>
     </div>
   
