@@ -229,7 +229,7 @@
       <grid-css>
         <style id="ESNlvTU" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#Nolyvob {
   display: grid;
-place-item:center;
+  place-item: center;
   text-align: center;
   padding: 10px;
   gap: 10px;
