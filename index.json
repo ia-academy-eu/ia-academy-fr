@@ -214,7 +214,7 @@
         <style id="DRnDhsy" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#qEDXepe {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
-  padding: 35px;
+  padding: clamp(10px, 4vw, 35px);
   gap: clamp(10px, 4vw, 35px);
 }
 </style>
