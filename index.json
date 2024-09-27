@@ -370,6 +370,7 @@ section h1 {
         <style id="cjpmEny" type="text/css" data-type="css" data-size="laptop" data-content="section">#jVndnav {
   position: sticky;
   top: 0;
+  z-index: 9999;
 }
 
 grid-content#EHRICIM {
