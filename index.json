@@ -367,10 +367,11 @@ section h1 {
   <section id="jVndnav" data-type="section">  
       <!--CSS-->
       <grid-css>
-        <style id="cjpmEny" type="text/css" data-type="css" data-size="laptop" data-content="section">#jVndnav{
-    display:sticky;
-    top:0;
+        <style id="cjpmEny" type="text/css" data-type="css" data-size="laptop" data-content="section">#jVndnav {
+  position: sticky;
+  top: 0;
 }
+
 grid-content#EHRICIM {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(100px, 100px));
