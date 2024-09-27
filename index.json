@@ -202,6 +202,7 @@
   grid-template-columns: minmax(150px, 300px);
   padding: 35px;
   gap: 10px;
+  place-content:center start;
 }
 </style>
         <style id="vqixDeG" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
@@ -252,14 +253,12 @@
     
     
     
-    <button contenteditable="false" class="align-items-button no-export" onclick="openAlignModal('WAfSDYn')">
-      ⋮
-    </button>
+    <button contenteditable="false" class="align-items-button no-export" onclick="openAlignModal('WAfSDYn')">...</button>
 
     <div id="align-modal-WAfSDYn" class="align-modal" style="display: none; width: 323px;">
       <div class="align-modal-content">
 
-      <details class="toggle-details">
+      <details class="toggle-details" open="">
       <summary>Flex Direction</summary>
 
         <div class="flexDirection">
