@@ -375,7 +375,7 @@ section h1 {
 
 grid-content#EHRICIM {
   display: grid;
-  grid-template-columns:300px 100px 100px 100px 100px;
+  grid-template-columns: 300px auto;
   place-content: stretch;
 }
 </style>
@@ -927,6 +927,131 @@ grid-content#EHRICIM {
   
     </grid-edit-box>
   </grid-box-container>  
+  
+  <grid-box-container id="HWBKJbU">
+    <grid-box id="WpRDiKb" contenteditable="true"></grid-box>
+    <grid-edit-box class="grid-edit-box no-export">
+      
+  
+    
+    <div contenteditable="false" class="section-info">Box</div>
+    <button contenteditable="false" class="no-export" onclick="openFlexItems('WpRDiKb')">
+      +
+    </button>
+    <button contenteditable="false" class="delete-grid no-export" onclick="removeContent('HWBKJbU')">
+      -
+    </button>
+    <button contenteditable="false" class="align-items-button no-export" onclick="openAlignModal('WpRDiKb')">
+      ⋮
+    </button>
+
+    <div id="align-modal-WpRDiKb" class="align-modal" style="display:none">
+      <div class="align-modal-content">
+
+      <details class="toggle-details">
+      <summary>Flex Direction</summary>
+
+        <div class="flexDirection">
+          
+          <button data-boxid="WpRDiKb" data-category="flexDirection" data-style="row" onclick="flexDirection('WpRDiKb', 'row')">row</button>
+          <button data-boxid="WpRDiKb" data-category="flexDirection" data-style="column" data-choice="selected" onclick="flexDirection('WpRDiKb', 'column')">column</button>
+          <button data-boxid="WpRDiKb" data-category="flexDirection" data-style="row-reverse" onclick="flexDirection('WpRDiKb', 'row-reverse')">row-reverse</button>
+          <button data-boxid="WpRDiKb" data-category="flexDirection" data-style="column-reverse" onclick="flexDirection('WpRDiKb', 'column-reverse')">column-reverse</button>
+        </div>
+
+        </details>
+
+        <details class="toggle-details">
+          <summary>Flex Wrap</summary>
+
+        <div class="flexWrap">
+          
+          <button data-boxid="WpRDiKb" data-category="flexWrap" data-style="nowrap" onclick="flexWrap('WpRDiKb', 'nowrap')">nowrap</button>
+          <button data-boxid="WpRDiKb" data-category="flexWrap" data-style="wrap" data-choice="selected" onclick="flexWrap('WpRDiKb', 'wrap')">wrap</button>
+        </div>
+
+        </details>
+
+        <details class="toggle-details">
+          <summary>Background Color</summary>
+
+        <div class="flexColor">
+          
+          <label for="color-picker-WpRDiKb" class="color-picker-button no-export" style="background-color: #ffffff; border-radius: 50%; width: 25px; height: 25px; display: inline-block; border: 2px solid #000;">
+          </label>
+    
+          <input type="color" id="color-picker-WpRDiKb" class="color-picker no-export" oninput="changeBoxColor('WpRDiKb', this.value)" value="#ffffff" style="display: none;">
+          </div>
+
+        </details>
+
+        <details class="toggle-details">
+            <summary>Space</summary>
+            <div class="Padding">
+              
+              <label for="min-padding-WpRDiKb">Min:</label>
+              <input type="text" id="min-padding-WpRDiKb" value="35px">
+
+              <label for="preferred-padding-WpRDiKb">Preferred:</label>
+              <input type="text" id="preferred-padding-WpRDiKb" value="3vw">
+
+              <label for="max-padding-WpRDiKb">Max:</label>
+              <input type="text" id="max-padding-WpRDiKb" value="50px">
+
+              <button onclick="applyPadding('WpRDiKb')">Set Padding</button>
+            </div>
+          </details>
+
+          <details class="toggle-details">
+          <summary>Flex Properties</summary>
+          <div class="FlexProperties">
+
+            <label for="flex-basis-WpRDiKb">Flex Basis:</label>
+            <input type="text" id="flex-basis-WpRDiKb" value="0">
+
+            <label for="flex-shrink-WpRDiKb">Flex Shrink:</label>
+            <input type="text" id="flex-shrink-WpRDiKb" value="1">
+
+            <label for="flex-grow-WpRDiKb">Flex Grow:</label>
+            <input type="text" id="flex-grow-WpRDiKb" value="1">
+
+            <button onclick="setFlexProperties('WpRDiKb')">Set Flex Properties</button>
+          </div>
+        </details>
+
+
+        <details class="toggle-details">
+          <summary>Place Content</summary>
+
+        <div class="placeContent">
+          
+          <button data-boxid="WpRDiKb" data-category="placeContent" data-style="start" data-choice="selected" onclick="placeContent('WpRDiKb', 'start')">start</button>
+          <button data-boxid="WpRDiKb" data-category="placeContent" data-style="start center" onclick="placeContent('WpRDiKb', 'start center')">start center</button>
+          <button data-boxid="WpRDiKb" data-category="placeContent" data-style="start end" onclick="placeContent('WpRDiKb', 'start end')">start end</button>
+          <button data-boxid="WpRDiKb" data-category="placeContent" data-style="center start" onclick="placeContent('WpRDiKb', 'center start')">center start</button>
+          <button data-boxid="WpRDiKb" data-category="placeContent" data-style="center" onclick="placeContent('WpRDiKb', 'center')">center</button>
+          <button data-boxid="WpRDiKb" data-category="placeContent" data-style="center end" onclick="placeContent('WpRDiKb', 'center end')">center end</button>
+          <button data-boxid="WpRDiKb" data-category="placeContent" data-style="end start" onclick="placeContent('WpRDiKb', 'end start')">end start</button>
+          <button data-boxid="WpRDiKb" data-category="placeContent" data-style="end center" onclick="placeContent('WpRDiKb', 'end center')">end center</button>
+          <button data-boxid="WpRDiKb" data-category="placeContent" data-style="end end" onclick="placeContent('WpRDiKb', 'end')">end</button>
+        </div>
+        </details>
+
+        
+
+        <span class="align-close" onclick="closeAlignModal('WpRDiKb')">×</span>
+      </div>
+    </div>
+  
+  
+    </grid-edit-box>
+  </grid-box-container>  
+  
+    
+  
+    
+  
+    
   </grid-content>
         <grid-edit-section class="grid-edit-section no-export" contenteditable="false" data-type="grid-edit-section"> 
           <button contenteditable="false" class="section-add-btn" onclick="sectionGridItems('EHRICIM', 'beforeend')">+</button>
