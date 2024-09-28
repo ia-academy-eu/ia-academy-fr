@@ -552,7 +552,13 @@ grid-content#EHRICIM {
     
   
   <grid-box-container id="DRrkZKd">
-    <grid-box id="Foaguui" contenteditable="true" style="background-color: rgb(255, 0, 0);"></grid-box>
+    <grid-box id="Foaguui" contenteditable="true" style="background-color: rgb(255, 255, 255);">
+    <span class="material-symbols-outlined">
+    emoji_events
+    </span>
+  
+    <p>Home</p>
+  </grid-box>
     <grid-edit-box class="grid-edit-box no-export">
       
   
@@ -595,12 +601,12 @@ grid-content#EHRICIM {
 
         </details>
 
-        <details class="toggle-details">
+        <details class="toggle-details" open="">
           <summary>Background Color</summary>
 
         <div class="flexColor">
           
-          <label for="color-picker-Foaguui" class="color-picker-button no-export" style="background-color: rgb(255, 0, 0); border-radius: 50%; width: 25px; height: 25px; display: inline-block; border: 2px solid rgb(0, 0, 0);">
+          <label for="color-picker-Foaguui" class="color-picker-button no-export" style="background-color: rgb(255, 255, 255); border-radius: 50%; width: 25px; height: 25px; display: inline-block; border: 2px solid rgb(0, 0, 0);">
           </label>
     
           <input type="color" id="color-picker-Foaguui" class="color-picker no-export" oninput="changeBoxColor('Foaguui', this.value)" value="#ffffff" style="display: none;">
@@ -1563,7 +1569,7 @@ grid-content#EHRICIM {
 
         </details>
 
-        <details class="toggle-details" open="">
+        <details class="toggle-details">
             <summary>Space</summary>
             <div class="Padding">
               
