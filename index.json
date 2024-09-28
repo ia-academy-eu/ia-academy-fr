@@ -375,7 +375,7 @@ section h1 {
 
 grid-content#EHRICIM {
   display: grid;
-  grid-template-columns: auto auto auto auto auto;
+  grid-template-columns: repeat(12,1fr);
   place-content: stretch;
 }
 </style>
