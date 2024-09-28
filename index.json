@@ -1583,7 +1583,7 @@ grid-content#EHRICIM {
   display: grid;
   padding: 10px;
   gap: 10px;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-template-columns: 300px 1fr;
 }
 </style>
         <style id="whwwqQB" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
