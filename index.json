@@ -833,7 +833,7 @@ grid-content#EHRICIM {
 
         </details>
 
-        <details class="toggle-details" open="">
+        <details class="toggle-details">
           <summary>Background Color</summary>
 
         <div class="flexColor">
@@ -1503,7 +1503,7 @@ grid-content#EHRICIM {
           <!-- grid-box-container -->    
         
   <grid-box-container id="regdVTe">
-    <grid-box id="wHzrkKF" contenteditable="true" style="place-content: center; padding: clamp(35px, 5vw, 150px);">
+    <grid-box id="wHzrkKF" contenteditable="true" style="place-content: center; padding: clamp(35px, 3vw, 50px);">
     <h1 class="grid-h1" contenteditable="true">Titre H1</h1>
   
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit duis at arcu sed odio aliquet molestie eget at risus.</p>
@@ -1563,7 +1563,7 @@ grid-content#EHRICIM {
 
         </details>
 
-        <details class="toggle-details">
+        <details class="toggle-details" open="">
             <summary>Space</summary>
             <div class="Padding">
               
