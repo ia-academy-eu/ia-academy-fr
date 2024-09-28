@@ -1506,7 +1506,7 @@ grid-content#EHRICIM {
     <grid-box id="wHzrkKF" contenteditable="true" style="place-content: center; padding: clamp(35px, 3vw, 50px);">
     <h1 class="grid-h1" contenteditable="true">Titre H1</h1>
   
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit duis at arcu sed odio aliquet molestie eget at risus.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur at</p>
   </grid-box>
     <grid-edit-box class="grid-edit-box no-export">
       
