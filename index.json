@@ -143,7 +143,7 @@ section h1 {
 
 grid-content#EHRICIM {
   display: grid;
-  grid-template-columns: repeat(12, 1fr);
+  grid-template-columns: repeat(7, 1fr);
   place-content: stretch;
 }
 </style><style id="OZdPhgl" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
