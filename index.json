@@ -549,129 +549,10 @@ grid-content#EHRICIM {
     </grid-edit-box>
   </grid-box-container>  
   
-  <grid-box-container id="ThRNutU">
-    <grid-box id="QnuCOoN" contenteditable="true">
-  <img id="vmOfzkK" contenteditable="true" src="https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw2N3x8cGFzdGVsfGVufDB8MHx8fDE3MjU1NTMzNTZ8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-fg" loading="lazy">
-  </grid-box>
-    <grid-edit-box class="grid-edit-box no-export">
-      
-  
     
-    <div contenteditable="false" class="section-info">Box</div>
-    <button contenteditable="false" class="no-export" onclick="openFlexItems('QnuCOoN')">
-      +
-    </button>
-    <button contenteditable="false" class="delete-grid no-export" onclick="removeContent('ThRNutU')">
-      -
-    </button>
-    <button contenteditable="false" class="align-items-button no-export" onclick="openAlignModal('QnuCOoN')">
-      ⋮
-    </button>
-
-    <div id="align-modal-QnuCOoN" class="align-modal" style="display:none">
-      <div class="align-modal-content">
-
-      <details class="toggle-details">
-      <summary>Flex Direction</summary>
-
-        <div class="flexDirection">
-          
-          <button data-boxid="QnuCOoN" data-category="flexDirection" data-style="row" onclick="flexDirection('QnuCOoN', 'row')">row</button>
-          <button data-boxid="QnuCOoN" data-category="flexDirection" data-style="column" data-choice="selected" onclick="flexDirection('QnuCOoN', 'column')">column</button>
-          <button data-boxid="QnuCOoN" data-category="flexDirection" data-style="row-reverse" onclick="flexDirection('QnuCOoN', 'row-reverse')">row-reverse</button>
-          <button data-boxid="QnuCOoN" data-category="flexDirection" data-style="column-reverse" onclick="flexDirection('QnuCOoN', 'column-reverse')">column-reverse</button>
-        </div>
-
-        </details>
-
-        <details class="toggle-details">
-          <summary>Flex Wrap</summary>
-
-        <div class="flexWrap">
-          
-          <button data-boxid="QnuCOoN" data-category="flexWrap" data-style="nowrap" onclick="flexWrap('QnuCOoN', 'nowrap')">nowrap</button>
-          <button data-boxid="QnuCOoN" data-category="flexWrap" data-style="wrap" data-choice="selected" onclick="flexWrap('QnuCOoN', 'wrap')">wrap</button>
-        </div>
-
-        </details>
-
-        <details class="toggle-details">
-          <summary>Background Color</summary>
-
-        <div class="flexColor">
-          
-          <label for="color-picker-QnuCOoN" class="color-picker-button no-export" style="background-color: #ffffff; border-radius: 50%; width: 25px; height: 25px; display: inline-block; border: 2px solid #000;">
-          </label>
-    
-          <input type="color" id="color-picker-QnuCOoN" class="color-picker no-export" oninput="changeBoxColor('QnuCOoN', this.value)" value="#ffffff" style="display: none;">
-          </div>
-
-        </details>
-
-        <details class="toggle-details">
-            <summary>Space</summary>
-            <div class="Padding">
-              
-              <label for="min-padding-QnuCOoN">Min:</label>
-              <input type="text" id="min-padding-QnuCOoN" value="35px">
-
-              <label for="preferred-padding-QnuCOoN">Preferred:</label>
-              <input type="text" id="preferred-padding-QnuCOoN" value="3vw">
-
-              <label for="max-padding-QnuCOoN">Max:</label>
-              <input type="text" id="max-padding-QnuCOoN" value="50px">
-
-              <button onclick="applyPadding('QnuCOoN')">Set Padding</button>
-            </div>
-          </details>
-
-          <details class="toggle-details">
-          <summary>Flex Properties</summary>
-          <div class="FlexProperties">
-
-            <label for="flex-basis-QnuCOoN">Flex Basis:</label>
-            <input type="text" id="flex-basis-QnuCOoN" value="0">
-
-            <label for="flex-shrink-QnuCOoN">Flex Shrink:</label>
-            <input type="text" id="flex-shrink-QnuCOoN" value="1">
-
-            <label for="flex-grow-QnuCOoN">Flex Grow:</label>
-            <input type="text" id="flex-grow-QnuCOoN" value="1">
-
-            <button onclick="setFlexProperties('QnuCOoN')">Set Flex Properties</button>
-          </div>
-        </details>
-
-
-        <details class="toggle-details">
-          <summary>Place Content</summary>
-
-        <div class="placeContent">
-          
-          <button data-boxid="QnuCOoN" data-category="placeContent" data-style="start" data-choice="selected" onclick="placeContent('QnuCOoN', 'start')">start</button>
-          <button data-boxid="QnuCOoN" data-category="placeContent" data-style="start center" onclick="placeContent('QnuCOoN', 'start center')">start center</button>
-          <button data-boxid="QnuCOoN" data-category="placeContent" data-style="start end" onclick="placeContent('QnuCOoN', 'start end')">start end</button>
-          <button data-boxid="QnuCOoN" data-category="placeContent" data-style="center start" onclick="placeContent('QnuCOoN', 'center start')">center start</button>
-          <button data-boxid="QnuCOoN" data-category="placeContent" data-style="center" onclick="placeContent('QnuCOoN', 'center')">center</button>
-          <button data-boxid="QnuCOoN" data-category="placeContent" data-style="center end" onclick="placeContent('QnuCOoN', 'center end')">center end</button>
-          <button data-boxid="QnuCOoN" data-category="placeContent" data-style="end start" onclick="placeContent('QnuCOoN', 'end start')">end start</button>
-          <button data-boxid="QnuCOoN" data-category="placeContent" data-style="end center" onclick="placeContent('QnuCOoN', 'end center')">end center</button>
-          <button data-boxid="QnuCOoN" data-category="placeContent" data-style="end end" onclick="placeContent('QnuCOoN', 'end')">end</button>
-        </div>
-        </details>
-
-        
-
-        <span class="align-close" onclick="closeAlignModal('QnuCOoN')">×</span>
-      </div>
-    </div>
-  
-  
-    </grid-edit-box>
-  </grid-box-container>  
   
   <grid-box-container id="DRrkZKd">
-    <grid-box id="Foaguui" contenteditable="true"></grid-box>
+    <grid-box id="Foaguui" contenteditable="true" style="background-color: rgb(255, 0, 0);"></grid-box>
     <grid-edit-box class="grid-edit-box no-export">
       
   
@@ -687,7 +568,7 @@ grid-content#EHRICIM {
       ⋮
     </button>
 
-    <div id="align-modal-Foaguui" class="align-modal" style="display:none">
+    <div id="align-modal-Foaguui" class="align-modal" style="display: none;">
       <div class="align-modal-content">
 
       <details class="toggle-details">
@@ -719,7 +600,7 @@ grid-content#EHRICIM {
 
         <div class="flexColor">
           
-          <label for="color-picker-Foaguui" class="color-picker-button no-export" style="background-color: #ffffff; border-radius: 50%; width: 25px; height: 25px; display: inline-block; border: 2px solid #000;">
+          <label for="color-picker-Foaguui" class="color-picker-button no-export" style="background-color: rgb(255, 0, 0); border-radius: 50%; width: 25px; height: 25px; display: inline-block; border: 2px solid rgb(0, 0, 0);">
           </label>
     
           <input type="color" id="color-picker-Foaguui" class="color-picker no-export" oninput="changeBoxColor('Foaguui', this.value)" value="#ffffff" style="display: none;">
@@ -790,7 +671,7 @@ grid-content#EHRICIM {
   </grid-box-container>  
   
   <grid-box-container id="rApTXJW">
-    <grid-box id="CkhjDpT" contenteditable="true"></grid-box>
+    <grid-box id="CkhjDpT" contenteditable="true" style="background-color: rgb(93, 71, 255);"></grid-box>
     <grid-edit-box class="grid-edit-box no-export">
       
   
@@ -806,7 +687,7 @@ grid-content#EHRICIM {
       ⋮
     </button>
 
-    <div id="align-modal-CkhjDpT" class="align-modal" style="display:none">
+    <div id="align-modal-CkhjDpT" class="align-modal" style="display: none;">
       <div class="align-modal-content">
 
       <details class="toggle-details">
@@ -838,7 +719,7 @@ grid-content#EHRICIM {
 
         <div class="flexColor">
           
-          <label for="color-picker-CkhjDpT" class="color-picker-button no-export" style="background-color: #ffffff; border-radius: 50%; width: 25px; height: 25px; display: inline-block; border: 2px solid #000;">
+          <label for="color-picker-CkhjDpT" class="color-picker-button no-export" style="background-color: rgb(93, 71, 255); border-radius: 50%; width: 25px; height: 25px; display: inline-block; border: 2px solid rgb(0, 0, 0);">
           </label>
     
           <input type="color" id="color-picker-CkhjDpT" class="color-picker no-export" oninput="changeBoxColor('CkhjDpT', this.value)" value="#ffffff" style="display: none;">
@@ -909,7 +790,7 @@ grid-content#EHRICIM {
   </grid-box-container>  
   
   <grid-box-container id="OBITlZC">
-    <grid-box id="RMLMFGe" contenteditable="true"></grid-box>
+    <grid-box id="RMLMFGe" contenteditable="true" style="background-color: rgb(8, 8, 8);"></grid-box>
     <grid-edit-box class="grid-edit-box no-export">
       
   
@@ -952,12 +833,12 @@ grid-content#EHRICIM {
 
         </details>
 
-        <details class="toggle-details">
+        <details class="toggle-details" open="">
           <summary>Background Color</summary>
 
         <div class="flexColor">
           
-          <label for="color-picker-RMLMFGe" class="color-picker-button no-export" style="background-color: #ffffff; border-radius: 50%; width: 25px; height: 25px; display: inline-block; border: 2px solid #000;">
+          <label for="color-picker-RMLMFGe" class="color-picker-button no-export" style="background-color: rgb(8, 8, 8); border-radius: 50%; width: 25px; height: 25px; display: inline-block; border: 2px solid rgb(0, 0, 0);">
           </label>
     
           <input type="color" id="color-picker-RMLMFGe" class="color-picker no-export" oninput="changeBoxColor('RMLMFGe', this.value)" value="#ffffff" style="display: none;">
@@ -1682,7 +1563,7 @@ grid-content#EHRICIM {
 
         </details>
 
-        <details class="toggle-details" open="">
+        <details class="toggle-details">
             <summary>Space</summary>
             <div class="Padding">
               
