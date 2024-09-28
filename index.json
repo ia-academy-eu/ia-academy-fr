@@ -548,7 +548,9 @@ grid-content#EHRICIM {
   </grid-box-container>  
   
   <grid-box-container id="ThRNutU">
-    <grid-box id="QnuCOoN" contenteditable="true"></grid-box>
+    <grid-box id="QnuCOoN" contenteditable="true">
+  <img id="vmOfzkK" contenteditable="true" src="https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw2N3x8cGFzdGVsfGVufDB8MHx8fDE3MjU1NTMzNTZ8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-fg" loading="lazy">
+  </grid-box>
     <grid-edit-box class="grid-edit-box no-export">
       
   
@@ -921,7 +923,7 @@ grid-content#EHRICIM {
       ⋮
     </button>
 
-    <div id="align-modal-RMLMFGe" class="align-modal" style="display:none">
+    <div id="align-modal-RMLMFGe" class="align-modal" style="display: none;">
       <div class="align-modal-content">
 
       <details class="toggle-details">
