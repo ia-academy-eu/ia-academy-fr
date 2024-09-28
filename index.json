@@ -929,7 +929,12 @@ grid-content#EHRICIM {
   </grid-box-container>  
   
   <grid-box-container id="HWBKJbU">
-    <grid-box id="WpRDiKb" contenteditable="true"></grid-box>
+    <grid-box id="WpRDiKb" contenteditable="true">
+    <grid-menu-item id="hyDUVZt">
+      <grid-menu-icon class="material-symbols-outlined">emoji_events</grid-menu-icon>
+      <grid-menu-title>Menu</grid-menu-title>
+    </grid-menu-item>
+  </grid-box>
     <grid-edit-box class="grid-edit-box no-export">
       
   
