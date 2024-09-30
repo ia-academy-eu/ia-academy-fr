@@ -137,7 +137,7 @@ section h1 {
   }
 </style><style id="page-tablet.css" type="text/css" data-type="css" data-size="tablet" data-content="page">@media screen and (min-width:641px) and (max-width:1024px) { /* Tablet */ }</style><style id="page-mobile.css" type="text/css" data-type="css" data-size="mobile" data-content="page">@media screen and (max-width:640px) { /* Mobile */ }</style><grid-body id="grid-body"><section id="OLIvAuI" data-type="section"><!--CSS--><grid-css><style id="KlJrcdb" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#BILkdHE {
   display: grid;
-  padding: 10px;
+  padding: 35px;
   gap: 10px;
   grid-template-columns: 1fr;
 }
@@ -156,4 +156,8 @@ grid-menu-item {
     display: grid;
   }}</style></grid-css><!--BG--><grid-bg id="GPJvjHQ" data-type="grid-bg"><!-- bg-color --><grid-bg-color id="UFSpHna" data-type="grid-bg-color" class="div-visible" style="background-color: rgb(255, 255, 255);"></grid-bg-color><!-- bg-image --><grid-bg-image id="vjuUvYM" data-type="grid-bg-image" class="div-hidden"><picture id="yxrScsH"><source srcset="" media="(max-width:640px)"><source srcset="" media="(min-width:641px) and (max-width:1024px)"><img id="yDUFldb" src="https://images.unsplash.com/photo-1470337458703-46ad1756a187?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyM3x8Zm9vZHxlbnwwfDB8fHwxNzE2ODM1NjIzfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-bg" loading="lazy"></picture></grid-bg-image><!-- bg-video --><grid-bg-video id="koSpxXH" data-type="grid-bg-video" class="div-hidden"><video id="bcWbWDL" autoplay="" loop="" muted="" loading="lazy" data-type="video-bg" src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4"></video></grid-bg-video></grid-bg><!-- grid-container --><grid-container id="RgbeTve" data-type="grid-container"><!-- grid-content --><grid-content id="BILkdHE" contenteditable="true" data-type="html">
     
+  
+    <h1 class="grid-h1" contenteditable="true">Titre H1</h1>
+  
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit duis at arcu sed odio aliquet molestie eget at risus.</p>
   </grid-content><grid-edit-section class="grid-edit-section no-export" contenteditable="false" data-type="grid-edit-section"><button contenteditable="false" class="section-add-btn" onclick="sectionGridItems('BILkdHE', 'beforeend')">+</button><button contenteditable="false" class="section-delete-btn" onclick="flexSectionDelete('OLIvAuI')">-</button><button contenteditable="false" class="section-open-modal" onclick="toolsOpenModal(this)">⋮</button><div contenteditable="false" class="section-info">Section</div></grid-edit-section></grid-container><!--JS--><script id="UnhXPCB" data-type="js"></script></section></grid-body><script id="page-global.js" type="text/javascript" data-type="js"></script>
