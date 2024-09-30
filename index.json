@@ -137,7 +137,7 @@ section h1 {
   }
 </style><style id="page-tablet.css" type="text/css" data-type="css" data-size="tablet" data-content="page">@media screen and (min-width:641px) and (max-width:1024px) { /* Tablet */ }</style><style id="page-mobile.css" type="text/css" data-type="css" data-size="mobile" data-content="page">@media screen and (max-width:640px) { /* Mobile */ }</style><grid-body id="grid-body"><section id="OLIvAuI" data-type="section"><!--CSS--><grid-css><style id="KlJrcdb" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#BILkdHE {
   display: grid;
-  padding: 35px;
+  padding: 50px;
   gap: 10px;
   grid-template-columns: 1fr;
 }
