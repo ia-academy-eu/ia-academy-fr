@@ -202,7 +202,7 @@ grid-content#jgATtsI grid-box {
       ⋮
     </button>
 
-    <div id="align-modal-eaIrSud" class="align-modal" style="display:none">
+    <div id="align-modal-eaIrSud" class="align-modal" style="display: none;">
       <div class="align-modal-content">
 
       <details class="toggle-details">
