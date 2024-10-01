@@ -141,8 +141,8 @@ section h1 {
       <grid-css>
         <style id="UOGztnV" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#jgATtsI {
   display: grid;
-  gap: 100px;
-  padding: 100px;
+  gap: 35px;
+  padding: 35px;
 }
 
 grid-content#jgATtsI grid-box {
