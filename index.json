@@ -145,10 +145,10 @@ section h1 {
   padding: 35px;
 }
 
-grid-content#jgATtsI grid-box {
+grid-content#jgATtsI grid-container {
   background: #f1f1f1;
   padding: 35px;
-  border-radius:10px;
+  border-radius: 10px;
 }
 </style>
         <style id="LXjfNff" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
