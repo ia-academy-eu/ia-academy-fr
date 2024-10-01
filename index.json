@@ -145,7 +145,7 @@ section h1 {
   padding: 35px;
 }
 
-grid-content#jgATtsI grid-container {
+grid-content#jgATtsI grid-box-container {
   background: #f1f1f1;
   padding: 35px;
   border-radius: 10px;
