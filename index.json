@@ -305,7 +305,11 @@ grid-content#jgATtsI grid-box {
   </grid-box-container>  
   
   <grid-box-container id="KJdOmWw">
-    <grid-box id="JtBulau" contenteditable="true"></grid-box>
+    <grid-box id="JtBulau" contenteditable="true">
+    <h1 class="grid-h1" contenteditable="true">Titre H1</h1>
+  
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit duis at arcu sed odio aliquet molestie eget at risus.</p>
+  </grid-box>
     <grid-edit-box class="grid-edit-box no-export">
       
   
@@ -321,7 +325,7 @@ grid-content#jgATtsI grid-box {
       ⋮
     </button>
 
-    <div id="align-modal-JtBulau" class="align-modal" style="display:none">
+    <div id="align-modal-JtBulau" class="align-modal" style="display: none;">
       <div class="align-modal-content">
 
       <details class="toggle-details">
