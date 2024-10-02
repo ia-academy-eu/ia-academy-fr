@@ -187,7 +187,7 @@ section h1 {
         <!-- grid-content -->
         <grid-content id="NErVnsP" contenteditable="true" data-type="html">
           <!-- grid-box-container -->    
-        <h1 id="CfvDygL" class="grid-h1" contenteditable="true" style="grid-column: 1 / -1; text-align: left;">Titre h1 sdsdsd sdsd dsd s dsddsdsdsdsdsdsdsds dsdsdsds dsds dsd sd sd sdsd</h1><p id="KGCunqE" class="grid-p" contenteditable="true" style="grid-column: 1 / -1;">Titre p</p></grid-content>
+        <h4 style="grid-column: 1 / -1;"><br></h4><div><br></div><h4 style="grid-column: 1 / -1; line-height: 1.4;">Nous pouvons mettre à jour cette politique de cookies de temps à autre pour refléter les changements dans notre utilisation des cookies. Nous vous encourageons à consulter cette politique régulièrement pour rester informé.</h4><div><br></div></grid-content>
         <grid-edit-section class="grid-edit-section no-export" contenteditable="false" data-type="grid-edit-section"> 
           <button contenteditable="false" class="section-add-btn" onclick="sectionGridItems('NErVnsP', 'beforeend')">+</button>
           <button contenteditable="false" class="section-delete-btn" onclick="flexSectionDelete('CRyPCmE')">-</button>   
