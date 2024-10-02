@@ -142,12 +142,11 @@ section h1 {
         <style id="UOGztnV" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#jgATtsI {
   display: grid;
   gap: 5px;
-  padding:5px;
+  padding: 5px;
 }
 
 grid-content#jgATtsI grid-box-container {
   background: #f1f1f1;
-  border-radius: 10px;
 }
 
 grid-content#jgATtsI grid-box {
