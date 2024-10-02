@@ -148,11 +148,12 @@ section h1 {
 grid-content#jgATtsI grid-box-container {
   background: #f1f1f1;
   border-radius: 10px;
-  place-content:start;
+  
 }
 
 grid-content#jgATtsI grid-box {
   padding: 35px;
+  place-content: start;
 }
 </style>
         <style id="LXjfNff" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
