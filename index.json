@@ -148,11 +148,13 @@ section h1 {
 grid-content#jgATtsI grid-box-container {
   background: #f1f1f1;
   border-radius: 10px;
+  place-content:start;
 }
 
-grid-content#jgATtsI grid-box{
-    padding:35px;
-}</style>
+grid-content#jgATtsI grid-box {
+  padding: 35px;
+}
+</style>
         <style id="LXjfNff" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
   grid-content#jgATtsI{
     display: grid;
@@ -311,9 +313,7 @@ grid-content#jgATtsI grid-box{
   
   <grid-box-container id="KJdOmWw">
     <grid-box id="JtBulau" contenteditable="true">
-    <h1 class="grid-h1" contenteditable="true">Titre H1</h1>
-  
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit duis at arcu sed odio aliquet molestie eget at risus.</p>
+    <p>Titre H1</p><p><span style="font-size: clamp(16px, 3vw, 16px); font-family: system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen, Ubuntu, Cantarell, &quot;Open Sans&quot;, &quot;Helvetica Neue&quot;, sans-serif;">Lorem ipsum dolor sit amet, consectetur adipiscing elit duis at arcu sed odio aliquet molestie eget at risus.</span></p>
   </grid-box>
     <grid-edit-box class="grid-edit-box no-export">
       
@@ -562,7 +562,8 @@ grid-content#jgATtsI grid-box{
     
   
     
-  </grid-content>
+  
+    <grid-title class="grid-title" contenteditable="true" style="text-align: center;"><font color="#6b6b6b">Grid Title</font></grid-title></grid-content></grid-container><p><grid-container data-type="grid-container"><grid-content contenteditable="true" data-type="html"><grid-title class="grid-title" contenteditable="true" style="text-align: center;"><font color="#6b6b6b">kllklklklkl</font></grid-title></grid-content></grid-container></p><grid-container data-type="grid-container">
         <grid-edit-section class="grid-edit-section no-export" contenteditable="false" data-type="grid-edit-section"> 
           <button contenteditable="false" class="section-add-btn" onclick="sectionGridItems('jgATtsI', 'beforeend')">+</button>
           <button contenteditable="false" class="section-delete-btn" onclick="flexSectionDelete('GJtRnuX')">-</button>   
