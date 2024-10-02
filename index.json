@@ -152,7 +152,7 @@ section h1 {
         <style id="OQkKJII" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#NErVnsP {
   display: grid;
   padding: 100px;
-  grid-template:columns:1fr;
+  grid-template-columns:1fr;
 }
 </style>
         <style id="zrJlNZf" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
@@ -187,7 +187,7 @@ section h1 {
         <!-- grid-content -->
         <grid-content id="NErVnsP" contenteditable="true" data-type="html">
           <!-- grid-box-container -->    
-        <h1 id="BmcfOGc" style="line-height: 2; color: rgb(68, 0, 255);">Titre h1</h1><p id="bAjscHC" class="grid-p" style="grid-column: 1 / -1; line-height: 1.5;">Nous pouvons mettre à jour cette politique de cookies de temps à autre pour refléter les changements dans notre utilisation des cookies. Nous vous encourageons à consulter cette politique régulièrement pour rester informé.</p><div><br></div></grid-content>
+        <h1 id="BmcfOGc" style="line-height: 2; color: rgb(68, 0, 255); text-align: center;">Titre h1</h1><p id="bAjscHC" class="grid-p" style="grid-column: 1 / -1; line-height: 1.5;">Nous pouvons mettre à jour cette politique de cookies de temps à autre pour refléter les changements dans notre utilisation des cookies. Nous vous encourageons à consulter cette politique régulièrement pour rester informé.</p><div><br></div></grid-content>
         <grid-edit-section class="grid-edit-section no-export" contenteditable="false" data-type="grid-edit-section"> 
           <button contenteditable="false" class="section-add-btn" onclick="sectionGridItems('NErVnsP', 'beforeend')">+</button>
           <button contenteditable="false" class="section-delete-btn" onclick="flexSectionDelete('CRyPCmE')">-</button>   
