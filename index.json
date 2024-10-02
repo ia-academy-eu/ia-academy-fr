@@ -151,7 +151,8 @@ section h1 {
       <grid-css>
         <style id="OQkKJII" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#NErVnsP {
   display: grid;
-  padding:100px;
+  padding: 100px;
+  grid-template:columns:1fr;
 }
 </style>
         <style id="zrJlNZf" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
@@ -186,7 +187,7 @@ section h1 {
         <!-- grid-content -->
         <grid-content id="NErVnsP" contenteditable="true" data-type="html">
           <!-- grid-box-container -->    
-        <h1 id="CfvDygL" class="grid-h1" contenteditable="true" style="grid-column: 1 / -1;">Titre h1</h1><p id="KGCunqE" class="grid-p" contenteditable="true" style="grid-column: 1 / -1;">Titre p</p></grid-content>
+        <h1 id="CfvDygL" class="grid-h1" contenteditable="true" style="grid-column: 1 / -1; text-align: left;">Titre h1 sdsdsd sdsd dsd s dsddsdsdsdsdsdsdsds dsdsdsds dsds dsd sd sd sdsd</h1><p id="KGCunqE" class="grid-p" contenteditable="true" style="grid-column: 1 / -1;">Titre p</p></grid-content>
         <grid-edit-section class="grid-edit-section no-export" contenteditable="false" data-type="grid-edit-section"> 
           <button contenteditable="false" class="section-add-btn" onclick="sectionGridItems('NErVnsP', 'beforeend')">+</button>
           <button contenteditable="false" class="section-delete-btn" onclick="flexSectionDelete('CRyPCmE')">-</button>   
