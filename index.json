@@ -147,7 +147,8 @@ section h1 {
       <grid-css>
         <style id="kSLDXNT" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#bdtctyf {
   display: grid;
-  padding:100px;
+  padding: 100px;
+  grid-template-columns:1fr;
 }
 </style>
         <style id="GHRNiFv" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
@@ -180,10 +181,8 @@ section h1 {
       <!-- grid-container -->
       <grid-container id="hUMAWCq" data-type="grid-container">
         <!-- grid-content -->
-        <grid-content id="bdtctyf" contenteditable="true" data-type="html">
-          <!-- grid-box-container -->    
-        
-    <h1 class="grid-h1" contenteditable="true" style="grid-column: 1 / -1;">Titre h1</h1>
+        <grid-content id="bdtctyf" contenteditable="true" data-type="html" style="line-height: 2;">
+    <h1 class="grid-h1" contenteditable="true" style="grid-column: 1 / -1;">Titre h1</h1><div>lklklklk</div><div>lklklk</div><div>mlmll</div><div>mlmlml</div>
   
     <p class="grid-p" contenteditable="true" style="grid-column: 1 / -1;">ceci est un paragraphe</p>
   </grid-content>
