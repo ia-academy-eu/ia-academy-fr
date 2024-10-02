@@ -140,58 +140,61 @@ section h1 {
   
   
   
-  <section id="ymNiiFh" data-type="section">  
+  
+  
+  <section id="FHVAucx" data-type="section">  
       <!--CSS-->
       <grid-css>
-        <style id="eqxCjfh" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#RGFPsar {
+        <style id="kSLDXNT" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#bdtctyf {
   display: grid;
-  padding: 100px;
-  grid-template-columns:1fr;
+  padding:100px;
 }
 </style>
-        <style id="fHkoofu" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
-  grid-content#RGFPsar{
+        <style id="GHRNiFv" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
+  grid-content#bdtctyf{
     display: grid;
   }
   }</style>
-        <style id="YXIDUHy" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
-  grid-content#RGFPsar{
+        <style id="fRLbwZU" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
+  grid-content#bdtctyf{
     display: grid;
   }}</style>
       </grid-css>  
       <!--BG-->
-      <grid-bg id="LvFGUci" data-type="grid-bg">
+      <grid-bg id="YYkIwWQ" data-type="grid-bg">
           <!-- bg-color -->
-          <grid-bg-color id="oDKPEMv" data-type="grid-bg-color" class="div-visible" style="background-color: rgba(255, 255, 255, 1);"></grid-bg-color> 
+          <grid-bg-color id="anvaOhe" data-type="grid-bg-color" class="div-visible" style="background-color: rgba(255, 255, 255, 1);"></grid-bg-color> 
           <!-- bg-image -->
-          <grid-bg-image id="BKGnied" data-type="grid-bg-image" class="div-hidden">
-            <picture id="xxgvyCL">
+          <grid-bg-image id="LVPcWEm" data-type="grid-bg-image" class="div-hidden">
+            <picture id="xkjbaYE">
               <source srcset="" media="(max-width:640px)">
               <source srcset="" media="(min-width:641px) and (max-width:1024px)">
-              <img id="sToLzrQ" src="https://images.unsplash.com/photo-1470337458703-46ad1756a187?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyM3x8Zm9vZHxlbnwwfDB8fHwxNzE2ODM1NjIzfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-bg" loading="lazy">
+              <img id="XHhaZVL" src="https://images.unsplash.com/photo-1470337458703-46ad1756a187?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyM3x8Zm9vZHxlbnwwfDB8fHwxNzE2ODM1NjIzfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-bg" loading="lazy">
             </picture>
           </grid-bg-image> 
           <!-- bg-video -->
-          <grid-bg-video id="xSlVOPn" data-type="grid-bg-video" class="div-hidden">
-            <video id="mKMCHkF" autoplay="" loop="" muted="" loading="lazy" data-type="video-bg" src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4"></video>
+          <grid-bg-video id="UxwpXKG" data-type="grid-bg-video" class="div-hidden">
+            <video id="eHOMquS" autoplay="" loop="" muted="" loading="lazy" data-type="video-bg" src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4"></video>
           </grid-bg-video> 
       </grid-bg>
       <!-- grid-container -->
-      <grid-container id="oElJXFn" data-type="grid-container">
+      <grid-container id="hUMAWCq" data-type="grid-container">
         <!-- grid-content -->
-        <grid-content id="RGFPsar" contenteditable="true" data-type="html">
+        <grid-content id="bdtctyf" contenteditable="true" data-type="html">
           <!-- grid-box-container -->    
         
-    <h1 class="grid-h1" style="grid-column: 1 / -1;"><span style="font-size: clamp(28px, 3vw, 50px); background-color: initial; font-family: system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen, Ubuntu, Cantarell, &quot;Open Sans&quot;, &quot;Helvetica Neue&quot;, sans-serif;">Politique de cookies</span></h1><h1 class="grid-h1" style="grid-column: 1 / -1;"><span style="background-color: initial; font-family: system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen, Ubuntu, Cantarell, &quot;Open Sans&quot;, &quot;Helvetica Neue&quot;, sans-serif; font-size: clamp(22px, 3vw, 40px);">1. Introduction</span></h1><div><p><span style="background-color: initial; font-family: system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen, Ubuntu, Cantarell, &quot;Open Sans&quot;, &quot;Helvetica Neue&quot;, sans-serif; font-size: clamp(16px, 3vw, 16px);">Nous utilisons des cookies sur notre site Web pour améliorer votre expérience en ligne. Les cookies sont de petits fichiers texte placés sur votre appareil lorsque vous visitez notre site.</span><br></p></div><h2 class="grid-h2" style="grid-column: 1 / -1;"><span style="font-size: clamp(22px, 3vw, 40px); background-color: initial; font-family: system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen, Ubuntu, Cantarell, &quot;Open Sans&quot;, &quot;Helvetica Neue&quot;, sans-serif;">2. Qu'est-ce qu'un cookie ?</span><br></h2><div><span style="font-size: clamp(16px, 3vw, 16px); background-color: initial; font-family: system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen, Ubuntu, Cantarell, &quot;Open Sans&quot;, &quot;Helvetica Neue&quot;, sans-serif;">Un cookie est un fichier texte qui est stocké sur votre appareil par votre navigateur lorsque vous visitez un site Web. Les cookies permettent au site de se souvenir de vos actions et préférences pendant une période donnée.</span><br></div>
+    <h1 class="grid-h1" contenteditable="true" style="grid-column: 1 / -1;">Titre h1</h1>
+  
+    <p class="grid-p" contenteditable="true" style="grid-column: 1 / -1;">ceci est un paragraphe</p>
   </grid-content>
         <grid-edit-section class="grid-edit-section no-export" contenteditable="false" data-type="grid-edit-section"> 
-          <button contenteditable="false" class="section-add-btn" onclick="sectionGridItems('RGFPsar', 'beforeend')">+</button>
-          <button contenteditable="false" class="section-delete-btn" onclick="flexSectionDelete('ymNiiFh')">-</button>   
+          <button contenteditable="false" class="section-add-btn" onclick="sectionGridItems('bdtctyf', 'beforeend')">+</button>
+          <button contenteditable="false" class="section-delete-btn" onclick="flexSectionDelete('FHVAucx')">-</button>   
           <button contenteditable="false" class="section-open-modal" onclick="toolsOpenModal(this)">⋮</button>
           <div contenteditable="false" class="section-info">Section</div>
         </grid-edit-section> 
       </grid-container>
       <!--JS-->
-        <script id="fZCjddc" data-type="js"></script>  
+        <script id="HuoiCSP" data-type="js"></script>  
   </section>
   </grid-body><script id="page-global.js" type="text/javascript" data-type="js"></script>
