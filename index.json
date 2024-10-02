@@ -138,58 +138,89 @@ section h1 {
 </style><style id="page-tablet.css" type="text/css" data-type="css" data-size="tablet" data-content="page">@media screen and (min-width:641px) and (max-width:1024px) { /* Tablet */ }</style><style id="page-mobile.css" type="text/css" data-type="css" data-size="mobile" data-content="page">@media screen and (max-width:640px) { /* Mobile */ }</style><grid-body id="grid-body">
   
   
-  <section id="EGxnZGT" data-type="section">  
+  
+  
+  <section id="ymNiiFh" data-type="section">  
       <!--CSS-->
       <grid-css>
-        <style id="ttXDjdt" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#TgFFyDt {
+        <style id="eqxCjfh" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#RGFPsar {
   display: grid;
   padding: 100px;
-  grid-template-columns: 1fr;
 }
 </style>
-        <style id="tAohKpS" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
-  grid-content#TgFFyDt{
+        <style id="fHkoofu" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
+  grid-content#RGFPsar{
     display: grid;
   }
   }</style>
-        <style id="iMwQYin" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
-  grid-content#TgFFyDt{
+        <style id="YXIDUHy" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
+  grid-content#RGFPsar{
     display: grid;
   }}</style>
       </grid-css>  
       <!--BG-->
-      <grid-bg id="NnOOwAd" data-type="grid-bg">
+      <grid-bg id="LvFGUci" data-type="grid-bg">
           <!-- bg-color -->
-          <grid-bg-color id="PJzWRNH" data-type="grid-bg-color" class="div-visible" style="background-color: rgba(255, 255, 255, 1);"></grid-bg-color> 
+          <grid-bg-color id="oDKPEMv" data-type="grid-bg-color" class="div-visible" style="background-color: rgba(255, 255, 255, 1);"></grid-bg-color> 
           <!-- bg-image -->
-          <grid-bg-image id="LGIOaOi" data-type="grid-bg-image" class="div-hidden">
-            <picture id="dTddBaQ">
+          <grid-bg-image id="BKGnied" data-type="grid-bg-image" class="div-hidden">
+            <picture id="xxgvyCL">
               <source srcset="" media="(max-width:640px)">
               <source srcset="" media="(min-width:641px) and (max-width:1024px)">
-              <img id="argVdNK" src="https://images.unsplash.com/photo-1470337458703-46ad1756a187?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyM3x8Zm9vZHxlbnwwfDB8fHwxNzE2ODM1NjIzfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-bg" loading="lazy">
+              <img id="sToLzrQ" src="https://images.unsplash.com/photo-1470337458703-46ad1756a187?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyM3x8Zm9vZHxlbnwwfDB8fHwxNzE2ODM1NjIzfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-bg" loading="lazy">
             </picture>
           </grid-bg-image> 
           <!-- bg-video -->
-          <grid-bg-video id="TcjwTKH" data-type="grid-bg-video" class="div-hidden">
-            <video id="oopyhnZ" autoplay="" loop="" muted="" loading="lazy" data-type="video-bg" src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4"></video>
+          <grid-bg-video id="xSlVOPn" data-type="grid-bg-video" class="div-hidden">
+            <video id="mKMCHkF" autoplay="" loop="" muted="" loading="lazy" data-type="video-bg" src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4"></video>
           </grid-bg-video> 
       </grid-bg>
       <!-- grid-container -->
-      <grid-container id="mfiIfHs" data-type="grid-container">
+      <grid-container id="oElJXFn" data-type="grid-container">
         <!-- grid-content -->
-        <grid-content id="TgFFyDt" contenteditable="true" data-type="html">
+        <grid-content id="RGFPsar" contenteditable="true" data-type="html">
           <!-- grid-box-container -->    
         
-    <h1 class="grid-h1" contenteditable="true" style="grid-column: 1 / -1;"><span style="background-color: transparent; font-family: Arial, sans-serif; font-size: 16pt; white-space-collapse: preserve;">1. Introduction</span><br></h1><span id="docs-internal-guid-d6f61f52-7fff-dbb9-fe7d-3cb17c04e0e2"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Nous utilisons des cookies sur notre site Web pour améliorer votre expérience en ligne. Les cookies sont de petits fichiers texte placés sur votre appareil lorsque vous visitez notre site.</span></p><h2 dir="ltr" style="line-height:1.38;margin-top:18pt;margin-bottom:6pt;"><span style="font-size: 16pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">2. Qu'est-ce qu'un cookie ?</span></h2><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Un cookie est un fichier texte qui est stocké sur votre appareil par votre navigateur lorsque vous visitez un site Web. Les cookies permettent au site de se souvenir de vos actions et préférences pendant une période donnée.</span></p><h2 dir="ltr" style="line-height:1.38;margin-top:18pt;margin-bottom:6pt;"><span style="font-size: 16pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">3. Types de cookies utilisés</span></h2><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Cookies essentiels : Ces cookies sont nécessaires au bon fonctionnement du site Web et ne peuvent pas être désactivés dans nos systèmes.</span></p><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Cookies de performance : Ils collectent des informations sur la manière dont vous utilisez le site, comme les pages que vous consultez le plus souvent.</span></p><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Cookies de fonctionnalité : Ils permettent au site de se souvenir de vos choix et préférences (par exemple, la langue ou la région).</span></p><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Cookies publicitaires : Ils sont utilisés pour vous proposer des publicités plus pertinentes en fonction de vos intérêts.</span></p><h2 dir="ltr" style="line-height:1.38;margin-top:18pt;margin-bottom:6pt;"><span style="font-size: 16pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">4. Gestion des cookies</span></h2><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Vous pouvez choisir d'accepter ou de refuser les cookies en modifiant les paramètres de votre navigateur. Cependant, veuillez noter que la désactivation des cookies peut affecter votre expérience sur notre site Web.</span></p><h2 dir="ltr" style="line-height:1.38;margin-top:18pt;margin-bottom:6pt;"><span style="font-size: 16pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">5. Modifications de notre politique de cookies</span></h2><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Nous pouvons mettre à jour cette politique de cookies de temps à autre pour refléter les changements dans notre utilisation des cookies. Nous vous encourageons à consulter cette politique régulièrement pour rester informé.</span></p><h2 dir="ltr" style="line-height:1.38;margin-top:18pt;margin-bottom:6pt;"><span style="font-size: 16pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">6. Contact</span></h2><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Pour toute question concernant notre politique de cookies, veuillez nous contacter via notre page contact.</span></p><br></span><p class="grid-p" contenteditable="true" style="grid-column: 1 / -1;"></p>
+    <h1 class="grid-h1" contenteditable="true" style="grid-column: 1 / -1;">Titre h1</h1>
+  
+    <p class="grid-p" contenteditable="true" style="grid-column: 1 / -1;">ceci est un paragraphe</p>
+  
+    <p class="grid-p" contenteditable="true" style="grid-column: 1 / -1;">ceci est un paragraphe</p>
+  
+    <p class="grid-p" contenteditable="true" style="grid-column: 1 / -1;">ceci est un paragraphe</p>
+  
+    <p class="grid-p" contenteditable="true" style="grid-column: 1 / -1;">ceci est un paragraphe</p>
+  
+    <p class="grid-p" contenteditable="true" style="grid-column: 1 / -1;">ceci est un paragraphe</p>
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
   </grid-content>
         <grid-edit-section class="grid-edit-section no-export" contenteditable="false" data-type="grid-edit-section"> 
-          <button contenteditable="false" class="section-add-btn" onclick="sectionGridItems('TgFFyDt', 'beforeend')">+</button>
-          <button contenteditable="false" class="section-delete-btn" onclick="flexSectionDelete('EGxnZGT')">-</button>   
+          <button contenteditable="false" class="section-add-btn" onclick="sectionGridItems('RGFPsar', 'beforeend')">+</button>
+          <button contenteditable="false" class="section-delete-btn" onclick="flexSectionDelete('ymNiiFh')">-</button>   
           <button contenteditable="false" class="section-open-modal" onclick="toolsOpenModal(this)">⋮</button>
           <div contenteditable="false" class="section-info">Section</div>
         </grid-edit-section> 
       </grid-container>
       <!--JS-->
-        <script id="kLOTNaS" data-type="js"></script>  
+        <script id="fZCjddc" data-type="js"></script>  
   </section>
   </grid-body><script id="page-global.js" type="text/javascript" data-type="js"></script>
