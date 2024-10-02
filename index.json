@@ -142,7 +142,7 @@ section h1 {
         <style id="UOGztnV" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#jgATtsI {
   display: grid;
   gap: 10px;
-  padding:10px;
+  padding: 10px;
 }
 
 grid-content#jgATtsI grid-box-container {
@@ -150,7 +150,7 @@ grid-content#jgATtsI grid-box-container {
 }
 
 grid-content#jgATtsI grid-box {
-  padding: 10px;
+  padding: 35px;
 }
 </style>
         <style id="LXjfNff" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
@@ -432,243 +432,13 @@ grid-content#jgATtsI grid-box {
     <grid-box id="bFwRhJq" contenteditable="true">
   <img id="HRFVwjl" contenteditable="true" src="https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw2N3x8cGFzdGVsfGVufDB8MHx8fDE3MjU1NTMzNTZ8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-fg" loading="lazy"></grid-box></grid-box-container>
   
-  <grid-box-container id="ezZOIDZ">
-    <grid-box id="PMXeOXG" contenteditable="true"></grid-box>
-    <grid-edit-box class="grid-edit-box no-export">
-      
+    
   
     
-    <div contenteditable="false" class="section-info">Box</div>
-    <button contenteditable="false" class="no-export" onclick="openFlexItems('PMXeOXG')">
-      +
-    </button>
-    <button contenteditable="false" class="delete-grid no-export" onclick="removeContent('ezZOIDZ')">
-      -
-    </button>
-    <button contenteditable="false" class="align-items-button no-export" onclick="openAlignModal('PMXeOXG')">
-      ⋮
-    </button>
-
-    <div id="align-modal-PMXeOXG" class="align-modal" style="display:none">
-      <div class="align-modal-content">
-
-      <details class="toggle-details">
-      <summary>Flex Direction</summary>
-
-        <div class="flexDirection">
-          
-          <button data-boxid="PMXeOXG" data-category="flexDirection" data-style="row" onclick="flexDirection('PMXeOXG', 'row')">row</button>
-          <button data-boxid="PMXeOXG" data-category="flexDirection" data-style="column" data-choice="selected" onclick="flexDirection('PMXeOXG', 'column')">column</button>
-          <button data-boxid="PMXeOXG" data-category="flexDirection" data-style="row-reverse" onclick="flexDirection('PMXeOXG', 'row-reverse')">row-reverse</button>
-          <button data-boxid="PMXeOXG" data-category="flexDirection" data-style="column-reverse" onclick="flexDirection('PMXeOXG', 'column-reverse')">column-reverse</button>
-        </div>
-
-        </details>
-
-        <details class="toggle-details">
-          <summary>Flex Wrap</summary>
-
-        <div class="flexWrap">
-          
-          <button data-boxid="PMXeOXG" data-category="flexWrap" data-style="nowrap" onclick="flexWrap('PMXeOXG', 'nowrap')">nowrap</button>
-          <button data-boxid="PMXeOXG" data-category="flexWrap" data-style="wrap" data-choice="selected" onclick="flexWrap('PMXeOXG', 'wrap')">wrap</button>
-        </div>
-
-        </details>
-
-        <details class="toggle-details">
-          <summary>Background Color</summary>
-
-        <div class="flexColor">
-          
-          <label for="color-picker-PMXeOXG" class="color-picker-button no-export" style="background-color: #ffffff; border-radius: 50%; width: 25px; height: 25px; display: inline-block; border: 2px solid #000;">
-          </label>
-    
-          <input type="color" id="color-picker-PMXeOXG" class="color-picker no-export" oninput="changeBoxColor('PMXeOXG', this.value)" value="#ffffff" style="display: none;">
-          </div>
-
-        </details>
-
-        <details class="toggle-details">
-            <summary>Space</summary>
-            <div class="Padding">
-              
-              <label for="min-padding-PMXeOXG">Min:</label>
-              <input type="text" id="min-padding-PMXeOXG" value="35px">
-
-              <label for="preferred-padding-PMXeOXG">Preferred:</label>
-              <input type="text" id="preferred-padding-PMXeOXG" value="3vw">
-
-              <label for="max-padding-PMXeOXG">Max:</label>
-              <input type="text" id="max-padding-PMXeOXG" value="50px">
-
-              <button onclick="applyPadding('PMXeOXG')">Set Padding</button>
-            </div>
-          </details>
-
-          <details class="toggle-details">
-          <summary>Flex Properties</summary>
-          <div class="FlexProperties">
-
-            <label for="flex-basis-PMXeOXG">Flex Basis:</label>
-            <input type="text" id="flex-basis-PMXeOXG" value="0">
-
-            <label for="flex-shrink-PMXeOXG">Flex Shrink:</label>
-            <input type="text" id="flex-shrink-PMXeOXG" value="1">
-
-            <label for="flex-grow-PMXeOXG">Flex Grow:</label>
-            <input type="text" id="flex-grow-PMXeOXG" value="1">
-
-            <button onclick="setFlexProperties('PMXeOXG')">Set Flex Properties</button>
-          </div>
-        </details>
-
-
-        <details class="toggle-details">
-          <summary>Place Content</summary>
-
-        <div class="placeContent">
-          
-          <button data-boxid="PMXeOXG" data-category="placeContent" data-style="start" data-choice="selected" onclick="placeContent('PMXeOXG', 'start')">start</button>
-          <button data-boxid="PMXeOXG" data-category="placeContent" data-style="start center" onclick="placeContent('PMXeOXG', 'start center')">start center</button>
-          <button data-boxid="PMXeOXG" data-category="placeContent" data-style="start end" onclick="placeContent('PMXeOXG', 'start end')">start end</button>
-          <button data-boxid="PMXeOXG" data-category="placeContent" data-style="center start" onclick="placeContent('PMXeOXG', 'center start')">center start</button>
-          <button data-boxid="PMXeOXG" data-category="placeContent" data-style="center" onclick="placeContent('PMXeOXG', 'center')">center</button>
-          <button data-boxid="PMXeOXG" data-category="placeContent" data-style="center end" onclick="placeContent('PMXeOXG', 'center end')">center end</button>
-          <button data-boxid="PMXeOXG" data-category="placeContent" data-style="end start" onclick="placeContent('PMXeOXG', 'end start')">end start</button>
-          <button data-boxid="PMXeOXG" data-category="placeContent" data-style="end center" onclick="placeContent('PMXeOXG', 'end center')">end center</button>
-          <button data-boxid="PMXeOXG" data-category="placeContent" data-style="end end" onclick="placeContent('PMXeOXG', 'end')">end</button>
-        </div>
-        </details>
-
-        
-
-        <span class="align-close" onclick="closeAlignModal('PMXeOXG')">×</span>
-      </div>
-    </div>
   
+    <h2 class="grid-title" contenteditable="true"><br></h2>
   
-    </grid-edit-box>
-  </grid-box-container>  
-  
-  <grid-box-container id="CqciYdR">
-    <grid-box id="OEWcoAa" contenteditable="true"></grid-box>
-    <grid-edit-box class="grid-edit-box no-export">
-      
-  
-    
-    <div contenteditable="false" class="section-info">Box</div>
-    <button contenteditable="false" class="no-export" onclick="openFlexItems('OEWcoAa')">
-      +
-    </button>
-    <button contenteditable="false" class="delete-grid no-export" onclick="removeContent('CqciYdR')">
-      -
-    </button>
-    <button contenteditable="false" class="align-items-button no-export" onclick="openAlignModal('OEWcoAa')">
-      ⋮
-    </button>
-
-    <div id="align-modal-OEWcoAa" class="align-modal" style="display:none">
-      <div class="align-modal-content">
-
-      <details class="toggle-details">
-      <summary>Flex Direction</summary>
-
-        <div class="flexDirection">
-          
-          <button data-boxid="OEWcoAa" data-category="flexDirection" data-style="row" onclick="flexDirection('OEWcoAa', 'row')">row</button>
-          <button data-boxid="OEWcoAa" data-category="flexDirection" data-style="column" data-choice="selected" onclick="flexDirection('OEWcoAa', 'column')">column</button>
-          <button data-boxid="OEWcoAa" data-category="flexDirection" data-style="row-reverse" onclick="flexDirection('OEWcoAa', 'row-reverse')">row-reverse</button>
-          <button data-boxid="OEWcoAa" data-category="flexDirection" data-style="column-reverse" onclick="flexDirection('OEWcoAa', 'column-reverse')">column-reverse</button>
-        </div>
-
-        </details>
-
-        <details class="toggle-details">
-          <summary>Flex Wrap</summary>
-
-        <div class="flexWrap">
-          
-          <button data-boxid="OEWcoAa" data-category="flexWrap" data-style="nowrap" onclick="flexWrap('OEWcoAa', 'nowrap')">nowrap</button>
-          <button data-boxid="OEWcoAa" data-category="flexWrap" data-style="wrap" data-choice="selected" onclick="flexWrap('OEWcoAa', 'wrap')">wrap</button>
-        </div>
-
-        </details>
-
-        <details class="toggle-details">
-          <summary>Background Color</summary>
-
-        <div class="flexColor">
-          
-          <label for="color-picker-OEWcoAa" class="color-picker-button no-export" style="background-color: #ffffff; border-radius: 50%; width: 25px; height: 25px; display: inline-block; border: 2px solid #000;">
-          </label>
-    
-          <input type="color" id="color-picker-OEWcoAa" class="color-picker no-export" oninput="changeBoxColor('OEWcoAa', this.value)" value="#ffffff" style="display: none;">
-          </div>
-
-        </details>
-
-        <details class="toggle-details">
-            <summary>Space</summary>
-            <div class="Padding">
-              
-              <label for="min-padding-OEWcoAa">Min:</label>
-              <input type="text" id="min-padding-OEWcoAa" value="35px">
-
-              <label for="preferred-padding-OEWcoAa">Preferred:</label>
-              <input type="text" id="preferred-padding-OEWcoAa" value="3vw">
-
-              <label for="max-padding-OEWcoAa">Max:</label>
-              <input type="text" id="max-padding-OEWcoAa" value="50px">
-
-              <button onclick="applyPadding('OEWcoAa')">Set Padding</button>
-            </div>
-          </details>
-
-          <details class="toggle-details">
-          <summary>Flex Properties</summary>
-          <div class="FlexProperties">
-
-            <label for="flex-basis-OEWcoAa">Flex Basis:</label>
-            <input type="text" id="flex-basis-OEWcoAa" value="0">
-
-            <label for="flex-shrink-OEWcoAa">Flex Shrink:</label>
-            <input type="text" id="flex-shrink-OEWcoAa" value="1">
-
-            <label for="flex-grow-OEWcoAa">Flex Grow:</label>
-            <input type="text" id="flex-grow-OEWcoAa" value="1">
-
-            <button onclick="setFlexProperties('OEWcoAa')">Set Flex Properties</button>
-          </div>
-        </details>
-
-
-        <details class="toggle-details">
-          <summary>Place Content</summary>
-
-        <div class="placeContent">
-          
-          <button data-boxid="OEWcoAa" data-category="placeContent" data-style="start" data-choice="selected" onclick="placeContent('OEWcoAa', 'start')">start</button>
-          <button data-boxid="OEWcoAa" data-category="placeContent" data-style="start center" onclick="placeContent('OEWcoAa', 'start center')">start center</button>
-          <button data-boxid="OEWcoAa" data-category="placeContent" data-style="start end" onclick="placeContent('OEWcoAa', 'start end')">start end</button>
-          <button data-boxid="OEWcoAa" data-category="placeContent" data-style="center start" onclick="placeContent('OEWcoAa', 'center start')">center start</button>
-          <button data-boxid="OEWcoAa" data-category="placeContent" data-style="center" onclick="placeContent('OEWcoAa', 'center')">center</button>
-          <button data-boxid="OEWcoAa" data-category="placeContent" data-style="center end" onclick="placeContent('OEWcoAa', 'center end')">center end</button>
-          <button data-boxid="OEWcoAa" data-category="placeContent" data-style="end start" onclick="placeContent('OEWcoAa', 'end start')">end start</button>
-          <button data-boxid="OEWcoAa" data-category="placeContent" data-style="end center" onclick="placeContent('OEWcoAa', 'end center')">end center</button>
-          <button data-boxid="OEWcoAa" data-category="placeContent" data-style="end end" onclick="placeContent('OEWcoAa', 'end')">end</button>
-        </div>
-        </details>
-
-        
-
-        <span class="align-close" onclick="closeAlignModal('OEWcoAa')">×</span>
-      </div>
-    </div>
-  
-  
-    </grid-edit-box>
-  </grid-box-container>  
+    <h1 class="grid-h1" contenteditable="true">Titre H1</h1>
   </grid-content></grid-container><p><grid-container data-type="grid-container"><grid-content contenteditable="true" data-type="html"><grid-title class="grid-title" contenteditable="true" style="text-align: center;"><font color="#6b6b6b"></font></grid-title></grid-content></grid-container></p><grid-container data-type="grid-container">
         <grid-edit-section class="grid-edit-section no-export" contenteditable="false" data-type="grid-edit-section"> 
           <button contenteditable="false" class="section-add-btn" onclick="sectionGridItems('jgATtsI', 'beforeend')">+</button>
