@@ -143,7 +143,7 @@ section h1 {
       <grid-css>
         <style id="ttXDjdt" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#TgFFyDt {
   display: grid;
-  padding: 50px;
+  padding: 100px;
   grid-template-columns: 1fr;
 }
 </style>
