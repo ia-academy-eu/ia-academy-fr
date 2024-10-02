@@ -146,7 +146,6 @@ section h1 {
         <style id="eqxCjfh" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#RGFPsar {
   display: grid;
   padding: 100px;
-  grid-template-columns:1fr;
 }
 </style>
         <style id="fHkoofu" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
@@ -206,126 +205,9 @@ section h1 {
   
     <p class="grid-p" style="grid-column: 1 / -1;">Nous utilisons des cookies sur notre site Web pour améliorer votre expérience en ligne. Les cookies sont de petits fichiers texte placés sur votre appareil lorsque vous visitez notre site.</p><br>
   
-    <h2 class="grid-h2" style="grid-column: 1 / -1;">2. Qu'est-ce qu'un cookie ?</h2><div><br></div>  
-  
-  <grid-box-container id="UollYXS">
-    <grid-box id="UzMqdPM" contenteditable="true"></grid-box>
-    <grid-edit-box class="grid-edit-box no-export">
-      
+    <h2 class="grid-h2" style="grid-column: 1 / -1;">2. Qu'est-ce qu'un cookie ?</h2>  
   
     
-    <div contenteditable="false" class="section-info">Box</div>
-    <button contenteditable="false" class="no-export" onclick="openFlexItems('UzMqdPM')">
-      +
-    </button>
-    <button contenteditable="false" class="delete-grid no-export" onclick="removeContent('UollYXS')">
-      -
-    </button>
-    <button contenteditable="false" class="align-items-button no-export" onclick="openAlignModal('UzMqdPM')">
-      ⋮
-    </button>
-
-    <div id="align-modal-UzMqdPM" class="align-modal" style="display:none">
-      <div class="align-modal-content">
-
-      <details class="toggle-details">
-      <summary>Flex Direction</summary>
-
-        <div class="flexDirection">
-          
-          <button data-boxid="UzMqdPM" data-category="flexDirection" data-style="row" onclick="flexDirection('UzMqdPM', 'row')">row</button>
-          <button data-boxid="UzMqdPM" data-category="flexDirection" data-style="column" data-choice="selected" onclick="flexDirection('UzMqdPM', 'column')">column</button>
-          <button data-boxid="UzMqdPM" data-category="flexDirection" data-style="row-reverse" onclick="flexDirection('UzMqdPM', 'row-reverse')">row-reverse</button>
-          <button data-boxid="UzMqdPM" data-category="flexDirection" data-style="column-reverse" onclick="flexDirection('UzMqdPM', 'column-reverse')">column-reverse</button>
-        </div>
-
-        </details>
-
-        <details class="toggle-details">
-          <summary>Flex Wrap</summary>
-
-        <div class="flexWrap">
-          
-          <button data-boxid="UzMqdPM" data-category="flexWrap" data-style="nowrap" onclick="flexWrap('UzMqdPM', 'nowrap')">nowrap</button>
-          <button data-boxid="UzMqdPM" data-category="flexWrap" data-style="wrap" data-choice="selected" onclick="flexWrap('UzMqdPM', 'wrap')">wrap</button>
-        </div>
-
-        </details>
-
-        <details class="toggle-details">
-          <summary>Background Color</summary>
-
-        <div class="flexColor">
-          
-          <label for="color-picker-UzMqdPM" class="color-picker-button no-export" style="background-color: #ffffff; border-radius: 50%; width: 25px; height: 25px; display: inline-block; border: 2px solid #000;">
-          </label>
-    
-          <input type="color" id="color-picker-UzMqdPM" class="color-picker no-export" oninput="changeBoxColor('UzMqdPM', this.value)" value="#ffffff" style="display: none;">
-          </div>
-
-        </details>
-
-        <details class="toggle-details">
-            <summary>Space</summary>
-            <div class="Padding">
-              
-              <label for="min-padding-UzMqdPM">Min:</label>
-              <input type="text" id="min-padding-UzMqdPM" value="35px">
-
-              <label for="preferred-padding-UzMqdPM">Preferred:</label>
-              <input type="text" id="preferred-padding-UzMqdPM" value="3vw">
-
-              <label for="max-padding-UzMqdPM">Max:</label>
-              <input type="text" id="max-padding-UzMqdPM" value="50px">
-
-              <button onclick="applyPadding('UzMqdPM')">Set Padding</button>
-            </div>
-          </details>
-
-          <details class="toggle-details">
-          <summary>Flex Properties</summary>
-          <div class="FlexProperties">
-
-            <label for="flex-basis-UzMqdPM">Flex Basis:</label>
-            <input type="text" id="flex-basis-UzMqdPM" value="0">
-
-            <label for="flex-shrink-UzMqdPM">Flex Shrink:</label>
-            <input type="text" id="flex-shrink-UzMqdPM" value="1">
-
-            <label for="flex-grow-UzMqdPM">Flex Grow:</label>
-            <input type="text" id="flex-grow-UzMqdPM" value="1">
-
-            <button onclick="setFlexProperties('UzMqdPM')">Set Flex Properties</button>
-          </div>
-        </details>
-
-
-        <details class="toggle-details">
-          <summary>Place Content</summary>
-
-        <div class="placeContent">
-          
-          <button data-boxid="UzMqdPM" data-category="placeContent" data-style="start" data-choice="selected" onclick="placeContent('UzMqdPM', 'start')">start</button>
-          <button data-boxid="UzMqdPM" data-category="placeContent" data-style="start center" onclick="placeContent('UzMqdPM', 'start center')">start center</button>
-          <button data-boxid="UzMqdPM" data-category="placeContent" data-style="start end" onclick="placeContent('UzMqdPM', 'start end')">start end</button>
-          <button data-boxid="UzMqdPM" data-category="placeContent" data-style="center start" onclick="placeContent('UzMqdPM', 'center start')">center start</button>
-          <button data-boxid="UzMqdPM" data-category="placeContent" data-style="center" onclick="placeContent('UzMqdPM', 'center')">center</button>
-          <button data-boxid="UzMqdPM" data-category="placeContent" data-style="center end" onclick="placeContent('UzMqdPM', 'center end')">center end</button>
-          <button data-boxid="UzMqdPM" data-category="placeContent" data-style="end start" onclick="placeContent('UzMqdPM', 'end start')">end start</button>
-          <button data-boxid="UzMqdPM" data-category="placeContent" data-style="end center" onclick="placeContent('UzMqdPM', 'end center')">end center</button>
-          <button data-boxid="UzMqdPM" data-category="placeContent" data-style="end end" onclick="placeContent('UzMqdPM', 'end')">end</button>
-        </div>
-        </details>
-
-        
-
-        <span class="align-close" onclick="closeAlignModal('UzMqdPM')">×</span>
-      </div>
-    </div>
-  
-  
-    </grid-edit-box>
-  </grid-box-container>  
   </grid-content>
         <grid-edit-section class="grid-edit-section no-export" contenteditable="false" data-type="grid-edit-section"> 
           <button contenteditable="false" class="section-add-btn" onclick="sectionGridItems('RGFPsar', 'beforeend')">+</button>
