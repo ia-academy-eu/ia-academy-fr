@@ -181,17 +181,7 @@ section h1 {
         <grid-content id="RGFPsar" contenteditable="true" data-type="html">
           <!-- grid-box-container -->    
         
-    <h1 class="grid-h1" contenteditable="true" style="grid-column: 1 / -1;">Titre h1</h1>
-  
-    <p class="grid-p" contenteditable="true" style="grid-column: 1 / -1;">ceci est un paragraphe</p>
-  
-    <p class="grid-p" contenteditable="true" style="grid-column: 1 / -1;">ceci est un paragraphe</p>
-  
-    <p class="grid-p" contenteditable="true" style="grid-column: 1 / -1;">ceci est un paragraphe</p>
-  
-    <p class="grid-p" contenteditable="true" style="grid-column: 1 / -1;">ceci est un paragraphe</p>
-  
-    <p class="grid-p" contenteditable="true" style="grid-column: 1 / -1;">ceci est un paragraphe</p>
+    <h1 class="grid-h1" style="grid-column: 1 / -1;">Politique de cookies</h1><h1 class="grid-h1" contenteditable="true" style="grid-column: 1 / -1;"><span style="font-size: clamp(22px, 3vw, 40px); background-color: initial; font-family: system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen, Ubuntu, Cantarell, &quot;Open Sans&quot;, &quot;Helvetica Neue&quot;, sans-serif;">1. Introduction</span><br></h1><div><p><br></p></div><div><br></div>
   
     
   
@@ -212,6 +202,8 @@ section h1 {
     
   
     
+  
+    <p class="grid-p" style="grid-column: 1 / -1;">Nous utilisons des cookies sur notre site Web pour améliorer votre expérience en ligne. Les cookies sont de petits fichiers texte placés sur votre appareil lorsque vous visitez notre site.</p><div><br></div>
   </grid-content>
         <grid-edit-section class="grid-edit-section no-export" contenteditable="false" data-type="grid-edit-section"> 
           <button contenteditable="false" class="section-add-btn" onclick="sectionGridItems('RGFPsar', 'beforeend')">+</button>
