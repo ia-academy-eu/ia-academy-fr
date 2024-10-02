@@ -187,7 +187,7 @@ section h1 {
         <!-- grid-content -->
         <grid-content id="NErVnsP" contenteditable="true" data-type="html">
           <!-- grid-box-container -->    
-        <h1 id="BmcfOGc" class="grid-h1" style="grid-column: 1 / -1;">Titre h1</h1><h4 style="grid-column: 1 / -1; line-height: 1.4;">Nous pouvons mettre à jour cette <b>politique de cookies</b> de temps à autre pour refléter les changements dans notre <a href="www">utilisation des cookies</a>. Nous vous encourageons à consulter cette politique régulièrement pour rester informé.</h4></grid-content>
+        <h1 id="BmcfOGc" class="grid-h1" style="grid-column: 1 / -1; line-height: 2;">Titre h1</h1><h4 style="grid-column: 1 / -1; line-height: 1.4;">Nous pouvons mettre à jour cette <b>politique de cookies</b> de temps à autre pour refléter les changements dans notre <a href="www">utilisation des cookies</a>. Nous vous encourageons à consulter cette politique régulièrement pour rester informé.</h4></grid-content>
         <grid-edit-section class="grid-edit-section no-export" contenteditable="false" data-type="grid-edit-section"> 
           <button contenteditable="false" class="section-add-btn" onclick="sectionGridItems('NErVnsP', 'beforeend')">+</button>
           <button contenteditable="false" class="section-delete-btn" onclick="flexSectionDelete('CRyPCmE')">-</button>   
