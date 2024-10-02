@@ -141,8 +141,8 @@ section h1 {
       <grid-css>
         <style id="UOGztnV" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#jgATtsI {
   display: grid;
-  gap: 5px;
-  padding: 5px;
+  gap: 10px;
+  padding:10px;
 }
 
 grid-content#jgATtsI grid-box-container {
@@ -150,7 +150,7 @@ grid-content#jgATtsI grid-box-container {
 }
 
 grid-content#jgATtsI grid-box {
-  padding: 5px;
+  padding: 10px;
 }
 </style>
         <style id="LXjfNff" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
@@ -186,7 +186,7 @@ grid-content#jgATtsI grid-box {
         <grid-content id="jgATtsI" contenteditable="true" data-type="html">
   <grid-box-container id="nDOlzkz">
     <grid-box id="eaIrSud" contenteditable="true" style="padding: clamp(0px, 3vw, 0px);">
-    <h1 style="text-align: center; ">Este es un H1</h1>
+    <h4 style="text-align: center; ">Este es un H1</h4>
   
     <p style="text-align: center;">Lorem ipsum dolor sit amet, consectetur</p>
   </grid-box>
