@@ -219,7 +219,7 @@ section h1 {
     
   
   <grid-box-container id="vkAxZVg">
-    <grid-box id="yDAGhkD" contenteditable="true">
+    <grid-box id="yDAGhkD" contenteditable="true" style="background-color: rgb(255, 255, 255);">
   <grid-box-container id="IgjxTId">
     <grid-box id="PBPfRnn" contenteditable="true">
   <img id="mubmDKt" contenteditable="true" src="https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw2N3x8cGFzdGVsfGVufDB8MHx8fDE3MjU1NTMzNTZ8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-fg" loading="lazy">
@@ -342,7 +342,11 @@ section h1 {
   </grid-box-container>  
   
   <grid-box-container id="HwIYoWe">
-    <grid-box id="jQqwMyl" contenteditable="true"></grid-box>
+    <grid-box id="jQqwMyl" contenteditable="true" style="padding: clamp(35px, 3vw, 50px); place-content: center; background-color: rgb(250, 250, 250);">
+    <h1 class="grid-h1" contenteditable="true" style="grid-column: 1 / -1;">Titre h1</h1>
+  
+    <p class="grid-p" contenteditable="true" style="grid-column: 1 / -1;">ceci est un paragraphe</p>
+  </grid-box>
     <grid-edit-box class="grid-edit-box no-export">
       
   
@@ -358,7 +362,7 @@ section h1 {
       ⋮
     </button>
 
-    <div id="align-modal-jQqwMyl" class="align-modal" style="display:none">
+    <div id="align-modal-jQqwMyl" class="align-modal" style="display: none;">
       <div class="align-modal-content">
 
       <details class="toggle-details">
@@ -390,7 +394,7 @@ section h1 {
 
         <div class="flexColor">
           
-          <label for="color-picker-jQqwMyl" class="color-picker-button no-export" style="background-color: #ffffff; border-radius: 50%; width: 25px; height: 25px; display: inline-block; border: 2px solid #000;">
+          <label for="color-picker-jQqwMyl" class="color-picker-button no-export" style="background-color: rgb(250, 250, 250); border-radius: 50%; width: 25px; height: 25px; display: inline-block; border: 2px solid rgb(0, 0, 0);">
           </label>
     
           <input type="color" id="color-picker-jQqwMyl" class="color-picker no-export" oninput="changeBoxColor('jQqwMyl', this.value)" value="#ffffff" style="display: none;">
@@ -438,11 +442,11 @@ section h1 {
 
         <div class="placeContent">
           
-          <button data-boxid="jQqwMyl" data-category="placeContent" data-style="start" data-choice="selected" onclick="placeContent('jQqwMyl', 'start')">start</button>
+          <button data-boxid="jQqwMyl" data-category="placeContent" data-style="start" onclick="placeContent('jQqwMyl', 'start')">start</button>
           <button data-boxid="jQqwMyl" data-category="placeContent" data-style="start center" onclick="placeContent('jQqwMyl', 'start center')">start center</button>
           <button data-boxid="jQqwMyl" data-category="placeContent" data-style="start end" onclick="placeContent('jQqwMyl', 'start end')">start end</button>
           <button data-boxid="jQqwMyl" data-category="placeContent" data-style="center start" onclick="placeContent('jQqwMyl', 'center start')">center start</button>
-          <button data-boxid="jQqwMyl" data-category="placeContent" data-style="center" onclick="placeContent('jQqwMyl', 'center')">center</button>
+          <button data-boxid="jQqwMyl" data-category="placeContent" data-style="center" onclick="placeContent('jQqwMyl', 'center')" data-choice="selected">center</button>
           <button data-boxid="jQqwMyl" data-category="placeContent" data-style="center end" onclick="placeContent('jQqwMyl', 'center end')">center end</button>
           <button data-boxid="jQqwMyl" data-category="placeContent" data-style="end start" onclick="placeContent('jQqwMyl', 'end start')">end start</button>
           <button data-boxid="jQqwMyl" data-category="placeContent" data-style="end center" onclick="placeContent('jQqwMyl', 'end center')">end center</button>
@@ -742,12 +746,12 @@ section h1 {
 
         </details>
 
-        <details class="toggle-details">
+        <details class="toggle-details" open="">
           <summary>Background Color</summary>
 
         <div class="flexColor">
           
-          <label for="color-picker-yDAGhkD" class="color-picker-button no-export" style="background-color: #ffffff; border-radius: 50%; width: 25px; height: 25px; display: inline-block; border: 2px solid #000;">
+          <label for="color-picker-yDAGhkD" class="color-picker-button no-export" style="background-color: rgb(255, 255, 255); border-radius: 50%; width: 25px; height: 25px; display: inline-block; border: 2px solid rgb(0, 0, 0);">
           </label>
     
           <input type="color" id="color-picker-yDAGhkD" class="color-picker no-export" oninput="changeBoxColor('yDAGhkD', this.value)" value="#ffffff" style="display: none;">
