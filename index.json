@@ -564,7 +564,7 @@ grid-content#jgATtsI grid-box {
   
     
   
-    <grid-title class="grid-title" contenteditable="true" style="text-align: center;"><font color="#6b6b6b">Grid Title</font></grid-title></grid-content></grid-container><p><grid-container data-type="grid-container"><grid-content contenteditable="true" data-type="html"><grid-title class="grid-title" contenteditable="true" style="text-align: center;"><font color="#6b6b6b">kllklklklkl</font></grid-title></grid-content></grid-container></p><grid-container data-type="grid-container">
+    <grid-title class="grid-title" contenteditable="true" style="text-align: center;"><font color="#6b6b6b">Grid Title</font></grid-title></grid-content></grid-container><p><grid-container data-type="grid-container"><grid-content contenteditable="true" data-type="html"><grid-title class="grid-title" contenteditable="true" style="text-align: center;"><font color="#6b6b6b"></font></grid-title></grid-content></grid-container></p><grid-container data-type="grid-container">
         <grid-edit-section class="grid-edit-section no-export" contenteditable="false" data-type="grid-edit-section"> 
           <button contenteditable="false" class="section-add-btn" onclick="sectionGridItems('jgATtsI', 'beforeend')">+</button>
           <button contenteditable="false" class="section-delete-btn" onclick="flexSectionDelete('GJtRnuX')">-</button>   
