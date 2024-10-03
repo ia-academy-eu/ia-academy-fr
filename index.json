@@ -157,7 +157,8 @@ section h1 {
       <grid-css>
         <style id="fDWSzHa" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#PkYbESr {
   display: grid;
-  padding:100px;
+  padding: 100px;
+  grid-template-columns:1fr;
 }
 </style>
         <style id="oUjDaHz" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
