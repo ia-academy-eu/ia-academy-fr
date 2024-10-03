@@ -177,7 +177,7 @@ section h1 {
         <!-- grid-content -->
         <grid-content id="cNDJSPK" contenteditable="false" data-type="html">
           <!-- grid-box-container -->    
-        </grid-content>
+        <h1 id="VbNUdlM" class="grid-h1" contenteditable="true" style="grid-column: 1 / -1;">Titre h1</h1><h2 id="nqlmYyA" class="grid-h2" contenteditable="true" style="grid-column: 1 / -1;">Titre h2</h2><h3 id="GuOCiij" class="grid-h3" contenteditable="true" style="grid-column: 1 / -1;">Titre h3</h3><h4 id="DLITahf" class="grid-h4" contenteditable="true" style="grid-column: 1 / -1;">Titre h4</h4><h5 id="ADciqdt" class="grid-h5" contenteditable="true" style="grid-column: 1 / -1;">Titre h5</h5><h6 id="dEJPGtL" class="grid-h6" contenteditable="true" style="grid-column: 1 / -1;">Titre h6</h6><p id="OJJdczr" class="grid-p" contenteditable="true" style="grid-column: 1 / -1;">Titre p</p></grid-content>
         <grid-edit-section class="grid-edit-section no-export" contenteditable="false" data-type="grid-edit-section"> 
           <button contenteditable="false" class="section-add-btn" onclick="sectionGridItems('cNDJSPK', 'beforeend')">+</button>
           <button contenteditable="false" class="section-delete-btn" onclick="flexSectionDelete('dWlVskT')">-</button>   
