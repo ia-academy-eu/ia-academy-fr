@@ -253,7 +253,7 @@ section h1 {
       <grid-container id="idQslvY" data-type="grid-container">
         <!-- grid-content -->
         <grid-content id="YDllDGl" contenteditable="false" data-type="html">
-         <p id="GxrOpGy" contenteditable="true">Press enter to add new content to this section.</p>
+         <h1 id="GxrOpGy" contenteditable="true" style="line-height: 1.4;">This is great!</h1><p id="dIwKlhW" contenteditable="true" style="line-height: 1.4;">L'infidélité féminine est un phénomène complexe et multifacette. Les causes qui la motivent sont diverses et influencées par des facteurs à la fois personnels et relationnels. Il est essentiel d'aborder ce sujet avec empathie et compréhension, en promouvant une communication ouverte pour prévenir et résoudre d'éventuels conflits.&nbsp;</p>
         </grid-content>
         <grid-edit-section class="grid-edit-section no-export" contenteditable="false" data-type="grid-edit-section"> 
           <div class="edit-ia">
