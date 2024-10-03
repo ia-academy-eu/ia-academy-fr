@@ -180,7 +180,7 @@ section h1 {
         <grid-content id="rdoEyCr" contenteditable="false" data-type="html">
           <!-- grid-box-container -->    
         <h1 id="mlKQeQV" class="grid-h1" contenteditable="true" style="grid-column: 1 / -1; line-height: 1.5;">Politique de cookies
-</h1><h2 id="JTpyeJo" class="grid-h2" contenteditable="true" style="grid-column: 1 / -1; line-height: 1.5;">Introduction</h2><p id="tZljPvE" class="grid-p" contenteditable="true" style="grid-column: 1 / -1; line-height: 1.5;">Nous utilisons des cookies sur notre site Web pour améliorer votre expérience en ligne. Les cookies sont de petits fichiers texte placés sur votre appareil lorsque vous visitez notre site.</p></grid-content>
+</h1><h2 id="JTpyeJo" class="grid-h2" contenteditable="true" style="grid-column: 1 / -1; line-height: 1.5;">Introduction</h2><p id="tZljPvE" class="grid-p" contenteditable="true" style="grid-column: 1 / -1; line-height: 1.4;">Nous utilisons des cookies sur notre site Web pour améliorer votre expérience en ligne. Les cookies sont de petits fichiers texte placés sur votre appareil lorsque vous visitez notre site.&nbsp;</p></grid-content>
         <grid-edit-section class="grid-edit-section no-export" contenteditable="false" data-type="grid-edit-section"> 
           <button contenteditable="false" class="section-add-btn" onclick="sectionGridItems('rdoEyCr', 'beforeend')">+</button>
           <button contenteditable="false" class="section-delete-btn" onclick="flexSectionDelete('rRzbBjg')">-</button>   
