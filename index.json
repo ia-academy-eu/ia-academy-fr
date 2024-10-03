@@ -185,7 +185,7 @@ section h1 {
       <!-- grid-container -->
       <grid-container id="tYODtpJ" data-type="grid-container">
         <!-- grid-content -->
-        <grid-content id="NErVnsP" contenteditable="true" data-type="html"><h1 id="hkjwbbX" class="grid-h1" contenteditable="true" style="grid-column: 1 / -1; line-height: 2;">Titre h1</h1><p id="gefWfDW" class="grid-p" contenteditable="true" style="grid-column: 1 / -1; line-height: 1.4;">One of these enhancements is Tiny Drive: imagine file management for TinyMCE, in the cloud, made super easy. Learn more at Tiny Cloud - Tiny Drive, where you’ll find a working demo and an opportunity to provide feedback to the product team.</p></grid-content>
+        <grid-content id="NErVnsP" contenteditable="true" data-type="html"><h1 id="hkjwbbX" class="grid-h1" contenteditable="true" style="grid-column: 1 / -1; line-height: 2;">Titre h1</h1><p id="gefWfDW" class="grid-p" contenteditable="true" style="grid-column: 1 / -1; line-height: 1.4;">One of these enhancements is <span id="RkyWyaR" class="is-span" style="color: rgb(255, 0, 0);">Tiny Drive</span>: imagine file management for TinyMCE, in the cloud, made super easy. Learn more at Tiny Cloud - Tiny Drive, where you’ll find a working demo and an opportunity to provide feedback to the product team.</p></grid-content>
         <grid-edit-section class="grid-edit-section no-export" contenteditable="false" data-type="grid-edit-section"> 
           <button contenteditable="false" class="section-add-btn" onclick="sectionGridItems('NErVnsP', 'beforeend')">+</button>
           <button contenteditable="false" class="section-delete-btn" onclick="flexSectionDelete('CRyPCmE')">-</button>   
