@@ -135,16 +135,57 @@ section h1 {
     width:100%;
     height:100%;
   }
-</style><style id="page-tablet.css" type="text/css" data-type="css" data-size="tablet" data-content="page">@media screen and (min-width:641px) and (max-width:1024px) { /* Tablet */ }</style><style id="page-mobile.css" type="text/css" data-type="css" data-size="mobile" data-content="page">@media screen and (max-width:640px) { /* Mobile */ }</style><grid-body id="grid-body"><section id="CRyPCmE" data-type="section"><!--CSS--><grid-css><style id="OQkKJII" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#NErVnsP {
+</style><style id="page-tablet.css" type="text/css" data-type="css" data-size="tablet" data-content="page">@media screen and (min-width:641px) and (max-width:1024px) { /* Tablet */ }</style><style id="page-mobile.css" type="text/css" data-type="css" data-size="mobile" data-content="page">@media screen and (max-width:640px) { /* Mobile */ }</style><grid-body id="grid-body">
+  <section id="dWlVskT" data-type="section">  
+      <!--CSS-->
+      <grid-css>
+        <style id="kBfdRVN" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#cNDJSPK {
   display: grid;
-  padding: 100px;
+  padding:100px;
   grid-template-columns:1fr;
 }
-</style><style id="zrJlNZf" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
-  grid-content#NErVnsP{
+</style>
+        <style id="VwfDEBi" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
+  grid-content#cNDJSPK{
     display: grid;
   }
-  }</style><style id="jAALYjm" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
-  grid-content#NErVnsP{
+  }</style>
+        <style id="dfexiUl" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
+  grid-content#cNDJSPK{
     display: grid;
-  }}</style></grid-css><!--BG--><grid-bg id="OexmWNY" data-type="grid-bg"><!-- bg-color --><grid-bg-color id="ikZzvXJ" data-type="grid-bg-color" class="div-visible" style="background-color: rgba(255, 255, 255, 1);"></grid-bg-color><!-- bg-image --><grid-bg-image id="rfhEtjf" data-type="grid-bg-image" class="div-hidden"><picture id="DNHraMW"><source srcset="" media="(max-width:640px)"><source srcset="" media="(min-width:641px) and (max-width:1024px)"><img id="tLuDoCK" src="https://images.unsplash.com/photo-1470337458703-46ad1756a187?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyM3x8Zm9vZHxlbnwwfDB8fHwxNzE2ODM1NjIzfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-bg" loading="lazy"></picture></grid-bg-image><!-- bg-video --><grid-bg-video id="gweZWjf" data-type="grid-bg-video" class="div-hidden"><video id="BYJcvSB" autoplay="" loop="" muted="" loading="lazy" data-type="video-bg" src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4"></video></grid-bg-video></grid-bg><!-- grid-container --><grid-container id="tYODtpJ" data-type="grid-container"><!-- grid-content --><grid-content id="NErVnsP" contenteditable="false" data-type="html"><h1 id="hkjwbbX" class="grid-h1" contenteditable="true" style="grid-column: 1 / -1; line-height: 2;">Titre h1</h1><h6 id="gefWfDW" style="grid-column: 1 / -1; line-height: 1.4;">One of these enhancements is <span id="RkyWyaR" class="is-span" style="color: rgb(255, 0, 0);">Tiny Drive</span>: imagine file management for TinyMCE, in the cloud, made super easy. Learn more at Tiny Cloud - Tiny Drive, where you’ll find a working demo and an opportunity to provide feedback to the product team.</h6></grid-content><grid-edit-section class="grid-edit-section no-export" contenteditable="false" data-type="grid-edit-section"><button contenteditable="false" class="section-add-btn" onclick="sectionGridItems('NErVnsP', 'beforeend')">+</button><button contenteditable="false" class="section-delete-btn" onclick="flexSectionDelete('CRyPCmE')">-</button><button contenteditable="false" class="section-open-modal" onclick="toolsOpenModal(this)">⋮</button><div contenteditable="false" class="section-info">Section</div></grid-edit-section></grid-container><!--JS--><script id="aeHzLsT" data-type="js"></script></section></grid-body><script id="page-global.js" type="text/javascript" data-type="js"></script>
+  }}</style>
+      </grid-css>  
+      <!--BG-->
+      <grid-bg id="XwTDZfA" data-type="grid-bg">
+          <!-- bg-color -->
+          <grid-bg-color id="TvqCMWB" data-type="grid-bg-color" class="div-visible" style="background-color: rgba(255, 255, 255, 1);"></grid-bg-color> 
+          <!-- bg-image -->
+          <grid-bg-image id="ZOIVlfX" data-type="grid-bg-image" class="div-hidden">
+            <picture id="WCunytZ">
+              <source srcset="" media="(max-width:640px)">
+              <source srcset="" media="(min-width:641px) and (max-width:1024px)">
+              <img id="pYySXUf" src="https://images.unsplash.com/photo-1470337458703-46ad1756a187?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyM3x8Zm9vZHxlbnwwfDB8fHwxNzE2ODM1NjIzfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-bg" loading="lazy">
+            </picture>
+          </grid-bg-image> 
+          <!-- bg-video -->
+          <grid-bg-video id="AqSCDdm" data-type="grid-bg-video" class="div-hidden">
+            <video id="fIltfJW" autoplay="" loop="" muted="" loading="lazy" data-type="video-bg" src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4"></video>
+          </grid-bg-video> 
+      </grid-bg>
+      <!-- grid-container -->
+      <grid-container id="gkskcEL" data-type="grid-container">
+        <!-- grid-content -->
+        <grid-content id="cNDJSPK" contenteditable="false" data-type="html">
+          <!-- grid-box-container -->    
+        </grid-content>
+        <grid-edit-section class="grid-edit-section no-export" contenteditable="false" data-type="grid-edit-section"> 
+          <button contenteditable="false" class="section-add-btn" onclick="sectionGridItems('cNDJSPK', 'beforeend')">+</button>
+          <button contenteditable="false" class="section-delete-btn" onclick="flexSectionDelete('dWlVskT')">-</button>   
+          <button contenteditable="false" class="section-open-modal" onclick="toolsOpenModal(this)">⋮</button>
+          <div contenteditable="false" class="section-info">Section</div>
+        </grid-edit-section> 
+      </grid-container>
+      <!--JS-->
+        <script id="WhTeJfC" data-type="js"></script>  
+  </section>
+  </grid-body><script id="page-global.js" type="text/javascript" data-type="js"></script>
