@@ -191,4 +191,58 @@ section h1 {
       <!--JS-->
         <script id="qkdJjBk" data-type="js"></script>  
   </section>
+  
+  <section id="zwoyfkX" data-type="section">  
+      <!--CSS-->
+      <grid-css>
+        <style id="kIXvSwR" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#DluIQBG {
+  display: grid;
+  padding:100px;
+}
+</style>
+        <style id="PgWTNzc" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
+  grid-content#DluIQBG{
+    display: grid;
+  }
+  }</style>
+        <style id="kaQmShy" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
+  grid-content#DluIQBG{
+    display: grid;
+  }}</style>
+      </grid-css>  
+      <!--BG-->
+      <grid-bg id="KymoPKH" data-type="grid-bg">
+          <!-- bg-color -->
+          <grid-bg-color id="kzhKyeK" data-type="grid-bg-color" class="div-visible" style="background-color: rgba(255, 255, 255, 1);"></grid-bg-color> 
+          <!-- bg-image -->
+          <grid-bg-image id="ASaLLis" data-type="grid-bg-image" class="div-hidden">
+            <picture id="AVlMBdD">
+              <source srcset="" media="(max-width:640px)">
+              <source srcset="" media="(min-width:641px) and (max-width:1024px)">
+              <img id="KqDViEl" src="https://images.unsplash.com/photo-1470337458703-46ad1756a187?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyM3x8Zm9vZHxlbnwwfDB8fHwxNzE2ODM1NjIzfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-bg" loading="lazy">
+            </picture>
+          </grid-bg-image> 
+          <!-- bg-video -->
+          <grid-bg-video id="PIYSkcD" data-type="grid-bg-video" class="div-hidden">
+            <video id="CvhzHHd" autoplay="" loop="" muted="" loading="lazy" data-type="video-bg" src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4"></video>
+          </grid-bg-video> 
+      </grid-bg>
+      <!-- grid-container -->
+      <grid-container id="meWorIL" data-type="grid-container">
+        <!-- grid-content -->
+        <grid-content id="DluIQBG" contenteditable="false" data-type="html">
+          <!-- grid-box-container -->    
+        <h1 id="JcteVZR" class="grid-h1" contenteditable="true" style="grid-column: 1 / -1;">Titre h1</h1><p id="yVWEArK" class="grid-p" contenteditable="true" style="grid-column: 1 / -1;">Titre p</p><p id="lMTOrHw" class="grid-p" contenteditable="true" style="grid-column: 1 / -1;">Titre p</p></grid-content>
+        <grid-edit-section class="grid-edit-section no-export" contenteditable="false" data-type="grid-edit-section"> 
+
+          <button contenteditable="false" class="section-magic-btn" onclick="alert('DluIQBG')">IA Assistant <img src="../global/patterns/icons/magic.svg"></button>
+          <button contenteditable="false" class="section-add-btn" onclick="sectionGridItems('DluIQBG', 'beforeend')">+</button>
+          <button contenteditable="false" class="section-delete-btn" onclick="flexSectionDelete('zwoyfkX')">-</button>   
+          <button contenteditable="false" class="section-open-modal" onclick="toolsOpenModal(this)">⋮</button>
+          
+        </grid-edit-section> 
+      </grid-container>
+      <!--JS-->
+        <script id="jQuESwZ" data-type="js"></script>  
+  </section>
   </grid-body><script id="page-global.js" type="text/javascript" data-type="js"></script>
