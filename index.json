@@ -150,51 +150,53 @@ section h1 {
   
   
   
-  <section id="DYNreyf" data-type="section">  
+  
+  
+  <section id="GxDrOeu" data-type="section">  
       <!--CSS-->
       <grid-css>
-        <style id="aAHbsMs" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#WCJgYjj {
+        <style id="fDWSzHa" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#PkYbESr {
   display: grid;
   padding:100px;
 }
 </style>
-        <style id="DiNjGkI" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
-  grid-content#WCJgYjj{
+        <style id="oUjDaHz" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
+  grid-content#PkYbESr{
     display: grid;
   }
   }</style>
-        <style id="CmJUIwc" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
-  grid-content#WCJgYjj{
+        <style id="emXQavs" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
+  grid-content#PkYbESr{
     display: grid;
   }}</style>
       </grid-css>  
       <!--BG-->
-      <grid-bg id="iXknosq" data-type="grid-bg">
+      <grid-bg id="sXaYnym" data-type="grid-bg">
           <!-- bg-color -->
-          <grid-bg-color id="iExLnAm" data-type="grid-bg-color" class="div-visible" style="background-color: rgba(255, 255, 255, 1);"></grid-bg-color> 
+          <grid-bg-color id="hOJlgJT" data-type="grid-bg-color" class="div-visible" style="background-color: rgba(255, 255, 255, 1);"></grid-bg-color> 
           <!-- bg-image -->
-          <grid-bg-image id="qlRatHr" data-type="grid-bg-image" class="div-hidden">
-            <picture id="uqrDpiL">
+          <grid-bg-image id="MXMXnIv" data-type="grid-bg-image" class="div-hidden">
+            <picture id="QTtQyHx">
               <source srcset="" media="(max-width:640px)">
               <source srcset="" media="(min-width:641px) and (max-width:1024px)">
-              <img id="gSJYVZM" src="https://images.unsplash.com/photo-1470337458703-46ad1756a187?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyM3x8Zm9vZHxlbnwwfDB8fHwxNzE2ODM1NjIzfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-bg" loading="lazy">
+              <img id="lqRqdhC" src="https://images.unsplash.com/photo-1470337458703-46ad1756a187?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyM3x8Zm9vZHxlbnwwfDB8fHwxNzE2ODM1NjIzfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-bg" loading="lazy">
             </picture>
           </grid-bg-image> 
           <!-- bg-video -->
-          <grid-bg-video id="dWmsOgi" data-type="grid-bg-video" class="div-hidden">
-            <video id="QFeHveH" autoplay="" loop="" muted="" loading="lazy" data-type="video-bg" src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4"></video>
+          <grid-bg-video id="jxNeVWi" data-type="grid-bg-video" class="div-hidden">
+            <video id="jcvxnRV" autoplay="" loop="" muted="" loading="lazy" data-type="video-bg" src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4"></video>
           </grid-bg-video> 
       </grid-bg>
       <!-- grid-container -->
-      <grid-container id="TRnIjLA" data-type="grid-container">
+      <grid-container id="seBPEMp" data-type="grid-container">
         <!-- grid-content -->
-        <grid-content id="WCJgYjj" contenteditable="false" data-type="html">
-         <p id="bjXqJks" contenteditable="true">Press enter to add content here...</p>
+        <grid-content id="PkYbESr" contenteditable="false" data-type="html">
+         <p id="TyutgGZ" contenteditable="true">Press enter to add content here...</p>
         </grid-content>
         <grid-edit-section class="grid-edit-section no-export" contenteditable="false" data-type="grid-edit-section"> 
           <div class="edit-ia">
-            <button contenteditable="false" class="section-magic-btn" onclick="alert('WCJgYjj')"><img src="../global/patterns/icons/assistant.svg"> IA Assistant </button>
-            <button contenteditable="false" class="section-shorcuts-btn" onclick="toolsOpenModal(this)"><img src="../global/patterns/icons/shortcuts.svg"> IA Shortcuts</button>
+            <button contenteditable="false" class="section-assistant-btn" onclick="alert('PkYbESr')"><img src="../global/patterns/icons/assistant.svg"> IA Assistant </button>
+            <button contenteditable="false" class="section-shortcuts-btn" onclick="alert('PkYbESr')"><img src="../global/patterns/icons/shortcuts.svg"> IA Shortcuts</button>
           </div>
           <div class="edit-settings">
             <button contenteditable="false" class="section-open-modal" onclick="toolsOpenModal(this)">⋮</button>
@@ -202,6 +204,6 @@ section h1 {
         </grid-edit-section> 
       </grid-container>
       <!--JS-->
-        <script id="bAodtMz" data-type="js"></script>  
+        <script id="XDltRqa" data-type="js"></script>  
   </section>
   </grid-body><script id="page-global.js" type="text/javascript" data-type="js"></script>
