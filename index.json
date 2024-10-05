@@ -21,7 +21,7 @@ grid-page{
 }
 grid-body{
     display:grid;
-    max-width:1300px;
+    max-width:900px;
     padding:var(--web-padding);
     gap:var(--web-gap);
     margin: 0 auto;
@@ -203,7 +203,64 @@ section h1 {
       <!-- grid-container -->
       <grid-container id="VtqlFGq" data-type="grid-container">
         <!-- grid-content -->
-        <grid-content id="dJBVQXT" contenteditable="false" data-type="html"></grid-content>
+        <grid-content id="dJBVQXT" contenteditable="false" data-type="html"><article id="article-maradona-legacy">
+    <h1 id="title-diego-maradona">Diego Maradona: La Leyenda del Fútbol</h1>
+    <img id="hero-image-maradona" src="./js/quickbars/empty.png" alt="Diego Maradona, la leyenda del fútbol">
+
+    <nav id="table-of-contents">
+        <h2 id="toc-title">Tabla de Contenidos</h2>
+        <ul>
+            <li><a href="#section-inicio">Inicio de una leyenda</a></li>
+            <li><a href="#section-gloria">Alcanzando la gloria</a></li>
+            <li><a href="#section-controversias">Controversias y desafíos</a></li>
+            <li><a href="#section-legado">Legado eterno</a></li>
+            <li><a href="#section-influencia">Influencia en la cultura popular</a></li>
+        </ul>
+    </nav>
+
+    <section id="section-inicio">
+        <h2 id="heading-inicio">Inicio de una leyenda</h2>
+        <p>Diego Armando Maradona, nacido el 30 de octubre de 1960 en Villa Fiorito, Argentina, emergió como una de las figuras más prominentes en la historia del <strong>fútbol</strong>. Desde una edad temprana, Maradona mostró un talento <strong>innato</strong> para el deporte. Su increíble destreza con el balón y su capacidad para leer el juego lo llevaron rápidamente a la atención de los clubes de élite.</p>
+    </section>
+
+    <section id="section-gloria">
+        <h2 id="heading-gloria">Alcanzando la gloria</h2>
+        <p>Maradona alcanzó el pináculo de su carrera en la <strong>Copa Mundial de la FIFA 1986</strong>, donde capitaneó a la selección argentina hacia la victoria. Sus actuaciones en el torneo incluyeron el famoso gol conocido como la "Mano de Dios" y el inolvidable "Gol del Siglo" contra Inglaterra, que dejaron una marca indeleble en la historia del fútbol.</p>
+    </section>
+
+    <section id="section-controversias">
+        <h2 id="heading-controversias">Controversias y desafíos</h2>
+        <p>A pesar de su éxito en el campo, la vida de Maradona estuvo marcada por una serie de <strong>controversias</strong> y desafíos <strong>personales</strong>. Estos incluyeron problemas de abuso de sustancias, conflictos con los medios y dificultades legales. Sin embargo, su pasión por el fútbol nunca desapareció, y continuó inspirando a jugadores y fanáticos por igual.</p>
+    </section>
+
+    <section id="section-legado">
+        <h2 id="heading-legado">Legado eterno</h2>
+        <p>El <strong>legado de Diego Maradona</strong> trasciende las estadísticas y los trofeos. Su estilo de juego, su habilidad única y su personalidad carismática lo convirtieron en un ícono global. Tanto aficionados como expertos lo consideran uno de los mejores jugadores de todos los tiempos, y su influencia en el deporte sigue siendo profunda.</p>
+    </section>
+
+    <section id="section-influencia">
+        <h2 id="heading-influencia">Influencia en la cultura popular</h2>
+        <p>La influencia de Maradona se extiende más allá del campo. Ha sido objeto de documentales, películas y canciones, y ha dejado una impresión duradera en la cultura popular. Su figura es venerada en todo el mundo, especialmente en su querido hogar, <strong>Argentina</strong>, donde es visto casi como una figura mítica.</p>
+    </section>
+
+    <aside id="faq-maradona">
+        <h2 id="faq-title">Preguntas Frecuentes</h2>
+        <ul>
+            <li><strong>¿Cuándo nació Diego Maradona?</strong> Diego Maradona nació el 30 de octubre de 1960.</li>
+            <li><strong>¿Cuál fue el logro más significativo de Maradona?</strong> Su logro más destacado fue ganar la Copa Mundial de la FIFA 1986 con Argentina.</li>
+            <li><strong>¿Cuál es el famoso gol conocido como la "Mano de Dios"?</strong> Es un gol que Maradona anotó con la mano durante el partido contra Inglaterra en la Copa Mundial de 1986.</li>
+            <li><strong>¿Cómo afectaron las controversias personales a Maradona?</strong> Las controversias personales marcaron su vida fuera del campo, aunque no disminuyeron su impacto en el fútbol.</li>
+            <li><strong>¿Cuál es el legado de Maradona en el fútbol?</strong> Maradona es recordado como uno de los mejores futbolistas de la historia, con un legado que inspira a muchas generaciones.</li>
+        </ul>
+    </aside>
+
+    <footer id="summary-maradona">
+        <h2 id="summary-title">Resumen</h2>
+        <p>Diego Maradona es sinónimo de talento, controversia y un legado incuestionable en la historia del fútbol. Desde su asombroso debut hasta su liderazgo en el Mundial de 1986, su vida estuvo llena de altos y bajos que definieron no solo su carrera, sino también su influencia en la cultura popular. Aunque su vida estuvo llena de desafíos, su impacto positivo en el deporte seguirá siendo recordado por siempre.</p>
+    </footer>
+
+    <h6 id="keywords-maradona">Palabras clave: Diego Maradona, fútbol, Mundial 1986, Argentina, legado, Mano de Dios, influencia cultural, controversias.</h6>
+</article></grid-content>
         <grid-edit-section class="grid-edit-section no-export" contenteditable="false" data-type="grid-edit-section"> 
           <div class="edit-ia">
             <button contenteditable="false" class="section-assistant-btn" onclick="openIaAssistant('aigAQoS','dJBVQXT')"><img src="../global/file/assistant.svg"> IA Assistant </button>
