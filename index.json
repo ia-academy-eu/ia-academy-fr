@@ -25,6 +25,7 @@ grid-body{
     padding:var(--web-padding);
     gap:var(--web-gap);
     margin: 0 auto;
+    background:white;
 }
 
 section {
