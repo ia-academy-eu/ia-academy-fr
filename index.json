@@ -165,14 +165,12 @@ section h1 {
   <section id="tgPsnYb" data-type="section">  
       <!--CSS-->
       <grid-css>
-        <style id="YvBxiNY" type="text/css" data-type="css" data-size="laptop" data-content="section">
-  
-  grid-content#okShDOe{
-    display: grid;
-    padding:35px;
-    grid-template-columns:1fr;
-  }
-  </style>
+        <style id="YvBxiNY" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#okShDOe {
+  display: grid;
+  padding: 100px;
+  grid-template-columns: 1fr;
+}
+</style>
         <style id="UnTdYBy" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
   grid-content#okShDOe{
     display: grid;
