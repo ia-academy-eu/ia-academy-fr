@@ -244,5 +244,8 @@ section h1 {
     <a href="www" id="yvsDrTW" contenteditable="true" style="display: inline-block; background-color: #ff4500; color: #ffffff; padding: 10px 30px; text-decoration: none; border-radius: 25px; font-weight: bold; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: background-color 0.3s ease;">
         Contactez-nous
     </a>
+    <a href="tel:+123456789" id="callButton" style="display: inline-block; background-color: #228b22; color: #ffffff; padding: 10px 30px; text-decoration: none; border-radius: 25px; font-weight: bold; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: background-color 0.3s ease; margin-left: 10px;" contenteditable="true">
+        Appelez-nous
+    </a>
 </section>
 </article></grid-content><grid-edit-section class="grid-edit-section no-export" contenteditable="false" data-type="grid-edit-section"><div class="edit-ia"><button contenteditable="false" class="section-assistant-btn" onclick="openIaAssistant('aigAQoS','dJBVQXT')"><img src="../global/file/assistant.svg"> IA Assistant </button><button contenteditable="false" class="section-shortcuts-btn" onclick="openIaShorcuts('dJBVQXT')"><img src="../global/file/shortcuts.svg"> IA Shortcuts</button></div><div class="edit-settings"><button contenteditable="false" class="section-open-modal" onclick="toolsOpenModal(this)">⋮</button></div></grid-edit-section></grid-container><!--JS--><script id="LKHTfnZ" data-type="js"></script></section></grid-body><script id="page-global.js" type="text/javascript" data-type="js"></script>
