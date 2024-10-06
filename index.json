@@ -238,7 +238,7 @@ section h1 {
         <p id="cIYpVXn" contenteditable="true">AMLO, Andrés Manuel López Obrador, Mexico, corruption, MORENA, economic reform, social programs, international relations, infrastructure, environmental policies</p>
     </section>
 
-    <section data-type="cta" id="WwqRQjP" contenteditable="true" style="background-color: #f0f8ff; padding: 40px; border-radius: 5px;">
+    <section data-type="cta" id="WwqRQjP" contenteditable="true" style="background-color: #f0f8ff; padding: clamp(20px, 5vw, 40px); border-radius: 5px;">
     <h2 id="afnqbiF" contenteditable="true">AIOO7 - IA Web Agency</h2>
     <p id="nEfxIWn" contenteditable="true">Votre agence IA à Montpellier pour automatiser vos taches dans votre entreprise</p>
     <a href="www" id="yvsDrTW" contenteditable="true" style="display: inline-block; background-color: #ff4500; color: #ffffff; padding: 10px 30px; text-decoration: none; border-radius: 25px; font-weight: bold; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: background-color 0.3s ease;">
