@@ -148,62 +148,48 @@ section h1 {
   }</style><style id="PkEemlH" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
   grid-content#dJBVQXT{
     display: grid;
-  }}</style></grid-css><!--BG--><grid-bg id="hLoiWlD" data-type="grid-bg"><!-- bg-color --><grid-bg-color id="nekbvjf" data-type="grid-bg-color" class="div-visible" style="background-color: rgba(255, 255, 255, 1);"></grid-bg-color><!-- bg-image --><grid-bg-image id="JMxzaPm" data-type="grid-bg-image" class="div-hidden"><picture id="ECaIwBa"><source srcset="" media="(max-width:640px)"><source srcset="" media="(min-width:641px) and (max-width:1024px)"><img id="MniCgWy" src="https://images.unsplash.com/photo-1470337458703-46ad1756a187?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyM3x8Zm9vZHxlbnwwfDB8fHwxNzE2ODM1NjIzfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-bg" loading="lazy"></picture></grid-bg-image><!-- bg-video --><grid-bg-video id="rzFAHPm" data-type="grid-bg-video" class="div-hidden"><video id="gCEptxc" autoplay="" loop="" muted="" loading="lazy" data-type="video-bg" src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4"></video></grid-bg-video></grid-bg><!-- grid-container --><grid-container id="VtqlFGq" data-type="grid-container"><!-- grid-content --><grid-content id="dJBVQXT" contenteditable="false" data-type="html"><article id="sLZQj90">
-    <h1 id="WfsHg2b" contenteditable="true">La vida extraterrestre: explorando lo desconocido</h1>
-    <img id="ldBoCxk" src="./js/quickbars/empty.png" data-type="image-fg" loading="lazy" alt="Imagen ilustrativa sobre vida extraterrestre" contenteditable="true">
-
-    <nav id="uKJH3Rt" contenteditable="true">
-        <h2 id="WpijEYA" contenteditable="true">Tabla de Contenidos</h2>
-        <ul id="WjNDaJv" contenteditable="true">
-            <li id="JqmuHHE" contenteditable="true"><a href="#HistoriaExploracion" id="yxIDmNj" contenteditable="true">Historia de la exploración espacial</a></li>
-            <li id="VnykTAS" contenteditable="true"><a href="#TeoriasSobreVida" id="lKPRQpX" contenteditable="true">Teorías sobre la vida extraterrestre</a></li>
-            <li id="zdnBlQq" contenteditable="true"><a href="#EvidenciaActual" id="JUxJRYT" contenteditable="true">Evidencia actual de vida extraterrestre</a></li>
-            <li id="McrKSCN" contenteditable="true"><a href="#ImportanciaInvestigacion" id="WaIgzqN" contenteditable="true">Importancia de la investigación</a></li>
-            <li id="UrkPwXt" contenteditable="true"><a href="#FuturoExploracion" id="kqtrYB0" contenteditable="true">El futuro de la exploración espacial</a></li>
+  }}</style></grid-css><!--BG--><grid-bg id="hLoiWlD" data-type="grid-bg"><!-- bg-color --><grid-bg-color id="nekbvjf" data-type="grid-bg-color" class="div-visible" style="background-color: rgba(255, 255, 255, 1);"></grid-bg-color><!-- bg-image --><grid-bg-image id="JMxzaPm" data-type="grid-bg-image" class="div-hidden"><picture id="ECaIwBa"><source srcset="" media="(max-width:640px)"><source srcset="" media="(min-width:641px) and (max-width:1024px)"><img id="MniCgWy" src="https://images.unsplash.com/photo-1470337458703-46ad1756a187?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyM3x8Zm9vZHxlbnwwfDB8fHwxNzE2ODM1NjIzfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-bg" loading="lazy"></picture></grid-bg-image><!-- bg-video --><grid-bg-video id="rzFAHPm" data-type="grid-bg-video" class="div-hidden"><video id="gCEptxc" autoplay="" loop="" muted="" loading="lazy" data-type="video-bg" src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4"></video></grid-bg-video></grid-bg><!-- grid-container --><grid-container id="VtqlFGq" data-type="grid-container"><!-- grid-content --><grid-content id="dJBVQXT" contenteditable="false" data-type="html"><article id="article_elpwnz">
+    <h1 id="h1_ewr83" contenteditable="true">Explorando Marte: El Planeta Rojo</h1>
+    <img id="iWwmxtm" src="./js/quickbars/empty.png" data-type="image-fg" loading="lazy" contenteditable="true">
+    
+    <nav id="toc_nav" contenteditable="true">
+        <h2 id="toc_header_yri3p" contenteditable="true">Tabla de Contenidos</h2>
+        <ul id="toc_list_bcleu" contenteditable="true">
+            <li id="IusVVVB" contenteditable="true"><a href="#h2_origi" id="nwpqIIi" contenteditable="true">Introducción a Marte</a></li>
+            <li id="zCwsGFO" contenteditable="true"><a href="#h3_fero2" id="XrbJnQh" contenteditable="true">La Geografía de Marte</a></li>
+            <li id="wtIZaPb" contenteditable="true"><a href="#h3_slk3e" id="QsguVDD" contenteditable="true">El Clima Marciano</a></li>
+            <li id="VwdXsvh" contenteditable="true"><a href="#h3_aewro" id="biesijN" contenteditable="true">Misiones y Exploraciones</a></li>
+            <li id="pYgwbRm" contenteditable="true"><a href="#h3_xweyr" id="TMeVqLI" contenteditable="true">Futuro de la Exploración Espacial</a></li>
         </ul>
     </nav>
 
-    <section id="HistoriaExploracion" contenteditable="true">
-        <h2 id="pxanFTF" contenteditable="true">Historia de la exploración espacial</h2>
-        <p id="cXPZNwx" contenteditable="true">Desde los primeros esfuerzos de las civilizaciones antiguas por comprender el cielo nocturno hasta las misiones modernas de la NASA, la humanidad siempre ha estado fascinada con la búsqueda de <strong id="diQOgFA" contenteditable="true">vida extraterrestre</strong>. A lo largo de los años, se han enviado numerosas misiones al espacio, cada una con el objetivo de entender mejor nuestro lugar en el universo y encontrar evidencia de vida más allá de la Tierra.</p>
-    </section>
+    <h2 id="h2_origi" contenteditable="true">Introducción a Marte</h2>
+    <p id="p_1qazx" contenteditable="true">Marte, conocido como el <strong id="XgsStNG" contenteditable="true">Planeta Rojo</strong>, ha capturado la imaginación del ser humano desde tiempos inmemoriales. Este planeta es el cuarto en distancia desde el Sol y ha sido objeto de estudios debido a su proximidad y similitudes potenciales con la Tierra. La investigación sobre Marte podría proporcionar respuestas vitales sobre la existencia de vida fuera de nuestro planeta y el futuro de la colonización espacial.</p>
 
-    <section id="TeoriasSobreVida" contenteditable="true">
-        <h2 id="IfjgXHG" contenteditable="true">Teorías sobre la vida extraterrestre</h2>
-        <p id="wUyaoEv" contenteditable="true">Existen multitud de teorías sobre cómo podría existir la vida fuera de nuestro planeta. Algunas sugieren que la vida podría formarse bajo condiciones similares a las de la Tierra, mientras que otras especulan sobre formas de vida completamente diferentes basadas en bioquímicas no conocidas por nosotros. Estas teorías se ven reforzadas por el descubrimiento de exoplanetas en la <strong id="yvzFyqj" contenteditable="true">zona habitable</strong> de otras estrellas.</p>
-    </section>
+    <h3 id="h3_fero2" contenteditable="true">La Geografía de Marte</h3>
+    <p id="p_9weou" contenteditable="true">El paisaje marciano es notablemente variado. Dominado por vastas planicies, grandes cañones y volcanes masivos, Marte presenta una topografía única que fascina a los científicos. La montaña más alta del sistema solar, el <strong id="mDRLuWx" contenteditable="true">Monte Olimpo</strong>, también se encuentra en Marte. Este volcán extinto es tres veces la altura del Monte Everest y representa una fascinante área de estudio para los geólogos.</p>
 
-    <section id="EvidenciaActual" contenteditable="true">
-        <h2 id="sJkAkvg" contenteditable="true">Evidencia actual de vida extraterrestre</h2>
-        <p id="tOADpmk" contenteditable="true">A pesar de décadas de búsqueda, no hemos encontrado evidencia concluyente de vida extraterrestre. Sin embargo, ha habido descubrimientos intrigantes que sugieren su posible existencia, como los organismos extremófilos en la Tierra que pueden sobrevivir en condiciones extremas, y <strong id="lGBrfrw" contenteditable="true">señales de radio</strong> inexplicables provenientes del espacio profundo que han despertado interés entre los científicos.</p>
-    </section>
+    <h3 id="h3_slk3e" contenteditable="true">El Clima Marciano</h3>
+    <p id="p_ovrtu" contenteditable="true">El <strong id="PbbDJsz" contenteditable="true">clima en Marte</strong> es frío y seco, con una atmósfera delgada compuesta principalmente de dióxido de carbono. Las temperaturas en la superficie pueden variar significativamente, desde cálidos días de verano cerca del ecuador con temperaturas alrededor de 20 grados Celsius, a noches frías en los polos con temperaturas que caen hasta -125 grados Celsius. Marte también es conocido por sus tormentas de polvo, que pueden abarcar el planeta entero.</p>
 
-    <section id="ImportanciaInvestigacion" contenteditable="true">
-        <h2 id="JsCOcTK" contenteditable="true">Importancia de la investigación</h2>
-        <p id="SaMwxYe" contenteditable="true">La búsqueda de vida inteligente más allá de nuestro planeta es fundamental para expandir nuestro entendimiento científico y filosófico del universo. Además, entender cómo podría desarrollarse la vida en diferentes condiciones ayudará a los científicos a prepararse para futuros descubrimientos y podría incluso revolucionar nuestras prácticas tecnológicas y médicas.</p>
-    </section>
+    <h3 id="h3_aewro" contenteditable="true">Misiones y Exploraciones</h3>
+    <p id="p_er34q" contenteditable="true">Desde que la humanidad ha comenzado a explorar Marte, ha habido numerosas misiones exitosas que han proporcionado valiosa información. Misiones como el <strong id="dxhQzpu" contenteditable="true">Curiosity Rover</strong>, la sonda <strong id="sQIjbwd" contenteditable="true">Perseverance</strong>, y el <strong id="apcPWXR" contenteditable="true">Opportunity Rover</strong> han sido clave para revelar la geografía, clima y posibles indicios de vida en Marte. Estas misiones continúan atrayendo la atención de agencias espaciales como la NASA y ESA.</p>
 
-    <section id="FuturoExploracion" contenteditable="true">
-        <h2 id="kzHuNmF" contenteditable="true">El futuro de la exploración espacial</h2>
-        <p id="IgUpSiM" contenteditable="true">Las próximas décadas prometen avances significativos en tecnología y ciencia espacial. Proyectos como las misiones a <strong id="GEizUCQ" contenteditable="true">Marte</strong> y las sondas interestelares buscan profundizar nuestro conocimiento sobre la posibilidad de vida extraterrestre. Estos esfuerzos no solo aumentarán nuestro entendimiento del cosmos, sino que también podrían descubrir nuevas formas de vida y recursos que beneficien a la humanidad.</p>
-    </section>
-    
-    <section id="FAQ" contenteditable="true">
-        <h2 id="rePaaRf" contenteditable="true">Preguntas Frecuentes</h2>
-        <ol id="scHMTCL" contenteditable="true">
-            <li id="zRElCFM" contenteditable="true"><strong id="BtcRIBl" contenteditable="true">¿Existe la vida extraterrestre?</strong> Hasta ahora, no hay evidencia concluyente, pero la búsqueda continúa.</li>
-            <li id="bmHCjjp" contenteditable="true"><strong id="tfacABk" contenteditable="true">¿Por qué es importante buscar vida extraterrestre?</strong> Ayuda a entender mejor el universo y podría tener aplicaciones tecnológicas y médicas.</li>
-            <li id="tgdHZQW" contenteditable="true"><strong id="hJKFZhQ" contenteditable="true">¿Qué son los extremófilos?</strong> Organismos que pueden sobrevivir en condiciones extremas, sugiriendo posibilidades para la vida en otros planetas.</li>
-            <li id="AVNUaTO" contenteditable="true"><strong id="XUAdhHz" contenteditable="true">¿Qué avances podemos esperar en la exploración espacial?</strong> Misiones a Marte y sondas interestelares están en desarrollo.</li>
-            <li id="ByQhofM" contenteditable="true"><strong id="hbeZsuM" contenteditable="true">¿Dónde se están centrando las investigaciones actuales?</strong> Se investiga principalmente en planetas y lunas del sistema solar y en exoplanetas en zonas habitables.</li>
-        </ol>
-    </section>
+    <h3 id="h3_xweyr" contenteditable="true">Futuro de la Exploración Espacial</h3>
+    <p id="p_js9dk" contenteditable="true">El futuro de la <strong id="fsIXVxH" contenteditable="true">exploración de Marte</strong> parece prometedor. Con planes para enviar misiones tripuladas por parte de empresas como SpaceX, junto con colaboraciones internacionales, el siguiente gran paso en la exploración del planeta es la colonización. Marte representa la mejor opción para una colonia humana fuera de la Tierra dada su similitud ambiental y recursos, potencialmente utilizables para crear un hábitat sustentable en el futuro.</p>
 
-    <section id="Summary" contenteditable="true">
-        <h2 id="mZgoYQp" contenteditable="true">Resumen</h2>
-        <p id="pTykgRL" contenteditable="true">La búsqueda de vida extraterrestre ha sido una constante a lo largo de la historia humana. Desde las primeras observaciones del cielo hasta las misiones espaciales modernas, la humanidad ha estado impulsada por el deseo de comprender si estamos solos en el universo. Aunque no se ha encontrado evidencia concluyente hasta el momento, las teorías y los descubrimientos recientes mantienen viva la esperanza de que algún día encontremos vida más allá de nuestro planeta. La importancia de esta búsqueda reside en su potencial para expandir nuestro conocimiento y posiblemente ofrecer beneficios tecnológicos y médicos a la humanidad.</p>
-    </section>
+    <h2 id="faq_header_iou3x" contenteditable="true">Preguntas Frecuentes</h2>
+    <ul id="faq_list_owp98" contenteditable="true">
+        <li id="QUPGIHl" contenteditable="true"><strong id="YsmoXIA" contenteditable="true">¿Por qué Marte es llamado el Planeta Rojo?</strong> Marte es llamado el Planeta Rojo debido a la característica coloración de su superficie rica en óxidos de hierro.</li>
+        <li id="UPebHDi" contenteditable="true"><strong id="iDaUmsW" contenteditable="true">¿Cuál es el objetivo principal de las misiones a Marte?</strong> El objetivo principal es buscar signos de vida pasada o presente y estudiar el clima y geología para futuras exploraciones humanas.</li>
+        <li id="ZfideBy" contenteditable="true"><strong id="cqAnNsf" contenteditable="true">¿Por qué cambia el clima en Marte?</strong> El clima cambia debido a su inclinación axial y la órbita elíptica que provoca variaciones estacionales significativas.</li>
+        <li id="TraddCR" contenteditable="true"><strong id="ejBjInq" contenteditable="true">¿Qué desafíos enfrentan las misiones humanas a Marte?</strong> Desafíos incluyen la radiación espacial, el tiempo de viaje prolongado y la necesidad de transportar suficientes recursos.</li>
+        <li id="hkihYZj" contenteditable="true"><strong id="VFKjmhh" contenteditable="true">¿Cómo contribuyen las tormentas de polvo al clima marciano?</strong> Las tormentas de polvo alteran las temperaturas y condiciones climáticas, afectando las observaciones y operaciones en la superficie.</li>
+    </ul>
 
-    <h5 id="uoeEtdY" contenteditable="true">Keywords:</h5>
-    <p id="oDiQokR" contenteditable="true">vida extraterrestre, exploración espacial, teoría, señales de radio, extremófilos, Marte, La NASA, exoplanetas, universo, misión espacial.</p>
+    <h3 id="summary_header" contenteditable="true">Resumen del Artículo</h3>
+    <p id="summary_paragraph" contenteditable="true">Marte, un árido y enigmático planeta, ha sido un foco de interés para científicos y exploradores durante décadas. Conocido por su geografía y clima distintivos, este destino prometedor es central para el futuro de la exploración humana. A medida que las misiones continúan y los planes de colonización avanzan, Marte no solo representa un objetivo científico sino también un posible nuevo hogar para la humanidad.</p>
+
+    <h5 id="keywords_header" contenteditable="true">Keywords:</h5>
+    <p id="keywords_paragraph" contenteditable="true"><strong id="QrrHmEf" contenteditable="true">Marte, Planeta Rojo, exploración espacial, Monte Olimpo, clima marciano, misiones a Marte, colonización de Marte, tormentas de polvo, vida en Marte.</strong></p>
 </article></grid-content><grid-edit-section class="grid-edit-section no-export" contenteditable="false" data-type="grid-edit-section"><div class="edit-ia"><button contenteditable="false" class="section-assistant-btn" onclick="openIaAssistant('aigAQoS','dJBVQXT')"><img src="../global/file/assistant.svg"> IA Assistant </button><button contenteditable="false" class="section-shortcuts-btn" onclick="openIaShorcuts('dJBVQXT')"><img src="../global/file/shortcuts.svg"> IA Shortcuts</button></div><div class="edit-settings"><button contenteditable="false" class="section-open-modal" onclick="toolsOpenModal(this)">⋮</button></div></grid-edit-section></grid-container><!--JS--><script id="LKHTfnZ" data-type="js"></script></section></grid-body><script id="page-global.js" type="text/javascript" data-type="js"></script>
