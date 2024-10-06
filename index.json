@@ -225,8 +225,8 @@ section h1 {
         <p id="bRDyVRF" contenteditable="true">Artificial Intelligence, AI, healthcare, finance, education, machine learning, neural networks, future of AI</p>
     </section>
 
-    <section data-type="cta" id="vxwMUwc" contenteditable="true">
-        <h2 id="IGWNguf" contenteditable="true">Explore AI Solutions with IA007</h2>
-        <p id="bMGgpJS" contenteditable="true">Partner with IA007 for cutting-edge AI solutions tailored to your industry needs. Our expert team will help you harness the power of AI to unlock new opportunities. Ready to transform your business? <a href="https://www.ia007.com" id="ajjaktn" contenteditable="true">Contact us today!</a></p>
-    </section>
+    <section data-type="cta" id="vxwMUwc" contenteditable="true" style="background: linear-gradient(to right, #e0eafc, #cfdef3);">
+    <h2 id="IGWNguf" contenteditable="true">Explore AI Solutions with IA007</h2>
+    <p id="bMGgpJS" contenteditable="true">Partner with IA007 for cutting-edge AI solutions tailored to your industry needs. Our expert team will help you harness the power of AI to unlock new opportunities. Ready to transform your business? <a href="https://www.ia007.com" id="ajjaktn" contenteditable="true">Contact us today!</a></p>
+</section>
 </article></grid-content><grid-edit-section class="grid-edit-section no-export" contenteditable="false" data-type="grid-edit-section"><div class="edit-ia"><button contenteditable="false" class="section-assistant-btn" onclick="openIaAssistant('aigAQoS','dJBVQXT')"><img src="../global/file/assistant.svg"> IA Assistant </button><button contenteditable="false" class="section-shortcuts-btn" onclick="openIaShorcuts('dJBVQXT')"><img src="../global/file/shortcuts.svg"> IA Shortcuts</button></div><div class="edit-settings"><button contenteditable="false" class="section-open-modal" onclick="toolsOpenModal(this)">⋮</button></div></grid-edit-section></grid-container><!--JS--><script id="LKHTfnZ" data-type="js"></script></section></grid-body><script id="page-global.js" type="text/javascript" data-type="js"></script>
