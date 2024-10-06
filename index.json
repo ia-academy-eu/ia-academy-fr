@@ -231,16 +231,16 @@ section h1 {
         <p id="LUEigmP" contenteditable="true">Con la mayor parte del <strong id="ewFGuId" contenteditable="true">consumo de información</strong> ocurriendo en línea, es lógico que las empresas estén invirtiendo en el marketing digital. Este enfoque permite una segmentación más precisa del público objetivo y provee **métricas detalladas** para la toma de decisiones. Además, el marketing online ofrece una <strong id="tynzqEq" contenteditable="true">relacionabilidad costo-efectiva</strong>, permitiendo tanto a grandes como a pequeñas empresas competir en el mismo espacio.</p>
     </section>
 
-    <section id="strategies" contenteditable="true">
-        <h2 id="EsSONeb" contenteditable="true">Principales Estrategias de Marketing Online</h2>
-        <ul id="XnSPCsr" contenteditable="true">
-            <li id="AgEYZXR" contenteditable="true"><strong id="aORiwSw" contenteditable="true">SEO</strong>: Optimización de motores de búsqueda para aumentar la visibilidad del sitio web.</li>
-            <li id="rINVbQl" contenteditable="true"><strong id="aeTZPLq" contenteditable="true">Marketing de Contenidos</strong>: Creación y distribución de contenido relevante para atraer y retener a una audiencia.</li>
-            <li id="TdAwZYm" contenteditable="true"><strong id="ZVHAFOg" contenteditable="true">Publicidad en Redes Sociales</strong>: Campañas pagadas para aumentar la notoriedad de marca a través de plataformas sociales.</li>
-            <li id="phmJJBw" contenteditable="true"><strong id="gUfWRhD" contenteditable="true">Email Marketing</strong>: Envío de mensajes personalizados directamente a la bandeja de entrada de los clientes.</li>
-            <li id="ixdpHRb" contenteditable="true"><strong id="rFhtcWc" contenteditable="true">Marketing de Influencers</strong>: Colaboraciones con influencers para llegar a un público más amplio.</li>
-        </ul>
-    </section>
+    <section id="strategies" contenteditable="true" style="">
+    <h2 id="EsSONeb" contenteditable="true">Principales Estrategias de Marketing Online</h2>
+    <ol id="XnSPCsr" contenteditable="true">
+        <li id="AgEYZXR" contenteditable="true"><strong id="aORiwSw" contenteditable="true">SEO</strong>: Optimización de motores de búsqueda para aumentar la visibilidad del sitio web.</li>
+        <li id="rINVbQl" contenteditable="true"><strong id="aeTZPLq" contenteditable="true">Marketing de Contenidos</strong>: Creación y distribución de contenido relevante para atraer y retener a una audiencia.</li>
+        <li id="TdAwZYm" contenteditable="true"><strong id="ZVHAFOg" contenteditable="true">Publicidad en Redes Sociales</strong>: Campañas pagadas para aumentar la notoriedad de marca a través de plataformas sociales.</li>
+        <li id="phmJJBw" contenteditable="true"><strong id="gUfWRhD" contenteditable="true">Email Marketing</strong>: Envío de mensajes personalizados directamente a la bandeja de entrada de los clientes.</li>
+        <li id="ixdpHRb" contenteditable="true"><strong id="rFhtcWc" contenteditable="true">Marketing de Influencers</strong>: Colaboraciones con influencers para llegar a un público más amplio.</li>
+    </ol>
+</section>
 
     <section id="tools" contenteditable="true" style="font-family: Arial, sans-serif; font-size: 18px; line-height: 1.6; color: #333;">
     <h2 id="fbXBorx" contenteditable="true">Herramientas Esenciales para el Éxito del Marketing Online</h2>
