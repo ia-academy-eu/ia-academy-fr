@@ -168,15 +168,15 @@ section h1 {
         <p id="SOWISvU" contenteditable="true">Marijuana was once legal around the world, but in the early 20th century, global views shifted, leading to widespread prohibition. This section explores how marijuana's perception and legality have evolved over the centuries.</p>
     </section>
 
-    <section id="medical-use-of-marijuana" contenteditable="true">
-        <h2 id="OipSrWa" contenteditable="true">Medical Use of Marijuana</h2>
-        <p id="UodBbkL" contenteditable="true">Marijuana is increasingly recognized for its potential health benefits. Known to aid in conditions like chronic pain and anxiety, research continues to explore its wide array of therapeutic applications.</p>
-        <ul id="ycgZKlP" contenteditable="true">
-            <li id="EmODJpK" contenteditable="true"><strong id="avoXNVj" contenteditable="true">Pain Management:</strong> Effective in relieving chronic pain.</li>
-            <li id="yvmqLSc" contenteditable="true"><strong id="qPrSCkJ" contenteditable="true">Neurological Disorders:</strong> Offers relief for neurological conditions such as epilepsy.</li>
-            <li id="hRaRBAK" contenteditable="true"><strong id="GJuNcZc" contenteditable="true">Mental Health:</strong> Potential benefits for anxiety disorders.</li>
-        </ul>
-    </section>
+    <section id="medical-use-of-marijuana" contenteditable="true" style="font-family: Arial, sans-serif; color: #333;">
+    <h2 id="OipSrWa" contenteditable="true">Therapeutic Benefits of Marijuana</h2>
+    <p id="UodBbkL" contenteditable="true">Marijuana is gaining recognition for its potential therapeutic benefits. It is known to assist in managing conditions such as chronic pain and anxiety, and ongoing research continues to uncover its diverse range of health applications.</p>
+    <ul id="ycgZKlP" contenteditable="true">
+        <li id="EmODJpK" contenteditable="true"><strong id="avoXNVj" contenteditable="true">Pain Alleviation:</strong> Demonstrates effectiveness in relieving chronic pain.</li>
+        <li id="yvmqLSc" contenteditable="true"><strong id="qPrSCkJ" contenteditable="true">Neurological Support:</strong> Provides relief for neurological disorders such as epilepsy.</li>
+        <li id="hRaRBAK" contenteditable="true"><strong id="GJuNcZc" contenteditable="true">Mental Wellness:</strong> Shows potential in aiding anxiety disorders.</li>
+    </ul>
+</section>
 
     <section id="legalization-and-regulation" contenteditable="true">
         <h2 id="CvKBwEC" contenteditable="true">Legalization and Regulation</h2>
