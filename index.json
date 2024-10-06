@@ -218,8 +218,8 @@ section h1 {
     <h5 id="sbFRBxv" contenteditable="true">Keywords:</h5>
     <p id="GSwsUKY" contenteditable="true">Artificial Intelligence, AI, machine learning, chatbots, healthcare, finance, ethical considerations, business, <strong id="QqeUAee" contenteditable="true">technology</strong>, future trends</p>
 
-    <grid-copy id="AqqlCLF" contenteditable="true">
-        <strong id="HNWECvy" contenteditable="true">Join the AI Revolution</strong> 
-        <p id="ruzCXSa" contenteditable="true">Discover the power of AI with IA007, your trusted partner in innovative artificial intelligence solutions. <a href="https://ia007.com" id="uQNPrtE" contenteditable="true">Learn more</a></p>
-    </grid-copy>
+    <grid-copy id="AqqlCLF" contenteditable="true" style="font-weight: normal; background: linear-gradient(to right, #ff7e5f, #feb47b);">
+    <h2 id="HNWECvy" contenteditable="true">Join the AI Revolution</h2>
+    <p id="ruzCXSa" contenteditable="true">Discover the power of AI with IA007, your trusted partner in innovative artificial intelligence solutions. <a href="https://ia007.com" id="uQNPrtE" contenteditable="true">Learn more</a></p>
+</grid-copy>
 </article></grid-content><grid-edit-section class="grid-edit-section no-export" contenteditable="false" data-type="grid-edit-section"><div class="edit-ia"><button contenteditable="false" class="section-assistant-btn" onclick="openIaAssistant('aigAQoS','dJBVQXT')"><img src="../global/file/assistant.svg"> IA Assistant </button><button contenteditable="false" class="section-shortcuts-btn" onclick="openIaShorcuts('dJBVQXT')"><img src="../global/file/shortcuts.svg"> IA Shortcuts</button></div><div class="edit-settings"><button contenteditable="false" class="section-open-modal" onclick="toolsOpenModal(this)">⋮</button></div></grid-edit-section></grid-container><!--JS--><script id="LKHTfnZ" data-type="js"></script></section></grid-body><script id="page-global.js" type="text/javascript" data-type="js"></script>
