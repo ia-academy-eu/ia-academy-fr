@@ -210,15 +210,15 @@ section h1 {
     
     <nav id="table_of_contents" contenteditable="true">
         <h2 id="toc_title" contenteditable="true">Tabla de Contenidos</h2>
-        <ul id="LhXpwZw" contenteditable="true">
-            <li id="LDWBthg" contenteditable="true"><a href="#introduction" id="mDOeGMT" contenteditable="true">Introducción al Marketing Online</a></li>
-            <li id="qSGIxVK" contenteditable="true"><a href="#importance" id="DhBQuHw" contenteditable="true">Importancia del Marketing Online</a></li>
-            <li id="tyaOISc" contenteditable="true"><a href="#strategies" id="EznZuTU" contenteditable="true">Principales Estrategias de Marketing Online</a></li>
-            <li id="iRznDji" contenteditable="true"><a href="#tools" id="LZUtWjx" contenteditable="true">Herramientas Esenciales</a></li>
-            <li id="UOCQnsB" contenteditable="true"><a href="#best_practices" id="dkmqSjN" contenteditable="true">Mejores Prácticas de Marketing Online</a></li>
-            <li id="XnDNdEW" contenteditable="true"><a href="#faq_section" id="rsNHZqL" contenteditable="true">Preguntas Frecuentes</a></li>
-            <li id="puzeBxx" contenteditable="true"><a href="#summary" id="iWqliiq" contenteditable="true">Resumen</a></li>
-        </ul>
+        <ul id="LhXpwZw" contenteditable="true" style="list-style-type: decimal;">
+    <li id="LDWBthg" contenteditable="true"><a href="#introduction" id="mDOeGMT" contenteditable="true">Introducción al Marketing Online</a></li>
+    <li id="qSGIxVK" contenteditable="true"><a href="#importance" id="DhBQuHw" contenteditable="true">Importancia del Marketing Online</a></li>
+    <li id="tyaOISc" contenteditable="true"><a href="#strategies" id="EznZuTU" contenteditable="true">Principales Estrategias de Marketing Online</a></li>
+    <li id="iRznDji" contenteditable="true"><a href="#tools" id="LZUtWjx" contenteditable="true">Herramientas Esenciales</a></li>
+    <li id="UOCQnsB" contenteditable="true"><a href="#best_practices" id="dkmqSjN" contenteditable="true">Mejores Prácticas de Marketing Online</a></li>
+    <li id="XnDNdEW" contenteditable="true"><a href="#faq_section" id="rsNHZqL" contenteditable="true">Preguntas Frecuentes</a></li>
+    <li id="puzeBxx" contenteditable="true"><a href="#summary" id="iWqliiq" contenteditable="true">Resumen</a></li>
+</ul>
     </nav>
 
     <section id="introduction" contenteditable="true">
