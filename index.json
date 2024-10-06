@@ -204,7 +204,7 @@ section h1 {
       <!-- grid-container -->
       <grid-container id="VtqlFGq" data-type="grid-container">
         <!-- grid-content -->
-        <grid-content id="dJBVQXT" contenteditable="false" data-type="html"><h1 id="CmwokuE" contenteditable="true">Explorando OpenAI: Innovación y Futuro en Indfdfdfdf teligencia Artificial</h1></grid-content>
+        <grid-content id="dJBVQXT" contenteditable="false" data-type="html"><h1 id="CmwokuE" contenteditable="true">Explorando OpenAI: Innovación y Futuro en Inteligencia Artificial</h1></grid-content>
         <grid-edit-section class="grid-edit-section no-export" contenteditable="false" data-type="grid-edit-section"> 
           <div class="edit-ia">
             <button contenteditable="false" class="section-assistant-btn" onclick="openIaAssistant('aigAQoS','dJBVQXT')"><img src="../global/file/assistant.svg"> IA Assistant </button>
