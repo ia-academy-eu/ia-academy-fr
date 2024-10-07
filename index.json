@@ -11,109 +11,133 @@ div[data-type="post-blog"] {
   
   
   
-  <section id="TdQKdjv" data-type="section-container">  
+  
+  
+  <section id="RvUdBzc" data-type="section-container">  
       <!--CSS-->
       <grid-css>
-        <style id="XDRMKKc" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#wGFplEN {
-  display: grid;
-  grid-template-columns: 1fr;
-}
-</style>
-        <style id="oXWfLCR" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
-  grid-content#wGFplEN{
+        <style id="yIjpjDe" type="text/css" data-type="css" data-size="laptop" data-content="section">
+  
+  grid-content#hGLbWTN{
+    display: grid;
+    padding:35px;
+    grid-template-columns:1fr;
+  }
+  </style>
+        <style id="OAfNEoQ" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
+  grid-content#hGLbWTN{
     display: grid;
   }
   }</style>
-        <style id="KuIqbGH" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
-  grid-content#wGFplEN{
+        <style id="vCgMODK" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
+  grid-content#hGLbWTN{
     display: grid;
   }}</style>
       </grid-css>  
       <!--BG-->
-      <grid-bg id="dWKAlAj" data-type="grid-bg">
+      <grid-bg id="WyNIAWV" data-type="grid-bg">
           <!-- bg-color -->
-          <grid-bg-color id="uLyccSK" data-type="grid-bg-color" class="div-visible" style="background-color: rgba(255, 255, 255, 1);"></grid-bg-color> 
+          <grid-bg-color id="SGhANUB" data-type="grid-bg-color" class="div-visible" style="background-color: rgba(255, 255, 255, 1);"></grid-bg-color> 
           <!-- bg-image -->
-          <grid-bg-image id="FVeiIGR" data-type="grid-bg-image" class="div-hidden">
-            <picture id="PdChnvX">
+          <grid-bg-image id="abNhqvE" data-type="grid-bg-image" class="div-hidden">
+            <picture id="iMZHaPN">
               <source srcset="" media="(max-width:640px)">
               <source srcset="" media="(min-width:641px) and (max-width:1024px)">
-              <img id="HMhutdN" src="https://images.unsplash.com/photo-1470337458703-46ad1756a187?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyM3x8Zm9vZHxlbnwwfDB8fHwxNzE2ODM1NjIzfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-bg" loading="lazy">
+              <img id="zEoLwZQ" src="https://images.unsplash.com/photo-1470337458703-46ad1756a187?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyM3x8Zm9vZHxlbnwwfDB8fHwxNzE2ODM1NjIzfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-bg" loading="lazy">
             </picture>
           </grid-bg-image> 
           <!-- bg-video -->
-          <grid-bg-video id="gElGVxs" data-type="grid-bg-video" class="div-hidden">
-            <video id="DkPSuiS" autoplay="" loop="" muted="" loading="lazy" data-type="video-bg" src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4"></video>
+          <grid-bg-video id="bUvNBrz" data-type="grid-bg-video" class="div-hidden">
+            <video id="OiBXkWL" autoplay="" loop="" muted="" loading="lazy" data-type="video-bg" src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4"></video>
           </grid-bg-video> 
       </grid-bg>
       <!-- grid-container -->
-      <grid-container id="iJjVaiD" data-type="grid-container">
+      <grid-container id="jLeIzkr" data-type="grid-container">
         <!-- grid-content -->
-        <grid-content id="wGFplEN" contenteditable="false" data-type="html"><article>
-    <div data-type="post-meta" id="ollBZng" contenteditable="true">
-        <h1 data-type="post-title" id="wjdzqfh" contenteditable="true">OpenAI: Révolutionner l'Intelligence Artificielle</h1>
-        <p data-type="post-date" id="cKVCkFr" contenteditable="true">21 octobre 2023</p>
-    </div>
-    <div data-type="cover-image" id="yQPrCLQ" contenteditable="true">
-        <img src="https://images.unsplash.com/photo-1523049673857-eb18f1d7b578?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxfHxmb29kfGVufDB8MHx8fDE3MjgyNzU1MDd8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-fg" loading="lazy" id="OyttkgD" contenteditable="true">
-    </div>
-    <div data-type="blog" id="UUFwDBL" contenteditable="true">
-        <section id="CCLtBPj" contenteditable="true">
-            <h2 id="xnWFTmF" contenteditable="true">Table des Matières</h2>
-            <ol id="lJLQCxX" contenteditable="true">
-                <li id="nDKNfOR" contenteditable="true"><a href="#openai-introduction" id="AWimvBn" contenteditable="true">Introduction à OpenAI</a></li>
-                <li id="BLtZjRv" contenteditable="true"><a href="#historique-openai" id="cqEDVhn" contenteditable="true">Historique et Évolution</a></li>
-                <li id="ogkQaHB" contenteditable="true"><a href="#technologies-developpees" id="CabUima" contenteditable="true">Technologies Développées par OpenAI</a></li>
-                <li id="cFSlqMw" contenteditable="true"><a href="#impact-sur-industries" id="WRNEIrG" contenteditable="true">Impact sur les Industries</a></li>
-                <li id="VqJEbpZ" contenteditable="true"><a href="#avenir-openai" id="YyLGdaZ" contenteditable="true">L'Avenir d'OpenAI</a></li>
-                <li id="AGyszyP" contenteditable="true"><a href="#faq" id="OBjtTsH" contenteditable="true">FAQ</a></li>
+        <grid-content id="hGLbWTN" contenteditable="false" data-type="html"><article>
+    <div data-type="post-meta" id="vlBIOmT" contenteditable="true">
+        <h1 data-type="post-title" id="KqRgYZS" contenteditable="true"> Tout savoir sur l'Amazonie : Un trésor de biodiversité </h1>
+        <p data-type="post-date" id="RbGJlcv" contenteditable="true"> 26 Octobre 2023 </p>
+    </div>   
+    <div data-type="post-cover" id="lnPwSkc" contenteditable="true">
+        <img src="./js/quickbars/empty.png" data-type="image-fg" loading="lazy" id="APxbFfT" contenteditable="true">
+    </div> 
+    <div data-type="post-content" id="UCJhVCi" contenteditable="true">
+        <section id="eeUYSqR" contenteditable="true">
+            <h2 id="FvjFGMI" contenteditable="true">Table des Matières</h2>
+            <ol id="KOpfRgD" contenteditable="true">
+                <li id="EHYhQlE" contenteditable="true"><a href="#section-introduction" id="JVLunTY" contenteditable="true">Introduction à l'Amazonie</a></li>
+                <li id="SSYrdJj" contenteditable="true"><a href="#section-biodiversite" id="wXSnwRc" contenteditable="true">La Biodiversité Unique de l'Amazonie</a></li>
+                <li id="gJGVYjQ" contenteditable="true"><a href="#section-risques" id="zLGcEiQ" contenteditable="true">Les Menaces Qui Pèsent sur l'Amazonie</a></li>
+                <li id="kDcrpFO" contenteditable="true"><a href="#section-impact-climatique" id="MDeZQvh" contenteditable="true">L'Impact de l'Amazonie sur le Climat Mondial</a></li>
+                <li id="shkwKTL" contenteditable="true"><a href="#section-conservation" id="yiPUXse" contenteditable="true">Efforts de Conservation en Amazonie</a></li>
+                <li id="QBkixpS" contenteditable="true"><a href="#section-faq" id="dAGGGMP" contenteditable="true">FAQ sur l'Amazonie</a></li>
             </ol>
         </section>
-        <section id="openai-introduction" contenteditable="true">
-            <h2 id="wYwMugm" contenteditable="true">Introduction à OpenAI</h2>
-            <p id="PoojNpU" contenteditable="true">OpenAI est une organisation de recherche en intelligence artificielle (IA) dont la mission est de s'assurer que l'IA bénéficie à toute l'humanité. Fondée en décembre 2015, OpenAI a contribué de manière significative au développement de technologies d'<strong id="jkrWzDI" contenteditable="true">IA avancées</strong>. Avec des modèles de langage révolutionnaires comme GPT, OpenAI a redéfini notre interaction avec les machines.</p>
+
+        <section id="section-introduction" contenteditable="true">
+            <h2 id="mLWhWZB" contenteditable="true">Introduction à l'Amazonie</h2>
+            <p id="rtixsIn" contenteditable="true">L'<strong id="GWdOOKn" contenteditable="true">Amazonie</strong> est la plus grande forêt tropicale du monde, s'étendant sur neuf pays et couvrant plus de 6,7 millions de kilomètres carrés. Reconnue pour sa richesse incroyable en <strong id="EBRSABp" contenteditable="true">biodiversité</strong>, elle abrite des milliers d'espèces animales et végétales, dont beaucoup sont encore inconnues ou peu étudiées. C'est une région cruciale non seulement pour l'Amérique du Sud mais aussi pour le climat global.</p>
         </section>
-        <section id="historique-openai" contenteditable="true">
-            <h2 id="cFgSLkO" contenteditable="true">Historique et Évolution d'OpenAI</h2>
-            <p id="IFABpXl" contenteditable="true">OpenAI a été créée par un groupe de pionniers dans le domaine de l'IA, y compris Elon Musk et Sam Altman. Initialement, l'organisation a été établie en tant que laboratoire de recherche à but non lucratif. Son objectif primordial était d'explorer comment l'intelligence artificielle pouvait servir le bien commun. Au fil des années, OpenAI est devenue un chef de file en matière d'innovation technologique.</p>
+
+        <section id="section-biodiversite" contenteditable="true">
+            <h2 id="GaDrjXy" contenteditable="true">La Biodiversité Unique de l'Amazonie</h2>
+            <p id="YDCbtvk" contenteditable="true">La forêt amazonienne est souvent appelée le <strong id="SyTWYQQ" contenteditable="true">poumon de la planète</strong> en raison de sa capacité à absorber d'énormes quantités de dioxyde de carbone. Elle est également un sanctuaire pour des espèces exotiques comme le jaguar, le dauphin de l'Amazone, et d'innombrables oiseaux et reptiles. Les précipitations abondantes et le climat tropical créent des conditions idéales pour une biodiversité incomparable.</p>
+            <ul id="ssJmfrE" contenteditable="true">
+                <li id="DEYzQeR" contenteditable="true">Plus de 40,000 espèces de plantes.</li>
+                <li id="HlBBuHA" contenteditable="true">Plus de 2,5 millions de variétés d'insectes.</li>
+                <li id="UJDpbnT" contenteditable="true">Environ 2,200 espèces de poissons.</li>
+                <li id="JpRnahY" contenteditable="true">Des milliers d'espèces d'oiseaux et de mammifères.</li>
+            </ul>
         </section>
-        <section id="technologies-developpees" contenteditable="true">
-            <h2 id="wwvpSxe" contenteditable="true">Technologies Développées par OpenAI</h2>
-            <p id="oKKwvli" contenteditable="true">Les progrès réalisés par OpenAI incluent le développement de systèmes comme GPT (Generative Pre-trained Transformer), qui a révolutionné le traitement du langage naturel. En outre, OpenAI Codex permet la génération de code assistée par IA, facilitant ainsi le développement pour les programmeurs. Les technologies d'OpenAI continuent de repousser les limites des capacités de l'<strong id="bSpTMlq" contenteditable="true">intelligence artificielle</strong>.</p>
+
+        <section id="section-risques" contenteditable="true">
+            <h2 id="NChbXMX" contenteditable="true">Les Menaces Qui Pèsent sur l'Amazonie</h2>
+            <p id="vzwqVpp" contenteditable="true">Malheureusement, cette région précieuse est sous la menace constante de la <strong id="cDKGqYV" contenteditable="true">déforestation</strong>, de l'<strong id="KUQhqVR" contenteditable="true">exploitation minière</strong>, et des <strong id="HJDMWeC" contenteditable="true">incendies illégaux</strong>. Ces activités humaines entraînent la destruction d'habitats, la perte de biodiversité et contribuent aux émissions de gaz à effet de serre. Les politiques gouvernementales et la demande mondiale en ressources naturelles soutiennent ces pratiques désastreuses.</p>
         </section>
-        <section id="impact-sur-industries" contenteditable="true">
-            <h2 id="BrSNPqD" contenteditable="true">Impact d'OpenAI sur les Industries</h2>
-            <p id="cfgSyoS" contenteditable="true">L'impact d'OpenAI s'étend à une multitude de secteurs industriels. Dans le domaine de la santé, les modèles d'<strong id="fDLEDJe" contenteditable="true">IA</strong> aident à analyser les données de santé à grande échelle, améliorent les diagnostics et la personnalisation des traitements. Dans le secteur financier, les outils d'analyse de données et de prévisions assistés par IA renforcent la prise de décision. L'enseignement bénéficie également d'outils d'apprentissage automatique qui personnalisent les parcours éducatifs.</p>
+
+        <section id="section-impact-climatique" contenteditable="true">
+            <h2 id="LHomWZB" contenteditable="true">L'Impact de l'Amazonie sur le Climat Mondial</h2>
+            <p id="YWbHpJt" contenteditable="true">La forêt amazonienne joue un rôle essentiel dans la <strong id="qWDAhmN" contenteditable="true">régulation des systèmes climatiques</strong> à l'échelle mondiale. Elle produit environ 20% de l'oxygène de la Terre et influence les cycles de précipitations à travers le globe. Sa destruction pourrait précipiter un <strong id="ojuklsz" contenteditable="true">changement climatique</strong> catastrophique, affectant des écosystèmes à des milliers de kilomètres.</p>
         </section>
-        <section id="avenir-openai" contenteditable="true">
-            <h2 id="eYamibI" contenteditable="true">L'Avenir d'OpenAI</h2>
-            <p id="wxkTWSq" contenteditable="true">Avec la mission continue de promouvoir une <strong id="QsrpUfZ" contenteditable="true">IA éthique</strong> et bénéfique pour la société, OpenAI se concentre sur la sécurité et l'accessibilité de ses innovations. L'avenir d'OpenAI sera axé sur une collaboration accrue avec diverses industries et communautés scientifiques pour s'assurer que les technologies d'IA peuvent être utilisées pour le bien-être de tous.</p>
+
+        <section id="section-conservation" contenteditable="true">
+            <h2 id="qytxkyF" contenteditable="true">Efforts de Conservation en Amazonie</h2>
+            <p id="jzXFSqG" contenteditable="true">Différents acteurs, y compris les gouvernements, les ONG, et les communautés indigènes, mettent en œuvre des <strong id="LOTgICk" contenteditable="true">initiatives de conservation</strong> visant à protéger l'Amazonie. Ces efforts incluent la création de réserves naturelles, la lutte contre la déforestation illégale, et l'engagement des communautés locales dans la gestion durable de ces ressources naturelles.</p>
         </section>
-        <section id="faq" contenteditable="true">
-            <h2 id="UGnuwZy" contenteditable="true">FAQ</h2>
-            <h3 id="hROKzWt" contenteditable="true">1. Quelle est la mission principale d'OpenAI ?</h3>
-            <p id="KRvdlwk" contenteditable="true">La mission principale d'OpenAI est de s'assurer que l'intelligence artificielle bénéficie à l'ensemble de l'humanité en collaborant avec des chercheurs et en promouvant des techniques d'IA responsables et sécurisées.</p>
-            <h3 id="XPgoyRA" contenteditable="true">2. Qu'est-ce que GPT ?</h3>
-            <p id="ChymaAZ" contenteditable="true">GPT, ou Generative Pre-trained Transformer, est un modèle de langage développé par OpenAI qui utilise l'apprentissage profond pour générer des textes semblables à ceux des humains.</p>
-            <h3 id="caoqcej" contenteditable="true">3. Comment OpenAI impacte-t-elle l'industrie de la santé ?</h3>
-            <p id="rzZknIy" contenteditable="true">OpenAI contribue à l'industrie de la santé en fournissant des outils d'analyse de données qui aident à améliorer les diagnostics, les planifications de traitement et la recherche médicale.</p>
-            <h3 id="aquAfOk" contenteditable="true">4. OpenAI est-elle toujours une organisation à but non lucratif ?</h3>
-            <p id="cYfnKEO" contenteditable="true">À l'origine fondée en tant qu'organisation à but non lucratif, OpenAI a réorienté une partie de ses activités vers un modèle hybride pour attirer des investissements et garantir la poursuite du développement de ses projets ambitieux.</p>
-            <h3 id="HgDNMdt" contenteditable="true">5. Quel est le rôle d'OpenAI dans l'éthique de l'IA ?</h3>
-            <p id="DqVdwUM" contenteditable="true">OpenAI joue un rôle crucial dans la promotion de l'éthique et de la sécurité en matière d'intelligence artificielle, en établissant des normes et des directives pour s'assurer que les technologies sont utilisées de manière responsable.</p>
+
+        <section id="section-faq" contenteditable="true">
+            <h2 id="zpGxeiG" contenteditable="true">FAQ sur l'Amazonie</h2>
+            <h3 id="sAyCdjH" contenteditable="true">Qu'est-ce qui rend l'Amazonie si importante pour la planète?</h3>
+            <p id="WBaCcKT" contenteditable="true">L'Amazonie est cruciale pour la régulation climatique mondiale, la diversité biologique et les cycles d'eau, faisant d'elle un élément indispensable à la planète.</p>
+
+            <h3 id="vqvjeEx" contenteditable="true">Comment la déforestation affecte-t-elle l'Amazonie et le monde?</h3>
+            <p id="bCkEMRs" contenteditable="true">La déforestation réduit la biodiversité, augmente les émissions de CO2 et perturbe les systèmes de précipitations, exacerbant le changement climatique à l'international.</p>
+
+            <h3 id="wXCoiqF" contenteditable="true">Quels sont les animaux emblématiques de l'Amazonie?</h3>
+            <p id="fqldncq" contenteditable="true">Parmi les animaux emblématiques, on trouve le jaguar, le piranha, la grenouille poison-dard, et le dauphin de rivière.</p>
+
+            <h3 id="GzgRObX" contenteditable="true">Quelles sont les initiatives de conservation pour l'Amazonie?</h3>
+            <p id="obFhhqf" contenteditable="true">Les initiatives incluent la création de réserves naturelles et le soutien aux pratiques agricoles durables pour protéger l'habitat et la diversité biologique.</p>
+
+            <h3 id="hwIFwCq" contenteditable="true">Quel est l'impact des incendies en Amazonie?</h3>
+            <p id="OvDiQmZ" contenteditable="true">Les incendies endommagent l'habitat naturel, libèrent des tonnes de CO2 et menacent les espèces végétales et animales locales.</p>
         </section>
-        <p id="covMNIt" contenteditable="true"><strong id="cSdwoLp" contenteditable="true">Mots-clés :</strong></p>
-        <p id="lcqQzit" contenteditable="true">OpenAI, intelligence artificielle, GPT, IA éthique, technologies d'IA, impact industriel, avenir de l'IA, recherche en IA, innovation technologique</p>
-        <section id="yOGjvSa" contenteditable="true">
-            <h2 id="OcWvUom" contenteditable="true">Conclusion</h2>
-            <p id="VWmVVxj" contenteditable="true">En conclusion, OpenAI représente une force motrice dans le monde de l'intelligence artificielle. Avec des contributions substantielles au développement de modèles avancés, l'organisation continue de promouvoir des pratiques éthiques et bénéfiques à travers ses recherches et technologies. Le chemin d'OpenAI est celui de la collaboration pour transformer le potentiel de l'IA en solutions pratiques et humaines.</p>
+
+        <section id="BnswgGp" contenteditable="true">
+            <p id="rhOXRVL" contenteditable="true"><strong id="wzqAYRH" contenteditable="true">Mots-clés :</strong> Amazonie, biodiversité, déforestation, climat global, conservation, forêt tropicale, espèces, exploitation minière, changement climatique.</p>
+        </section>
+
+        <section id="AcPfpAp" contenteditable="true">
+            <h2 id="SfEPBYZ" contenteditable="true">Conclusion</h2>
+            <p id="FzxPQCo" contenteditable="true">La forêt amazonienne est un écosystème riche et complexe qui joue un rôle vital dans la régulation du climat mondial et le maintien de la biodiversité. Malgré ses nombreuses menaces, l'engagement continu et les efforts concertés pour la protéger promettent un espoir pour les générations futures. Il est crucial que nous reconnaissions l'importance de l'Amazonie et que nous agissions collectivement pour préserver ce véritable trésor naturel.</p>
         </section>
     </div>
 </article></grid-content>
         <grid-edit-section class="grid-edit-section no-export" contenteditable="false" data-type="grid-edit-section"> 
           <div class="edit-ia">
-            <button contenteditable="false" class="section-assistant-btn" onclick="openIaAssistant('TdQKdjv','wGFplEN')"><img src="../global/file/assistant.svg"> IA Assistant </button>
-            <button contenteditable="false" class="section-shortcuts-btn" onclick="openIaShorcuts('wGFplEN')"><img src="../global/file/shortcuts.svg"> IA Shortcuts</button>
+            <button contenteditable="false" class="section-assistant-btn" onclick="openIaAssistant('RvUdBzc','hGLbWTN')"><img src="../global/file/assistant.svg"> IA Assistant </button>
+            <button contenteditable="false" class="section-shortcuts-btn" onclick="openIaShorcuts('hGLbWTN')"><img src="../global/file/shortcuts.svg"> IA Shortcuts</button>
           </div>
           <div class="edit-settings">
             <button contenteditable="false" class="section-open-modal" onclick="toolsOpenModal(this)">⋮</button>
@@ -121,6 +145,6 @@ div[data-type="post-blog"] {
         </grid-edit-section> 
       </grid-container>
       <!--JS-->
-        <script id="sjWhGEx" data-type="js"></script>  
+        <script id="lkROGOl" data-type="js"></script>  
   </section>
   </grid-body><script id="page-global.js" type="text/javascript" data-type="js"></script>
