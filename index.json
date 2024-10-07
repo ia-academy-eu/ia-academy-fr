@@ -1,4 +1,6 @@
-<style id="page-laptop.css" type="text/css" data-type="css" data-size="laptop" data-content="page"></style><style id="page-tablet.css" type="text/css" data-type="css" data-size="tablet" data-content="page">@media screen and (min-width:641px) and (max-width:1024px) { /* Tablet */ }</style><style id="page-mobile.css" type="text/css" data-type="css" data-size="mobile" data-content="page">@media screen and (max-width:640px) { /* Mobile */ }</style><grid-body id="grid-body">
+<style id="page-laptop.css" type="text/css" data-type="css" data-size="laptop" data-content="page">grid-page{
+    background:orange;
+}</style><style id="page-tablet.css" type="text/css" data-type="css" data-size="tablet" data-content="page">@media screen and (min-width:641px) and (max-width:1024px) { /* Tablet */ }</style><style id="page-mobile.css" type="text/css" data-type="css" data-size="mobile" data-content="page">@media screen and (max-width:640px) { /* Mobile */ }</style><grid-body id="grid-body">
   
   
   
@@ -46,7 +48,7 @@
         <!-- grid-content -->
         <grid-content id="EXQysqp" contenteditable="false" data-type="html"><article>
     <h1 id="lDrhiiZ" contenteditable="true">Les OVNIS : Exploration des Phénomènes Inexpliqués</h1>
-    <img src="./js/quickbars/empty.png" data-type="image-fg" loading="lazy" alt="Image d'un OVNI" id="BANfCuQ" contenteditable="true">
+    <img src="https://images.unsplash.com/photo-1598482327649-e8831e1505be?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxMnx8dWZvfGVufDB8MHx8fDE3MjgyMzQ2MTB8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-fg" loading="lazy" alt="Image d'un OVNI" id="BANfCuQ" contenteditable="true">
 
     <section id="lIOHLfx" contenteditable="true">
         <h2 id="DUxLKBY" contenteditable="true">Table des Matières</h2>
