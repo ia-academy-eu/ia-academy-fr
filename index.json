@@ -1,120 +1,123 @@
 <style id="page-laptop.css" type="text/css" data-type="css" data-size="laptop" data-content="page">grid-body{
     padding:35px;
 }</style><style id="page-tablet.css" type="text/css" data-type="css" data-size="tablet" data-content="page">@media screen and (min-width:641px) and (max-width:1024px) { /* Tablet */ }</style><style id="page-mobile.css" type="text/css" data-type="css" data-size="mobile" data-content="page">@media screen and (max-width:640px) { /* Mobile */ }</style><grid-body id="grid-body">
-  <section id="yFcvjRz" data-type="section-container">  
+  
+  
+  <section id="BavCCTf" data-type="section-container">  
       <!--CSS-->
       <grid-css>
-        <style id="KamHmIB" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#eWzpsqE {
-  display: grid;
-  padding: 100px;
-  grid-template-columns: 1fr;
-}
-</style>
-        <style id="NpHLMKJ" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
-  grid-content#eWzpsqE{
+        <style id="TqbwIYK" type="text/css" data-type="css" data-size="laptop" data-content="section">
+  
+  grid-content#Uukgomw{
+    display: grid;
+    padding:35px;
+    grid-template-columns:1fr;
+  }
+  </style>
+        <style id="QnmLtoh" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
+  grid-content#Uukgomw{
     display: grid;
   }
   }</style>
-        <style id="wXdMniX" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
-  grid-content#eWzpsqE{
+        <style id="yTNyRlc" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
+  grid-content#Uukgomw{
     display: grid;
   }}</style>
       </grid-css>  
       <!--BG-->
-      <grid-bg id="lUFYVFy" data-type="grid-bg">
+      <grid-bg id="lHexuPS" data-type="grid-bg">
           <!-- bg-color -->
-          <grid-bg-color id="NfWHLFb" data-type="grid-bg-color" class="div-visible" style="background-color: rgba(255, 255, 255, 1);"></grid-bg-color> 
+          <grid-bg-color id="UDvOhaQ" data-type="grid-bg-color" class="div-visible" style="background-color: rgba(255, 255, 255, 1);"></grid-bg-color> 
           <!-- bg-image -->
-          <grid-bg-image id="gGdxqrc" data-type="grid-bg-image" class="div-hidden">
-            <picture id="yCajpjh">
+          <grid-bg-image id="CBabGqP" data-type="grid-bg-image" class="div-hidden">
+            <picture id="zKIvHQX">
               <source srcset="" media="(max-width:640px)">
               <source srcset="" media="(min-width:641px) and (max-width:1024px)">
-              <img id="GoZOHIW" src="https://images.unsplash.com/photo-1470337458703-46ad1756a187?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyM3x8Zm9vZHxlbnwwfDB8fHwxNzE2ODM1NjIzfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-bg" loading="lazy">
+              <img id="pWUcUEd" src="https://images.unsplash.com/photo-1470337458703-46ad1756a187?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyM3x8Zm9vZHxlbnwwfDB8fHwxNzE2ODM1NjIzfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-bg" loading="lazy">
             </picture>
           </grid-bg-image> 
           <!-- bg-video -->
-          <grid-bg-video id="QVFvOuJ" data-type="grid-bg-video" class="div-hidden">
-            <video id="JoEsZPv" autoplay="" loop="" muted="" loading="lazy" data-type="video-bg" src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4"></video>
+          <grid-bg-video id="TNwLDYa" data-type="grid-bg-video" class="div-hidden">
+            <video id="LxgwZGS" autoplay="" loop="" muted="" loading="lazy" data-type="video-bg" src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4"></video>
           </grid-bg-video> 
       </grid-bg>
       <!-- grid-container -->
-      <grid-container id="OLmvjeM" data-type="grid-container">
+      <grid-container id="ypqhYgO" data-type="grid-container">
         <!-- grid-content -->
-        <grid-content id="eWzpsqE" contenteditable="false" data-type="html"><article>
-    <h1 id="DLnAdVc" contenteditable="true">Diego Maradona: Un Ícono del Fútbol Mundial</h1>
-    <p id="HLOYPfA" contenteditable="true">Fecha de creación: 30 Octubre 2023</p>
-    <figure id="wNlBoCw" contenteditable="true">
-        <img src="https://images.unsplash.com/photo-1464226184884-fa280b87c399?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyfHxmb29kfGVufDB8MHx8fDE3MjgyNzU1MDd8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-fg" loading="lazy" alt="Imagen de Diego Maradona" id="JguxeQf" contenteditable="true">
-    </figure>
+        <grid-content id="Uukgomw" contenteditable="false" data-type="html"><article>
+    <h1 id="NUvXnmP" contenteditable="true">Diego Maradona : Une Légende du Football</h1>
+    <p id="nTzhIFZ" contenteditable="true">29 octobre 2023</p>
+    <div data-type="cover" id="yojSGjW" contenteditable="true">
+        <img src="./js/quickbars/empty.png" data-type="image-fg" loading="lazy" id="eSdHZpm" contenteditable="true">
+    </div>
+    <div data-type="blog" id="RFXvdwn" contenteditable="true">
+        <section id="SZFbkNU" contenteditable="true">
+            <h2 id="yQcPrfL" contenteditable="true">Table des Matières</h2>
+            <ol id="xxhGZRI" contenteditable="true">
+                <li id="ZwwEMmX" contenteditable="true"><a href="#biographie" id="qhinLxx" contenteditable="true">Biographie de Diego Maradona</a></li>
+                <li id="umaRUWh" contenteditable="true"><a href="#carriere-joueur" id="ouJTCSU" contenteditable="true">Carrière de Joueur</a></li>
+                <li id="wLqqLae" contenteditable="true"><a href="#moments-iconiques" id="kNUSvUV" contenteditable="true">Moments Iconiques</a></li>
+                <li id="EWiQPFe" contenteditable="true"><a href="#impact-culturel" id="SsyQOMs" contenteditable="true">Impact Culturel</a></li>
+                <li id="yINWTmu" contenteditable="true"><a href="#legacy-et-decennies" id="MYepWlq" contenteditable="true">Héritage et Décennies</a></li>
+            </ol>
+        </section>
+      
+        <section id="biographie" contenteditable="true">
+            <h2 id="WTDPsEC" contenteditable="true">Biographie de Diego Maradona</h2>
+            <p id="cGLGYGE" contenteditable="true">Né le 30 octobre 1960, à Buenos Aires, Diego Armando Maradona est sans doute l'une des figures les plus brillantes du <strong id="FaRqlKH" contenteditable="true">football</strong> mondial. Maradona a grandi dans un quartier pauvre, ce qui a façonné son caractère résilient. Dès un jeune âge, son talent pour le football est devenu évident, et sa détermination lui a permis de rejoindre les rangs professionnels très tôt.</p>
+        </section>
+        
+        <section id="carriere-joueur" contenteditable="true">
+            <h2 id="yXHwegw" contenteditable="true">Carrière de Joueur</h2>
+            <p id="ylwpxuo" contenteditable="true">La carrière de Maradona a commencé à l'âge de 15 ans lorsqu'il a rejoint Argentinos Juniors. En peu de temps, il est devenu une vedette, menant ensuite à un transfert au club de Boca Juniors. Maradona a eu un passage mémorable au FC Barcelone, mais c'est à Napoli où il a atteint le sommet de sa gloire, remportant deux titres de Serie A.</p>
+        </section>
+        
+        <section id="moments-iconiques" contenteditable="true">
+            <h2 id="nZIHrbZ" contenteditable="true">Moments Iconiques</h2>
+            <p id="xowsDfd" contenteditable="true">Qui pourrait oublier la fameuse "Main de Dieu" lors de la Coupe du Monde 1986 contre l'Angleterre? Ce tournoi est également mémorable grâce à son but époustouflant considéré comme le "but du siècle". Diego Maradona a propulsé l'Argentine au sommet du football mondial en remportant la Coupe du Monde cette année-là.</p>
+        </section>
+        
+        <section id="impact-culturel" contenteditable="true">
+            <h2 id="uLhRGOt" contenteditable="true">Impact Culturel</h2>
+            <p id="sqoUmgP" contenteditable="true">Diego Maradona n'était pas seulement un joueur de football, mais une <strong id="HsmjtNZ" contenteditable="true">icône</strong> culturelle. Son style flamboyant et ses prouesses sur le terrain ont inspiré de nombreux artistes, films, et musiciens. En Argentine, il est vu comme un héros national, un symbole d'espoir et de détermination.</p>
+        </section>
+        
+        <section id="legacy-et-decennies" contenteditable="true">
+            <h2 id="SpGLBXQ" contenteditable="true">Héritage et Décennies</h2>
+            <p id="FwHFibk" contenteditable="true">Maradona a laissé un héritage indélébile dans le monde du football. Même après sa retraite, il a continué à influencer le sport, en occupant des postes d'entraîneur et en servant de mentor pour les jeunes joueurs. Sa mort le 25 novembre 2020 a marqué la fin d'une époque, mais son héritage continue de vivre.</p>
+        </section>
 
-    <section id="KQEafFH" contenteditable="true">
-        <h2 id="JUKbBWw" contenteditable="true">Tabla de Contenidos</h2>
-        <ol id="ZIZQINf" contenteditable="true">
-            <li id="lxcrACT" contenteditable="true"><a href="#vida-temprana-maradona" id="cpekOyO" contenteditable="true">Vida Temprana de Diego Maradona</a></li>
-            <li id="PdITLun" contenteditable="true"><a href="#ascenso-fama" id="LRtBkqE" contenteditable="true">El Ascenso a la Fama</a></li>
-            <li id="QTwGhJX" contenteditable="true"><a href="#triunfos-legendarios" id="ogfeSdx" contenteditable="true">Triunfos Legendarios en el Fútbol</a></li>
-            <li id="BmezOhi" contenteditable="true"><a href="#controversias-maradona" id="jOPBQJo" contenteditable="true">Controversias y Desafíos Personales</a></li>
-            <li id="UvQuVMA" contenteditable="true"><a href="#legado-maradona" id="iNOWVqQ" contenteditable="true">El Legado de Maradona</a></li>
-            <li id="lfvsOMe" contenteditable="true"><a href="#faq-maradona" id="tqCNqiJ" contenteditable="true">Preguntas Frecuentes sobre Maradona</a></li>
-            <li id="adZLvUq" contenteditable="true"><a href="#conclusion-maradona" id="MHgyutm" contenteditable="true">Conclusión</a></li>
-        </ol>
-    </section>
+        <section id="WMwKpnA" contenteditable="true">
+            <h2 id="VTiVkgi" contenteditable="true">FAQ</h2>
+            <h3 id="pkgDlok" contenteditable="true">Quel était le surnom de Diego Maradona?</h3>
+            <p id="SoMZeUm" contenteditable="true">Diego Maradona était couramment surnommé "El Pibe de Oro", qui signifie "Le Gammin d'Or".</p>
+            
+            <h3 id="mBnirlL" contenteditable="true">Combien de Coupes du Monde Maradona a-t-il jouées?</h3>
+            <p id="wclGXmn" contenteditable="true">Diego Maradona a joué dans quatre Coupes du Monde, en 1982, 1986, 1990 et 1994.</p>
+            
+            <h3 id="lDLGien" contenteditable="true">Quel club italien Diego Maradona a-t-il rendu célèbre?</h3>
+            <p id="EgdCKly" contenteditable="true">Diego Maradona a rendu célèbre le club italien SSC Napoli grâce à ses performances exceptionnelles.</p>
+            
+            <h3 id="ydSQkHk" contenteditable="true">En quelle année Maradona a-t-il remporté la Coupe du Monde?</h3>
+            <p id="lCpVBFX" contenteditable="true">Diego Maradona a remporté la Coupe du Monde avec l'Argentine en 1986.</p>
+            
+            <h3 id="Uqubtjh" contenteditable="true">Quel est le célèbre but marqué par Maradona connu sous le nom de "but du siècle"?</h3>
+            <p id="JhIpWKU" contenteditable="true">Le "but du siècle" est l'incroyable but marqué par Maradona contre l'Angleterre, où il a dribblé de nombreux joueurs avant de scorer en 1986.</p>
+        </section>
 
-    <section id="vida-temprana-maradona" contenteditable="true">
-        <h2 id="hYnZSmU" contenteditable="true">Vida Temprana de Diego Maradona</h2>
-        <p id="qznhOrI" contenteditable="true">Nacido el 30 de octubre de 1960 en Villa Fiorito, un barrio pobre en Buenos Aires, <strong id="KPZlvRR" contenteditable="true">Diego Armando Maradona</strong> mostró talento para el fútbol desde muy joven. Se unió a las divisiones juveniles de <strong id="wmYaqIu" contenteditable="true">Argentinos Juniors</strong> a la edad de 10 años, donde pronto fue reconocido por sus habilidades excepcionales en el campo.</p>
-    </section>
+        <p id="pimvhTN" contenteditable="true"><strong id="fjIQRUy" contenteditable="true">Mots-clés :</strong></p>
+        <p id="lvhYpQG" contenteditable="true">Diego Maradona, football, Main de Dieu, but du siècle, Napoli, héritage, icône culturelle, Coupe du Monde 1986, El Pibe de Oro</p>
 
-    <section id="ascenso-fama" contenteditable="true">
-        <h2 id="wbfBYaC" contenteditable="true">El Ascenso a la Fama</h2>
-        <p id="kexhPRv" contenteditable="true">Maradona debutó profesionalmente a los 15 años. Su carrera rápidamente despegó, y para 1981 ya jugaba para el club de sus sueños, <strong id="RoeaLNK" contenteditable="true">Boca Juniors</strong>. En 1982, Maradona se trasladó a Europa, fichando por el <strong id="mVDhygF" contenteditable="true">FC Barcelona</strong>, donde ganó la Copa del Rey.</p>
-    </section>
-
-    <section id="triunfos-legendarios" contenteditable="true">
-        <h2 id="FmvYiTx" contenteditable="true">Triunfos Legendarios en el Fútbol</h2>
-        <p id="UpinnPM" contenteditable="true">El momento culminante de la carrera de Maradona fue la <strong id="xScUpvO" contenteditable="true">Copa Mundial de 1986</strong> en México, donde llevó a Argentina al título. Fue en ese torneo que anotó el famoso gol conocido como la "Mano de Dios", así como el "Gol del Siglo".</p>
-    </section>
-
-    <section id="controversias-maradona" contenteditable="true">
-        <h2 id="YlfmTwy" contenteditable="true">Controversias y Desafíos Personales</h2>
-        <p id="AcCLHoG" contenteditable="true">A pesar de sus éxitos, la vida de Maradona estuvo plagada de controversias. Su lucha con la <strong id="ThwmBsn" contenteditable="true">adicción a las drogas</strong> y los problemas legales a menudo opacaban sus logros en el campo. En 1991, fue suspendido por dopaje, un incidente que marcó el inicio de una serie de contratiempos personales.</p>
-    </section>
-
-    <section id="legado-maradona" contenteditable="true">
-        <h2 id="zaJIdkb" contenteditable="true">El Legado de Maradona</h2>
-        <p id="msZzWMp" contenteditable="true">A pesar de las controversias, el legado de Maradona como uno de los futbolistas más grandes continúa vivo. Su influencia se extiende más allá del campo, convirtiéndose en una figura cultural y social. Maradona sigue siendo una fuente de inspiración para muchos y un símbolo de pasión y genialidad futbolística.</p>
-    </section>
-
-    <section id="faq-maradona" contenteditable="true">
-        <h2 id="FLHISeM" contenteditable="true">Preguntas Frecuentes sobre Maradona</h2>
-
-        <h3 id="XZSPzky" contenteditable="true">¿Cuándo nació Diego Maradona?</h3>
-        <p id="CmpHthj" contenteditable="true">Diego Maradona nació el 30 de octubre de 1960 en Buenos Aires, Argentina.</p>
-
-        <h3 id="MgwpJbR" contenteditable="true">¿Cuál fue el momento más destacado de la carrera de Maradona?</h3>
-        <p id="OYBMlIi" contenteditable="true">El momento más destacado de su carrera fue la Copa Mundial de 1986, donde llevó a Argentina a la victoria con actuaciones memorables.</p>
-
-        <h3 id="FOdDNCC" contenteditable="true">¿Qué es la "Mano de Dios"?</h3>
-        <p id="yefwoMN" contenteditable="true">La "Mano de Dios" se refiere a un gol controvertido que Maradona anotó con la mano en el Mundial de 1986.</p>
-
-        <h3 id="reBYDbH" contenteditable="true">¿Qué problemas personales enfrentó Maradona?</h3>
-        <p id="bYTygOM" contenteditable="true">Maradona enfrentó problemas de adicción a las drogas y varios desafíos legales durante su vida.</p>
-
-        <h3 id="eMmmsAy" contenteditable="true">¿Cuál es el legado de Maradona?</h3>
-        <p id="MfsKGlR" contenteditable="true">El legado de Maradona es el de un icono del fútbol cuya influencia trascendió el deporte, dejándolo como un héroe cultural y social.</p>
-    </section>
-
-    <section id="conclusion-maradona" contenteditable="true">
-        <h2 id="acNwoKw" contenteditable="true">Conclusión</h2>
-        <p id="lSRBmFf" contenteditable="true">Diego Maradona fue, sin duda, uno de los gigantes del fútbol. Su trayectoria es una mezcla de triunfo, controversia y legado duradero. A pesar de los desafíos personales, su impacto en el deporte y en la cultura popular permanece intacto, inspirando a generaciones de fanáticos y futbolistas.</p>
-        <p id="KhLXBwL" contenteditable="true"><strong id="LepMhPv" contenteditable="true">Mots-clés :</strong></p>
-        <p id="UOLJnMg" contenteditable="true">Diego Maradona, Fútbol, Copa Mundial de 1986, Mano de Dios, Legado Maradona, Argentinian Footballer, Boca Juniors, FC Barcelona.</p>      
-    </section>
+        <section id="QxomvBd" contenteditable="true">
+            <h2 id="TDEcJVG" contenteditable="true">Conclusion</h2>
+            <p id="gpEWXFJ" contenteditable="true">Diego Maradona reste une figure emblématique du football mondial, connu pour son génie sur le terrain et son influence culturelle significative. Son style, sa passion et sa détermination ont inspiré des générations, et bien que sa vie ait été jalonnée de controverses, son héritage sportif demeure inégalé dans le monde du football.</p>
+        </section>
+    </div>
 </article></grid-content>
         <grid-edit-section class="grid-edit-section no-export" contenteditable="false" data-type="grid-edit-section"> 
           <div class="edit-ia">
-            <button contenteditable="false" class="section-assistant-btn" onclick="openIaAssistant('yFcvjRz','eWzpsqE')"><img src="../global/file/assistant.svg"> IA Assistant </button>
-            <button contenteditable="false" class="section-shortcuts-btn" onclick="openIaShorcuts('eWzpsqE')"><img src="../global/file/shortcuts.svg"> IA Shortcuts</button>
+            <button contenteditable="false" class="section-assistant-btn" onclick="openIaAssistant('BavCCTf','Uukgomw')"><img src="../global/file/assistant.svg"> IA Assistant </button>
+            <button contenteditable="false" class="section-shortcuts-btn" onclick="openIaShorcuts('Uukgomw')"><img src="../global/file/shortcuts.svg"> IA Shortcuts</button>
           </div>
           <div class="edit-settings">
             <button contenteditable="false" class="section-open-modal" onclick="toolsOpenModal(this)">⋮</button>
@@ -122,6 +125,6 @@
         </grid-edit-section> 
       </grid-container>
       <!--JS-->
-        <script id="YTbobxo" data-type="js"></script>  
+        <script id="PjVBXYq" data-type="js"></script>  
   </section>
   </grid-body><script id="page-global.js" type="text/javascript" data-type="js"></script>
