@@ -1,123 +1,119 @@
 <style id="page-laptop.css" type="text/css" data-type="css" data-size="laptop" data-content="page">grid-body{
     padding:35px;
+}
+div[data-type="post-meta"] {
+    padding:50px 100px;
 }</style><style id="page-tablet.css" type="text/css" data-type="css" data-size="tablet" data-content="page">@media screen and (min-width:641px) and (max-width:1024px) { /* Tablet */ }</style><style id="page-mobile.css" type="text/css" data-type="css" data-size="mobile" data-content="page">@media screen and (max-width:640px) { /* Mobile */ }</style><grid-body id="grid-body">
   
   
-  <section id="BavCCTf" data-type="section-container">  
+  
+  
+  <section id="TdQKdjv" data-type="section-container">  
       <!--CSS-->
       <grid-css>
-        <style id="TqbwIYK" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#Uukgomw {
-  display: grid;
-  padding: 0;
-  grid-template-columns: 1fr;
-}
-div#RFXvdwn {
-    padding: 50px 100px;
-}</style>
-        <style id="QnmLtoh" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
-  grid-content#Uukgomw{
+        <style id="XDRMKKc" type="text/css" data-type="css" data-size="laptop" data-content="section">
+  
+  grid-content#wGFplEN{
+    display: grid;
+    padding:35px;
+    grid-template-columns:1fr;
+  }
+  </style>
+        <style id="oXWfLCR" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
+  grid-content#wGFplEN{
     display: grid;
   }
   }</style>
-        <style id="yTNyRlc" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
-  grid-content#Uukgomw{
+        <style id="KuIqbGH" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
+  grid-content#wGFplEN{
     display: grid;
   }}</style>
       </grid-css>  
       <!--BG-->
-      <grid-bg id="lHexuPS" data-type="grid-bg">
+      <grid-bg id="dWKAlAj" data-type="grid-bg">
           <!-- bg-color -->
-          <grid-bg-color id="UDvOhaQ" data-type="grid-bg-color" class="div-visible" style="background-color: rgba(255, 255, 255, 1);"></grid-bg-color> 
+          <grid-bg-color id="uLyccSK" data-type="grid-bg-color" class="div-visible" style="background-color: rgba(255, 255, 255, 1);"></grid-bg-color> 
           <!-- bg-image -->
-          <grid-bg-image id="CBabGqP" data-type="grid-bg-image" class="div-hidden">
-            <picture id="zKIvHQX">
+          <grid-bg-image id="FVeiIGR" data-type="grid-bg-image" class="div-hidden">
+            <picture id="PdChnvX">
               <source srcset="" media="(max-width:640px)">
               <source srcset="" media="(min-width:641px) and (max-width:1024px)">
-              <img id="pWUcUEd" src="https://images.unsplash.com/photo-1470337458703-46ad1756a187?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyM3x8Zm9vZHxlbnwwfDB8fHwxNzE2ODM1NjIzfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-bg" loading="lazy">
+              <img id="HMhutdN" src="https://images.unsplash.com/photo-1470337458703-46ad1756a187?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyM3x8Zm9vZHxlbnwwfDB8fHwxNzE2ODM1NjIzfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-bg" loading="lazy">
             </picture>
           </grid-bg-image> 
           <!-- bg-video -->
-          <grid-bg-video id="TNwLDYa" data-type="grid-bg-video" class="div-hidden">
-            <video id="LxgwZGS" autoplay="" loop="" muted="" loading="lazy" data-type="video-bg" src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4"></video>
+          <grid-bg-video id="gElGVxs" data-type="grid-bg-video" class="div-hidden">
+            <video id="DkPSuiS" autoplay="" loop="" muted="" loading="lazy" data-type="video-bg" src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4"></video>
           </grid-bg-video> 
       </grid-bg>
       <!-- grid-container -->
-      <grid-container id="ypqhYgO" data-type="grid-container">
+      <grid-container id="iJjVaiD" data-type="grid-container">
         <!-- grid-content -->
-        <grid-content id="Uukgomw" contenteditable="false" data-type="html"><article>
-    <h1 id="NUvXnmP" contenteditable="true">Diego Maradona : Une Légende du Football</h1>
-    <p id="nTzhIFZ" contenteditable="true">29 octobre 2023</p>
-    <div data-type="cover" id="yojSGjW" contenteditable="true">
-        <img src="https://images.unsplash.com/photo-1624880357913-a8539238245b?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxfHxmb290YmFsbHxlbnwwfDB8fHwxNzI4MzAwMDY1fDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-fg" loading="lazy" id="eSdHZpm" contenteditable="true">
+        <grid-content id="wGFplEN" contenteditable="false" data-type="html"><article>
+    <div data-type="post-meta" id="ollBZng" contenteditable="true">
+        <h1 data-type="post-title" id="wjdzqfh" contenteditable="true">OpenAI: Révolutionner l'Intelligence Artificielle</h1>
+        <p data-type="post-date" id="cKVCkFr" contenteditable="true">21 octobre 2023</p>
     </div>
-    <div data-type="blog" id="RFXvdwn" contenteditable="true">
-        <section id="SZFbkNU" contenteditable="true">
-            <h2 id="yQcPrfL" contenteditable="true">Table des Matières</h2>
-            <ol id="xxhGZRI" contenteditable="true">
-                <li id="ZwwEMmX" contenteditable="true"><a href="#biographie" id="qhinLxx" contenteditable="true">Biographie de Diego Maradona</a></li>
-                <li id="umaRUWh" contenteditable="true"><a href="#carriere-joueur" id="ouJTCSU" contenteditable="true">Carrière de Joueur</a></li>
-                <li id="wLqqLae" contenteditable="true"><a href="#moments-iconiques" id="kNUSvUV" contenteditable="true">Moments Iconiques</a></li>
-                <li id="EWiQPFe" contenteditable="true"><a href="#impact-culturel" id="SsyQOMs" contenteditable="true">Impact Culturel</a></li>
-                <li id="yINWTmu" contenteditable="true"><a href="#legacy-et-decennies" id="MYepWlq" contenteditable="true">Héritage et Décennies</a></li>
+    <div data-type="cover-image" id="yQPrCLQ" contenteditable="true">
+        <img src="https://images.unsplash.com/photo-1523049673857-eb18f1d7b578?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxfHxmb29kfGVufDB8MHx8fDE3MjgyNzU1MDd8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-fg" loading="lazy" id="OyttkgD" contenteditable="true">
+    </div>
+    <div data-type="blog" id="UUFwDBL" contenteditable="true">
+        <section id="CCLtBPj" contenteditable="true">
+            <h2 id="xnWFTmF" contenteditable="true">Table des Matières</h2>
+            <ol id="lJLQCxX" contenteditable="true">
+                <li id="nDKNfOR" contenteditable="true"><a href="#openai-introduction" id="AWimvBn" contenteditable="true">Introduction à OpenAI</a></li>
+                <li id="BLtZjRv" contenteditable="true"><a href="#historique-openai" id="cqEDVhn" contenteditable="true">Historique et Évolution</a></li>
+                <li id="ogkQaHB" contenteditable="true"><a href="#technologies-developpees" id="CabUima" contenteditable="true">Technologies Développées par OpenAI</a></li>
+                <li id="cFSlqMw" contenteditable="true"><a href="#impact-sur-industries" id="WRNEIrG" contenteditable="true">Impact sur les Industries</a></li>
+                <li id="VqJEbpZ" contenteditable="true"><a href="#avenir-openai" id="YyLGdaZ" contenteditable="true">L'Avenir d'OpenAI</a></li>
+                <li id="AGyszyP" contenteditable="true"><a href="#faq" id="OBjtTsH" contenteditable="true">FAQ</a></li>
             </ol>
         </section>
-      
-        <section id="biographie" contenteditable="true">
-            <h2 id="WTDPsEC" contenteditable="true">Biographie de Diego Maradona</h2>
-            <p id="cGLGYGE" contenteditable="true">Né le 30 octobre 1960, à Buenos Aires, Diego Armando Maradona est sans doute l'une des figures les plus brillantes du <strong id="FaRqlKH" contenteditable="true">football</strong> mondial. Maradona a grandi dans un quartier pauvre, ce qui a façonné son caractère résilient. Dès un jeune âge, son talent pour le football est devenu évident, et sa détermination lui a permis de rejoindre les rangs professionnels très tôt.</p>
+        <section id="openai-introduction" contenteditable="true">
+            <h2 id="wYwMugm" contenteditable="true">Introduction à OpenAI</h2>
+            <p id="PoojNpU" contenteditable="true">OpenAI est une organisation de recherche en intelligence artificielle (IA) dont la mission est de s'assurer que l'IA bénéficie à toute l'humanité. Fondée en décembre 2015, OpenAI a contribué de manière significative au développement de technologies d'<strong id="jkrWzDI" contenteditable="true">IA avancées</strong>. Avec des modèles de langage révolutionnaires comme GPT, OpenAI a redéfini notre interaction avec les machines.</p>
         </section>
-        
-        <section id="carriere-joueur" contenteditable="true">
-            <h2 id="yXHwegw" contenteditable="true">Carrière de Joueur</h2>
-            <p id="ylwpxuo" contenteditable="true">La carrière de Maradona a commencé à l'âge de 15 ans lorsqu'il a rejoint Argentinos Juniors. En peu de temps, il est devenu une vedette, menant ensuite à un transfert au club de Boca Juniors. Maradona a eu un passage mémorable au FC Barcelone, mais c'est à Napoli où il a atteint le sommet de sa gloire, remportant deux titres de Serie A.</p>
+        <section id="historique-openai" contenteditable="true">
+            <h2 id="cFgSLkO" contenteditable="true">Historique et Évolution d'OpenAI</h2>
+            <p id="IFABpXl" contenteditable="true">OpenAI a été créée par un groupe de pionniers dans le domaine de l'IA, y compris Elon Musk et Sam Altman. Initialement, l'organisation a été établie en tant que laboratoire de recherche à but non lucratif. Son objectif primordial était d'explorer comment l'intelligence artificielle pouvait servir le bien commun. Au fil des années, OpenAI est devenue un chef de file en matière d'innovation technologique.</p>
         </section>
-        
-        <section id="moments-iconiques" contenteditable="true">
-            <h2 id="nZIHrbZ" contenteditable="true">Moments Iconiques</h2>
-            <p id="xowsDfd" contenteditable="true">Qui pourrait oublier la fameuse "Main de Dieu" lors de la Coupe du Monde 1986 contre l'Angleterre? Ce tournoi est également mémorable grâce à son but époustouflant considéré comme le "but du siècle". Diego Maradona a propulsé l'Argentine au sommet du football mondial en remportant la Coupe du Monde cette année-là.</p>
+        <section id="technologies-developpees" contenteditable="true">
+            <h2 id="wwvpSxe" contenteditable="true">Technologies Développées par OpenAI</h2>
+            <p id="oKKwvli" contenteditable="true">Les progrès réalisés par OpenAI incluent le développement de systèmes comme GPT (Generative Pre-trained Transformer), qui a révolutionné le traitement du langage naturel. En outre, OpenAI Codex permet la génération de code assistée par IA, facilitant ainsi le développement pour les programmeurs. Les technologies d'OpenAI continuent de repousser les limites des capacités de l'<strong id="bSpTMlq" contenteditable="true">intelligence artificielle</strong>.</p>
         </section>
-        
-        <section id="impact-culturel" contenteditable="true">
-            <h2 id="uLhRGOt" contenteditable="true">Impact Culturel</h2>
-            <p id="sqoUmgP" contenteditable="true">Diego Maradona n'était pas seulement un joueur de football, mais une <strong id="HsmjtNZ" contenteditable="true">icône</strong> culturelle. Son style flamboyant et ses prouesses sur le terrain ont inspiré de nombreux artistes, films, et musiciens. En Argentine, il est vu comme un héros national, un symbole d'espoir et de détermination.</p>
+        <section id="impact-sur-industries" contenteditable="true">
+            <h2 id="BrSNPqD" contenteditable="true">Impact d'OpenAI sur les Industries</h2>
+            <p id="cfgSyoS" contenteditable="true">L'impact d'OpenAI s'étend à une multitude de secteurs industriels. Dans le domaine de la santé, les modèles d'<strong id="fDLEDJe" contenteditable="true">IA</strong> aident à analyser les données de santé à grande échelle, améliorent les diagnostics et la personnalisation des traitements. Dans le secteur financier, les outils d'analyse de données et de prévisions assistés par IA renforcent la prise de décision. L'enseignement bénéficie également d'outils d'apprentissage automatique qui personnalisent les parcours éducatifs.</p>
         </section>
-        
-        <section id="legacy-et-decennies" contenteditable="true">
-            <h2 id="SpGLBXQ" contenteditable="true">Héritage et Décennies</h2>
-            <p id="FwHFibk" contenteditable="true">Maradona a laissé un héritage indélébile dans le monde du football. Même après sa retraite, il a continué à influencer le sport, en occupant des postes d'entraîneur et en servant de mentor pour les jeunes joueurs. Sa mort le 25 novembre 2020 a marqué la fin d'une époque, mais son héritage continue de vivre.</p>
+        <section id="avenir-openai" contenteditable="true">
+            <h2 id="eYamibI" contenteditable="true">L'Avenir d'OpenAI</h2>
+            <p id="wxkTWSq" contenteditable="true">Avec la mission continue de promouvoir une <strong id="QsrpUfZ" contenteditable="true">IA éthique</strong> et bénéfique pour la société, OpenAI se concentre sur la sécurité et l'accessibilité de ses innovations. L'avenir d'OpenAI sera axé sur une collaboration accrue avec diverses industries et communautés scientifiques pour s'assurer que les technologies d'IA peuvent être utilisées pour le bien-être de tous.</p>
         </section>
-
-        <section id="WMwKpnA" contenteditable="true">
-            <h2 id="VTiVkgi" contenteditable="true">FAQ</h2>
-            <h3 id="pkgDlok" contenteditable="true">Quel était le surnom de Diego Maradona?</h3>
-            <p id="SoMZeUm" contenteditable="true">Diego Maradona était couramment surnommé "El Pibe de Oro", qui signifie "Le Gammin d'Or".</p>
-            
-            <h3 id="mBnirlL" contenteditable="true">Combien de Coupes du Monde Maradona a-t-il jouées?</h3>
-            <p id="wclGXmn" contenteditable="true">Diego Maradona a joué dans quatre Coupes du Monde, en 1982, 1986, 1990 et 1994.</p>
-            
-            <h3 id="lDLGien" contenteditable="true">Quel club italien Diego Maradona a-t-il rendu célèbre?</h3>
-            <p id="EgdCKly" contenteditable="true">Diego Maradona a rendu célèbre le club italien SSC Napoli grâce à ses performances exceptionnelles.</p>
-            
-            <h3 id="ydSQkHk" contenteditable="true">En quelle année Maradona a-t-il remporté la Coupe du Monde?</h3>
-            <p id="lCpVBFX" contenteditable="true">Diego Maradona a remporté la Coupe du Monde avec l'Argentine en 1986.</p>
-            
-            <h3 id="Uqubtjh" contenteditable="true">Quel est le célèbre but marqué par Maradona connu sous le nom de "but du siècle"?</h3>
-            <p id="JhIpWKU" contenteditable="true">Le "but du siècle" est l'incroyable but marqué par Maradona contre l'Angleterre, où il a dribblé de nombreux joueurs avant de scorer en 1986.</p>
+        <section id="faq" contenteditable="true">
+            <h2 id="UGnuwZy" contenteditable="true">FAQ</h2>
+            <h3 id="hROKzWt" contenteditable="true">1. Quelle est la mission principale d'OpenAI ?</h3>
+            <p id="KRvdlwk" contenteditable="true">La mission principale d'OpenAI est de s'assurer que l'intelligence artificielle bénéficie à l'ensemble de l'humanité en collaborant avec des chercheurs et en promouvant des techniques d'IA responsables et sécurisées.</p>
+            <h3 id="XPgoyRA" contenteditable="true">2. Qu'est-ce que GPT ?</h3>
+            <p id="ChymaAZ" contenteditable="true">GPT, ou Generative Pre-trained Transformer, est un modèle de langage développé par OpenAI qui utilise l'apprentissage profond pour générer des textes semblables à ceux des humains.</p>
+            <h3 id="caoqcej" contenteditable="true">3. Comment OpenAI impacte-t-elle l'industrie de la santé ?</h3>
+            <p id="rzZknIy" contenteditable="true">OpenAI contribue à l'industrie de la santé en fournissant des outils d'analyse de données qui aident à améliorer les diagnostics, les planifications de traitement et la recherche médicale.</p>
+            <h3 id="aquAfOk" contenteditable="true">4. OpenAI est-elle toujours une organisation à but non lucratif ?</h3>
+            <p id="cYfnKEO" contenteditable="true">À l'origine fondée en tant qu'organisation à but non lucratif, OpenAI a réorienté une partie de ses activités vers un modèle hybride pour attirer des investissements et garantir la poursuite du développement de ses projets ambitieux.</p>
+            <h3 id="HgDNMdt" contenteditable="true">5. Quel est le rôle d'OpenAI dans l'éthique de l'IA ?</h3>
+            <p id="DqVdwUM" contenteditable="true">OpenAI joue un rôle crucial dans la promotion de l'éthique et de la sécurité en matière d'intelligence artificielle, en établissant des normes et des directives pour s'assurer que les technologies sont utilisées de manière responsable.</p>
         </section>
-
-        <p id="pimvhTN" contenteditable="true"><strong id="fjIQRUy" contenteditable="true">Mots-clés :</strong></p>
-        <p id="lvhYpQG" contenteditable="true">Diego Maradona, football, Main de Dieu, but du siècle, Napoli, héritage, icône culturelle, Coupe du Monde 1986, El Pibe de Oro</p>
-
-        <section id="QxomvBd" contenteditable="true">
-            <h2 id="TDEcJVG" contenteditable="true">Conclusion</h2>
-            <p id="gpEWXFJ" contenteditable="true">Diego Maradona reste une figure emblématique du football mondial, connu pour son génie sur le terrain et son influence culturelle significative. Son style, sa passion et sa détermination ont inspiré des générations, et bien que sa vie ait été jalonnée de controverses, son héritage sportif demeure inégalé dans le monde du football.</p>
+        <p id="covMNIt" contenteditable="true"><strong id="cSdwoLp" contenteditable="true">Mots-clés :</strong></p>
+        <p id="lcqQzit" contenteditable="true">OpenAI, intelligence artificielle, GPT, IA éthique, technologies d'IA, impact industriel, avenir de l'IA, recherche en IA, innovation technologique</p>
+        <section id="yOGjvSa" contenteditable="true">
+            <h2 id="OcWvUom" contenteditable="true">Conclusion</h2>
+            <p id="VWmVVxj" contenteditable="true">En conclusion, OpenAI représente une force motrice dans le monde de l'intelligence artificielle. Avec des contributions substantielles au développement de modèles avancés, l'organisation continue de promouvoir des pratiques éthiques et bénéfiques à travers ses recherches et technologies. Le chemin d'OpenAI est celui de la collaboration pour transformer le potentiel de l'IA en solutions pratiques et humaines.</p>
         </section>
     </div>
 </article></grid-content>
         <grid-edit-section class="grid-edit-section no-export" contenteditable="false" data-type="grid-edit-section"> 
           <div class="edit-ia">
-            <button contenteditable="false" class="section-assistant-btn" onclick="openIaAssistant('BavCCTf','Uukgomw')"><img src="../global/file/assistant.svg"> IA Assistant </button>
-            <button contenteditable="false" class="section-shortcuts-btn" onclick="openIaShorcuts('Uukgomw')"><img src="../global/file/shortcuts.svg"> IA Shortcuts</button>
+            <button contenteditable="false" class="section-assistant-btn" onclick="openIaAssistant('TdQKdjv','wGFplEN')"><img src="../global/file/assistant.svg"> IA Assistant </button>
+            <button contenteditable="false" class="section-shortcuts-btn" onclick="openIaShorcuts('wGFplEN')"><img src="../global/file/shortcuts.svg"> IA Shortcuts</button>
           </div>
           <div class="edit-settings">
             <button contenteditable="false" class="section-open-modal" onclick="toolsOpenModal(this)">⋮</button>
@@ -125,6 +121,6 @@ div#RFXvdwn {
         </grid-edit-section> 
       </grid-container>
       <!--JS-->
-        <script id="PjVBXYq" data-type="js"></script>  
+        <script id="sjWhGEx" data-type="js"></script>  
   </section>
   </grid-body><script id="page-global.js" type="text/javascript" data-type="js"></script>
