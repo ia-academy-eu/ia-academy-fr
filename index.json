@@ -136,4 +136,135 @@ section h1 {
     width:100%;
     height:100%;
   }
-</style><style id="page-tablet.css" type="text/css" data-type="css" data-size="tablet" data-content="page">@media screen and (min-width:641px) and (max-width:1024px) { /* Tablet */ }</style><style id="page-mobile.css" type="text/css" data-type="css" data-size="mobile" data-content="page">@media screen and (max-width:640px) { /* Mobile */ }</style><grid-body id="grid-body"></grid-body><script id="page-global.js" type="text/javascript" data-type="js"></script>
+</style><style id="page-tablet.css" type="text/css" data-type="css" data-size="tablet" data-content="page">@media screen and (min-width:641px) and (max-width:1024px) { /* Tablet */ }</style><style id="page-mobile.css" type="text/css" data-type="css" data-size="mobile" data-content="page">@media screen and (max-width:640px) { /* Mobile */ }</style><grid-body id="grid-body">
+  <section id="WuvdvBq" data-type="section-container">  
+      <!--CSS-->
+      <grid-css>
+        <style id="dpLtHwL" type="text/css" data-type="css" data-size="laptop" data-content="section">
+  
+  grid-content#pYkOEJX{
+    display: grid;
+    padding:35px;
+    grid-template-columns:1fr;
+  }
+  </style>
+        <style id="JJDgDVy" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
+  grid-content#pYkOEJX{
+    display: grid;
+  }
+  }</style>
+        <style id="iwcRtjW" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
+  grid-content#pYkOEJX{
+    display: grid;
+  }}</style>
+      </grid-css>  
+      <!--BG-->
+      <grid-bg id="rwcuxHM" data-type="grid-bg">
+          <!-- bg-color -->
+          <grid-bg-color id="ykMVVpV" data-type="grid-bg-color" class="div-visible" style="background-color: rgba(255, 255, 255, 1);"></grid-bg-color> 
+          <!-- bg-image -->
+          <grid-bg-image id="jpmyivs" data-type="grid-bg-image" class="div-hidden">
+            <picture id="LJphxcf">
+              <source srcset="" media="(max-width:640px)">
+              <source srcset="" media="(min-width:641px) and (max-width:1024px)">
+              <img id="zXzRcMq" src="https://images.unsplash.com/photo-1470337458703-46ad1756a187?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyM3x8Zm9vZHxlbnwwfDB8fHwxNzE2ODM1NjIzfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-bg" loading="lazy">
+            </picture>
+          </grid-bg-image> 
+          <!-- bg-video -->
+          <grid-bg-video id="hbwOGVH" data-type="grid-bg-video" class="div-hidden">
+            <video id="MjXebhW" autoplay="" loop="" muted="" loading="lazy" data-type="video-bg" src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4"></video>
+          </grid-bg-video> 
+      </grid-bg>
+      <!-- grid-container -->
+      <grid-container id="mfeYlqH" data-type="grid-container">
+        <!-- grid-content -->
+        <grid-content id="pYkOEJX" contenteditable="false" data-type="html"><article>
+    <h1 id="iXjXqlW" contenteditable="true">Maradona y su Relación con las Drogas: Un Legado Complejo</h1>
+    <img src="./js/quickbars/empty.png" data-type="image-fg" loading="lazy" id="cobhDtq" contenteditable="true">
+    <section id="hmVKbIN" contenteditable="true">
+        <h2 id="DUuhwpo" contenteditable="true">Tabla de Contenidos</h2>
+        <ol id="enwcAww" contenteditable="true">
+            <li id="UjTJIzU" contenteditable="true"><a href="#la-vida-de-maradona" id="iAGpuqJ" contenteditable="true">La vida de Maradona: Un Ícono del Fútbol</a></li>
+            <li id="wpNFgff" contenteditable="true"><a href="#ascenso-y-caida" id="IbyeRuJ" contenteditable="true">Ascenso y Caída de un Héroe</a></li>
+            <li id="plMQIVC" contenteditable="true"><a href="#impacto-de-las-drogas" id="HknDcuT" contenteditable="true">Impacto de las Drogas en su Carrera</a></li>
+            <li id="bXgGwJh" contenteditable="true"><a href="#la-redencion-y-recuperacion" id="lMJeOWC" contenteditable="true">La Redención y Recuperación de Maradona</a></li>
+            <li id="bHaBCwc" contenteditable="true"><a href="#legado-y-lecciones" id="bXBqmnp" contenteditable="true">Legado y Lecciones Aprendidas</a></li>
+        </ol>
+    </section>
+    
+    <section id="la-vida-de-maradona" contenteditable="true">
+        <h2 id="KyozMIv" contenteditable="true">La vida de Maradona: Un Ícono del Fútbol</h2>
+        <p id="ezYIoRm" contenteditable="true">Diego Armando Maradona es considerado uno de los <strong id="RajEtmC" contenteditable="true">mejores futbolistas</strong> de todos los tiempos. Nacido en Lanús, Argentina, en 1960, Maradona mostró un talento innato para el fútbol desde una edad temprana. Su habilidad para driblar y su inigualable visión de juego lo catapultaron a la fama internacional.</p>
+    </section>
+
+    <section id="ascenso-y-caida" contenteditable="true">
+        <h2 id="MwSaFnD" contenteditable="true">Ascenso y Caída de un Héroe</h2>
+        <p id="vVcKPYv" contenteditable="true">Maradona alcanzó el pináculo de su carrera futbolística en los años 80, especialmente durante el Mundial de 1986, donde llevó a Argentina a la victoria. Sin embargo, su vida personal comenzó a desmoronarse debido a sus <strong id="aQPQMVj" contenteditable="true">problemas con la droga</strong>.</p>
+        <p id="PfShLDV" contenteditable="true">El uso de cocaína se convirtió en un grave problema para Maradona, afectando no solo su salud, sino también su rendimiento deportivo. Las sanciones y suspensiones agregaron una sombra oscura a su ilustre carrera.</p>
+    </section>
+
+    <section id="impacto-de-las-drogas" contenteditable="true">
+        <h2 id="pcQNMus" contenteditable="true">Impacto de las Drogas en su Carrera</h2>
+        <p id="JJdFwQW" contenteditable="true">El consumo de drogas llevó a múltiples sanciones, incluyendo su salida del Napoli en 1991 y una suspensión en la Copa Mundial de 1994 tras dar positivo en un control antidopaje. Estos incidentes empañaron su legado y lo alejaron temporalmente del deporte que tanto amaba.</p>
+        <p id="fbYzqTb" contenteditable="true">Las drogas no solo afectaron su carrera, sino que también tuvieron un impacto en su vida personal, llevándolo a enfrentar serios problemas de salud.</p>
+    </section>
+
+    <section id="la-redencion-y-recuperacion" contenteditable="true">
+        <h2 id="dQAGJiv" contenteditable="true">La Redención y Recuperación de Maradona</h2>
+        <p id="gwLemUF" contenteditable="true">Después de muchos altibajos, Maradona comenzó un proceso de recuperación. Se sometió a tratamientos para superar sus adicciones y asumió nuevos roles en el mundo del fútbol, como entrenador y comentarista.</p>
+        <p id="XuFQyXQ" contenteditable="true">Su lucha contra la adicción se convirtió en una parte significativa de su historia, inspirando a muchos a buscar ayuda y superar sus propios desafíos.</p>
+    </section>
+
+    <section id="legado-y-lecciones" contenteditable="true">
+        <h2 id="yCzydQv" contenteditable="true">Legado y Lecciones Aprendidas</h2>
+        <p id="urUrfDK" contenteditable="true">A pesar de sus problemas, Maradona dejó un legado duradero en el mundo del fútbol. Su talento y pasión por el juego han inspirado a generaciones de jugadores y aficionados.</p>
+        <p id="GPCyxnn" contenteditable="true">Su historia es una advertencia sobre los peligros de la drogadicción, pero también un testimonio de la capacidad de redención y el poder del espíritu humano.</p>
+    </section>
+
+    <section id="XXUfcvr" contenteditable="true">
+        <h2 id="YxzmeUz" contenteditable="true">Resumen</h2>
+        <p id="vZaYxbD" contenteditable="true">Diego Maradona fue un ícono del fútbol mundial cuya carrera fue afectada por su relación con las drogas. Su historia es un reflejo de un increíble talento, empañado por decisiones personales negativas, pero también de una eventual redención y recuperación. Su legado perdura como una mezcla de brillantez deportiva e importantes lecciones de vida.</p>
+    </section>
+
+    <section id="GSkcWmC" contenteditable="true">
+        <h2 id="fWTPuSz" contenteditable="true">Preguntas Frecuentes</h2>
+        <h3 id="aCywXjl" contenteditable="true">¿Cómo afectaron las drogas a la carrera de Maradona?</h3>
+        <p id="HWKhdwZ" contenteditable="true">Las drogas llevaron a sanciones y suspensiones, afectaron su salud y empañaron su legado deportivo.</p>
+        
+        <h3 id="ENTaXri" contenteditable="true">¿Cuándo comenzó Maradona a consumir drogas?</h3>
+        <p id="gaiqAKy" contenteditable="true">Se cree que Maradona comenzó a consumir drogas durante su tiempo en Barcelona, en la década de los 80.</p>
+        
+        <h3 id="VbVTinl" contenteditable="true">¿Cómo se recuperó Maradona de su adicción?</h3>
+        <p id="ArKnnRo" contenteditable="true">Maradona se sometió a tratamientos de rehabilitación y eventualmente asumió funciones dentro del fútbol que mantuvieron su conexión con el deporte.</p>
+        
+        <h3 id="uVzLSjE" contenteditable="true">¿Cuál es el legado de Maradona en el fútbol?</h3>
+        <p id="vJjhLwJ" contenteditable="true">Maradona es recordado como uno de los mejores jugadores de fútbol de la historia, a pesar de los problemas personales que enfrentó.</p>
+        
+        <h3 id="aEphzkY" contenteditable="true">¿Qué lecciones se pueden aprender de la vida de Maradona?</h3>
+        <p id="iTWnAew" contenteditable="true">Su vida es un recordatorio de los peligros de las adicciones, pero también de la capacidad de redención y superación.</p>
+    </section>
+
+    <h5 id="XvvlBPa" contenteditable="true">Keywords:</h5>
+    <p id="rlGrINg" contenteditable="true">Diego Maradona, drogas, fútbol, adicción, recuperación, legado, talento, redención, historia de vida, problemas de salud</p>
+    
+    <section data-type="cta" id="OltyKxD" contenteditable="true">
+        <h2 id="KNVLYHr" contenteditable="true">Conoce Más Sobre Maradona</h2>
+        <p id="qstooMS" contenteditable="true">Explora más sobre la fascinante vida de Diego Maradona y su impacto en el mundo del fútbol.</p>
+        <a href="www" id="SxGHAoM" contenteditable="true">Leer Biografía de Maradona</a>
+        <a href="www" id="RSUjHlu" contenteditable="true">Ver Documentales Destacados</a>
+    </section>
+</article></grid-content>
+        <grid-edit-section class="grid-edit-section no-export" contenteditable="false" data-type="grid-edit-section"> 
+          <div class="edit-ia">
+            <button contenteditable="false" class="section-assistant-btn" onclick="openIaAssistant('WuvdvBq','pYkOEJX')"><img src="../global/file/assistant.svg"> IA Assistant </button>
+            <button contenteditable="false" class="section-shortcuts-btn" onclick="openIaShorcuts('pYkOEJX')"><img src="../global/file/shortcuts.svg"> IA Shortcuts</button>
+          </div>
+          <div class="edit-settings">
+            <button contenteditable="false" class="section-open-modal" onclick="toolsOpenModal(this)">⋮</button>
+          </div>
+        </grid-edit-section> 
+      </grid-container>
+      <!--JS-->
+        <script id="VsKpmqa" data-type="js"></script>  
+  </section>
+  </grid-body><script id="page-global.js" type="text/javascript" data-type="js"></script>
