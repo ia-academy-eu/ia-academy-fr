@@ -6,14 +6,12 @@
   <section id="BavCCTf" data-type="section-container">  
       <!--CSS-->
       <grid-css>
-        <style id="TqbwIYK" type="text/css" data-type="css" data-size="laptop" data-content="section">
-  
-  grid-content#Uukgomw{
-    display: grid;
-    padding:35px;
-    grid-template-columns:1fr;
-  }
-  </style>
+        <style id="TqbwIYK" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#Uukgomw {
+  display: grid;
+  padding:0;
+  grid-template-columns: 1fr;
+}
+</style>
         <style id="QnmLtoh" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
   grid-content#Uukgomw{
     display: grid;
