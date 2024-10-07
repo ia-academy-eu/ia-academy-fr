@@ -1,4 +1,4 @@
-<style id="page-laptop.css" type="text/css" data-type="css" data-size="laptop" data-content="page">@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+<style id="page-laptop.css" type="text/css" data-type="css" data-size="laptop" data-content="page">
 :root {
     --web-outline : 2px solid white;
     --web-outine-offset : 2px;
@@ -14,7 +14,7 @@
     border: 0 solid #e5e7eb;
 }
 grid-page{
-    font-family: "Questrial", sans-serif;;
+    font-family: system-ui;
     display:block;
     min-height:calc(50vh - 100px);
     padding:50px;
