@@ -1,138 +1,122 @@
-<style id="page-laptop.css" type="text/css" data-type="css" data-size="laptop" data-content="page"></style><style id="page-tablet.css" type="text/css" data-type="css" data-size="tablet" data-content="page">@media screen and (min-width:641px) and (max-width:1024px) { /* Tablet */ }</style><style id="page-mobile.css" type="text/css" data-type="css" data-size="mobile" data-content="page">@media screen and (max-width:640px) { /* Mobile */ }</style><grid-body id="grid-body">
-  
-  
-  
-  
-  
-  
-  <section id="dkvQDDz" data-type="section-container">  
+<style id="page-laptop.css" type="text/css" data-type="css" data-size="laptop" data-content="page">grid-body{
+    padding:35px;
+}</style><style id="page-tablet.css" type="text/css" data-type="css" data-size="tablet" data-content="page">@media screen and (min-width:641px) and (max-width:1024px) { /* Tablet */ }</style><style id="page-mobile.css" type="text/css" data-type="css" data-size="mobile" data-content="page">@media screen and (max-width:640px) { /* Mobile */ }</style><grid-body id="grid-body">
+  <section id="yFcvjRz" data-type="section-container">  
       <!--CSS-->
       <grid-css>
-        <style id="oDdPZKE" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#EXQysqp {
-  display: grid;
-  padding: clamp(3%, 5vw, 100px);
-  grid-template-columns: 1fr;
-}
-</style>
-        <style id="UccLJms" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
-  grid-content#EXQysqp{
+        <style id="KamHmIB" type="text/css" data-type="css" data-size="laptop" data-content="section">
+  
+  grid-content#eWzpsqE{
+    display: grid;
+    padding:35px;
+    grid-template-columns:1fr;
+  }
+  </style>
+        <style id="NpHLMKJ" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
+  grid-content#eWzpsqE{
     display: grid;
   }
   }</style>
-        <style id="XbUlaEg" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
-  grid-content#EXQysqp{
+        <style id="wXdMniX" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
+  grid-content#eWzpsqE{
     display: grid;
   }}</style>
       </grid-css>  
       <!--BG-->
-      <grid-bg id="yfjlEEd" data-type="grid-bg">
+      <grid-bg id="lUFYVFy" data-type="grid-bg">
           <!-- bg-color -->
-          <grid-bg-color id="ENEakJa" data-type="grid-bg-color" class="div-visible" style="background-color: rgba(255, 255, 255, 1);"></grid-bg-color> 
+          <grid-bg-color id="NfWHLFb" data-type="grid-bg-color" class="div-visible" style="background-color: rgba(255, 255, 255, 1);"></grid-bg-color> 
           <!-- bg-image -->
-          <grid-bg-image id="BtDBuLm" data-type="grid-bg-image" class="div-hidden">
-            <picture id="hjxdCjf">
+          <grid-bg-image id="gGdxqrc" data-type="grid-bg-image" class="div-hidden">
+            <picture id="yCajpjh">
               <source srcset="" media="(max-width:640px)">
               <source srcset="" media="(min-width:641px) and (max-width:1024px)">
-              <img id="LVWnvuo" src="https://images.unsplash.com/photo-1470337458703-46ad1756a187?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyM3x8Zm9vZHxlbnwwfDB8fHwxNzE2ODM1NjIzfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-bg" loading="lazy">
+              <img id="GoZOHIW" src="https://images.unsplash.com/photo-1470337458703-46ad1756a187?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyM3x8Zm9vZHxlbnwwfDB8fHwxNzE2ODM1NjIzfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-bg" loading="lazy">
             </picture>
           </grid-bg-image> 
           <!-- bg-video -->
-          <grid-bg-video id="fkZoGMh" data-type="grid-bg-video" class="div-hidden">
-            <video id="aLfHtIW" autoplay="" loop="" muted="" loading="lazy" data-type="video-bg" src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4"></video>
+          <grid-bg-video id="QVFvOuJ" data-type="grid-bg-video" class="div-hidden">
+            <video id="JoEsZPv" autoplay="" loop="" muted="" loading="lazy" data-type="video-bg" src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4"></video>
           </grid-bg-video> 
       </grid-bg>
       <!-- grid-container -->
-      <grid-container id="nCcULpG" data-type="grid-container">
+      <grid-container id="OLmvjeM" data-type="grid-container">
         <!-- grid-content -->
-        <grid-content id="EXQysqp" contenteditable="false" data-type="html"><article>
-    <h1 id="lDrhiiZ" contenteditable="true">Les OVNIS : Exploration des Phénomènes Inexpliqués</h1>
-    <img src="https://images.unsplash.com/photo-1598482327649-e8831e1505be?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxMnx8dWZvfGVufDB8MHx8fDE3MjgyMzQ2MTB8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-fg" loading="lazy" alt="Image d'un OVNI" id="BANfCuQ" contenteditable="true">
+        <grid-content id="eWzpsqE" contenteditable="false" data-type="html"><article>
+    <h1 id="DLnAdVc" contenteditable="true">Diego Maradona: Un Ícono del Fútbol Mundial</h1>
+    <p id="HLOYPfA" contenteditable="true">Fecha de creación: 30 Octubre 2023</p>
+    <figure id="wNlBoCw" contenteditable="true">
+        <img src="https://images.unsplash.com/photo-1464226184884-fa280b87c399?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyfHxmb29kfGVufDB8MHx8fDE3MjgyNzU1MDd8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-fg" loading="lazy" alt="Imagen de Diego Maradona" id="JguxeQf" contenteditable="true">
+    </figure>
 
-    <section id="lIOHLfx" contenteditable="true">
-        <h2 id="DUxLKBY" contenteditable="true">Table des Matières</h2>
-        <ol id="yDzKFts" contenteditable="true">
-            <li id="HhJYYKo" contenteditable="true"><a href="#definition-ovnis" id="FtRjAai" contenteditable="true">Qu'est-ce qu'un OVNI ?</a></li>
-            <li id="SJkCVJf" contenteditable="true"><a href="#histoire-observations" id="cKAoDwp" contenteditable="true">L'Historique des Observations d'OVNIS</a></li>
-            <li id="ZFOphQR" contenteditable="true"><a href="#theories-explications" id="gllphNQ" contenteditable="true">Théories et Explications</a></li>
-            <li id="aaPFnnn" contenteditable="true"><a href="#ovnis-culture-pop" id="EOFbooY" contenteditable="true">Les OVNIS dans la Culture Populaire</a></li>
-            <li id="bIdkhzW" contenteditable="true"><a href="#impact-social-politique" id="ommGUSo" contenteditable="true">L'Impact Social et Politique des OVNIS</a></li>
+    <section id="KQEafFH" contenteditable="true">
+        <h2 id="JUKbBWw" contenteditable="true">Tabla de Contenidos</h2>
+        <ol id="ZIZQINf" contenteditable="true">
+            <li id="lxcrACT" contenteditable="true"><a href="#vida-temprana-maradona" id="cpekOyO" contenteditable="true">Vida Temprana de Diego Maradona</a></li>
+            <li id="PdITLun" contenteditable="true"><a href="#ascenso-fama" id="LRtBkqE" contenteditable="true">El Ascenso a la Fama</a></li>
+            <li id="QTwGhJX" contenteditable="true"><a href="#triunfos-legendarios" id="ogfeSdx" contenteditable="true">Triunfos Legendarios en el Fútbol</a></li>
+            <li id="BmezOhi" contenteditable="true"><a href="#controversias-maradona" id="jOPBQJo" contenteditable="true">Controversias y Desafíos Personales</a></li>
+            <li id="UvQuVMA" contenteditable="true"><a href="#legado-maradona" id="iNOWVqQ" contenteditable="true">El Legado de Maradona</a></li>
+            <li id="lfvsOMe" contenteditable="true"><a href="#faq-maradona" id="tqCNqiJ" contenteditable="true">Preguntas Frecuentes sobre Maradona</a></li>
+            <li id="adZLvUq" contenteditable="true"><a href="#conclusion-maradona" id="MHgyutm" contenteditable="true">Conclusión</a></li>
         </ol>
     </section>
 
-    <section id="definition-ovnis" contenteditable="true">
-        <h2 id="laZFXYF" contenteditable="true">Qu'est-ce qu'un OVNI ?</h2>
-        <p id="DFBLKUg" contenteditable="true">Le terme <strong id="zFcZbas" contenteditable="true">OVNI</strong> signifie "Objet Volant Non Identifié". Il est utilisé pour désigner tout objet vague ou inexplicable vu dans le ciel qui ne peut être facilement reconnu ou identifié.</p>
-        <p id="vOaTYPm" contenteditable="true">La fascination pour les OVNIS est due à leur mystère et à la possibilité qu'ils pourraient être des signes d'une vie extraterrestre. En fait, les OVNIS ont été un sujet d'intérêt depuis plusieurs décennies, captivant à la fois les amateurs et les scientifiques.</p>
+    <section id="vida-temprana-maradona" contenteditable="true">
+        <h2 id="hYnZSmU" contenteditable="true">Vida Temprana de Diego Maradona</h2>
+        <p id="qznhOrI" contenteditable="true">Nacido el 30 de octubre de 1960 en Villa Fiorito, un barrio pobre en Buenos Aires, <strong id="KPZlvRR" contenteditable="true">Diego Armando Maradona</strong> mostró talento para el fútbol desde muy joven. Se unió a las divisiones juveniles de <strong id="wmYaqIu" contenteditable="true">Argentinos Juniors</strong> a la edad de 10 años, donde pronto fue reconocido por sus habilidades excepcionales en el campo.</p>
     </section>
 
-    <section id="histoire-observations" contenteditable="true">
-        <h2 id="cgffAHn" contenteditable="true">L'Historique des Observations d'OVNIS</h2>
-        <p id="IpFWMcL" contenteditable="true">Les observations d'OVNIS remontent à des siècles. Toutefois, ce n'est qu'à partir du XXe siècle que le terme a commencé à circuler largement, en raison de nombreux événements mystérieux capturant l'attention du public.</p>
-        <ul id="HCXUKpD" contenteditable="true">
-            <li id="RZPOWoi" contenteditable="true"><strong id="MJfZbFf" contenteditable="true">Première moitié du XXe siècle :</strong> Des témoins rapportent des objets étranges dans le ciel, souvent interprétés comme des phénomènes naturels ou atmosphériques.</li>
-            <li id="oLujrSR" contenteditable="true"><strong id="ekUrxiz" contenteditable="true">1947 :</strong> L'incident de Roswell déchaîne la fascination avec un présumé crash d'un vaisseau extraterrestre au Nouveau-Mexique.</li>
-            <li id="BuFmWkV" contenteditable="true"><strong id="LymzDJH" contenteditable="true">Années 1950-1960 :</strong> La guerre froide exacerbe la suspicion et l'intérêt pour les OVNIS avec de nombreux rapports aux quatre coins du monde.</li>
-        </ul>
+    <section id="ascenso-fama" contenteditable="true">
+        <h2 id="wbfBYaC" contenteditable="true">El Ascenso a la Fama</h2>
+        <p id="kexhPRv" contenteditable="true">Maradona debutó profesionalmente a los 15 años. Su carrera rápidamente despegó, y para 1981 ya jugaba para el club de sus sueños, <strong id="RoeaLNK" contenteditable="true">Boca Juniors</strong>. En 1982, Maradona se trasladó a Europa, fichando por el <strong id="mVDhygF" contenteditable="true">FC Barcelona</strong>, donde ganó la Copa del Rey.</p>
     </section>
 
-    <section id="theories-explications" contenteditable="true">
-        <h2 id="xrcQHyn" contenteditable="true">Théories et Explications</h2>
-        <p id="xlpSVsC" contenteditable="true">Plusieurs théories ont émergé pour tenter d'expliquer la présence des OVNIS :</p>
-        <ul id="EmLszuC" contenteditable="true">
-            <li id="ngEKoKu" contenteditable="true"><strong id="yqOxQwz" contenteditable="true">Hypothèse extraterrestre :</strong> Cette théorie propose que les OVNIS sont des engins venus d'autres planètes, potentiellement pilotés par des êtres intelligents.</li>
-            <li id="EIYDgQT" contenteditable="true"><strong id="QdAhcKo" contenteditable="true">Phénomènes naturels :</strong> Certains OVNIS pourraient être des phénomènes naturels mal compris, comme des nuages lenticulaires ou des éclairs globulaires.</li>
-            <li id="bfreowy" contenteditable="true"><strong id="EtqjYTS" contenteditable="true">Projets secrets :</strong> Des observateurs ont suggéré que de nombreux témoignages pourraient être liés à des tests militaires ou à des développements technologiques secrets.</li>
-        </ul>
+    <section id="triunfos-legendarios" contenteditable="true">
+        <h2 id="FmvYiTx" contenteditable="true">Triunfos Legendarios en el Fútbol</h2>
+        <p id="UpinnPM" contenteditable="true">El momento culminante de la carrera de Maradona fue la <strong id="xScUpvO" contenteditable="true">Copa Mundial de 1986</strong> en México, donde llevó a Argentina al título. Fue en ese torneo que anotó el famoso gol conocido como la "Mano de Dios", así como el "Gol del Siglo".</p>
     </section>
 
-    <section id="ovnis-culture-pop" contenteditable="true">
-        <h2 id="NsJPoRu" contenteditable="true">Les OVNIS dans la Culture Populaire</h2>
-        <p id="soPSMaH" contenteditable="true">Les OVNIS ont laissé une marque durable dans la culture populaire, inspirant films, livres et émissions de télévision.</p>
-        <ul id="pJTQrGy" contenteditable="true">
-            <li id="oSneeAr" contenteditable="true"><strong id="wJGhfZx" contenteditable="true">Cinéma :</strong> Des films iconiques comme "E.T." et "Rencontres du troisième type" popularisent l'idée de rencontrer des extraterrestres amicaux ou mystérieux.</li>
-            <li id="uYcOgHz" contenteditable="true"><strong id="yyYqlNS" contenteditable="true">TV :</strong> Des séries comme "The X-Files" suscitent un engouement pour les enquêtes paranormales et les théories du complot.</li>
-            <li id="kooPnPK" contenteditable="true"><strong id="XIeKkqx" contenteditable="true">Livres :</strong> Des auteurs de science-fiction explorent depuis longtemps la possibilité d'une interaction humaine avec des civilisations avancées.</li>
-        </ul>
+    <section id="controversias-maradona" contenteditable="true">
+        <h2 id="YlfmTwy" contenteditable="true">Controversias y Desafíos Personales</h2>
+        <p id="AcCLHoG" contenteditable="true">A pesar de sus éxitos, la vida de Maradona estuvo plagada de controversias. Su lucha con la <strong id="ThwmBsn" contenteditable="true">adicción a las drogas</strong> y los problemas legales a menudo opacaban sus logros en el campo. En 1991, fue suspendido por dopaje, un incidente que marcó el inicio de una serie de contratiempos personales.</p>
     </section>
 
-    <section id="impact-social-politique" contenteditable="true">
-        <h2 id="VTPPmkF" contenteditable="true">L'Impact Social et Politique des OVNIS</h2>
-        <p id="fHsTRgY" contenteditable="true">Les OVNIS ont influencé la société et la politique à divers degrés. Parfois, ils ont suscité de la peur, parfois de l'émerveillement, mais ils ont toujours fasciné les foules.</p>
-        <p id="yWJersX" contenteditable="true">Des enquêtes officielles comme le <strong id="DhqavPo" contenteditable="true">projet Blue Book</strong> aux requêtes pour la divulgation complète de l'information gouvernementale sur les OVNIS, ces objets continuent de susciter un débat dans les sphères sociales et politiques.</p>
+    <section id="legado-maradona" contenteditable="true">
+        <h2 id="zaJIdkb" contenteditable="true">El Legado de Maradona</h2>
+        <p id="msZzWMp" contenteditable="true">A pesar de las controversias, el legado de Maradona como uno de los futbolistas más grandes continúa vivo. Su influencia se extiende más allá del campo, convirtiéndose en una figura cultural y social. Maradona sigue siendo una fuente de inspiración para muchos y un símbolo de pasión y genialidad futbolística.</p>
     </section>
 
-    <section class="faq" id="OFqMPAd" contenteditable="true">
-        <h2 id="lTQqhHk" contenteditable="true">FAQ sur les OVNIS</h2>
-        <h3 id="zaREVVe" contenteditable="true">Qu'est-ce qui caractérise un OVNI ?</h3>
-        <p id="qTqOaIu" contenteditable="true">Un OVNI est généralement un objet volant dans le ciel qui ne peut pas être facilement identifié comme un avion conventionnel ou un phénomène naturel.</p>
-        
-        <h3 id="kxKgzNP" contenteditable="true">Y a-t-il eu des preuves concluantes de la vie extraterrestre liée aux OVNIS ?</h3>
-        <p id="OLPNwAJ" contenteditable="true">Jusqu'à aujourd'hui, aucune preuve concluante n'a été validée pour l'existence de vie extraterrestre en relation directe avec des observations d'OVNIS.</p>
-        
-        <h3 id="TcELWst" contenteditable="true">Pourquoi les OVNIS sont-ils souvent associés à la conspiration ?</h3>
-        <p id="XvjFHuG" contenteditable="true">En raison du secret entourant de nombreux rapports d'OVNIS et des divulgations limitées des gouvernements, des théories du complot ont émergé pour combler les lacunes d'information.</p>
-        
-        <h3 id="qRTWjvR" contenteditable="true">Quel est le rôle des médias dans l'interprétation des OVNIS ?</h3>
-        <p id="RXgBQbo" contenteditable="true">Les médias ont joué un rôle central en amplifiant certaines histoires d'OVNIS, souvent en les embellissant pour un public avide de mystères.</p>
-        
-        <h3 id="DRDTiHr" contenteditable="true">Les gouvernements enquêtent-ils toujours sur les OVNIS ?</h3>
-        <p id="VahqMeh" contenteditable="true">Oui, de nombreux gouvernements continuent d'étudier les OVNIS sous divers angles et dans le cadre de la recherche sur la sécurité nationale.</p>
+    <section id="faq-maradona" contenteditable="true">
+        <h2 id="FLHISeM" contenteditable="true">Preguntas Frecuentes sobre Maradona</h2>
+
+        <h3 id="XZSPzky" contenteditable="true">¿Cuándo nació Diego Maradona?</h3>
+        <p id="CmpHthj" contenteditable="true">Diego Maradona nació el 30 de octubre de 1960 en Buenos Aires, Argentina.</p>
+
+        <h3 id="MgwpJbR" contenteditable="true">¿Cuál fue el momento más destacado de la carrera de Maradona?</h3>
+        <p id="OYBMlIi" contenteditable="true">El momento más destacado de su carrera fue la Copa Mundial de 1986, donde llevó a Argentina a la victoria con actuaciones memorables.</p>
+
+        <h3 id="FOdDNCC" contenteditable="true">¿Qué es la "Mano de Dios"?</h3>
+        <p id="yefwoMN" contenteditable="true">La "Mano de Dios" se refiere a un gol controvertido que Maradona anotó con la mano en el Mundial de 1986.</p>
+
+        <h3 id="reBYDbH" contenteditable="true">¿Qué problemas personales enfrentó Maradona?</h3>
+        <p id="bYTygOM" contenteditable="true">Maradona enfrentó problemas de adicción a las drogas y varios desafíos legales durante su vida.</p>
+
+        <h3 id="eMmmsAy" contenteditable="true">¿Cuál es el legado de Maradona?</h3>
+        <p id="MfsKGlR" contenteditable="true">El legado de Maradona es el de un icono del fútbol cuya influencia trascendió el deporte, dejándolo como un héroe cultural y social.</p>
     </section>
 
-    <section id="ufkkRRn" contenteditable="true">
-        <p id="CzuKkTn" contenteditable="true"><strong id="zZlCISN" contenteditable="true">Mots-clés :</strong></p>
-        <p id="ZJbTxHT" contenteditable="true">OVNI, Objet Volant Non Identifié, extraterrestres, phénomène inexpliqué, Roswell, science-fiction, complot, observation, mystérieux.</p>
-    </section>
-
-    <section id="LJBdZMW" contenteditable="true">
-        <h2 id="LgGbAoZ" contenteditable="true">Conclusion</h2>
-        <p id="QePFEzW" contenteditable="true">Les OVNIS continueront d'intriguer l'humanité tant que leur véritable nature restera incertaine. Bien qu'ils évoquent mystère et spéculation, les avancées technologiques et scientifiques futures pourraient un jour nous révéler les secrets du ciel.</p>
+    <section id="conclusion-maradona" contenteditable="true">
+        <h2 id="acNwoKw" contenteditable="true">Conclusión</h2>
+        <p id="lSRBmFf" contenteditable="true">Diego Maradona fue, sin duda, uno de los gigantes del fútbol. Su trayectoria es una mezcla de triunfo, controversia y legado duradero. A pesar de los desafíos personales, su impacto en el deporte y en la cultura popular permanece intacto, inspirando a generaciones de fanáticos y futbolistas.</p>
+        <p id="KhLXBwL" contenteditable="true"><strong id="LepMhPv" contenteditable="true">Mots-clés :</strong></p>
+        <p id="UOLJnMg" contenteditable="true">Diego Maradona, Fútbol, Copa Mundial de 1986, Mano de Dios, Legado Maradona, Argentinian Footballer, Boca Juniors, FC Barcelona.</p>      
     </section>
 </article></grid-content>
         <grid-edit-section class="grid-edit-section no-export" contenteditable="false" data-type="grid-edit-section"> 
           <div class="edit-ia">
-            <button contenteditable="false" class="section-assistant-btn" onclick="openIaAssistant('dkvQDDz','EXQysqp')"><img src="../global/file/assistant.svg"> IA Assistant </button>
-            <button contenteditable="false" class="section-shortcuts-btn" onclick="openIaShorcuts('EXQysqp')"><img src="../global/file/shortcuts.svg"> IA Shortcuts</button>
+            <button contenteditable="false" class="section-assistant-btn" onclick="openIaAssistant('yFcvjRz','eWzpsqE')"><img src="../global/file/assistant.svg"> IA Assistant </button>
+            <button contenteditable="false" class="section-shortcuts-btn" onclick="openIaShorcuts('eWzpsqE')"><img src="../global/file/shortcuts.svg"> IA Shortcuts</button>
           </div>
           <div class="edit-settings">
             <button contenteditable="false" class="section-open-modal" onclick="toolsOpenModal(this)">⋮</button>
@@ -140,6 +124,6 @@
         </grid-edit-section> 
       </grid-container>
       <!--JS-->
-        <script id="jBbyYbc" data-type="js"></script>  
+        <script id="YTbobxo" data-type="js"></script>  
   </section>
   </grid-body><script id="page-global.js" type="text/javascript" data-type="js"></script>
