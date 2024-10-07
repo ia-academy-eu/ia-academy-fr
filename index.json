@@ -186,15 +186,17 @@ section h1 {
   <img src="./js/quickbars/empty.png" data-type="image-fg" loading="lazy" alt="Conduire écologiquement à Montpellier" id="KyXwKMK" contenteditable="true">
 
   <section id="IwmCLAs" contenteditable="true">
-    <h2 id="sWFQUwr" contenteditable="true">TABLE OF CONTENTS</h2>
+    <h2 id="swfquwr" contenteditable="true">Table des matières</h2>
+
+
     <ol id="vhdJcvk" contenteditable="true">
-      <li id="FrUVPfv" contenteditable="true"><a href="#importance-cours-conduite-durable" id="JTnOmbS" contenteditable="true">L'Importance des Cours de Conduite Durable</a></li>
-      <li id="CrIXEVm" contenteditable="true"><a href="#pratiques-conduite-ecologique" id="mcEPzIX" contenteditable="true">Pratiques de Conduite Écologique</a></li>
-      <li id="wmqVEWx" contenteditable="true"><a href="#eco-conduite-formation" id="ebeWajO" contenteditable="true">Formation en Éco-Conduite à Montpellier</a></li>
-      <li id="xYorVZw" contenteditable="true"><a href="#avantages-conduite-durable" id="ZlwigKV" contenteditable="true">Les Avantages de la Conduite Durable</a></li>
-      <li id="BKqxAvz" contenteditable="true"><a href="#mythes-realite-eco-conduite" id="FMMbhUW" contenteditable="true">Mythes et Réalités de l'Éco-Conduite</a></li>
+        <li id="FrUVPfv" contenteditable="true"><a href="#importance-cours-conduite-durable" id="JTnOmbS" contenteditable="true">L'Importance des Cours de Conduite Durable</a></li>
+        <li id="CrIXEVm" contenteditable="true"><a href="#pratiques-conduite-ecologique" id="mcEPzIX" contenteditable="true">Pratiques de Conduite Écologique</a></li>
+        <li id="wmqVEWx" contenteditable="true"><a href="#eco-conduite-formation" id="ebeWajO" contenteditable="true">Formation en Éco-Conduite à Montpellier</a></li>
+        <li id="xYorVZw" contenteditable="true"><a href="#avantages-conduite-durable" id="ZlwigKV" contenteditable="true">Les Avantages de la Conduite Durable</a></li>
+        <li id="BKqxAvz" contenteditable="true"><a href="#mythes-realite-eco-conduite" id="FMMbhUW" contenteditable="true">Mythes et Réalités de l'Éco-Conduite</a></li>
     </ol>
-  </section>
+</section>
   
   <section id="importance-cours-conduite-durable" contenteditable="true">
     <h2 id="rlQQTeT" contenteditable="true">L'Importance des Cours de Conduite Durable</h2>
