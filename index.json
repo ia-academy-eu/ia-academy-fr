@@ -60,7 +60,7 @@ div[data-type="post-content"] {
         <p data-type="post-date" id="RbGJlcv" contenteditable="true"> 26 Octobre 2023 </p>
     </div>   
     <div data-type="post-cover" id="lnPwSkc" contenteditable="true">
-        <img src="./js/quickbars/empty.png" data-type="image-fg" loading="lazy" id="APxbFfT" contenteditable="true">
+        <img src="https://images.unsplash.com/photo-1437149853762-a9c0fe22c9d0?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw1fHxhbWF6b25pZXxlbnwwfDB8fHwxNzI4MzQxMDAxfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-fg" loading="lazy" id="APxbFfT" contenteditable="true">
     </div> 
     <div data-type="post-content" id="UCJhVCi" contenteditable="true">
         <section id="eeUYSqR" contenteditable="true">
