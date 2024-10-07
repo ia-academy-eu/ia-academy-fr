@@ -4,7 +4,7 @@
 div[data-type="post-meta"] {
     padding:50px 100px;
 }
-div[data-type="post-blog"] {
+div[data-type="post-content"] {
     padding:50px 100px;
 }</style><style id="page-tablet.css" type="text/css" data-type="css" data-size="tablet" data-content="page">@media screen and (min-width:641px) and (max-width:1024px) { /* Tablet */ }</style><style id="page-mobile.css" type="text/css" data-type="css" data-size="mobile" data-content="page">@media screen and (max-width:640px) { /* Mobile */ }</style><grid-body id="grid-body">
   
