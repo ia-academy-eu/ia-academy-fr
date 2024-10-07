@@ -138,154 +138,152 @@ section h1 {
     height:100%;
   }
 </style><style id="page-tablet.css" type="text/css" data-type="css" data-size="tablet" data-content="page">@media screen and (min-width:641px) and (max-width:1024px) { /* Tablet */ }</style><style id="page-mobile.css" type="text/css" data-type="css" data-size="mobile" data-content="page">@media screen and (max-width:640px) { /* Mobile */ }</style><grid-body id="grid-body">
-  <section id="WuvdvBq" data-type="section-container">  
+  
+  
+  <section id="bnQLBpO" data-type="section-container">  
       <!--CSS-->
       <grid-css>
-        <style id="dpLtHwL" type="text/css" data-type="css" data-size="laptop" data-content="section">
+        <style id="wLlgVsN" type="text/css" data-type="css" data-size="laptop" data-content="section">
   
-  grid-content#pYkOEJX{
+  grid-content#yNdgrTh{
     display: grid;
     padding:35px;
     grid-template-columns:1fr;
   }
   </style>
-        <style id="JJDgDVy" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
-  grid-content#pYkOEJX{
+        <style id="UHQlCgW" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
+  grid-content#yNdgrTh{
     display: grid;
   }
   }</style>
-        <style id="iwcRtjW" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
-  grid-content#pYkOEJX{
+        <style id="PDEJCNN" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
+  grid-content#yNdgrTh{
     display: grid;
   }}</style>
       </grid-css>  
       <!--BG-->
-      <grid-bg id="rwcuxHM" data-type="grid-bg">
+      <grid-bg id="OzAaizY" data-type="grid-bg">
           <!-- bg-color -->
-          <grid-bg-color id="ykMVVpV" data-type="grid-bg-color" class="div-visible" style="background-color: rgba(255, 255, 255, 1);"></grid-bg-color> 
+          <grid-bg-color id="QeLyhFk" data-type="grid-bg-color" class="div-visible" style="background-color: rgba(255, 255, 255, 1);"></grid-bg-color> 
           <!-- bg-image -->
-          <grid-bg-image id="jpmyivs" data-type="grid-bg-image" class="div-hidden">
-            <picture id="LJphxcf">
+          <grid-bg-image id="VGCNmtM" data-type="grid-bg-image" class="div-hidden">
+            <picture id="RvCLerI">
               <source srcset="" media="(max-width:640px)">
               <source srcset="" media="(min-width:641px) and (max-width:1024px)">
-              <img id="zXzRcMq" src="https://images.unsplash.com/photo-1470337458703-46ad1756a187?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyM3x8Zm9vZHxlbnwwfDB8fHwxNzE2ODM1NjIzfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-bg" loading="lazy">
+              <img id="koThshF" src="https://images.unsplash.com/photo-1470337458703-46ad1756a187?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyM3x8Zm9vZHxlbnwwfDB8fHwxNzE2ODM1NjIzfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-bg" loading="lazy">
             </picture>
           </grid-bg-image> 
           <!-- bg-video -->
-          <grid-bg-video id="hbwOGVH" data-type="grid-bg-video" class="div-hidden">
-            <video id="MjXebhW" autoplay="" loop="" muted="" loading="lazy" data-type="video-bg" src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4"></video>
+          <grid-bg-video id="SQRdxPA" data-type="grid-bg-video" class="div-hidden">
+            <video id="agDRiiA" autoplay="" loop="" muted="" loading="lazy" data-type="video-bg" src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4"></video>
           </grid-bg-video> 
       </grid-bg>
       <!-- grid-container -->
-      <grid-container id="mfeYlqH" data-type="grid-container">
+      <grid-container id="yumJsEn" data-type="grid-container">
         <!-- grid-content -->
-        <grid-content id="pYkOEJX" contenteditable="false" data-type="html"><article>
-        <h1 id="vnvkMRW" contenteditable="true">Guide Complet pour Comprendre le Marketing</h1>
-        <img src="./js/quickbars/empty.png" data-type="image-fg" loading="lazy" id="pPOrUsd" contenteditable="true">
+        <grid-content id="yNdgrTh" contenteditable="false" data-type="html"><article>
+  <h1 id="sHwGupf" contenteditable="true">Conduire Écologiquement à Montpellier : Cours pour une Conduite Durable</h1>
+  <img src="./js/quickbars/empty.png" data-type="image-fg" loading="lazy" alt="Conduire écologiquement à Montpellier" id="KyXwKMK" contenteditable="true">
 
-        <section id="zitTgDp" contenteditable="true">
-            <h2 id="rwhrDpM" contenteditable="true">TABLE DES MATIÈRES</h2>
-            <ol id="KlCOpYT" contenteditable="true">
-                <li id="ENVnXni" contenteditable="true"><a href="#definition-du-marketing" id="dqwhEpH" contenteditable="true">Définition du Marketing</a></li>
-                <li id="FwMWYvY" contenteditable="true"><a href="#importance-du-marketing" id="BnLGKoe" contenteditable="true">Importance du Marketing</a></li>
-                <li id="vRNbXAp" contenteditable="true"><a href="#types-de-strategies-marketing" id="BeqyLxZ" contenteditable="true">Types de Stratégies Marketing</a></li>
-                <li id="gZKjhxm" contenteditable="true"><a href="#marketing-numerique-explique" id="XOBiPWf" contenteditable="true">Marketing Numérique Expliqué</a></li>
-                <li id="CYksvJF" contenteditable="true"><a href="#l-avenir-du-marketing" id="SPenDrt" contenteditable="true">L'Avenir du Marketing</a></li>
-            </ol>
-        </section>
+  <section id="IwmCLAs" contenteditable="true">
+    <h2 id="sWFQUwr" contenteditable="true">TABLE OF CONTENTS</h2>
+    <ol id="vhdJcvk" contenteditable="true">
+      <li id="FrUVPfv" contenteditable="true"><a href="#importance-cours-conduite-durable" id="JTnOmbS" contenteditable="true">L'Importance des Cours de Conduite Durable</a></li>
+      <li id="CrIXEVm" contenteditable="true"><a href="#pratiques-conduite-ecologique" id="mcEPzIX" contenteditable="true">Pratiques de Conduite Écologique</a></li>
+      <li id="wmqVEWx" contenteditable="true"><a href="#eco-conduite-formation" id="ebeWajO" contenteditable="true">Formation en Éco-Conduite à Montpellier</a></li>
+      <li id="xYorVZw" contenteditable="true"><a href="#avantages-conduite-durable" id="ZlwigKV" contenteditable="true">Les Avantages de la Conduite Durable</a></li>
+      <li id="BKqxAvz" contenteditable="true"><a href="#mythes-realite-eco-conduite" id="FMMbhUW" contenteditable="true">Mythes et Réalités de l'Éco-Conduite</a></li>
+    </ol>
+  </section>
+  
+  <section id="importance-cours-conduite-durable" contenteditable="true">
+    <h2 id="rlQQTeT" contenteditable="true">L'Importance des Cours de Conduite Durable</h2>
+    <p id="gDZIcZP" contenteditable="true">Avec le changement climatique et l'épuisement des ressources, adopter une <strong id="XGtYpyg" contenteditable="true">conduite écologique à Montpellier</strong> est essentiel. Les cours de conduite durable vous aident à réduire l'empreinte carbone, économiser du carburant, et contribuer à sauvegarder l'environnement. Ces formations se concentrent sur des stratégies spécifiques pour améliorer l'efficacité et diminuer les émissions polluantes.</p>
+  </section>
 
-        <section id="definition-du-marketing" contenteditable="true">
-            <h2 id="YhLtrdG" contenteditable="true">Définition du Marketing</h2>
-            <p id="PXMITFG" contenteditable="true">Le marketing est le processus stratégique par lequel les entreprises promeuvent et vendent leurs produits ou services. Il implique de comprendre les besoins des consommateurs, de créer une proposition de valeur forte et de communiquer efficacement cette proposition au public cible. Une stratégie marketing réussie tourne autour des <strong id="CTLcvag" contenteditable="true">quatre P</strong> : Produit, Prix, Lieu, et Promotion, qui constituent la base de tout plan marketing.</p>
-        </section>
+  <section id="pratiques-conduite-ecologique" contenteditable="true">
+    <h2 id="BujKtmv" contenteditable="true">Pratiques de Conduite Écologique</h2>
+    <p id="bLlFswz" contenteditable="true">Il existe plusieurs pratiques qui favorisent une conduite écologique :</p>
+    <ul id="mcuTpke" contenteditable="true">
+      <li id="mwXIZnC" contenteditable="true">Utiliser des techniques de freinage régénératif.</li>
+      <li id="IqrXBLV" contenteditable="true">Maintenir une vitesse constante afin de maximiser l'efficacité du carburant.</li>
+      <li id="QjLnsFn" contenteditable="true">Faire le plein de manière intelligente et opter pour des carburants moins polluants.</li>
+    </ul>
+    <p id="cdJLNjG" contenteditable="true">L'intégration de ces pratiques dans votre routine de conduite quotidienne peut réduire l'impact environnemental significativement.</p>
+  </section>
 
-        <section id="importance-du-marketing" contenteditable="true">
-        <h2 id="CDcbLhh" contenteditable="true">Importance du Marketing</h2>
-        <p id="vzfkznC" contenteditable="true">Le marketing est crucial pour la croissance et la reconnaissance de la marque. Le voici pourquoi :</p>
-        <ul id="ZGfRLPL" contenteditable="true">
-            <li id="fERdXGM" contenteditable="true"><strong id="youhPsN" contenteditable="true">Reconnaissance :</strong> Il aide à rendre une marque reconnaissable.</li>
-            <li id="xKtvuUN" contenteditable="true"><strong id="CKwLfzp" contenteditable="true">Engagement :</strong> Il permet d'interagir avec les clients.</li>
-            <li id="cKrQLGP" contenteditable="true"><strong id="RWygoZB" contenteditable="true">Ventes :</strong> Il augmente les ventes et atteint de nouveaux marchés.</li>
-            <li id="hJUxOFH" contenteditable="true"><strong id="wYkiTKl" contenteditable="true">Avantage :</strong> Il différencie des concurrents.</li>
-        </ul>
-    </section>
+  <section id="eco-conduite-formation" contenteditable="true">
+    <h2 id="ITHRLau" contenteditable="true">Formation en Éco-Conduite à Montpellier</h2>
+    <p id="WWfDLMD" contenteditable="true">À Montpellier, plusieurs écoles proposent des <strong id="vjxasja" contenteditable="true">cours spécialisés en éco-conduite</strong>. Ces formations mettent l'accent sur des techniques spécifiques telles que :</p>
+    <ul id="mkbAGvu" contenteditable="true">
+      <li id="iYgYzvG" contenteditable="true">L'anticipation des feux rouges pour éviter les arrêts inutiles.</li>
+      <li id="gbJxzvb" contenteditable="true">La gestion des accélérations pour maintenir un taux d'émission bas.</li>
+      <li id="PFceWad" contenteditable="true">La compréhension de l'impact des conditions météorologiques sur la conduite.</li>
+    </ul>
+  </section>
 
+  <section id="avantages-conduite-durable" contenteditable="true">
+    <h2 id="PkRoPeF" contenteditable="true">Les Avantages de la Conduite Durable</h2>
+    <p id="qZhnFVx" contenteditable="true">Adopter une conduite durable offre plusieurs avantages, incluant :</p>
+    <ul id="KVWWioO" contenteditable="true">
+      <li id="DCqsfrk" contenteditable="true">Réduction de la consommation de carburant, ce qui se traduit par des économies financières.</li>
+      <li id="TwDYsXL" contenteditable="true">Diminution de l'usure du véhicule, prolongeant ainsi sa durée de vie.</li>
+      <li id="ZWWgBls" contenteditable="true">Contributer à la protection de l'environnement en limitant les émissions polluantes.</li>
+    </ul>
+    <p id="IHKEiSs" contenteditable="true">Il est indéniable que la conduite durable est bénéfique non seulement pour vous, mais aussi pour la planète.</p>
+  </section>
 
-        <section id="types-de-strategies-marketing" contenteditable="true">
-            <h2 id="RFLfbQx" contenteditable="true">Types de Stratégies Marketing</h2>
-            <p id="WYONHut" contenteditable="true">Il existe plusieurs stratégies marketing que les entreprises emploient, chacune ayant ses propres forces :</p>
-            <ul id="GIFutfh" contenteditable="true">
-                <li id="VOhdnpg" contenteditable="true"><strong id="UfOcnXX" contenteditable="true">Marketing de Contenu :</strong> Se concentre sur la création et la distribution de contenu précieux pour attirer un public ciblé.</li>
-                <li id="JSwvoyr" contenteditable="true"><strong id="FtPBOrE" contenteditable="true">Marketing des Réseaux Sociaux :</strong> Utilise les plateformes sociales pour atteindre et engager les consommateurs.</li>
-                <li id="CSodnrx" contenteditable="true"><strong id="AQylWxC" contenteditable="true">Email Marketing :</strong> Implique l'envoi de campagnes d'emails ciblées pour entretenir des relations avec les clients potentiels et existants.</li>
-                <li id="pGguanl" contenteditable="true"><strong id="BGqtoPC" contenteditable="true">Optimisation des Moteurs de Recherche (SEO) :</strong> Améliorer la visibilité d'un site web sur les moteurs de recherche pour générer du trafic organique.</li>
-                <li id="TfLutNR" contenteditable="true"><strong id="gtirHkv" contenteditable="true">Marketing d'Influence :</strong> Collaboration avec des personnes influentes pour promouvoir des produits ou services.</li>
-            </ul>
-        </section>
+  <section id="mythes-realite-eco-conduite" contenteditable="true">
+    <h2 id="juEFKjY" contenteditable="true">Mythes et Réalités de l'Éco-Conduite</h2>
+    <p id="FcxvHZC" contenteditable="true">Il existe plusieurs mythes autour de l'éco-conduite :</p>
+    <ul id="YrgJfZl" contenteditable="true">
+      <li id="uGytWkn" contenteditable="true"><strong id="suvuGst" contenteditable="true">Mythe :</strong> L'éco-conduite est lente et ennuyeuse.</li>
+      <li id="uWKKgFo" contenteditable="true"><strong id="oJymAia" contenteditable="true">Réalité :</strong> Les techniques ne signifient pas nécessairement conduire plus lentement, mais plutôt conduire de manière plus intelligente.</li>
+      <li id="DEbCnxm" contenteditable="true"><strong id="ZTuDuaw" contenteditable="true">Mythe :</strong> Elle concerne uniquement les voitures hybrides ou électriques.</li>
+      <li id="WBWGDWu" contenteditable="true"><strong id="PWtOwOp" contenteditable="true">Réalité :</strong> Les principes de l'éco-conduite s'appliquent à tous les types de véhicules.</li>
+    </ul>
+  </section>
 
-        <section id="marketing-numerique-explique" contenteditable="true">
-            <h2 id="fFSAxRW" contenteditable="true">Marketing Numérique Expliqué</h2>
-            <p id="gKJvhrk" contenteditable="true">Le marketing numérique englobe tous les efforts marketing utilisant un appareil électronique ou Internet. Il exploite des canaux en ligne tels que les réseaux sociaux, les moteurs de recherche et les emails pour se connecter aux clients actuels et potentiels. Les principaux composants du marketing numérique incluent :</p>
-            <ul id="rYvJjSz" contenteditable="true">
-                <li id="cnXVIxT" contenteditable="true"><strong id="utzVPFf" contenteditable="true">SEO :</strong> Optimiser le contenu pour les moteurs de recherche afin d'augmenter la visibilité et le trafic.</li>
-                <li id="CicJWOU" contenteditable="true"><strong id="tzEabnm" contenteditable="true">Publicité Pay-Per-Click (PPC) :</strong> Un modèle de marketing Internet où les annonceurs paient des frais chaque fois qu'une de leurs annonces est cliquée.</li>
-                <li id="sqPoeca" contenteditable="true"><strong id="fkBloHL" contenteditable="true">Marketing des Réseaux Sociaux :</strong> Utilisation de plateformes comme Facebook, Instagram et Twitter pour engager les utilisateurs.</li>
-                <li id="HcVyrgM" contenteditable="true"><strong id="eQCWPjR" contenteditable="true">Marketing de Contenu :</strong> Créer un contenu précieux et pertinent pour attirer et fidéliser un public défini.</li>
-            </ul>
-        </section>
+  <section id="HpUXXjt" contenteditable="true">
+    <h2 id="IPsxnmo" contenteditable="true">SUMMARY</h2>
+    <p id="BYUtbQT" contenteditable="true">Adopter des pratiques de conduite durable à Montpellier est essentiel pour réduire l'impact environnemental de nos méthodes de transport actuelles. Les techniques d'éco-conduite peuvent réduire considérablement la consommation de carburant tout en offrant des avantages économiques et environnementaux. Avec une combinaison de formation spécialisée et d'engagement personnel, chaque conducteur peut contribuer à un futur plus durable.</p>
+  </section>
 
-        <section id="l-avenir-du-marketing" contenteditable="true">
-            <h2 id="invpNrQ" contenteditable="true">L'Avenir du Marketing</h2>
-            <p id="NZjtsOq" contenteditable="true">L'avenir du marketing est fortement influencé par les avancées technologiques, le changement des comportements des consommateurs et les nouvelles tendances. Les aspects clés incluent :</p>
-            <ul id="PKHiSKq" contenteditable="true">
-                <li id="eOaSTKw" contenteditable="true"><strong id="HtcSpPf" contenteditable="true">Intelligence Artificielle (IA) :</strong> L'IA transforme la façon dont les entreprises analysent les données, permettant des stratégies marketing plus personnalisées.</li>
-                <li id="VdelvMw" contenteditable="true"><strong id="kLMqcRo" contenteditable="true">Durabilité :</strong> Les consommateurs devenant plus écologiques, les stratégies marketing se concentrent de plus en plus sur des pratiques durables.</li>
-                <li id="pHLywnr" contenteditable="true"><strong id="MQOXztJ" contenteditable="true">Réalité Augmentée (RA) et Réalité Virtuelle (RV) :</strong> Ces technologies offrent des expériences immersives et sont intégrées dans les stratégies marketing.</li>
-                <li id="XCbhGqZ" contenteditable="true"><strong id="auXxbxN" contenteditable="true">Recherche Vocale :</strong> Alors que les appareils activés par la voix gagnent en popularité, les entreprises optimisent leur contenu pour la recherche vocale.</li>
-            </ul>
-        </section>
+  <section id="hBuciIl" contenteditable="true">
+    <h2 id="NkYQIBN" contenteditable="true">FAQ</h2>
 
-        <section id="YErBSCO" contenteditable="true">
-            <h2 id="cDRUOQx" contenteditable="true">RÉSUMÉ</h2>
-            <p id="CjVAUTn" contenteditable="true">Ce guide complet explore les fondamentaux du marketing, soulignant son importance et examinant diverses stratégies, en se concentrant sur le marketing numérique. Il aborde également les tendances futures, offrant des aperçus sur l'évolution du marketing avec la technologie et le changement de comportement des consommateurs.</p>
-        </section>
+    <h3 id="HDSRDBr" contenteditable="true">Qu'est-ce que l'éco-conduite ?</h3>
+    <p id="kzmeECG" contenteditable="true">L'éco-conduite se réfère à des techniques de conduite qui réduisent la consommation de carburant et les émissions polluantes, contribuant ainsi à la protection de l'environnement.</p>
 
-        <section id="rWApJFm" contenteditable="true">
-            <h2 id="uIiGdKp" contenteditable="true">Questions Fréquemment Posées</h2>
-            <h3 id="NGkOjyK" contenteditable="true">Quel est le principal objectif du marketing ?</h3>
-            <p id="VpWhtmO" contenteditable="true">L'objectif principal du marketing est de promouvoir et de vendre des produits ou services, en veillant à ce que les entreprises atteignent leurs objectifs de revenu et construisent la notoriété de leur marque.</p>
+    <h3 id="YpoWpdC" contenteditable="true">Où peut-on suivre des cours de conduite durable à Montpellier ?</h3>
+    <p id="gcWwfkg" contenteditable="true">Plusieurs auto-écoles à Montpellier proposent des cours spécifiques sur la conduite durable, offrant une formation complète sur les meilleures pratiques d'éco-conduite.</p>
 
-            <h3 id="vhXnZnR" contenteditable="true">Comment le marketing numérique diffère-t-il du marketing traditionnel ?</h3>
-            <p id="azwMbto" contenteditable="true">Le marketing numérique utilise des appareils électroniques et Internet pour atteindre les consommateurs, tandis que le marketing traditionnel implique des méthodes conventionnelles comme l'impression et la diffusion.</p>
+    <h3 id="EOOzpTu" contenteditable="true">Quels sont les avantages économiques de l'éco-conduite ?</h3>
+    <p id="vARTHLS" contenteditable="true">L'éco-conduite peut réduire la consommation de carburant, diminuer les frais d'entretien du véhicule, et ainsi générer des économies financières à long terme.</p>
 
-            <h3 id="BDgHcxH" contenteditable="true">Pourquoi le SEO est-il important dans le marketing numérique ?</h3>
-            <p id="IHUbpuv" contenteditable="true">Le SEO est crucial car il augmente la visibilité d'un site web sur les moteurs de recherche, ce qui génère du trafic organique et augmente les chances de convertir les visiteurs en clients.</p>
+    <h3 id="SjzqmRk" contenteditable="true">Est-ce que l'éco-conduite est applicable à tous les véhicules ?</h3>
+    <p id="IVcGmkk" contenteditable="true">Oui, les principes de l'éco-conduite s'appliquent à tous types de véhicules, qu'ils soient traditionnels, hybrides, ou électriques.</p>
 
-            <h3 id="lCypocI" contenteditable="true">Quel rôle jouent les réseaux sociaux dans le marketing ?</h3>
-            <p id="qNXKLGT" contenteditable="true">Les réseaux sociaux offrent une plateforme pour que les entreprises interagissent directement avec les consommateurs, construisent la fidélité de la marque et obtiennent des informations précieuses sur les tendances du marché.</p>
+    <h3 id="RIHiNuR" contenteditable="true">Est-ce difficile d'apprendre l'éco-conduite ?</h3>
+    <p id="JmWDeZL" contenteditable="true">L'éco-conduite est relativement simple à apprendre, surtout avec une formation appropriée. Elle nécessite principalement une adaptation des habitudes de conduite quotidiennes.</p>
+  </section>
 
-            <h3 id="JXFhiGL" contenteditable="true">Quelles sont les tendances émergentes en marketing pour l'avenir ?</h3>
-            <p id="FdhBsQy" contenteditable="true">Les tendances émergentes en marketing incluent l'utilisation de l'IA pour l'analyse de données, la durabilité, les technologies RA/RV, et l'optimisation de contenu pour la recherche vocale.</p>
-        </section>
+  <section id="RVGbJtk" contenteditable="true">
+    <h5 id="FfdSbZl" contenteditable="true">Keywords:</h5>
+    <p id="BNimxSr" contenteditable="true">conduite écologique, éco-conduite, Montpellier, conduite durable, formation, réduction de carburant, émissions polluantes, auto-école, environnement, économies financières, techniques de conduite.</p>
+  </section>
 
-        <section id="iSPNjcB" contenteditable="true">
-            <h5 id="gZvFgzM" contenteditable="true">Mots-clés :</h5>
-            <p id="CHrbtoL" contenteditable="true">Marketing, Marketing Numérique, SEO, Réseaux Sociaux, Marketing de Contenu, IA, Avenir du Marketing</p>
-        </section>
-
-        <section data-type="cta" id="BZpRLys" contenteditable="true">
-            <h2 id="XGuaZVZ" contenteditable="true">Élevez Votre Stratégie Marketing à un Niveau Supérieur</h2>
-            <p id="HnQAkjk" contenteditable="true">Libérez le plein potentiel de votre entreprise en adoptant des stratégies marketing de pointe. Restez en tête de la concurrence et stimulez la croissance avec nos services experts.</p>
-            <a href="www" id="vUDWzMT" contenteditable="true">Découvrez Nos Services</a>
-            <a href="www" id="TusNBaR" contenteditable="true">Contactez Nos Experts Aujourd'hui</a>
-        </section>
-    </article>
-
-</grid-content>
+  <section data-type="cta" style="background:linear-gradient(to right, #cfd9df, #e2ebf0);padding: clamp(3%, 5vw, 7%);" id="vIkHBTm" contenteditable="true">
+    <h2 id="cNzgbso" contenteditable="true">Independence Day</h2>
+    <p id="GdfRILe" contenteditable="true">Votre école de conduite à Montpellier&nbsp;</p>
+    <a href="www" id="mNvuBMW" style="background-color:#4caf50; color:white; padding:10px 20px; border-radius:5px; text-decoration:none; margin-right:10px;" contenteditable="true">Contactez-nous</a>
+    <a href="www" id="rNxfYJl" style="background-color:#2196f3; color:white; padding:10px 20px; border-radius:5px; text-decoration:none;" contenteditable="true">Site Web</a>
+</section>
+</article></grid-content>
         <grid-edit-section class="grid-edit-section no-export" contenteditable="false" data-type="grid-edit-section"> 
           <div class="edit-ia">
-            <button contenteditable="false" class="section-assistant-btn" onclick="openIaAssistant('WuvdvBq','pYkOEJX')"><img src="../global/file/assistant.svg"> IA Assistant </button>
-            <button contenteditable="false" class="section-shortcuts-btn" onclick="openIaShorcuts('pYkOEJX')"><img src="../global/file/shortcuts.svg"> IA Shortcuts</button>
+            <button contenteditable="false" class="section-assistant-btn" onclick="openIaAssistant('bnQLBpO','yNdgrTh')"><img src="../global/file/assistant.svg"> IA Assistant </button>
+            <button contenteditable="false" class="section-shortcuts-btn" onclick="openIaShorcuts('yNdgrTh')"><img src="../global/file/shortcuts.svg"> IA Shortcuts</button>
           </div>
           <div class="edit-settings">
             <button contenteditable="false" class="section-open-modal" onclick="toolsOpenModal(this)">⋮</button>
@@ -293,6 +291,6 @@ section h1 {
         </grid-edit-section> 
       </grid-container>
       <!--JS-->
-        <script id="VsKpmqa" data-type="js"></script>  
+        <script id="WlyVQIk" data-type="js"></script>  
   </section>
   </grid-body><script id="page-global.js" type="text/javascript" data-type="js"></script>
