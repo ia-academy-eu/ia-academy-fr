@@ -4,14 +4,12 @@
   <section id="yFcvjRz" data-type="section-container">  
       <!--CSS-->
       <grid-css>
-        <style id="KamHmIB" type="text/css" data-type="css" data-size="laptop" data-content="section">
-  
-  grid-content#eWzpsqE{
-    display: grid;
-    padding:35px;
-    grid-template-columns:1fr;
-  }
-  </style>
+        <style id="KamHmIB" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#eWzpsqE {
+  display: grid;
+  padding: 100px;
+  grid-template-columns: 1fr;
+}
+</style>
         <style id="NpHLMKJ" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
   grid-content#eWzpsqE{
     display: grid;
