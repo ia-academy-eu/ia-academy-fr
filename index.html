@@ -39,6 +39,7 @@ grid-page{
     display:block;
     min-height:calc(50vh - 100px);
     padding:50px;
+
 }
 grid-body{
     display:grid;
@@ -48,6 +49,234 @@ grid-body{
     margin: 0 auto;
     
 }
+
+:root {
+    --web-outline : 2px solid white;
+    --web-outine-offset : 2px;
+    --web-shadow : 0 1px 3px 0 rgba(0, 0, 0, .1), 0 1px 2px -1px rgba(0, 0, 0, .1);
+    --web-padding : 5px;
+    --web-gap: 5px;
+    --web-border: 1px solid white;
+    --web-border-radius: 5px;
+  }
+
+*, :after, :before {
+    box-sizing: border-box;
+    border: 0 solid #e5e7eb;
+}
+grid-page{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    display:block;
+    background:none;
+    min-height:100%;
+    margin-bottom:100px;
+}
+grid-body{
+    display:grid;
+    max-width:900px;
+    padding:var(--web-padding);
+    gap:var(--web-gap);
+    margin: 0 auto;
+}
+
+#grid-body section,
+#resultHTML section {
+    position: relative;
+    z-index: 0;
+    display: block;
+    position: relative;
+    overflow: hidden;
+    /* box-shadow:var(--web-shadow); */
+}
+#grid-body a,
+#resultHTML a{
+  color: #36c;
+}
+
+
+#grid-body h1,
+#resultHTML h1 {
+    font-size: clamp(1.5rem, 6vw, 2.125rem); /* Mobile: 1.5rem (24px), Desktop/Tablet: 2.125rem (34px) */
+    line-height: 1; /* 34px */
+    letter-spacing: -0.0625rem; /* -1px */
+    font-weight: bold;
+    color: #333;
+    margin-top: 0;
+    margin-bottom: 1.5rem;
+}
+
+#grid-body h2,
+#resultHTML h2 {
+    font-size: clamp(1.125rem, 5vw, 1.875rem); /* Mobile: 1.125rem (18px), Tablet: 1.5rem (24px), Desktop: 1.875rem (30px) */
+    line-height: 1.067; /* 32px */
+    letter-spacing: -0.05rem; /* -0.8px */
+    font-weight: bold;
+    color: #333;
+    margin-top: 0;
+    margin-bottom: 1.25rem;
+}
+
+#grid-body h3,
+#resultHTML h3 {
+    font-size: clamp(1.125rem, 4vw, 1.5rem); /* Mobile/Tablet: 1.125rem (18px), Desktop: 1.5rem (24px) */
+    line-height: 1.083; /* 26px */
+    letter-spacing: -0.0375rem; /* -0.5px */
+    font-weight: bold;
+    color: #333;
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+#grid-body h4,
+#resultHTML h4 {
+    font-size: clamp(1.125rem, 3.5vw, 1.25rem); /* Tablet: 1.125rem (18px), Desktop: 1.25rem (20px) */
+    line-height: 1.1; /* 22px */
+    letter-spacing: -0.025rem; /* -0.4px */
+    font-weight: bold;
+    color: #333;
+    margin-top: 0;
+    margin-bottom: 0.75rem;
+}
+
+#grid-body h5,
+#resultHTML h5 {
+    font-size: clamp(1rem, 3vw, 1.125rem); /* Tablet: 1rem (16px), Desktop: 1.125rem (18px) */
+    line-height: 1.111; /* 20px */
+    letter-spacing: -0.0125rem; /* -0.2px */
+    font-weight: bold;
+    color: #333;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+}
+
+#grid-body h6,
+#resultHTML h6 {
+    font-size: clamp(1rem, 2.5vw, 1rem); /* Mobile/Tablet: 1rem (16px), Desktop: 1rem (16px) */
+    line-height: 1.125; /* 18px */
+    letter-spacing: -0.00625rem; /* -0.1px */
+    font-weight: bold;
+    color: #333;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+}
+
+
+#grid-body p,
+#resultHTML p {
+    font-size: clamp(16px, 2.5vw, 18px);
+    line-height: 1.6;
+    color: #333;
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+#grid-body ul,
+#resultHTML ul {
+    color: #333;
+    list-style: disc;
+    list-style-position: inside;
+    line-height: 1.6;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    padding-left: 1.25rem; /* Añade espacio a la izquierda */
+}
+
+#grid-body ol,
+#resultHTML ol {
+    color: #333;
+    list-style-type: decimal;
+    list-style-position: inside;
+    line-height: 1.6;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    padding-left: 1.25rem; /* Añade espacio a la izquierda */
+}
+/* section[data-type="cta"] {
+  background: linear-gradient(to right, #e0eafc, #cfdef3);
+  padding: 20px;
+  border-radius: 8px; 
+  color: #fff; 
+} */
+
+
+/* section:hover {
+  outline: 2px solid blue; 
+} */
+
+
+
+  grid-title {
+    display: grid;
+    grid-column: 1 / -1;
+    order: -20;
+    font-size: 42px;
+  }
+  grid-subtitle {
+    display: grid;
+    grid-column: 1 / -1;
+    order: -10;
+    font-size: 19px;
+  }
+
+  grid-bg-image,
+  grid-bg-color,
+  grid-bg-video,
+  grid-bg
+  {
+    display:grid;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    
+  }
+  
+  grid-bg img,
+  grid-bg video {
+    position: absolute;
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    display: grid;
+    background-color: black;
+  }
+
+  grid-content{
+    display:grid;
+    padding: var(--grid-padding);
+    gap: var(--grid-gap);
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  }
+  grid-container{
+    display: grid;
+    box-shadow: var(--grid-web-shadow);
+  }
+  grid-box-container{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    box-shadow: var(--grid-web-shadow);
+    border-color: #00000008;
+    border-width: 1px;
+    overflow: hidden;
+  }
+  grid-box {
+    background:white;
+    padding: var(--grid-padding);
+    display: grid;
+    position: relative;
+    gap: var(--grid-gap);
+    min-height:50px;
+
+  }
+  
+  grid-box img,
+  grid-box video{
+    object-fit: cover;
+    width:100%;
+    height:100%;
+  }
 
 section {
     position: relative;
@@ -158,138 +387,146 @@ section h1 {
     height:100%;
   }
 </style><style id="page-tablet.css" type="text/css" data-type="css" data-size="tablet" data-content="page">@media screen and (min-width:641px) and (max-width:1024px) { /* Tablet */ }</style><style id="page-mobile.css" type="text/css" data-type="css" data-size="mobile" data-content="page">@media screen and (max-width:640px) { /* Mobile */ }</style><grid-body id="grid-body">
-  <section id="WuvdvBq" data-type="section-container">  
+  
+  
+  <section id="bnQLBpO" data-type="section-container">  
       <!--CSS-->
       <grid-css>
-        <style id="dpLtHwL" type="text/css" data-type="css" data-size="laptop" data-content="section">
+        <style id="wLlgVsN" type="text/css" data-type="css" data-size="laptop" data-content="section">
   
-  grid-content#pYkOEJX{
+  grid-content#yNdgrTh{
     display: grid;
     padding:35px;
     grid-template-columns:1fr;
   }
   </style>
-        <style id="JJDgDVy" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
-  grid-content#pYkOEJX{
+        <style id="UHQlCgW" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
+  grid-content#yNdgrTh{
     display: grid;
   }
   }</style>
-        <style id="iwcRtjW" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
-  grid-content#pYkOEJX{
+        <style id="PDEJCNN" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
+  grid-content#yNdgrTh{
     display: grid;
   }}</style>
       </grid-css>  
       <!--BG-->
-      <grid-bg id="rwcuxHM" data-type="grid-bg">
+      <grid-bg id="OzAaizY" data-type="grid-bg">
           <!-- bg-color -->
-          <grid-bg-color id="ykMVVpV" data-type="grid-bg-color" class="div-visible" style="background-color: rgba(255, 255, 255, 1);"></grid-bg-color> 
+          <grid-bg-color id="QeLyhFk" data-type="grid-bg-color" class="div-visible" style="background-color: rgba(255, 255, 255, 1);"></grid-bg-color> 
           <!-- bg-image -->
            
           <!-- bg-video -->
            
       </grid-bg>
       <!-- grid-container -->
-      <grid-container id="mfeYlqH" data-type="grid-container">
+      <grid-container id="yumJsEn" data-type="grid-container">
         <!-- grid-content -->
-        <grid-content id="pYkOEJX" contenteditable="false" data-type="html"><article>
-    <h1 id="AUsPhwX">Long-Tail Keywords: The Secret to Effective SEO</h1>
-    <img src="./js/quickbars/empty.png" data-type="image-fg" loading="lazy" id="rnnHixm">
-    
-    <section id="LREkghm">
-        <h2 id="EpUigPM">TABLE OF CONTENTS</h2>
-        <ol id="oguWMOO">
-            <li id="nxDSMRf"><a href="#introduction-to-long-tail-keywords" id="siawlEj">Introduction to Long-Tail Keywords</a></li>
-            <li id="OEyDMLG"><a href="#advantages-of-using-long-tail-keywords" id="RPKJSaE">Advantages of Using Long-Tail Keywords</a></li>
-            <li id="XiDFKdx"><a href="#how-to-find-long-tail-keywords" id="jKLxKOH">How to Find Long-Tail Keywords</a></li>
-            <li id="tevNXSS"><a href="#integrating-long-tail-keywords-into-your-content" id="tKiZaQp">Integrating Long-Tail Keywords Into Your Content</a></li>
-            <li id="TGArETO"><a href="#common-mistakes-to-avoid" id="TXMbcwM">Common Mistakes to Avoid</a></li>
-        </ol>
-    </section>
+        <grid-content id="yNdgrTh" contenteditable="false" data-type="html"><article>
+  <h1 id="sHwGupf">Conduire Écologiquement à Montpellier : Cours pour une Conduite Durable</h1>
+  <img src="./js/quickbars/empty.png" data-type="image-fg" loading="lazy" alt="Conduire écologiquement à Montpellier" id="KyXwKMK">
 
-    <section id="introduction-to-long-tail-keywords">
-        <h2 id="RwjhVpP">Introduction to Long-Tail Keywords</h2>
-        <p id="GuHNMLV">In the world of SEO, keywords act as the backbone for driving traffic to your site. However, not all keywords are created equal. <strong id="rndvqSS">Long-tail keywords</strong> are phrases that are typically longer and more specific than your standard keyword.</p>
-        <p id="iBFlsbY">For example, a generic keyword might be "shoes," whereas a long-tail keyword would be "women's running shoes for flat feet." Understanding and utilizing these can significantly impact your search visibility.</p>
-    </section>
+  <section id="IwmCLAs">
+    <h2 id="swfquwr">Table des matières</h2>
 
-    <section id="advantages-of-using-long-tail-keywords">
-        <h2 id="LZuemMH">Advantages of Using Long-Tail Keywords</h2>
-        <p id="qXcKRME">Utilizing long-tail keywords offers multiple benefits:</p>
-        <ul id="jJeyvyY">
-            <li id="LXAuDJh"><strong id="PTlaDda">Lower Competition:</strong> Because these keywords are more specific, fewer sites are competing for them.</li>
-            <li id="FxStOpN"><strong id="nJgzEDt">Higher Conversion Rates:</strong> Users searching with specific phrases often have higher intent to purchase or engage.</li>
-            <li id="mCOsToN"><strong id="aFVWtDV">Improved Search Relevance:</strong> This means high-quality traffic for your website, as your content directly answers user queries.</li>
-        </ul>
-    </section>
 
-    <section id="how-to-find-long-tail-keywords">
-        <h2 id="BJgqCgN">How to Find Long-Tail Keywords</h2>
-        <p id="OQucSWP">Finding the right long-tail keywords is crucial for SEO success. Here's how to uncover them:</p>
-        <ul id="jHEXwoE">
-            <li id="EbnYMbZ"><strong id="RYZnMyC">Utilize Tools:</strong> Tools such as Google Keyword Planner and SEMrush can help identify specific keywords your audience is searching for.</li>
-            <li id="KMOtTXv"><strong id="aLlRBNk">Analyze Competitors:</strong> Look at what keywords are driving traffic to your competitor's sites.</li>
-            <li id="vinmRUL"><strong id="LhWlmDH">Focus on Customer Questions:</strong> Forums and websites like Quora reveal real user queries related to your niche.</li>
-        </ul>
-    </section>
+    <ol id="vhdJcvk">
+        <li id="FrUVPfv"><a href="#importance-cours-conduite-durable" id="JTnOmbS">L'Importance des Cours de Conduite Durable</a></li>
+        <li id="CrIXEVm"><a href="#pratiques-conduite-ecologique" id="mcEPzIX">Pratiques de Conduite Écologique</a></li>
+        <li id="wmqVEWx"><a href="#eco-conduite-formation" id="ebeWajO">Formation en Éco-Conduite à Montpellier</a></li>
+        <li id="xYorVZw"><a href="#avantages-conduite-durable" id="ZlwigKV">Les Avantages de la Conduite Durable</a></li>
+        <li id="BKqxAvz"><a href="#mythes-realite-eco-conduite" id="FMMbhUW">Mythes et Réalités de l'Éco-Conduite</a></li>
+    </ol>
+</section>
+  
+  <section id="importance-cours-conduite-durable">
+    <h2 id="rlQQTeT">L'Importance des Cours de Conduite Durable</h2>
+    <p id="gDZIcZP">Avec le changement climatique et l'épuisement des ressources, adopter une <strong id="XGtYpyg">conduite écologique à Montpellier</strong> est essentiel. Les cours de conduite durable vous aident à réduire l'empreinte carbone, économiser du carburant, et contribuer à sauvegarder l'environnement. Ces formations se concentrent sur des stratégies spécifiques pour améliorer l'efficacité et diminuer les émissions polluantes.</p>
+  </section>
 
-    <section id="integrating-long-tail-keywords-into-your-content">
-        <h2 id="MXlTMAn">Integrating Long-Tail Keywords Into Your Content</h2>
-        <p id="pHAgqDe">Proper placement of long-tail keywords is essential:</p>
-        <ul id="rdBYONH">
-            <li id="RTXaHpk"><strong id="JAxkcxK">In-Depth Content:</strong> Focus on creating comprehensive content that answers specific queries.</li>
-            <li id="dwMToqA"><strong id="QpFkXMQ">Headings and Subheadings:</strong> Use long-tail keywords in headings to improve SEO and readability.</li>
-            <li id="qbswcVH"><strong id="xjihGUU">Natural Flow:</strong> Ensure that keywords fit naturally into the content to avoid keyword stuffing.</li>
-        </ul>
-    </section>
+  <section id="pratiques-conduite-ecologique">
+    <h2 id="BujKtmv">Pratiques de Conduite Écologique</h2>
+    <p id="bLlFswz">Il existe plusieurs pratiques qui favorisent une conduite écologique :</p>
+    <ul id="mcuTpke">
+      <li id="mwXIZnC">Utiliser des techniques de freinage régénératif.</li>
+      <li id="IqrXBLV">Maintenir une vitesse constante afin de maximiser l'efficacité du carburant.</li>
+      <li id="QjLnsFn">Faire le plein de manière intelligente et opter pour des carburants moins polluants.</li>
+    </ul>
+    <p id="cdJLNjG">L'intégration de ces pratiques dans votre routine de conduite quotidienne peut réduire l'impact environnemental significativement.</p>
+  </section>
 
-    <section id="common-mistakes-to-avoid">
-        <h2 id="QJtSAqU">Common Mistakes to Avoid</h2>
-        <p id="XGHlcpo">Even with long-tail keyword strategies, there are pitfalls to be aware of, such as:</p>
-        <ul id="xahwtHE">
-            <li id="cdTDAYU"><strong id="qPDfqPF">Over-Optimization:</strong> Over-stuffing keywords can harm your rankings.</li>
-            <li id="hEdhbyF"><strong id="jnOmlix">Ignoring Analytics:</strong> Failing to monitor the performance of keywords can lead to missed opportunities.</li>
-            <li id="VnVBImg"><strong id="BHdKXNl">Neglecting User Intent:</strong> Ensure your content aligns with what users are actually looking for.</li>
-        </ul>
-    </section>
+  <section id="eco-conduite-formation">
+    <h2 id="ITHRLau">Formation en Éco-Conduite à Montpellier</h2>
+    <p id="WWfDLMD">À Montpellier, plusieurs écoles proposent des <strong id="vjxasja">cours spécialisés en éco-conduite</strong>. Ces formations mettent l'accent sur des techniques spécifiques telles que :</p>
+    <ul id="mkbAGvu">
+      <li id="iYgYzvG">L'anticipation des feux rouges pour éviter les arrêts inutiles.</li>
+      <li id="gbJxzvb">La gestion des accélérations pour maintenir un taux d'émission bas.</li>
+      <li id="PFceWad">La compréhension de l'impact des conditions météorologiques sur la conduite.</li>
+    </ul>
+  </section>
 
-    <section id="summary">
-        <h2 id="FocQGbj">Summary</h2>
-        <p id="IjgoQbG">Long-tail keywords are a potent part of the SEO toolbox. They help drive quality traffic, reduce competition, and increase conversion rates. By conducting thorough research and integrating these keywords effectively into your content, you can elevate your website’s search performance significantly.</p>
-    </section>
+  <section id="avantages-conduite-durable">
+    <h2 id="PkRoPeF">Les Avantages de la Conduite Durable</h2>
+    <p id="qZhnFVx">Adopter une conduite durable offre plusieurs avantages, incluant :</p>
+    <ul id="KVWWioO">
+      <li id="DCqsfrk">Réduction de la consommation de carburant, ce qui se traduit par des économies financières.</li>
+      <li id="TwDYsXL">Diminution de l'usure du véhicule, prolongeant ainsi sa durée de vie.</li>
+      <li id="ZWWgBls">Contributer à la protection de l'environnement en limitant les émissions polluantes.</li>
+    </ul>
+    <p id="IHKEiSs">Il est indéniable que la conduite durable est bénéfique non seulement pour vous, mais aussi pour la planète.</p>
+  </section>
 
-    <section id="faq">
-        <h2 id="izLIzxN">Frequently Asked Questions</h2>
+  <section id="mythes-realite-eco-conduite">
+    <h2 id="juEFKjY">Mythes et Réalités de l'Éco-Conduite</h2>
+    <p id="FcxvHZC">Il existe plusieurs mythes autour de l'éco-conduite :</p>
+    <ul id="YrgJfZl">
+      <li id="uGytWkn"><strong id="suvuGst">Mythe :</strong> L'éco-conduite est lente et ennuyeuse.</li>
+      <li id="uWKKgFo"><strong id="oJymAia">Réalité :</strong> Les techniques ne signifient pas nécessairement conduire plus lentement, mais plutôt conduire de manière plus intelligente.</li>
+      <li id="DEbCnxm"><strong id="ZTuDuaw">Mythe :</strong> Elle concerne uniquement les voitures hybrides ou électriques.</li>
+      <li id="WBWGDWu"><strong id="PWtOwOp">Réalité :</strong> Les principes de l'éco-conduite s'appliquent à tous les types de véhicules.</li>
+    </ul>
+  </section>
 
-        <h3 id="uDEwdWX">What are long-tail keywords?</h3>
-        <p id="WCVqzmE">Long-tail keywords are longer, more specific keyword phrases that visitors are more likely to use they're closer to making a purchase or using voice search.</p>
+  <section id="HpUXXjt">
+    <h2 id="IPsxnmo">SUMMARY</h2>
+    <p id="BYUtbQT">Adopter des pratiques de conduite durable à Montpellier est essentiel pour réduire l'impact environnemental de nos méthodes de transport actuelles. Les techniques d'éco-conduite peuvent réduire considérablement la consommation de carburant tout en offrant des avantages économiques et environnementaux. Avec une combinaison de formation spécialisée et d'engagement personnel, chaque conducteur peut contribuer à un futur plus durable.</p>
+  </section>
 
-        <h3 id="gViKBNZ">How do long-tail keywords help with SEO?</h3>
-        <p id="GVBSYzO">They help by bringing in more qualified traffic, as users searching with these phrases are usually more serious about purchasing or engaging with a service.</p>
+  <section id="hBuciIl">
+    <h2 id="NkYQIBN">FAQ</h2>
 
-        <h3 id="gHTSPyN">What's the best tool for finding long-tail keywords?</h3>
-        <p id="ZcdSkdR">Google Keyword Planner, Ahrefs, and SEMrush are excellent tools for finding long-tail keywords.</p>
+    <h3 id="HDSRDBr">Qu'est-ce que l'éco-conduite ?</h3>
+    <p id="kzmeECG">L'éco-conduite se réfère à des techniques de conduite qui réduisent la consommation de carburant et les émissions polluantes, contribuant ainsi à la protection de l'environnement.</p>
 
-        <h3 id="wvvtaDL">Can I use long-tail keywords in paid advertising?</h3>
-        <p id="YHvzpuI">Yes, using them in paid ads can be highly beneficial as they target more specific search queries, often resulting in higher click-through rates.</p>
+    <h3 id="YpoWpdC">Où peut-on suivre des cours de conduite durable à Montpellier ?</h3>
+    <p id="gcWwfkg">Plusieurs auto-écoles à Montpellier proposent des cours spécifiques sur la conduite durable, offrant une formation complète sur les meilleures pratiques d'éco-conduite.</p>
 
-        <h3 id="ixidymP">Is it necessary to use long-tail keywords in every piece of content?</h3>
-        <p id="IPnKDJk">While it's not mandatory, using them strategically in relevant content can significantly boost search rankings and visitor engagement.</p>
-    </section>
+    <h3 id="EOOzpTu">Quels sont les avantages économiques de l'éco-conduite ?</h3>
+    <p id="vARTHLS">L'éco-conduite peut réduire la consommation de carburant, diminuer les frais d'entretien du véhicule, et ainsi générer des économies financières à long terme.</p>
 
-    <h5 id="Kraiqsn">Keywords:</h5>
-    <p id="PDqodFu">Long-tail keywords, SEO strategy, search visibility, keyword research, website traffic, conversion rates, content marketing, keyword planner, user intent, search engine rankings.</p>
+    <h3 id="SjzqmRk">Est-ce que l'éco-conduite est applicable à tous les véhicules ?</h3>
+    <p id="IVcGmkk">Oui, les principes de l'éco-conduite s'appliquent à tous types de véhicules, qu'ils soient traditionnels, hybrides, ou électriques.</p>
 
-    <section data-type="cta" id="PbLhUbD">
-        <h2 id="AwImGSt">Optimize Your SEO Strategy Today!</h2>
-        <p id="LNcKMvQ">Start implementing effective SEO strategies focused on long-tail keywords to enhance your website's performance. Delve into keyword research and empower your content marketing.</p>
-        <a href="www" id="jULxtXg">Get Started with SEO Tools</a>
-        <a href="www" id="BHwGQMN">Enhance Your Content Strategy</a>
-    </section>
+    <h3 id="RIHiNuR">Est-ce difficile d'apprendre l'éco-conduite ?</h3>
+    <p id="JmWDeZL">L'éco-conduite est relativement simple à apprendre, surtout avec une formation appropriée. Elle nécessite principalement une adaptation des habitudes de conduite quotidiennes.</p>
+  </section>
+
+  <section id="RVGbJtk">
+    <h5 id="FfdSbZl">Keywords:</h5>
+    <p id="BNimxSr">conduite écologique, éco-conduite, Montpellier, conduite durable, formation, réduction de carburant, émissions polluantes, auto-école, environnement, économies financières, techniques de conduite.</p>
+  </section>
+
+  <section data-type="cta" style="background:linear-gradient(to right, #cfd9df, #e2ebf0);padding: clamp(3%, 5vw, 7%);" id="vIkHBTm">
+    <h2 id="cNzgbso">Independence Day</h2>
+    <p id="GdfRILe">Votre école de conduite à Montpellier&nbsp;</p>
+    <a href="www" id="mNvuBMW" style="background-color:#4caf50; color:white; padding:10px 20px; border-radius:5px; text-decoration:none; margin-right:10px;">Contactez-nous</a>
+    <a href="www" id="rNxfYJl" style="background-color:#2196f3; color:white; padding:10px 20px; border-radius:5px; text-decoration:none;">Site Web</a>
+</section>
 </article></grid-content>
          
       </grid-container>
       <!--JS-->
-        <script id="VsKpmqa" data-type="js"></script>  
+        <script id="WlyVQIk" data-type="js"></script>  
   </section>
   </grid-body><script id="page-global.js" type="text/javascript" data-type="js"></script>
   <div id="footer-menu"></div>
