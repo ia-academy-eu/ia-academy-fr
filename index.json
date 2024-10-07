@@ -1,5 +1,5 @@
 <style id="page-laptop.css" type="text/css" data-type="css" data-size="laptop" data-content="page">grid-page{
-    background:;#f79e28;
+    background:#f79e28;
 }
 grid-body{
     padding:35px;
