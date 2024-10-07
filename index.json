@@ -16,14 +16,12 @@ div[data-type="post-content"] {
   <section id="RvUdBzc" data-type="section-container">  
       <!--CSS-->
       <grid-css>
-        <style id="yIjpjDe" type="text/css" data-type="css" data-size="laptop" data-content="section">
-  
-  grid-content#hGLbWTN{
-    display: grid;
-    padding:35px;
-    grid-template-columns:1fr;
-  }
-  </style>
+        <style id="yIjpjDe" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#hGLbWTN {
+  display: grid;
+  padding: 0px;
+  grid-template-columns: 1fr;
+}
+</style>
         <style id="OAfNEoQ" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
   grid-content#hGLbWTN{
     display: grid;
