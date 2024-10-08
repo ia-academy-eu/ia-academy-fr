@@ -1,117 +1,53 @@
 <style id="page-laptop.css" type="text/css" data-type="css" data-size="laptop" data-content="page"></style><style id="page-tablet.css" type="text/css" data-type="css" data-size="tablet" data-content="page">@media screen and (min-width:641px) and (max-width:1024px) { /* Tablet */ }</style><style id="page-mobile.css" type="text/css" data-type="css" data-size="mobile" data-content="page">@media screen and (max-width:640px) { /* Mobile */ }</style><grid-body id="grid-body">
-  <section id="SMAjJto" data-type="section-container">  
+  
+  
+  <section id="JXXghZB" data-type="section-container">  
       <!--CSS-->
       <grid-css>
-        <style id="TpgWLXO" type="text/css" data-type="css" data-size="laptop" data-content="section">
+        <style id="tvUYqDu" type="text/css" data-type="css" data-size="laptop" data-content="section">
   
-  grid-content#prcHmuv{
+  grid-content#CsfcdWi{
     display: grid;
     padding:0px;
     min-height:100px;
     grid-template-columns:1fr;
   }
   </style>
-        <style id="PIRBoXx" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
-  grid-content#prcHmuv{
+        <style id="ZqAeREL" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
+  grid-content#CsfcdWi{
     display: grid;
   }
   }</style>
-        <style id="DnHbmfa" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
-  grid-content#prcHmuv{
+        <style id="CmKdzvK" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
+  grid-content#CsfcdWi{
     display: grid;
   }}</style>
       </grid-css>  
       <!--BG-->
-      <grid-bg id="ehpqxdL" data-type="grid-bg">
+      <grid-bg id="rwmUGTj" data-type="grid-bg">
           <!-- bg-color -->
-          <grid-bg-color id="PvKhCuX" data-type="grid-bg-color" class="div-visible" style="background-color: rgba(255, 255, 255, 1);"></grid-bg-color> 
+          <grid-bg-color id="MEsAOTw" data-type="grid-bg-color" class="div-visible" style="background-color: rgba(255, 255, 255, 1);"></grid-bg-color> 
           <!-- bg-image -->
-          <grid-bg-image id="qUgbGhC" data-type="grid-bg-image" class="div-hidden">
-            <picture id="VvTSpsQ">
+          <grid-bg-image id="QpRWPJI" data-type="grid-bg-image" class="div-hidden">
+            <picture id="iAJQWgt">
               <source srcset="" media="(max-width:640px)">
               <source srcset="" media="(min-width:641px) and (max-width:1024px)">
-              <img id="FwbnRtQ" src="https://images.unsplash.com/photo-1470337458703-46ad1756a187?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyM3x8Zm9vZHxlbnwwfDB8fHwxNzE2ODM1NjIzfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-bg" loading="lazy">
+              <img id="vrCnIei" src="https://images.unsplash.com/photo-1470337458703-46ad1756a187?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyM3x8Zm9vZHxlbnwwfDB8fHwxNzE2ODM1NjIzfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-bg" loading="lazy">
             </picture>
           </grid-bg-image> 
           <!-- bg-video -->
-          <grid-bg-video id="NefJMAW" data-type="grid-bg-video" class="div-hidden">
-            <video id="KJTUiji" autoplay="" loop="" muted="" loading="lazy" data-type="video-bg" src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4"></video>
+          <grid-bg-video id="CvsyvZV" data-type="grid-bg-video" class="div-hidden">
+            <video id="KVjgwei" autoplay="" loop="" muted="" loading="lazy" data-type="video-bg" src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4"></video>
           </grid-bg-video> 
       </grid-bg>
       <!-- grid-container -->
-      <grid-container id="MpAuvvt" data-type="grid-container">
+      <grid-container id="GiuJmkb" data-type="grid-container">
         <!-- grid-content -->
-        <grid-content id="prcHmuv" contenteditable="false" data-type="html"><div data-type="post-meta" id="qJwygti" contenteditable="true">
-    <h1 data-type="post-title" id="LQqOymD" contenteditable="true">Comment l'Intelligence Artificielle Transforme l'Aide aux Personnes Âgées</h1>
-    <p data-type="post-date" id="YKcvbuQ" contenteditable="true">Publié le : 23 octobre 2023</p>
-</div>   
-<div data-type="post-cover" id="xQoWVHG" contenteditable="true">
-    <img src="https://raw.githubusercontent.com/ia-academy-eu/ia-academy-fr/main/media/images/ai-helping.webp" data-type="image-fg" loading="lazy" id="vdwybqk" contenteditable="true">
-</div>
-<div data-type="post-content" id="geSyVAJ" contenteditable="true">
-    <section id="yhrgsTO" contenteditable="true">
-        <h2 id="nVNrCrJ" contenteditable="true">Sommaire</h2>
-        <ol id="lXqKfeL" contenteditable="true">
-            <li id="GzFxmVZ" contenteditable="true"><a href="#introduction-ia" id="mpHLahd" contenteditable="true">Introduction à l'Intelligence Artificielle</a></li>
-            <li id="hBRURpB" contenteditable="true"><a href="#automatisation-taches" id="VNCprjc" contenteditable="true">Automatisation des Tâches Quotidiennes</a></li>
-            <li id="xiwGrTC" contenteditable="true"><a href="#amelioration-securite" id="lMTOgNe" contenteditable="true">Amélioration de la Sécurité</a></li>
-            <li id="COAMuwZ" contenteditable="true"><a href="#preservation-sociale" id="vWZQtyW" contenteditable="true">Préservation du Lien Social</a></li>
-            <li id="eIjlLdx" contenteditable="true"><a href="#faqs" id="pUyBJKq" contenteditable="true">FAQ sur l'IA et l'Aide aux Personnes Âgées</a></li>
-        </ol>
-    </section>
-
-    <section id="introduction-ia" contenteditable="true">
-        <h2 id="cEccKfq" contenteditable="true">Introduction à l'Intelligence Artificielle</h2>
-        <p id="YfvjuQw" contenteditable="true">L'<strong id="vZLbsYa" contenteditable="true">Intelligence Artificielle</strong> (IA) s'est imposée comme un atout majeur dans de nombreux domaines, notamment dans l'aide aux <strong id="mMQiAqW" contenteditable="true">personnes âgées</strong>. L'IA englobe un ensemble de technologies qui permettent aux machines d'apprendre et de s'adapter pour accomplir des tâches complexes. Cette capacité d'adaptation offre une opportunité sans précédent pour améliorer la qualité de vie des seniors.</p>
-    </section>
-
-    <section id="automatisation-taches" contenteditable="true">
-        <h2 id="SRrjMzN" contenteditable="true">Automatisation des Tâches Quotidiennes</h2>
-        <p id="ZqHKnYG" contenteditable="true">L'un des principaux avantages de l'IA est l'<strong id="titEsBL" contenteditable="true">automatisation</strong>. Pour les personnes âgées, cela peut signifier une aide précieuse dans les tâches quotidiennes, comme la cuisine, le ménage ou même la gestion des rendez-vous médicaux. Des dispositifs intelligents peuvent, par exemple, rappeler à l'utilisateur de prendre ses médicaments ou détecter et signaler des comportements inhabituels.</p>
-    </section>
-
-    <section id="amelioration-securite" contenteditable="true">
-        <h2 id="QZHtCPg" contenteditable="true">Amélioration de la Sécurité</h2>
-        <p id="nWrlEyb" contenteditable="true">La sécurité est une préoccupation majeure pour les personnes âgées vivant seules. L'IA peut intervenir efficacement dans ce domaine par l'utilisation de <strong id="brnPfPQ" contenteditable="true">capteurs intelligents</strong> et de systèmes de surveillance qui peuvent alerter en cas de mouvement suspect ou de chute. Ces innovations offrent non seulement une tranquillité d'esprit aux proches, mais augmentent aussi l'autonomie des seniors.</p>
-    </section>
-
-    <section id="preservation-sociale" contenteditable="true">
-        <h2 id="ZyrJEeU" contenteditable="true">Préservation du Lien Social</h2>
-        <p id="amJcFzV" contenteditable="true">Maintenir un lien social est crucial pour la santé mentale et émotionnelle des personnes âgées. Les technologies basées sur l'IA, telles que les assistants vocaux et les robots compagnons, peuvent aider à réduire le sentiment de <strong id="OPwPIrt" contenteditable="true">solitude</strong> en offrant une interaction quotidienne. De plus, des plateformes supportées par l'IA facilitent la communication avec la famille et les amis via des fonctionnalités simplifiées.</p>
-    </section>
-
-    <section id="faqs" contenteditable="true">
-        <h2 id="wJpGqrs" contenteditable="true">FAQ sur l'IA et l'Aide aux Personnes Âgées</h2>
-        <h3 id="WtmHACC" contenteditable="true">Comment l'IA peut-elle améliorer la qualité de vie des seniors ?</h3>
-        <p id="hizixvY" contenteditable="true">L'IA peut automatiser de nombreuses tâches quotidiennes, améliorer la sécurité domestique et offrir des compagnons interactifs qui aident à réduire la solitude.</p>
-
-        <h3 id="GdbsEKF" contenteditable="true">Les dispositifs assistés par l'IA sont-ils accessibles pour toutes les personnes âgées ?</h3>
-        <p id="ZUwCdQH" contenteditable="true">Bien que les coûts puissent varier, de nombreuses solutions sont de plus en plus abordables et subventionnées par des programmes gouvernementaux ou des assurances santé.</p>
-
-        <h3 id="NIdrGBq" contenteditable="true">L'IA peut-elle évoluer pour répondre aux besoins spécifiques des personnes âgées ?</h3>
-        <p id="oWjIZXR" contenteditable="true">Oui, l'IA est conçue pour apprendre et s'adapter, ce qui lui permet de s'ajuster en fonction des comportements et des préférences individuelles.</p>
-
-        <h3 id="PhlRgUr" contenteditable="true">Quels sont les défis associés à l'utilisation de l'IA pour les personnes âgées ?</h3>
-        <p id="WjUnGDC" contenteditable="true">La complexité technique et la sécurité des données sont des défis majeurs, nécessitant des solutions faciles à utiliser et sécurisées.</p>
-
-        <h3 id="SHJHsPZ" contenteditable="true">Existe-t-il des risques liés à l'utilisation de l'IA dans le contexte des soins aux seniors ?</h3>
-        <p id="trylOro" contenteditable="true">Les principaux risques concernent la protection des données personnelles et la dépendance excessive à la technologie, mais ceux-ci peuvent être mitigés par des régulations appropriées.</p>
-    </section>
-
-    <section id="zzMJPqp" contenteditable="true">
-        <h2 id="GdxREhg" contenteditable="true">Mots-clés : </h2>
-        <p id="qdcZAtQ" contenteditable="true"><strong id="jKJmySt" contenteditable="true">Intelligence Artificielle</strong>, <strong id="UCbLspO" contenteditable="true">aide aux personnes âgées</strong>, <strong id="FFYvtWt" contenteditable="true">automatisation</strong>, <strong id="IqJmSwq" contenteditable="true">sécurité</strong>, <strong id="STdSkYm" contenteditable="true">technologie</strong>, <strong id="wnjqhFh" contenteditable="true">autonomie</strong>.</p>
-    </section>
-
-    <section id="orbWoaA" contenteditable="true">
-        <h2 id="GXklFKe" contenteditable="true">Conclusion</h2>
-        <p id="QMohdmi" contenteditable="true">L'Intelligence Artificielle représente une véritable révolution dans le domaine des soins et de l'accompagnement des personnes âgées. Par l'automatisation des tâches, l'amélioration de la sécurité et le maintien du lien social, elle participe à enrichir et à prolonger l'autonomie des seniors. Bien que des défis subsistent, les perspectives sont prometteuses pour un avenir où la technologie et le soin humain coexistent harmonieusement.</p>
-    </section>
-</div></grid-content>
+        <grid-content id="CsfcdWi" contenteditable="false" data-type="html"></grid-content>
         <grid-edit-section class="grid-edit-section no-export" contenteditable="false" data-type="grid-edit-section"> 
           <div class="edit-ia">
-            <button contenteditable="false" class="section-assistant-btn" onclick="openIaAssistant('SMAjJto','prcHmuv')"><img src="../global/file/assistant.svg"> IA Assistant </button>
-            <button contenteditable="false" class="section-shortcuts-btn" onclick="openIaShorcuts('prcHmuv')"><img src="../global/file/shortcuts.svg"> IA Shortcuts</button>
+            <button contenteditable="false" class="section-assistant-btn" onclick="openIaAssistant('JXXghZB','CsfcdWi')"><img src="../global/file/assistant.svg"> IA Assistant </button>
+            <button contenteditable="false" class="section-shortcuts-btn" onclick="openIaShorcuts('CsfcdWi')"><img src="../global/file/shortcuts.svg"> IA Shortcuts</button>
           </div>
           <div class="edit-settings">
             <button contenteditable="false" class="section-open-modal" onclick="toolsOpenModal(this)">⋮</button>
@@ -119,6 +55,6 @@
         </grid-edit-section> 
       </grid-container>
       <!--JS-->
-        <script id="rnLJUBj" data-type="js"></script>  
+        <script id="cjxxHNc" data-type="js"></script>  
   </section>
   </grid-body><script id="page-global.js" type="text/javascript" data-type="js"></script>
