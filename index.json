@@ -30,7 +30,7 @@ grid-page{
 }
 grid-body{
     display:grid;
-    max-width:1024px;
+    max-width:900px;
     padding:var(--web-padding);
     gap:var(--web-gap);
     margin: 0 auto;
