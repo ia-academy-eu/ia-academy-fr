@@ -1,1 +1,126 @@
-<style id="page-laptop.css" type="text/css" data-type="css" data-size="laptop" data-content="page"></style><style id="page-tablet.css" type="text/css" data-type="css" data-size="tablet" data-content="page">@media screen and (min-width:641px) and (max-width:1024px) { /* Tablet */ }</style><style id="page-mobile.css" type="text/css" data-type="css" data-size="mobile" data-content="page">@media screen and (max-width:640px) { /* Mobile */ }</style><grid-body id="grid-body"></grid-body><script id="page-global.js" type="text/javascript" data-type="js"></script>
+<style id="page-laptop.css" type="text/css" data-type="css" data-size="laptop" data-content="page"></style><style id="page-tablet.css" type="text/css" data-type="css" data-size="tablet" data-content="page">@media screen and (min-width:641px) and (max-width:1024px) { /* Tablet */ }</style><style id="page-mobile.css" type="text/css" data-type="css" data-size="mobile" data-content="page">@media screen and (max-width:640px) { /* Mobile */ }</style><grid-body id="grid-body">
+  <section id="SMAjJto" data-type="section-container">  
+      <!--CSS-->
+      <grid-css>
+        <style id="TpgWLXO" type="text/css" data-type="css" data-size="laptop" data-content="section">
+  
+  grid-content#prcHmuv{
+    display: grid;
+    padding:0px;
+    min-height:100px;
+    grid-template-columns:1fr;
+  }
+  </style>
+        <style id="PIRBoXx" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
+  grid-content#prcHmuv{
+    display: grid;
+  }
+  }</style>
+        <style id="DnHbmfa" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
+  grid-content#prcHmuv{
+    display: grid;
+  }}</style>
+      </grid-css>  
+      <!--BG-->
+      <grid-bg id="ehpqxdL" data-type="grid-bg">
+          <!-- bg-color -->
+          <grid-bg-color id="PvKhCuX" data-type="grid-bg-color" class="div-visible" style="background-color: rgba(255, 255, 255, 1);"></grid-bg-color> 
+          <!-- bg-image -->
+          <grid-bg-image id="qUgbGhC" data-type="grid-bg-image" class="div-hidden">
+            <picture id="VvTSpsQ">
+              <source srcset="" media="(max-width:640px)">
+              <source srcset="" media="(min-width:641px) and (max-width:1024px)">
+              <img id="FwbnRtQ" src="https://images.unsplash.com/photo-1470337458703-46ad1756a187?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyM3x8Zm9vZHxlbnwwfDB8fHwxNzE2ODM1NjIzfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-bg" loading="lazy">
+            </picture>
+          </grid-bg-image> 
+          <!-- bg-video -->
+          <grid-bg-video id="NefJMAW" data-type="grid-bg-video" class="div-hidden">
+            <video id="KJTUiji" autoplay="" loop="" muted="" loading="lazy" data-type="video-bg" src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4"></video>
+          </grid-bg-video> 
+      </grid-bg>
+      <!-- grid-container -->
+      <grid-container id="MpAuvvt" data-type="grid-container">
+        <!-- grid-content -->
+        <grid-content id="prcHmuv" contenteditable="false" data-type="html"><div data-type="post-meta" id="jglbRru" contenteditable="true">
+    <h1 data-type="post-title" id="NlLiwaz" contenteditable="true">La Vie et L'Héritage de Vicente Fernández, L'icône de la Musique Ranchera</h1>
+    <p data-type="post-date" id="VgMpXla" contenteditable="true">Publié le : 10 octobre 2023</p>
+</div>   
+<div data-type="post-cover" id="VpNUGhp" contenteditable="true">
+    <img src="https://images.unsplash.com/photo-1618330210702-9afca4c24a7c?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw0fHxtYXJpYWNoaXxlbnwwfDB8fHwxNzI4Mzg1Njc3fDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-fg" loading="lazy" id="MDHTrOP" contenteditable="true">
+</div>
+<div data-type="post-content" id="LxPsqDR" contenteditable="true">
+    <section id="YvDlBXb" contenteditable="true">
+        <h2 id="IVOENBa" contenteditable="true">Sommaire</h2>
+        <ol id="rGGnIoy" contenteditable="true">
+            <li id="rfXnZXF" contenteditable="true"><a href="#introduction-vicente-fernandez" id="KuUccly" contenteditable="true">Introduction à Vicente Fernández</a></li>
+            <li id="Vkgcjle" contenteditable="true"><a href="#debuts-carriere-musicale" id="CeGqfvd" contenteditable="true">Les Débuts de sa Carrière Musicale</a></li>
+            <li id="axXWzZB" contenteditable="true"><a href="#ascension-vers-celebrite" id="VxtsDpE" contenteditable="true">Ascension Vers la Célébrité</a></li>
+            <li id="fCzmSUI" contenteditable="true"><a href="#heritage-culturel-et-influence" id="vqDsLPY" contenteditable="true">Héritage Culturel et Influence</a></li>
+            <li id="fAmPcse" contenteditable="true"><a href="#vie-personnelle-et-engagements" id="PQwiJsk" contenteditable="true">Vie Personnelle et Engagements</a></li>
+        </ol>
+    </section>
+
+    <section id="introduction-vicente-fernandez" contenteditable="true">
+        <h2 id="oOMlKoq" contenteditable="true">Introduction à Vicente Fernández</h2>
+        <p id="FcdGdeV" contenteditable="true">Vicente Fernández, souvent appelé le "Roi de la Musique Ranchera", est une figure emblématique de la <strong id="Uiruiva" contenteditable="true">musique mexicaine</strong>. Sa carrière s’étend sur plusieurs décennies, au cours desquelles il a marqué le monde avec sa voix puissante et son charisme sur scène.</p>
+    </section>
+
+    <section id="debuts-carriere-musicale" contenteditable="true">
+        <h2 id="yWeefWe" contenteditable="true">Les Débuts de sa Carrière Musicale</h2>
+        <p id="fbGjseD" contenteditable="true">Né dans une famille modeste à Huentitán El Alto, Jalisco, Fernández a commencé à <strong id="TCEWcSm" contenteditable="true">chanter</strong> dès son plus jeune âge. Son parcours vers la célébrité a été pavé de défis, mais sa détermination et son talent exceptionnel lui ont permis de surmonter les obstacles et de s'imposer dans l'industrie musicale.</p>
+    </section>
+
+    <section id="ascension-vers-celebrite" contenteditable="true">
+        <h2 id="xZUcwEH" contenteditable="true">Ascension Vers la Célébrité</h2>
+        <p id="aKJAByP" contenteditable="true">Dans les années 1970, Vicente Fernández a commencé à gagner en popularité grâce à ses performances passionnées et à ses album inoubliables tels que "Volver Volver" et "El Rey". Ses concerts à guichets fermés à travers le monde témoignent de son <strong id="skXWMHT" contenteditable="true">impact</strong> international et de sa capacité à toucher les cœurs au-delà des frontières culturelles.</p>
+    </section>
+
+    <section id="heritage-culturel-et-influence" contenteditable="true">
+        <h2 id="tSmsJqj" contenteditable="true">Héritage Culturel et Influence</h2>
+        <p id="hXKPwCE" contenteditable="true">En tant qu'icône culturelle, Fernández a joué un rôle crucial dans la <strong id="iqpnTxd" contenteditable="true">promotion</strong> de la musique ranchera et du patrimoine mexicain. Sa contribution va au-delà de la musique, car il a inspiré plusieurs générations d'artistes et de fans à s'immerger dans la culture mexicaine authentique.</p>
+    </section>
+
+    <section id="vie-personnelle-et-engagements" contenteditable="true">
+        <h2 id="NjIdlFh" contenteditable="true">Vie Personnelle et Engagements</h2>
+        <p id="JmWDPNa" contenteditable="true">Au-delà de sa carrière, Vicente Fernández est connu pour son engagement envers sa famille et ses œuvres de charité. Marié pendant plus de cinquante ans, il a toujours fait de sa famille sa priorité et a contribué à de nombreuses causes sociales, montrant ainsi son côté humain et généreux.</p>
+    </section>
+
+    <section id="VYHbghw" contenteditable="true">
+        <h2 id="hJdlhdY" contenteditable="true">FAQ sur Vicente Fernández</h2>
+        <h3 id="WdwWrgH" contenteditable="true">Quelle est la chanson la plus célèbre de Vicente Fernández?</h3>
+        <p id="KGQjLRS" contenteditable="true">Parmi les chansons les plus célèbres de Vicente Fernández, "Volver Volver" se distingue particulièrement, devenant un hymne de la musique ranchera.</p>
+
+        <h3 id="ZkAEfiO" contenteditable="true">Combien d'albums Vicente Fernández a-t-il vendus?</h3>
+        <p id="eTxCpHV" contenteditable="true">Vicente Fernández a vendu plus de 65 millions d'albums dans le monde, ce qui en fait l'un des artistes hispanophones les plus vendus de tous les temps.</p>
+
+        <h3 id="vwErqzQ" contenteditable="true">Quel est le style musical de Vicente Fernández?</h3>
+        <p id="FvAbNhH" contenteditable="true">Le style musical de Vicente Fernández est principalement ancré dans la musique ranchera, avec des éléments de musique mariachi.</p>
+
+        <h3 id="eeGNypP" contenteditable="true">Vicente Fernández a-t-il reçu des récompenses?</h3>
+        <p id="bAHNlOy" contenteditable="true">Oui, Vicente Fernández a reçu de nombreuses récompenses tout au long de sa carrière, y compris des Grammy Awards et Latin Grammy Awards.</p>
+
+        <h3 id="UNgoeWm" contenteditable="true">Quelle est l'importance culturelle de Vicente Fernández au Mexique?</h3>
+        <p id="TdDxEXj" contenteditable="true">Vicente Fernández est considéré comme un ambassadeur culturel du Mexique, ayant contribué à la diffusion de la culture et de la musique traditionnelle mexicaine à l'échelle mondiale.</p>
+    </section>
+
+    <section id="tlmthth" contenteditable="true">
+        <p id="gzEEHUT" contenteditable="true"><strong id="UsxIOwG" contenteditable="true">Mots-clés :</strong> Vicente Fernández, musique ranchera, culture mexicaine, icône musicale, artiste mexicain.</p>
+        
+        <h2 id="AvZBzUv" contenteditable="true">Conclusion</h2>
+        <p id="IWsRJPX" contenteditable="true">L'impact de Vicente Fernández sur la musique ranchera et sa contribution à la culture mexicaine sont inestimables. Avec une carrière couronnée de succès et une influence qui s'étend sur plusieurs générations, il reste l'incarnation intemporelle du patrimoine musical mexicain et continue d'inspirer artistes et fans à travers le monde.</p>
+    </section>
+</div></grid-content>
+        <grid-edit-section class="grid-edit-section no-export" contenteditable="false" data-type="grid-edit-section"> 
+          <div class="edit-ia">
+            <button contenteditable="false" class="section-assistant-btn" onclick="openIaAssistant('SMAjJto','prcHmuv')"><img src="../global/file/assistant.svg"> IA Assistant </button>
+            <button contenteditable="false" class="section-shortcuts-btn" onclick="openIaShorcuts('prcHmuv')"><img src="../global/file/shortcuts.svg"> IA Shortcuts</button>
+          </div>
+          <div class="edit-settings">
+            <button contenteditable="false" class="section-open-modal" onclick="toolsOpenModal(this)">⋮</button>
+          </div>
+        </grid-edit-section> 
+      </grid-container>
+      <!--JS-->
+        <script id="rnLJUBj" data-type="js"></script>  
+  </section>
+  </grid-body><script id="page-global.js" type="text/javascript" data-type="js"></script>
