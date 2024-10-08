@@ -8,4 +8,137 @@
   
   
   
+  
+  <section id="Tmlsitc" data-type="section-container">  
+      <!--CSS-->
+      <grid-css>
+        <style id="KsFHLGK" type="text/css" data-type="css" data-size="laptop" data-content="section">
+  
+  grid-content#TltSOMT{
+    display: grid;
+    padding:35px;
+    grid-template-columns:1fr;
+  }
+  </style>
+        <style id="MsWNAMs" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
+  grid-content#TltSOMT{
+    display: grid;
+  }
+  }</style>
+        <style id="NNjyTgG" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
+  grid-content#TltSOMT{
+    display: grid;
+  }}</style>
+      </grid-css>  
+      <!--BG-->
+      <grid-bg id="RyJAwwI" data-type="grid-bg">
+          <!-- bg-color -->
+          <grid-bg-color id="mkZipEP" data-type="grid-bg-color" class="div-visible" style="background-color: rgba(255, 255, 255, 1);"></grid-bg-color> 
+          <!-- bg-image -->
+          <grid-bg-image id="gLPSECz" data-type="grid-bg-image" class="div-hidden">
+            <picture id="zOmUeTh">
+              <source srcset="" media="(max-width:640px)">
+              <source srcset="" media="(min-width:641px) and (max-width:1024px)">
+              <img id="fTJWFdR" src="https://images.unsplash.com/photo-1470337458703-46ad1756a187?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyM3x8Zm9vZHxlbnwwfDB8fHwxNzE2ODM1NjIzfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-bg" loading="lazy">
+            </picture>
+          </grid-bg-image> 
+          <!-- bg-video -->
+          <grid-bg-video id="Vooyeyn" data-type="grid-bg-video" class="div-hidden">
+            <video id="ZMmQdgB" autoplay="" loop="" muted="" loading="lazy" data-type="video-bg" src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4"></video>
+          </grid-bg-video> 
+      </grid-bg>
+      <!-- grid-container -->
+      <grid-container id="bhkQnTQ" data-type="grid-container">
+        <!-- grid-content -->
+        <grid-content id="TltSOMT" contenteditable="false" data-type="html"><article>
+    <div data-type="post-meta" id="uGKxovl" contenteditable="true">
+        <h1 data-type="post-title" id="DLlZzyF" contenteditable="true">La Vie de Maradona : Un Héros du Football Epoustouflant</h1>
+        <p data-type="post-date" id="NJXsLNc" contenteditable="true">Publié le : 10 mars 2023</p>
+    </div>   
+    <div data-type="post-cover" id="UcLTorg" contenteditable="true">
+        <img src="https://images.unsplash.com/photo-1689720802494-f68d73009dd6?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxfHxtYXJhZG9uYXxlbnwwfDB8fHwxNzI4Mzc3MjI2fDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-fg" loading="lazy" id="NtFYmsD" contenteditable="true">
+    </div>
+    <div data="post-content" id="sJzugAZ" contenteditable="true">
+        <section id="gHXDMAe" contenteditable="true">
+            <h2 id="uOkUEpW" contenteditable="true">Sommaire</h2>
+            <ol id="HHQRIou" contenteditable="true">
+                <li id="jAkBlTb" contenteditable="true"><a href="#debut-de-vie" id="NVCnpdS" contenteditable="true">Le Début de Vie de Maradona</a></li>
+                <li id="VdexcNF" contenteditable="true"><a href="#carriere-professionnelle" id="ZSVsvPg" contenteditable="true">Carrière Professionnelle de Maradona</a></li>
+                <li id="eZFflyl" contenteditable="true"><a href="#l-apogee-a-naples" id="xeVCgcq" contenteditable="true">L'Apogée à Naples</a></li>
+                <li id="XDXqSxY" contenteditable="true"><a href="#controverses-et-chutes" id="SYBVFqg" contenteditable="true">Controverses et Chutes</a></li>
+                <li id="CxeOiYF" contenteditable="true"><a href="#-et-heritage" id="savvYhO" contenteditable="true">Le Legs et l'Héritage de Maradona</a></li>
+                <li id="UjxDaXd" contenteditable="true"><a href="#faq" id="BggUPhP" contenteditable="true">FAQ sur la Vie de Maradona</a></li>
+                <li id="pfbtLMk" contenteditable="true"><a href="#conclusion" id="CwKVqfw" contenteditable="true">Conclusion</a></li>
+            </ol>
+        </section>
+
+        <section id="debut-de-vie" contenteditable="true">
+            <h2 id="ZkNAzWs" contenteditable="true">Le Début de Vie de Maradona</h2>
+            <p id="QPzuVEv" contenteditable="true">Diego Armando Maradona est né le 30 octobre 1960 à Lanús, dans la province de Buenos Aires, en Argentine. Il a grandi dans un quartier pauvre et dès son plus jeune âge, il a montré un <strong id="alTNLQm" contenteditable="true">talent exceptionnel pour le football</strong>. Considéré comme un prodige, il a rejoint les juniors d'Argentinos Juniors à l'âge de huit ans.</p>
+            <p id="ekLVZxy" contenteditable="true">Ce passage dans les jeunes équipes a marqué le début d’une carrière phénoménale qui allait captiver le monde entier. Très vite, Maradona s'est imposé comme un joueur à suivre grâce à ses compétences techniques et son intelligence de jeu incroyable.</p>
+        </section>
+
+        <section id="carriere-professionnelle" contenteditable="true">
+            <h2 id="alqKhrW" contenteditable="true">Carrière Professionnelle de Maradona</h2>
+            <p id="zACSFwZ" contenteditable="true">Maradona a débuté sa carrière professionnelle en 1976 avec Argentinos Juniors, où il a rapidement fait sensation. Il a ensuite joué pour Boca Juniors, réalisant son rêve de défendre les couleurs de son club préféré. Sa carrière l'a vu jouer dans plusieurs clubs européens prestigieux, dont le FC Barcelone et le Napoli.</p>
+            <p id="vKtHkmG" contenteditable="true">Son passage en Europe a été couronné par de nombreuses victoires, mais c'est avec l'équipe nationale d'Argentine qu'il a connu ses plus grands triomphes, notamment en remportant la Coupe du Monde de 1986 au Mexique.</p>
+        </section>
+
+        <section id="l-apogee-a-naples" contenteditable="true">
+            <h2 id="aSdyaSF" contenteditable="true">L'Apogée à Naples</h2>
+            <p id="XDUNZjS" contenteditable="true">Le transfert de Maradona à <strong id="IkwqrYi" contenteditable="true">Napoli</strong> en 1984 a été un tournant dans sa carrière. Il est devenu une icône à Naples, guidant le club vers ses premiers titres de Serie A en 1987 et 1990. Son impact sur le club italien est souvent décrit comme légendaire, tant sur le terrain qu'en dehors.</p>
+            <p id="mrpqWCr" contenteditable="true">Au Napoli, Maradona a non seulement marqué de nombreux buts, mais il a aussi transformé l'équipe en une force dominante du football italien et européen, gagnant également la Coupe UEFA en 1989.</p>
+        </section>
+
+        <section id="controverses-et-chutes" contenteditable="true">
+            <h2 id="HuiFoFe" contenteditable="true">Controverses et Chutes</h2>
+            <p id="IGAvZZJ" contenteditable="true">Malgré ses succès impressionnants, la carrière de Maradona a été entachée de <strong id="GbSOHhb" contenteditable="true">controverses</strong>. Des problèmes liés à la drogue et à sa vie privée ont souvent fait la une des journaux. En 1991, il a été suspendu pour dopage, un événement qui a marqué le début de la fin de sa carrière professionnelle.</p>
+            <p id="rNHboWe" contenteditable="true">Ces défis hors du terrain ont souvent éclipsé ses réalisations sur le terrain, ternissant quelque peu l'image de cet incroyable footballeur aux yeux du public.</p>
+        </section>
+
+        <section id="legs-et-heritage" contenteditable="true">
+            <h2 id="bxrPeMc" contenteditable="true">Le Legs et l'Héritage de Maradona</h2>
+            <p id="pQeFArm" contenteditable="true">Malgré les obstacles, l'héritage de <strong id="Lmbzrgr" contenteditable="true">Diego Maradona</strong> reste immense. Il est considéré comme l'un des plus grands joueurs de l'histoire du football. Son style de jeu flamboyant, sa passion et ses capacités inégalées continuent d'inspirer des générations de footballeurs.</p>
+            <p id="DtDmXuz" contenteditable="true">Maradona a également été un modèle pour de nombreux joueurs en Amérique Latine, prouvant que même ceux venant des conditions les plus modestes peuvent atteindre les plus hauts sommets grâce au talent et à la détermination.</p>
+        </section>
+
+        <section id="faq" contenteditable="true">
+            <h2 id="GPvdtCK" contenteditable="true">FAQ sur la Vie de Maradona</h2>
+            <h3 id="WmafmLl" contenteditable="true">Quel est le palmarès de Maradona en Coupe du Monde ?</h3>
+            <p id="SNRdhFU" contenteditable="true">Maradona a remporté la Coupe du Monde avec l'Argentine en 1986 et a joué un rôle crucial dans le parcours de son équipe vers la finale en 1990.</p>
+
+            <h3 id="BPyEcMU" contenteditable="true">Où a-t-il commencé sa carrière professionnelle ?</h3>
+            <p id="HrHBIKn" contenteditable="true">Maradona a débuté sa carrière professionnelle avec Argentinos Juniors en 1976.</p>
+
+            <h3 id="YXihyfE" contenteditable="true">Pourquoi Maradona est-il célèbre à Napoli ?</h3>
+            <p id="vBUzewZ" contenteditable="true">À Napoli, il a remporté deux titres de Serie A et une Coupe UEFA, faisant de lui une légende du club.</p>
+
+            <h3 id="ckaQEWz" contenteditable="true">Quels clubs européens ont accueilli Maradona ?</h3>
+            <p id="RRCVbQJ" contenteditable="true">Maradona a joué pour le FC Barcelone en Espagne et le SSC Napoli en Italie, où il a acquis une grande renommée.</p>
+
+            <h3 id="acxLMop" contenteditable="true">Comment Maradona a-t-il influencé le football ?</h3>
+            <p id="VKDjlPA" contenteditable="true">Par son talent, sa créativité et ses réalisations, Maradona a inspiré de nombreuses générations de footballeurs partout dans le monde.</p>
+        </section>
+
+        <p id="xsLBupS" contenteditable="true"><strong id="jpjcZWy" contenteditable="true">Mots-clés :</strong> Maradona, football, Napoli, carrière, Argentine, Coupe du Monde, héritage, légende du football.</p>
+
+        <section id="conclusion" contenteditable="true">
+            <h2 id="wqRespd" contenteditable="true">Conclusion</h2>
+            <p id="SEfXqrk" contenteditable="true">La vie de Diego Maradona est un témoignage des sommets que l'on peut atteindre avec du talent pur et une passion indéfectible pour le football. Bien que sa carrière ait été parsemée de défis personnels et de controverses, son impact sur le monde du football reste indélébile. Maradona est bien plus qu'un simple joueur ; il est une icône culturelle du sport, et sa légende continuera à inspirer dans les années à venir.</p>
+        </section>
+    </div>
+</article></grid-content>
+        <grid-edit-section class="grid-edit-section no-export" contenteditable="false" data-type="grid-edit-section"> 
+          <div class="edit-ia">
+            <button contenteditable="false" class="section-assistant-btn" onclick="openIaAssistant('Tmlsitc','TltSOMT')"><img src="../global/file/assistant.svg"> IA Assistant </button>
+            <button contenteditable="false" class="section-shortcuts-btn" onclick="openIaShorcuts('TltSOMT')"><img src="../global/file/shortcuts.svg"> IA Shortcuts</button>
+          </div>
+          <div class="edit-settings">
+            <button contenteditable="false" class="section-open-modal" onclick="toolsOpenModal(this)">⋮</button>
+          </div>
+        </grid-edit-section> 
+      </grid-container>
+      <!--JS-->
+        <script id="DfCtHhk" data-type="js"></script>  
+  </section>
   </grid-body><script id="page-global.js" type="text/javascript" data-type="js"></script>
