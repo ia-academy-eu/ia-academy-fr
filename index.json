@@ -11,120 +11,171 @@
   
   
   
-  <section id="tcZHPRg" data-type="section-container">  
+  
+  
+  <section id="lteJsyV" data-type="section-container">  
       <!--CSS-->
       <grid-css>
-        <style id="BeKGqwz" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-content#DFoqpEW {
-  display: grid;
-  grid-template-columns: 1fr;
-}
-</style>
-        <style id="sHJRnua" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
-  grid-content#DFoqpEW{
+        <style id="rmxCyCK" type="text/css" data-type="css" data-size="laptop" data-content="section">
+  
+  grid-content#gLQkIfL{
+    display: grid;
+    padding:35px;
+    grid-template-columns:1fr;
+  }
+  </style>
+        <style id="HlHrZkA" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
+  grid-content#gLQkIfL{
     display: grid;
   }
   }</style>
-        <style id="ggZYHpE" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
-  grid-content#DFoqpEW{
+        <style id="JMBmBon" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
+  grid-content#gLQkIfL{
     display: grid;
   }}</style>
       </grid-css>  
       <!--BG-->
-      <grid-bg id="GcdWRUR" data-type="grid-bg">
+      <grid-bg id="EHpxfOl" data-type="grid-bg">
           <!-- bg-color -->
-          <grid-bg-color id="cbZDVOe" data-type="grid-bg-color" class="div-visible" style="background-color: rgba(255, 255, 255, 1);"></grid-bg-color> 
+          <grid-bg-color id="ZnCzTDr" data-type="grid-bg-color" class="div-visible" style="background-color: rgba(255, 255, 255, 1);"></grid-bg-color> 
           <!-- bg-image -->
-          <grid-bg-image id="anvGtzp" data-type="grid-bg-image" class="div-hidden">
-            <picture id="wmJGPRn">
+          <grid-bg-image id="chCYYlw" data-type="grid-bg-image" class="div-hidden">
+            <picture id="mAqkGJj">
               <source srcset="" media="(max-width:640px)">
               <source srcset="" media="(min-width:641px) and (max-width:1024px)">
-              <img id="pGNqvUf" src="https://images.unsplash.com/photo-1470337458703-46ad1756a187?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyM3x8Zm9vZHxlbnwwfDB8fHwxNzE2ODM1NjIzfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-bg" loading="lazy">
+              <img id="PvLKYHG" src="https://images.unsplash.com/photo-1470337458703-46ad1756a187?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyM3x8Zm9vZHxlbnwwfDB8fHwxNzE2ODM1NjIzfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-bg" loading="lazy">
             </picture>
           </grid-bg-image> 
           <!-- bg-video -->
-          <grid-bg-video id="horIHtk" data-type="grid-bg-video" class="div-hidden">
-            <video id="yWvFDtL" autoplay="" loop="" muted="" loading="lazy" data-type="video-bg" src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4"></video>
+          <grid-bg-video id="Fxdoxgr" data-type="grid-bg-video" class="div-hidden">
+            <video id="WZncxCr" autoplay="" loop="" muted="" loading="lazy" data-type="video-bg" src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4"></video>
           </grid-bg-video> 
       </grid-bg>
       <!-- grid-container -->
-      <grid-container id="IaPFErr" data-type="grid-container">
+      <grid-container id="ZbXDdtA" data-type="grid-container">
         <!-- grid-content -->
-        <grid-content id="DFoqpEW" contenteditable="false" data-type="html"><article>
-    <div data-type="post-meta" id="SUTmzsf" contenteditable="true">
-        <h1 data-type="post-title" id="EjqxksE" contenteditable="true">Leonardo DiCaprio : Une Icône de Hollywood</h1>
-        <p data-type="post-date" id="FsmjWCf" contenteditable="true">Publié le : 15 octobre 2023</p>
-    </div>   
-    <div data-type="post-cover" id="GkACfsQ" contenteditable="true">
-        <img src="https://images.unsplash.com/photo-1578674473215-9e07ee2e577d?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxfHxob2xseXdvZHxlbnwwfDB8fHwxNzI4Mzc5NTA3fDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-fg" loading="lazy" alt="Leonardo DiCaprio" id="zAsfQAp" contenteditable="true">
+        <grid-content id="gLQkIfL" contenteditable="false" data-type="html"><article>
+    <div data-type="post-meta" id="SHGlmsE" contenteditable="true">
+        <h1 data-type="post-title" id="hqsvGEx" contenteditable="true">La Possibilité de la Vie Ailleurs dans l'Univers</h1>
+        <p data-type="post-date" id="yXhhQOf" contenteditable="true">Publié le : 15 octobre 2023</p>
     </div>
-    <div data-type="post-content" id="zCuQAAj" contenteditable="true">
-        <section id="WmYKHBn" contenteditable="true">
-            <h2 id="xKKOHHA" contenteditable="true">Sommaire</h2>
-            <ol id="umftWiL" contenteditable="true">
-                <li id="QCLzVZD" contenteditable="true"><a href="#early-life" id="aUeMCON" contenteditable="true">L'Enfance de Leonardo DiCaprio</a></li>
-                <li id="ERkcCBJ" contenteditable="true"><a href="#breakthrough-role" id="uJUZnjU" contenteditable="true">Le Rôle qui a Propulsé sa Carrière</a></li>
-                <li id="BBQnSTp" contenteditable="true"><a href="#environmental-activism" id="frIYhwK" contenteditable="true">Engagement Environnemental</a></li>
-                <li id="KaIDAWk" contenteditable="true"><a href="#awards-and-honors" id="TrpowGK" contenteditable="true">Distinctions et Récompenses</a></li>
-                <li id="hRgxhSU" contenteditable="true"><a href="#legacy-and-impact" id="wYJoYaB" contenteditable="true">Héritage et Impact</a></li>
-            </ol>
+    <div data-type="post-cover" id="bjMoLLh" contenteditable="true">
+        <img src="https://images.unsplash.com/photo-1660316478325-f16d1141f4a0?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxN3x8dW5pdmVyc3xlbnwwfDB8fHwxNzI4MzgwOTMwfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-fg" loading="lazy" id="AFZNQVO" contenteditable="true">
+    </div>
+    <div data-type="post-content" id="rDHhSeF" contenteditable="true">
+        <h2 id="FInEVnd" contenteditable="true">Sommaire</h2>
+        <ol id="uqkuBZT" contenteditable="true">
+            <li id="lwwBHDC" contenteditable="true"><a href="#introduction-vie-ailleurs" id="xJmDmnz" contenteditable="true">Introduction à la vie ailleurs</a></li>
+            <li id="WTIZlHw" contenteditable="true"><a href="#exoplanetes-potentiellement-habitables" id="UiCgixi" contenteditable="true">Exoplanètes potentiellement habitables</a></li>
+            <li id="XBhVBoj" contenteditable="true"><a href="#conditions-necessaires-pour-la-vie" id="DgBRlOE" contenteditable="true">Les conditions nécessaires pour la vie</a></li>
+            <li id="SOEDmDn" contenteditable="true"><a href="#la-recherche-scientifique-actuelle" id="kinEBvb" contenteditable="true">La recherche scientifique actuelle</a></li>
+            <li id="LGkzvjI" contenteditable="true"><a href="#implications-philosophiques-et-culturelles" id="krVFLiM" contenteditable="true">Implications philosophiques et culturelles</a></li>
+            <li id="tszpsyP" contenteditable="true"><a href="#faq" id="BsccnVM" contenteditable="true">FAQ</a></li>
+        </ol>
+
+        <section id="introduction-vie-ailleurs" contenteditable="true">
+            <h2 id="lujYQMS" contenteditable="true">Introduction à la vie ailleurs</h2>
+            <p id="CTxssWI" contenteditable="true">
+                Depuis des siècles, l'humanité se pose la question de savoir si nous sommes <strong id="ScswgVL" contenteditable="true">seuls</strong> 
+                dans l'univers. Avec les avancées technologiques, cette quête a pris une dimension scientifique. 
+                La découverte éventuelle de la vie en dehors de la Terre serait l'une des plus importantes de 
+                l'histoire de l'humanité, bouleversant notre compréhension de la <strong id="XnvbBfe" contenteditable="true">biologie</strong> 
+                et de notre place dans l'univers.
+            </p>
         </section>
 
-        <section id="early-life" contenteditable="true">
-            <h2 id="QqFlMDs" contenteditable="true">L'Enfance de Leonardo DiCaprio</h2>
-            <p id="uqGOzkk" contenteditable="true">Né le 11 novembre 1974 à Los Angeles, Californie, Leonardo Wilhelm DiCaprio est le fils unique d'Irmelin Indenbirken, une secrétaire juridique, et de George DiCaprio, un distributeur de bandes dessinées populaires. Il a commencé sa carrière à un jeune âge en apparaissant dans des publicités télévisées, ce qui a nourri son désir pour le métier d'acteur. Son parcours vers le succès n'a pas été simple, mais même à son plus jeune âge, il avait la détermination d'un futur icône de Hollywood.</p>
+        <section id="exoplanetes-potentiellement-habitables" contenteditable="true">
+            <h2 id="kCxcuGF" contenteditable="true">Exoplanètes potentiellement habitables</h2>
+            <p id="MnXaRmo" contenteditable="true">
+                Les <strong id="tEmDNid" contenteditable="true">exoplanètes</strong>, des planètes en dehors de notre système solaire, sont désormais 
+                au cœur de la recherche de vie extraterrestre. Grâce à des missions spatiales telles que Kepler 
+                et TESS, des milliers d'exoplanètes ont été identifiées, certaines situées dans des zones 
+                habitables où l'eau liquide pourrait exister. La probabilité de découvrir des planètes 
+                similaires à la Terre ne cesse d'augmenter.
+            </p>
         </section>
 
-        <section id="breakthrough-role" contenteditable="true">
-            <h2 id="WPStdXJ" contenteditable="true">Le Rôle qui a Propulsé sa Carrière</h2>
-            <p id="OgqBXVS" contenteditable="true">En 1993, Leonardo DiCaprio a décroché un rôle marquant dans <em id="rdmrIeV" contenteditable="true">Gilbert Grape</em>, pour lequel il a reçu sa première nomination aux Oscars. Cependant, c'est son interprétation de Jack Dawson dans le film à succès <em id="jNaTSnU" contenteditable="true">Titanic</em> de 1997, réalisé par James Cameron, qui l'a propulsé au niveau international. Ce rôle emblématique a non seulement consolidé son statut de superstar, mais a également marqué le début de sa collaboration fructueuse avec certains des plus grands réalisateurs de l'industrie.</p>
+        <section id="conditions-necessaires-pour-la-vie" contenteditable="true">
+            <h2 id="WcqVGWk" contenteditable="true">Les conditions nécessaires pour la vie</h2>
+            <p id="UFkxhVi" contenteditable="true">
+                La question de la vie ailleurs implique de définir ce qui est nécessaire à l'émergence de 
+                la <strong id="hHQpWwy" contenteditable="true">vie</strong>. Sur Terre, les éléments essentiels incluent l'eau liquide, une 
+                source d'énergie, et des éléments chimiques comme le carbone. Cependant, la vie ailleurs 
+                pourrait être basée sur des compositions chimiques et conditions environnementales 
+                totalement différentes, un concept qui intrigue les scientifiques.
+            </p>
         </section>
 
-        <section id="environmental-activism" contenteditable="true">
-            <h2 id="dqpkUbH" contenteditable="true">Engagement Environnemental</h2>
-            <p id="TzNQelo" contenteditable="true">Leonardo DiCaprio est non seulement connu pour ses prestations cinématographiques exceptionnelles, mais aussi pour son engagement envers la protection de l'environnement. En 1998, il a créé la Fondation Leonardo DiCaprio, visant à sensibiliser et à préserver les derniers lieux sauvages de la planète. Il utilise sa notoriété pour promouvoir des initiatives écologiques et a produit plusieurs documentaires sur les questions environnementales, tels que <em id="yRutQFY" contenteditable="true">The 11th Hour</em> et <em id="QRptBqH" contenteditable="true">Before the Flood</em>.</p>
+        <section id="la-recherche-scientifique-actuelle" contenteditable="true">
+            <h2 id="FGsjOUN" contenteditable="true">La recherche scientifique actuelle</h2>
+            <p id="JGpweTl" contenteditable="true">
+                Aujourd'hui, des projets internationaux cherchent les <strong id="GfdNKEX" contenteditable="true">signatures</strong> de vie, 
+                comme les bio-signatures ou techno-signatures (comme des signaux technologiques). Les outils 
+                les plus avancés, tels que le télescope spatial James Webb, sont à l'avant-garde de cette 
+                mission, explorant de façon inédite les atmosphères des exoplanètes.
+            </p>
         </section>
 
-        <section id="awards-and-honors" contenteditable="true">
-            <h2 id="pZxVBMG" contenteditable="true">Distinctions et Récompenses</h2>
-            <p id="CvfmcFy" contenteditable="true">Au cours de sa carrière, DiCaprio a reçu de nombreux prix pour ses performances, notamment un Oscar du meilleur acteur pour son rôle dans <em id="XmrDKGo" contenteditable="true">The Revenant</em> en 2016. En plus des Oscars, il a été honoré par les Golden Globes, BAFTA et bien d'autres institutions renommées. Chaque récompense met en lumière sa capacité exceptionnelle à s'immerger complètement dans ses personnages.</p>
+        <section id="implications-philosophiques-et-culturelles" contenteditable="true">
+            <h2 id="ymdDxID" contenteditable="true">Implications philosophiques et culturelles</h2>
+            <p id="ICftmCJ" contenteditable="true">
+                La découverte de la vie ailleurs peut profondément impacter notre société. Elle soulèverait 
+                des questions philosophiques sur l'importance de l'humanité et notre solitude cosmique. 
+                Culturellement, cela pourrait enrichir notre compréhension de la vie et son <strong id="MhPpntr" contenteditable="true">sens</strong>, 
+                en créant des ponts entre science et religion, mythe et réalité.
+            </p>
         </section>
 
-        <section id="legacy-and-impact" contenteditable="true">
-            <h2 id="NCdMveT" contenteditable="true">Héritage et Impact</h2>
-            <p id="qnyfmpT" contenteditable="true">Au-delà de ses succès au box-office et de ses performances reconnues par les critiques, DiCaprio a su utiliser sa célébrité pour attirer l'attention sur des causes mondiales critiques. Son impact s'étend au-delà du cinéma, inspirant de nombreux jeunes acteurs et militants à travers le monde. En tant que producteur, il continue de soutenir des projets engageants et percutants, consolidant ainsi son influence dans l'industrie. </p>
+        <section id="faq" contenteditable="true">
+            <h2 id="rKUPThZ" contenteditable="true">FAQ</h2>
+            <h3 id="dMHWnHs" contenteditable="true">Pourquoi la recherche de vie est-elle importante?</h3>
+            <p id="IXzzFdO" contenteditable="true">
+                La recherche de vie ailleurs nous aide à comprendre les possibles diversités biologiques et 
+                à réévaluer notre compréhension de la biologie sur Terre.
+            </p>
+            <h3 id="KNxGEoE" contenteditable="true">Quels outils sont utilisés pour rechercher la vie ailleurs?</h3>
+            <p id="oXWZrLm" contenteditable="true">
+                Les scientifiques utilisent des télescopes avancés, des sondes spatiales et des simulateurs 
+                pour examiner les atmosphères et surfaces des planètes lointaines.
+            </p>
+            <h3 id="GrApHsZ" contenteditable="true">Existe-t-il des preuves concrètes de la vie ailleurs?</h3>
+            <p id="dgTtFBo" contenteditable="true">
+                À ce jour, il n'existe pas de preuve directe de vie en dehors de la Terre, bien que des 
+                découvertes prometteuses nourrissent l'espoir scientifique.
+            </p>
+            <h3 id="FWwAOVL" contenteditable="true">Quelle est la zone habitable d'une exoplanète?</h3>
+            <p id="szJDFnA" contenteditable="true">
+                La zone habitable est la région autour d'une étoile où les conditions pourraient permettre 
+                l'existence d'eau liquide à la surface d'une planète.
+            </p>
+            <h3 id="AgiGafe" contenteditable="true">La découverte de vie extraterrestre pourrait-elle être une menace?</h3>
+            <p id="kgruFTE" contenteditable="true">
+                Découvrir la vie, particulièrement sous forme de microorganismes, est généralement considéré 
+                comme peu menaçant, bien que cela soulève des questions éthiques et de précaution sanitaire.
+            </p>
         </section>
 
-        <section id="nTTMNMo" contenteditable="true">
-            <h2 id="CKKQucn" contenteditable="true">Questions Fréquemment Posées</h2>
-            <h3 id="cPIyntk" contenteditable="true">Quel était le premier rôle de Leonardo DiCaprio ?</h3>
-            <p id="cjKdRUu" contenteditable="true">Son premier grand rôle était dans la série télévisée <em id="qKCDQOf" contenteditable="true">Growing Pains</em>, mais il a gagné en notoriété avec le film <em id="XDNnKGg" contenteditable="true">What's Eating Gilbert Grape</em> en 1993.</p>
-            
-            <h3 id="SeEEKQn" contenteditable="true">Comment Leonardo DiCaprio s'implique-t-il dans la lutte contre le changement climatique ?</h3>
-            <p id="pdKTacA" contenteditable="true">Par le biais de sa fondation et de documentaires, il sensibilise le public et finance des projets innovants visant à protéger l'environnement.</p>
-            
-            <h3 id="XbVugle" contenteditable="true">Combien de fois Leonardo DiCaprio a-t-il été nommé aux Oscars ?</h3>
-            <p id="DwfSnbH" contenteditable="true">Il a été nommé six fois pour ses rôles d'acteur et a remporté une fois pour <em id="zDEuovC" contenteditable="true">The Revenant</em>.</p>
-            
-            <h3 id="hBnxEGg" contenteditable="true">Avec quels réalisateurs célèbres a-t-il fréquemment travaillé ?</h3>
-            <p id="GIKyeHt" contenteditable="true">Il est surtout connu pour ses collaborations avec Martin Scorsese dans plusieurs films réussis comme <em id="tgQEFSn" contenteditable="true">The Wolf of Wall Street</em> et <em id="RcXwZFd" contenteditable="true">The Departed</em>.</p>
-            
-            <h3 id="mJAvytV" contenteditable="true">Quels sont les projets futurs de Leonardo DiCaprio ?</h3>
-            <p id="xjDMnvH" contenteditable="true">DiCaprio continue de s'impliquer dans des projets cinématographiques et environnementaux, avec plusieurs films en préparation et de nouvelles initiatives écologiques.</p>
-        </section>
+        <p id="JeBnxOP" contenteditable="true"><strong id="PDciXzW" contenteditable="true">Mots-clés :</strong></p>
+        <p id="vORXfbF" contenteditable="true">
+            Vie ailleurs, exoplanètes, conditions nécessaires pour la vie, signatures de vie, découvertes 
+            scientifiques, implications philosophiques, recherche de vie.
+        </p>
 
-        <p id="WObXtGG" contenteditable="true"><strong id="ZinIxde" contenteditable="true">Mots-clés :</strong></p>
-        <p id="gGgznsv" contenteditable="true">Leonardo DiCaprio, Hollywood, acteur, environnement, Titanic, Oscars, films, activisme, Martin Scorsese</p>
-
-        <section id="vyNIFoW" contenteditable="true">
-            <h2 id="lDBBYib" contenteditable="true">Conclusion</h2>
-            <p id="HEtIjWF" contenteditable="true">Leonardo DiCaprio est sans aucun doute l'une des figures les plus influentes de l'industrie cinématographique moderne. De son ascension à travers des rôles emblématiques à son impitoyable dévouement pour la préservation de notre planète, il incarne non seulement le talent artistique mais aussi la responsabilité sociale. À travers cet article, nous avons exploré son parcours, ses succès et ses contributions, vous laissant inspirer par l'impact durable qu'il a déjà laissé dans le monde.</p>
+        <section id="UcMxtph" contenteditable="true">
+            <h2 id="eCWQiHY" contenteditable="true">Conclusion</h2>
+            <p id="BOOBykr" contenteditable="true">
+                L'exploration de la vie ailleurs dans l'univers est une quête fascinante qui marie la 
+                curiosité scientifique avec des enjeux philosophiques et culturels profonds. En poursuivant 
+                nos recherches, nous nous rapprochons peut-être d'une découverte qui pourrait transformer 
+                à jamais notre compréhension de l'univers et de nous-mêmes.
+            </p>
         </section>
     </div>
 </article></grid-content>
         <grid-edit-section class="grid-edit-section no-export" contenteditable="false" data-type="grid-edit-section"> 
           <div class="edit-ia">
-            <button contenteditable="false" class="section-assistant-btn" onclick="openIaAssistant('tcZHPRg','DFoqpEW')"><img src="../global/file/assistant.svg"> IA Assistant </button>
-            <button contenteditable="false" class="section-shortcuts-btn" onclick="openIaShorcuts('DFoqpEW')"><img src="../global/file/shortcuts.svg"> IA Shortcuts</button>
+            <button contenteditable="false" class="section-assistant-btn" onclick="openIaAssistant('lteJsyV','gLQkIfL')"><img src="../global/file/assistant.svg"> IA Assistant </button>
+            <button contenteditable="false" class="section-shortcuts-btn" onclick="openIaShorcuts('gLQkIfL')"><img src="../global/file/shortcuts.svg"> IA Shortcuts</button>
           </div>
           <div class="edit-settings">
             <button contenteditable="false" class="section-open-modal" onclick="toolsOpenModal(this)">⋮</button>
@@ -132,6 +183,6 @@
         </grid-edit-section> 
       </grid-container>
       <!--JS-->
-        <script id="thQylaB" data-type="js"></script>  
+        <script id="IAyfpYG" data-type="js"></script>  
   </section>
   </grid-body><script id="page-global.js" type="text/javascript" data-type="js"></script>
