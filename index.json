@@ -1,53 +1,55 @@
 <style id="page-laptop.css" type="text/css" data-type="css" data-size="laptop" data-content="page"></style><style id="page-tablet.css" type="text/css" data-type="css" data-size="tablet" data-content="page">@media screen and (min-width:641px) and (max-width:1024px) { /* Tablet */ }</style><style id="page-mobile.css" type="text/css" data-type="css" data-size="mobile" data-content="page">@media screen and (max-width:640px) { /* Mobile */ }</style><grid-body id="grid-body">
   
   
-  <section id="JXXghZB" data-type="section-container">  
+  
+  
+  <section id="OUnQZBD" data-type="section-container">  
       <!--CSS-->
       <grid-css>
-        <style id="tvUYqDu" type="text/css" data-type="css" data-size="laptop" data-content="section">
+        <style id="LvAHEbF" type="text/css" data-type="css" data-size="laptop" data-content="section">
   
-  grid-content#CsfcdWi{
+  grid-content#jvvSojF{
     display: grid;
     padding:0px;
     min-height:100px;
     grid-template-columns:1fr;
   }
   </style>
-        <style id="ZqAeREL" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
-  grid-content#CsfcdWi{
+        <style id="CVTmSJf" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
+  grid-content#jvvSojF{
     display: grid;
   }
   }</style>
-        <style id="CmKdzvK" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
-  grid-content#CsfcdWi{
+        <style id="WvBRGMg" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
+  grid-content#jvvSojF{
     display: grid;
   }}</style>
       </grid-css>  
       <!--BG-->
-      <grid-bg id="rwmUGTj" data-type="grid-bg">
+      <grid-bg id="yZTdkwB" data-type="grid-bg">
           <!-- bg-color -->
-          <grid-bg-color id="MEsAOTw" data-type="grid-bg-color" class="div-visible" style="background-color: rgba(255, 255, 255, 1);"></grid-bg-color> 
+          <grid-bg-color id="iBSxBcn" data-type="grid-bg-color" class="div-visible" style="background-color: rgba(255, 255, 255, 1);"></grid-bg-color> 
           <!-- bg-image -->
-          <grid-bg-image id="QpRWPJI" data-type="grid-bg-image" class="div-hidden">
-            <picture id="iAJQWgt">
+          <grid-bg-image id="WPbFJvr" data-type="grid-bg-image" class="div-hidden">
+            <picture id="JYfCjvg">
               <source srcset="" media="(max-width:640px)">
               <source srcset="" media="(min-width:641px) and (max-width:1024px)">
-              <img id="vrCnIei" src="https://images.unsplash.com/photo-1470337458703-46ad1756a187?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyM3x8Zm9vZHxlbnwwfDB8fHwxNzE2ODM1NjIzfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-bg" loading="lazy">
+              <img id="WYsFTyn" src="https://images.unsplash.com/photo-1470337458703-46ad1756a187?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyM3x8Zm9vZHxlbnwwfDB8fHwxNzE2ODM1NjIzfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-bg" loading="lazy">
             </picture>
           </grid-bg-image> 
           <!-- bg-video -->
-          <grid-bg-video id="CvsyvZV" data-type="grid-bg-video" class="div-hidden">
-            <video id="KVjgwei" autoplay="" loop="" muted="" loading="lazy" data-type="video-bg" src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4"></video>
+          <grid-bg-video id="OGIIgfm" data-type="grid-bg-video" class="div-hidden">
+            <video id="CyblgeD" autoplay="" loop="" muted="" loading="lazy" data-type="video-bg" src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4"></video>
           </grid-bg-video> 
       </grid-bg>
       <!-- grid-container -->
-      <grid-container id="GiuJmkb" data-type="grid-container">
+      <grid-container id="HhzxlfI" data-type="grid-container">
         <!-- grid-content -->
-        <grid-content id="CsfcdWi" contenteditable="false" data-type="html"></grid-content>
+        <grid-content id="jvvSojF" contenteditable="false" data-type="html"></grid-content>
         <grid-edit-section class="grid-edit-section no-export" contenteditable="false" data-type="grid-edit-section"> 
           <div class="edit-ia">
-            <button contenteditable="false" class="section-assistant-btn" onclick="openIaAssistant('JXXghZB','CsfcdWi')"><img src="../global/file/assistant.svg"> IA Assistant </button>
-            <button contenteditable="false" class="section-shortcuts-btn" onclick="openIaShorcuts('CsfcdWi')"><img src="../global/file/shortcuts.svg"> IA Shortcuts</button>
+            <button contenteditable="false" class="section-assistant-btn" onclick="openIaAssistant('OUnQZBD','jvvSojF')"><img src="../global/file/assistant.svg"> IA Assistant </button>
+            <button contenteditable="false" class="section-shortcuts-btn" onclick="openIaShorcuts('jvvSojF')"><img src="../global/file/shortcuts.svg"> IA Shortcuts</button>
           </div>
           <div class="edit-settings">
             <button contenteditable="false" class="section-open-modal" onclick="toolsOpenModal(this)">⋮</button>
@@ -55,6 +57,6 @@
         </grid-edit-section> 
       </grid-container>
       <!--JS-->
-        <script id="cjxxHNc" data-type="js"></script>  
+        <script id="RmdttVM" data-type="js"></script>  
   </section>
   </grid-body><script id="page-global.js" type="text/javascript" data-type="js"></script>
