@@ -10,4 +10,131 @@
   
   
   
+  
+  <section id="tcZHPRg" data-type="section-container">  
+      <!--CSS-->
+      <grid-css>
+        <style id="BeKGqwz" type="text/css" data-type="css" data-size="laptop" data-content="section">
+  
+  grid-content#DFoqpEW{
+    display: grid;
+    padding:35px;
+    grid-template-columns:1fr;
+  }
+  </style>
+        <style id="sHJRnua" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
+  grid-content#DFoqpEW{
+    display: grid;
+  }
+  }</style>
+        <style id="ggZYHpE" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
+  grid-content#DFoqpEW{
+    display: grid;
+  }}</style>
+      </grid-css>  
+      <!--BG-->
+      <grid-bg id="GcdWRUR" data-type="grid-bg">
+          <!-- bg-color -->
+          <grid-bg-color id="cbZDVOe" data-type="grid-bg-color" class="div-visible" style="background-color: rgba(255, 255, 255, 1);"></grid-bg-color> 
+          <!-- bg-image -->
+          <grid-bg-image id="anvGtzp" data-type="grid-bg-image" class="div-hidden">
+            <picture id="wmJGPRn">
+              <source srcset="" media="(max-width:640px)">
+              <source srcset="" media="(min-width:641px) and (max-width:1024px)">
+              <img id="pGNqvUf" src="https://images.unsplash.com/photo-1470337458703-46ad1756a187?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyM3x8Zm9vZHxlbnwwfDB8fHwxNzE2ODM1NjIzfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-bg" loading="lazy">
+            </picture>
+          </grid-bg-image> 
+          <!-- bg-video -->
+          <grid-bg-video id="horIHtk" data-type="grid-bg-video" class="div-hidden">
+            <video id="yWvFDtL" autoplay="" loop="" muted="" loading="lazy" data-type="video-bg" src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4"></video>
+          </grid-bg-video> 
+      </grid-bg>
+      <!-- grid-container -->
+      <grid-container id="IaPFErr" data-type="grid-container">
+        <!-- grid-content -->
+        <grid-content id="DFoqpEW" contenteditable="false" data-type="html"><article>
+    <div data-type="post-meta" id="SUTmzsf" contenteditable="true">
+        <h1 data-type="post-title" id="EjqxksE" contenteditable="true">Leonardo DiCaprio : Une Icône de Hollywood</h1>
+        <p data-type="post-date" id="FsmjWCf" contenteditable="true">Publié le : 15 octobre 2023</p>
+    </div>   
+    <div data-type="post-cover" id="GkACfsQ" contenteditable="true">
+        <img src="https://images.unsplash.com/photo-1578674473215-9e07ee2e577d?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxfHxob2xseXdvZHxlbnwwfDB8fHwxNzI4Mzc5NTA3fDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-fg" loading="lazy" alt="Leonardo DiCaprio" id="zAsfQAp" contenteditable="true">
+    </div>
+    <div data-type="post-content" id="zCuQAAj" contenteditable="true">
+        <section id="WmYKHBn" contenteditable="true">
+            <h2 id="xKKOHHA" contenteditable="true">Sommaire</h2>
+            <ol id="umftWiL" contenteditable="true">
+                <li id="QCLzVZD" contenteditable="true"><a href="#early-life" id="aUeMCON" contenteditable="true">L'Enfance de Leonardo DiCaprio</a></li>
+                <li id="ERkcCBJ" contenteditable="true"><a href="#breakthrough-role" id="uJUZnjU" contenteditable="true">Le Rôle qui a Propulsé sa Carrière</a></li>
+                <li id="BBQnSTp" contenteditable="true"><a href="#environmental-activism" id="frIYhwK" contenteditable="true">Engagement Environnemental</a></li>
+                <li id="KaIDAWk" contenteditable="true"><a href="#awards-and-honors" id="TrpowGK" contenteditable="true">Distinctions et Récompenses</a></li>
+                <li id="hRgxhSU" contenteditable="true"><a href="#legacy-and-impact" id="wYJoYaB" contenteditable="true">Héritage et Impact</a></li>
+            </ol>
+        </section>
+
+        <section id="early-life" contenteditable="true">
+            <h2 id="QqFlMDs" contenteditable="true">L'Enfance de Leonardo DiCaprio</h2>
+            <p id="uqGOzkk" contenteditable="true">Né le 11 novembre 1974 à Los Angeles, Californie, Leonardo Wilhelm DiCaprio est le fils unique d'Irmelin Indenbirken, une secrétaire juridique, et de George DiCaprio, un distributeur de bandes dessinées populaires. Il a commencé sa carrière à un jeune âge en apparaissant dans des publicités télévisées, ce qui a nourri son désir pour le métier d'acteur. Son parcours vers le succès n'a pas été simple, mais même à son plus jeune âge, il avait la détermination d'un futur icône de Hollywood.</p>
+        </section>
+
+        <section id="breakthrough-role" contenteditable="true">
+            <h2 id="WPStdXJ" contenteditable="true">Le Rôle qui a Propulsé sa Carrière</h2>
+            <p id="OgqBXVS" contenteditable="true">En 1993, Leonardo DiCaprio a décroché un rôle marquant dans <em id="rdmrIeV" contenteditable="true">Gilbert Grape</em>, pour lequel il a reçu sa première nomination aux Oscars. Cependant, c'est son interprétation de Jack Dawson dans le film à succès <em id="jNaTSnU" contenteditable="true">Titanic</em> de 1997, réalisé par James Cameron, qui l'a propulsé au niveau international. Ce rôle emblématique a non seulement consolidé son statut de superstar, mais a également marqué le début de sa collaboration fructueuse avec certains des plus grands réalisateurs de l'industrie.</p>
+        </section>
+
+        <section id="environmental-activism" contenteditable="true">
+            <h2 id="dqpkUbH" contenteditable="true">Engagement Environnemental</h2>
+            <p id="TzNQelo" contenteditable="true">Leonardo DiCaprio est non seulement connu pour ses prestations cinématographiques exceptionnelles, mais aussi pour son engagement envers la protection de l'environnement. En 1998, il a créé la Fondation Leonardo DiCaprio, visant à sensibiliser et à préserver les derniers lieux sauvages de la planète. Il utilise sa notoriété pour promouvoir des initiatives écologiques et a produit plusieurs documentaires sur les questions environnementales, tels que <em id="yRutQFY" contenteditable="true">The 11th Hour</em> et <em id="QRptBqH" contenteditable="true">Before the Flood</em>.</p>
+        </section>
+
+        <section id="awards-and-honors" contenteditable="true">
+            <h2 id="pZxVBMG" contenteditable="true">Distinctions et Récompenses</h2>
+            <p id="CvfmcFy" contenteditable="true">Au cours de sa carrière, DiCaprio a reçu de nombreux prix pour ses performances, notamment un Oscar du meilleur acteur pour son rôle dans <em id="XmrDKGo" contenteditable="true">The Revenant</em> en 2016. En plus des Oscars, il a été honoré par les Golden Globes, BAFTA et bien d'autres institutions renommées. Chaque récompense met en lumière sa capacité exceptionnelle à s'immerger complètement dans ses personnages.</p>
+        </section>
+
+        <section id="legacy-and-impact" contenteditable="true">
+            <h2 id="NCdMveT" contenteditable="true">Héritage et Impact</h2>
+            <p id="qnyfmpT" contenteditable="true">Au-delà de ses succès au box-office et de ses performances reconnues par les critiques, DiCaprio a su utiliser sa célébrité pour attirer l'attention sur des causes mondiales critiques. Son impact s'étend au-delà du cinéma, inspirant de nombreux jeunes acteurs et militants à travers le monde. En tant que producteur, il continue de soutenir des projets engageants et percutants, consolidant ainsi son influence dans l'industrie. </p>
+        </section>
+
+        <section id="nTTMNMo" contenteditable="true">
+            <h2 id="CKKQucn" contenteditable="true">Questions Fréquemment Posées</h2>
+            <h3 id="cPIyntk" contenteditable="true">Quel était le premier rôle de Leonardo DiCaprio ?</h3>
+            <p id="cjKdRUu" contenteditable="true">Son premier grand rôle était dans la série télévisée <em id="qKCDQOf" contenteditable="true">Growing Pains</em>, mais il a gagné en notoriété avec le film <em id="XDNnKGg" contenteditable="true">What's Eating Gilbert Grape</em> en 1993.</p>
+            
+            <h3 id="SeEEKQn" contenteditable="true">Comment Leonardo DiCaprio s'implique-t-il dans la lutte contre le changement climatique ?</h3>
+            <p id="pdKTacA" contenteditable="true">Par le biais de sa fondation et de documentaires, il sensibilise le public et finance des projets innovants visant à protéger l'environnement.</p>
+            
+            <h3 id="XbVugle" contenteditable="true">Combien de fois Leonardo DiCaprio a-t-il été nommé aux Oscars ?</h3>
+            <p id="DwfSnbH" contenteditable="true">Il a été nommé six fois pour ses rôles d'acteur et a remporté une fois pour <em id="zDEuovC" contenteditable="true">The Revenant</em>.</p>
+            
+            <h3 id="hBnxEGg" contenteditable="true">Avec quels réalisateurs célèbres a-t-il fréquemment travaillé ?</h3>
+            <p id="GIKyeHt" contenteditable="true">Il est surtout connu pour ses collaborations avec Martin Scorsese dans plusieurs films réussis comme <em id="tgQEFSn" contenteditable="true">The Wolf of Wall Street</em> et <em id="RcXwZFd" contenteditable="true">The Departed</em>.</p>
+            
+            <h3 id="mJAvytV" contenteditable="true">Quels sont les projets futurs de Leonardo DiCaprio ?</h3>
+            <p id="xjDMnvH" contenteditable="true">DiCaprio continue de s'impliquer dans des projets cinématographiques et environnementaux, avec plusieurs films en préparation et de nouvelles initiatives écologiques.</p>
+        </section>
+
+        <p id="WObXtGG" contenteditable="true"><strong id="ZinIxde" contenteditable="true">Mots-clés :</strong></p>
+        <p id="gGgznsv" contenteditable="true">Leonardo DiCaprio, Hollywood, acteur, environnement, Titanic, Oscars, films, activisme, Martin Scorsese</p>
+
+        <section id="vyNIFoW" contenteditable="true">
+            <h2 id="lDBBYib" contenteditable="true">Conclusion</h2>
+            <p id="HEtIjWF" contenteditable="true">Leonardo DiCaprio est sans aucun doute l'une des figures les plus influentes de l'industrie cinématographique moderne. De son ascension à travers des rôles emblématiques à son impitoyable dévouement pour la préservation de notre planète, il incarne non seulement le talent artistique mais aussi la responsabilité sociale. À travers cet article, nous avons exploré son parcours, ses succès et ses contributions, vous laissant inspirer par l'impact durable qu'il a déjà laissé dans le monde.</p>
+        </section>
+    </div>
+</article></grid-content>
+        <grid-edit-section class="grid-edit-section no-export" contenteditable="false" data-type="grid-edit-section"> 
+          <div class="edit-ia">
+            <button contenteditable="false" class="section-assistant-btn" onclick="openIaAssistant('tcZHPRg','DFoqpEW')"><img src="../global/file/assistant.svg"> IA Assistant </button>
+            <button contenteditable="false" class="section-shortcuts-btn" onclick="openIaShorcuts('DFoqpEW')"><img src="../global/file/shortcuts.svg"> IA Shortcuts</button>
+          </div>
+          <div class="edit-settings">
+            <button contenteditable="false" class="section-open-modal" onclick="toolsOpenModal(this)">⋮</button>
+          </div>
+        </grid-edit-section> 
+      </grid-container>
+      <!--JS-->
+        <script id="thQylaB" data-type="js"></script>  
+  </section>
   </grid-body><script id="page-global.js" type="text/javascript" data-type="js"></script>
