@@ -7,107 +7,121 @@
   
   
   
-  <section id="fYNguxy" data-type="section-container">  
+  
+  
+  <section id="OXrqGKv" data-type="section-container">  
       <!--CSS-->
       <grid-css>
-        <style id="nImwpOw" type="text/css" data-type="css" data-size="laptop" data-content="section">
+        <style id="cHhkOoz" type="text/css" data-type="css" data-size="laptop" data-content="section">
   
-  grid-content#bOMFkIm{
+  grid-content#EnxYpZq{
     display: grid;
     padding:0px;
     min-height:100px;
     grid-template-columns:1fr;
   }
   </style>
-        <style id="upCLPYs" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
-  grid-content#bOMFkIm{
+        <style id="zHQEXIy" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
+  grid-content#EnxYpZq{
     display: grid;
   }
   }</style>
-        <style id="MVAainE" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
-  grid-content#bOMFkIm{
+        <style id="KCldgaQ" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
+  grid-content#EnxYpZq{
     display: grid;
   }}</style>
       </grid-css>  
       <!--BG-->
-      <grid-bg id="MQJZHem" data-type="grid-bg">
+      <grid-bg id="ZYMQHOS" data-type="grid-bg">
           <!-- bg-color -->
-          <grid-bg-color id="kUmqnWP" data-type="grid-bg-color" class="div-visible" style="background-color: rgba(255, 255, 255, 1);"></grid-bg-color> 
+          <grid-bg-color id="dzrOAVH" data-type="grid-bg-color" class="div-visible" style="background-color: rgba(255, 255, 255, 1);"></grid-bg-color> 
           <!-- bg-image -->
-          <grid-bg-image id="BGKVvYg" data-type="grid-bg-image" class="div-hidden">
-            <picture id="DezlLSI">
+          <grid-bg-image id="RsEGRHP" data-type="grid-bg-image" class="div-hidden">
+            <picture id="dMKTRCD">
               <source srcset="" media="(max-width:640px)">
               <source srcset="" media="(min-width:641px) and (max-width:1024px)">
-              <img id="itmjzxb" src="https://images.unsplash.com/photo-1470337458703-46ad1756a187?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyM3x8Zm9vZHxlbnwwfDB8fHwxNzE2ODM1NjIzfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-bg" loading="lazy">
+              <img id="QGxqovQ" src="https://images.unsplash.com/photo-1470337458703-46ad1756a187?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyM3x8Zm9vZHxlbnwwfDB8fHwxNzE2ODM1NjIzfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-bg" loading="lazy">
             </picture>
           </grid-bg-image> 
           <!-- bg-video -->
-          <grid-bg-video id="FpJTkWV" data-type="grid-bg-video" class="div-hidden">
-            <video id="aPAlFen" autoplay="" loop="" muted="" loading="lazy" data-type="video-bg" src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4"></video>
+          <grid-bg-video id="QiCHSEN" data-type="grid-bg-video" class="div-hidden">
+            <video id="JLXtLDw" autoplay="" loop="" muted="" loading="lazy" data-type="video-bg" src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4"></video>
           </grid-bg-video> 
       </grid-bg>
       <!-- grid-container -->
-      <grid-container id="JWWtSlA" data-type="grid-container">
+      <grid-container id="HAGsiTY" data-type="grid-container">
         <!-- grid-content -->
-        <grid-content id="bOMFkIm" contenteditable="false" data-type="html"><div data-type="post-meta" id="jfQEmpH" contenteditable="true">
-   <h1 data-type="post-title" id="rXyMAGG" contenteditable="true">L'Impact Révolutionnaire de l'Intelligence Artificielle sur Notre Quotidien</h1>
-   <p data-type="post-date" id="OUonQga" contenteditable="true">Publié le : 24 octobre 2023</p>
-</div>
-<div data-type="post-cover" id="aFRhVnq" contenteditable="true"><img src="https://oaidalleapiprodscus.blob.core.windows.net/private/org-i2HB3pjBIxbq64xGvY1LEaeE/user-vfW3XnzFFs3BzFZweZZ6RIi9/img-ZZn7fxHnBuD0S4xXk3CcszpY.png?st=2024-10-13T18%3A12%3A11Z&amp;se=2024-10-13T20%3A12%3A11Z&amp;sp=r&amp;sv=2024-08-04&amp;sr=b&amp;rscd=inline&amp;rsct=image/png&amp;skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&amp;sktid=a48cca56-e6da-484e-a814-9c849652bcb3&amp;skt=2024-10-12T23%3A26%3A13Z&amp;ske=2024-10-13T23%3A26%3A13Z&amp;sks=b&amp;skv=2024-08-04&amp;sig=cLhxKnzXPzwueWFvEWPxZ%2BNmKRnlTWJDDqa7cuOY7Tc%3D" data-type="image-fg" loading="lazy" id="tXdwcTu" contenteditable="true"></div>
-<div data-type="post-content" id="DhWHTAr" contenteditable="true">
-    <section id="wziFiyQ" contenteditable="true">
-        <h2 id="cxCvCqV" contenteditable="true">Sommaire</h2>
-        <ol id="ndmSUTB" contenteditable="true">
-            <li id="uFpvzXP" contenteditable="true"><a href="#introduction-to-ai" id="qkODlWW" contenteditable="true">Introduction à l'Intelligence Artificielle</a></li>
-            <li id="dTQEyHM" contenteditable="true"><a href="#ai-in-healthcare" id="FBhHhgP" contenteditable="true">L'Intelligence Artificielle dans le secteur de la santé</a></li>
-            <li id="weZupfJ" contenteditable="true"><a href="#ai-and-the-business-world" id="yHuryDC" contenteditable="true">AI et le monde des affaires</a></li>
-            <li id="gSFgoVG" contenteditable="true"><a href="#ai-in-automobile-industry" id="HahslKI" contenteditable="true">L'IA dans l'industrie automobile</a></li>
-            <li id="HRMmSRG" contenteditable="true"><a href="#ethical-concerns-of-ai" id="rIITukR" contenteditable="true">Les préoccupations éthiques de l'intelligence artificielle</a></li>
-        </ol>
-    </section>
-    <section id="introduction-to-ai" contenteditable="true">
-        <h2 id="luZTzuC" contenteditable="true">Introduction à l'Intelligence Artificielle</h2>
-        <p id="vPcUljO" contenteditable="true">L'<strong id="dbiIGRa" contenteditable="true">Intelligence Artificielle</strong> (IA) est un domaine technologique florissant qui a transformé la manière dont nous comprenons et utilisons les <strong id="ShNwkjg" contenteditable="true">technologies modernes</strong>. La montée en puissance de l'IA a permis de réaliser des tâches complexes autrefois réservées aux humains, notamment dans des secteurs variés tels que le commerce, la santé, et la robotique.</p>
-    </section>
-    <section id="ai-in-healthcare" contenteditable="true">
-        <h2 id="UdmhbGG" contenteditable="true">L'Intelligence Artificielle dans le secteur de la santé</h2>
-        <p id="nBHBWvn" contenteditable="true">Dans le monde médical, l'usage de l'IA a permis d'améliorer les <strong id="vexymyv" contenteditable="true">diagnostics</strong> et de fournir des traitements personnalisés. Les <strong id="WEcMrwb" contenteditable="true">algorithmes d'apprentissage automatique</strong> aident les médecins à analyser de grandes quantités de données cliniques, facilitant des décisions éclairées pour offrir de meilleurs soins aux patients.</p>
-    </section>
-    <section id="ai-and-the-business-world" contenteditable="true">
-        <h2 id="CuvnazS" contenteditable="true">AI et le monde des affaires</h2>
-        <p id="FphvEmB" contenteditable="true">L'Intelligence Artificielle joue également un rôle crucial dans le monde des <strong id="PfMwlxp" contenteditable="true">affaires</strong>. Elle permet aux entreprises d'automatiser les tâches répétitives, d'analyser les comportements des consommateurs, et de prévoir les <strong id="UVYkFvB" contenteditable="true">tendances du marché</strong>. Ces capacités fournissent un avantage concurrentiel significatif et permettent des gains en efficacité et en productivité.</p>
-    </section>
-    <section id="ai-in-automobile-industry" contenteditable="true">
-        <h2 id="MftkFpQ" contenteditable="true">L'IA dans l'industrie automobile</h2>
-        <p id="hNywAeM" contenteditable="true">L'<strong id="KFHVOqa" contenteditable="true">industrie automobile</strong> n'est pas en reste, avec des innovations telles que les <strong id="xTvdWZM" contenteditable="true">véhicules autonomes</strong> qui sont rendues possibles grâce à l'intelligence artificielle. Ces véhicules utilisent des capteurs et des algorithmes complexes pour se déplacer de manière autonome, réduisant ainsi le nombre d'accidents de la route.</p>
-    </section>
-    <section id="ethical-concerns-of-ai" contenteditable="true">
-        <h2 id="wHawTwe" contenteditable="true">Les préoccupations éthiques de l'intelligence artificielle</h2>
-        <p id="UopvpZP" contenteditable="true">Malgré les bénéfices évidents de l'IA, des questions éthiques importantes se posent. Les experts soulignent la nécessité de réglementations pour garantir une utilisation <strong id="uFIbAin" contenteditable="true">éthique</strong> de l'intelligence artificielle, notamment en ce qui concerne la <strong id="bPZAFvg" contenteditable="true">vie privée</strong> et l'<strong id="HBjAkEq" contenteditable="true">emploi</strong>.</p>
-    </section>
-    <section id="nmZtOSx" contenteditable="true">
-        <h2 id="fFURzTc" contenteditable="true">FAQ sur l'Intelligence Artificielle</h2>
-        <h3 id="tpOpOEI" contenteditable="true">Qu'est-ce que l'intelligence artificielle?</h3>
-        <p id="uWIDpbE" contenteditable="true">L'intelligence artificielle est une branche de l'informatique dédiée à la création de systèmes capables d'accomplir des tâches nécessitant normalement une intelligence humaine.</p>
-        <h3 id="SvVGtJr" contenteditable="true">Quels sont les types d'intelligence artificielle?</h3>
-        <p id="ronFVwM" contenteditable="true">Les principaux types d'IA incluent l'IA étroite (ou faible), l'IA générale (ou forte) et l'IA superintelligente.</p>
-        <h3 id="jXUPUAs" contenteditable="true">Quels sont les avantages de l'IA dans le secteur médical?</h3>
-        <p id="GuECZUP" contenteditable="true">L'IA dans la médecine améliore les diagnostics, personnalise les traitements et optimise la gestion des données médicales.</p>
-        <h3 id="ZzZFUcc" contenteditable="true">Comment l'IA impacte-t-elle le monde des affaires?</h3>
-        <p id="vxCtzoe" contenteditable="true">L'IA transforme les entreprises en automatisant les tâches, en optimisant les processus, et en offrant des analyses de marché avancées.</p>
-        <h3 id="phzTsfB" contenteditable="true">L'IA menace-t-elle l'emploi?</h3>
-        <p id="mgPiNfs" contenteditable="true">L'IA pourrait remplacer certains emplois, mais elle en crée également de nouveaux, nécessitant des compétences différentes.</p>
-    </section>
-    <p id="gfJSQwe" contenteditable="true"><strong id="LGPOlRi" contenteditable="true">Mots-clés :</strong> intelligence artificielle, technologie, diagnostic, apprentissage automatique, automatisation, véhicule autonome, éthique, vie privée, emploi</p>
-    <section id="CMFxuSY" contenteditable="true">
-        <h2 id="YnbKLkI" contenteditable="true">Conclusion</h2>
-        <p id="eQZlhLO" contenteditable="true">L'Intelligence Artificielle continue de remodeler divers aspects de notre vie quotidienne et professionnelle. De la santé au commerce, en passant par l'automobile, ses impacts sont immenses mais soulèvent aussi des défis éthiques et pratiques. En examinant ces préoccupations et en exploitant au mieux ses potentialités, nous pouvons maximiser les bénéfices de l'IA tout en minimisant ses risques potentiels.</p>
-    </section>
-</div></grid-content>
+        <grid-content id="EnxYpZq" contenteditable="false" data-type="html"><article>  
+    <div data-type="post-meta" id="jvffzHi" contenteditable="true">
+        <h1 data-type="post-title" id="JBibmNM" contenteditable="true">Exploration de Mars : La Planète Rouge Décryptée</h1>
+        <p data-type="post-date" id="FikUKWg" contenteditable="true">Publié le : 23 Octobre 2023</p>
+    </div>   
+    <div data-type="post-cover" id="TAqsPDF" contenteditable="true"><img src="https://oaidalleapiprodscus.blob.core.windows.net/private/org-i2HB3pjBIxbq64xGvY1LEaeE/user-vfW3XnzFFs3BzFZweZZ6RIi9/img-gZ6xyOPxiX7alUlOmM63QPCc.png?st=2024-10-14T18%3A02%3A38Z&amp;se=2024-10-14T20%3A02%3A38Z&amp;sp=r&amp;sv=2024-08-04&amp;sr=b&amp;rscd=inline&amp;rsct=image/png&amp;skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&amp;sktid=a48cca56-e6da-484e-a814-9c849652bcb3&amp;skt=2024-10-13T23%3A35%3A25Z&amp;ske=2024-10-14T23%3A35%3A25Z&amp;sks=b&amp;skv=2024-08-04&amp;sig=6U1djQJO9vZmBA1QNku5XFjGuJ3eFNMvdpmqxeSAWdE%3D" data-type="image-fg" loading="lazy" id="uNiGgvD" contenteditable="true"></div>
+    <div data-type="post-body" id="xljpFKS" contenteditable="true">
+        <div data-type="content" id="rmywwVe" contenteditable="true">
+            <h2 id="mBZiyVm" contenteditable="true">Sommaire</h2>
+            <ol id="tSlwBzD" contenteditable="true">
+                <li id="lStqXZB" contenteditable="true">Introduction à Mars</li>
+                <li id="JPkYPCo" contenteditable="true">Caractéristiques Géologiques de Mars</li>
+                <li id="EYQLcjX" contenteditable="true">Histoire des Missions Vers Mars</li>
+                <li id="YGTotLy" contenteditable="true">Possibilité de Vie sur Mars</li>
+                <li id="EMdkaWB" contenteditable="true">Avenir de l'Exploration Martienne</li>
+                <li id="YOQWTRU" contenteditable="true">FAQ</li>
+            </ol>
+        </div>
+
+        <div data-type="content" id="AKbeXQH" contenteditable="true">
+            <h2 id="BpWrLSC" contenteditable="true">Introduction à Mars</h2>
+            <p id="vQjASRP" contenteditable="true">Mars, souvent appelée la <strong id="xZDuEGP" contenteditable="true">Planète Rouge</strong> en raison de sa couleur distinctive, a captivé l'imagination des humains depuis des siècles. Cette quatrième planète à partir du Soleil est, après la Terre, la plus étudiée par les scientifiques cherchant à comprendre les mystères de notre système solaire.</p>
+        </div>
+        
+        <div data-type="content" id="VOIoMns" contenteditable="true">
+            <h2 id="vUgwuyA" contenteditable="true">Caractéristiques Géologiques de Mars</h2>
+            <p id="mcUvlEt" contenteditable="true">Mars possède plusieurs caractéristiques <strong id="wKCLEJO" contenteditable="true">géologiques</strong> uniques, notamment le mont Olympus, le volcan le plus élevé du système solaire, et Valles Marineris, un impressionnant canyon qui s'étend sur plus de 4 000 km. Sa surface est recouverte de cratères, déserts et calottes glaciaires, nous offrant des indices précieux sur son passé <strong id="LHcgWEZ" contenteditable="true">climatique</strong> et <strong id="zCMrpGs" contenteditable="true">atmosphérique</strong>.</p>
+        </div>
+        
+        <div data-type="content" id="ukshIrf" contenteditable="true">
+            <h2 id="YqJlixg" contenteditable="true">Histoire des Missions Vers Mars</h2>
+            <p id="TlfOlZM" contenteditable="true">L'exploration de Mars a commencé avec des missions à distance telles que Mariner 4 en 1965. Depuis lors, plusieurs missions réussies, y compris les rovers Spirit, Opportunity, et plus récemment Persévérance, ont permis une meilleure compréhension de la planète. Ces missions ont mis en évidence des preuves de <strong id="RvNWbtB" contenteditable="true">vie</strong> potentielle et la présence d'eau liquide dans le passé.</p>
+        </div>
+        
+        <div data-type="content" id="MYesaXf" contenteditable="true">
+            <h2 id="OGTKhOV" contenteditable="true">Possibilité de Vie sur Mars</h2>
+            <p id="lTwXjWJ" contenteditable="true">La question de la vie sur Mars est l'une des plus captivantes pour les chercheurs. Bien que le climat actuel de Mars soit hostile, des découvertes récentes suggèrent que Mars avait autrefois une atmosphère dense et de l'eau liquide en surface. Ces conditions auraient pu accueillir des formes de vie <strong id="edWTNDH" contenteditable="true">microbiennes</strong>, ce qui pousse les scientifiques à enquêter davantage.</p>
+        </div>
+        
+        <div data-type="content" id="BtpEChS" contenteditable="true">
+            <h2 id="uegJVvS" contenteditable="true">Avenir de l'Exploration Martienne</h2>
+            <p id="iKaPCqH" contenteditable="true">Avec l'avènement de nouvelles technologies et l'intérêt croissant pour la colonisation de Mars, l'avenir de l'<strong id="vdDCfYR" contenteditable="true">exploration</strong> martienne semble prometteur. Des agences spatiales comme la NASA et l'ESA, ainsi que des sociétés privées comme SpaceX, planifient des missions ambitieuses pour envoyer des humains sur Mars, dans l'espoir d'y installer des bases <strong id="ZpkjAJD" contenteditable="true">permanentes</strong>.</p>
+        </div>
+
+        <div data-type="content" id="gMNQsYt" contenteditable="true">
+            <h2 id="emNVXCQ" contenteditable="true">FAQ</h2>
+            <h3 id="UmyxyAd" contenteditable="true">Pourquoi Mars est-elle appelée la Planète Rouge ?</h3>
+            <p id="ZbXnCiM" contenteditable="true">Mars est appelée la Planète Rouge en raison de l'oxyde de fer, ou rouille, qui recouvre sa surface et lui donne son apparence rougeâtre.</p>
+
+            <h3 id="OOQossd" contenteditable="true">Quelle est la durée d'une journée sur Mars ?</h3>
+            <p id="djdbVuJ" contenteditable="true">Une journée sur Mars, appelée "sol", dure environ 24,6 heures, soit légèrement plus longue qu'une journée terrestre.</p>
+
+            <h3 id="uwvQPHK" contenteditable="true">Y a-t-il de l'eau sur Mars ?</h3>
+            <p id="AtrJhWJ" contenteditable="true">Des preuves ont été trouvées pour l'existence de glace d'eau aux pôles de Mars et de petites quantités d'eau liquide sous forme de saumure près de la surface.</p>
+
+            <h3 id="ZJalhJT" contenteditable="true">Quel est le rover actuel en activité sur Mars ?</h3>
+            <p id="isyajCx" contenteditable="true">Le rover Persévérance, lancé par la NASA, est actuellement en activité sur Mars dans le cadre de la mission Mars 2020.</p>
+
+            <h3 id="EBtUaIY" contenteditable="true">Mars a-t-elle des saisons comme la Terre ?</h3>
+            <p id="FkyOpNE" contenteditable="true">Oui, Mars a des saisons en raison de son inclinaison axiale, bien que les variations saisonnières soient différentes de celles de la Terre en raison de son orbite elliptique.</p>
+
+            <p id="JVaKbhp" contenteditable="true"><strong id="QIpzfpG" contenteditable="true">Mots-clés :</strong> Mars, planète rouge, exploration martienne, vie sur Mars, missions spatiales, géologie de Mars, rover Persévérance, NASA, SpaceX, système solaire.</p>
+
+            <p id="TdfPLZI" contenteditable="true">En conclusion, Mars reste un point focal essentiel pour notre compréhension de l'univers et notre potentiel à vivre au-delà de la Terre. L'<strong id="kKDgQUv" contenteditable="true">exploration</strong> continue et les découvertes à venir promettent de dévoiler davantage de ses mystères et d'alimenter notre quête insatiable de connaissances.</p>
+        </div>
+    </div>
+</article></grid-content>
         <grid-edit-section class="grid-edit-section no-export" contenteditable="false" data-type="grid-edit-section"> 
           <div class="edit-ia">
-            <button contenteditable="false" class="section-assistant-btn" onclick="openIaAssistant('fYNguxy','bOMFkIm')"><img src="../global/file/assistant.svg"> IA Assistant </button>
-            <button contenteditable="false" class="section-shortcuts-btn" onclick="openIaShorcuts('bOMFkIm')"><img src="../global/file/shortcuts.svg"> IA Shortcuts</button>
+            <button contenteditable="false" class="section-assistant-btn" onclick="openIaAssistant('OXrqGKv','EnxYpZq')"><img src="../global/file/assistant.svg"> IA Assistant </button>
+            <button contenteditable="false" class="section-shortcuts-btn" onclick="openIaShorcuts('EnxYpZq')"><img src="../global/file/shortcuts.svg"> IA Shortcuts</button>
           </div>
           <div class="edit-settings">
             <button contenteditable="false" class="section-open-modal" onclick="toolsOpenModal(this)">⋮</button>
@@ -115,6 +129,6 @@
         </grid-edit-section> 
       </grid-container>
       <!--JS-->
-        <script id="QzNIlpg" data-type="js"></script>  
+        <script id="ddkMCVo" data-type="js"></script>  
   </section>
   </grid-body><script id="page-global.js" type="text/javascript" data-type="js"></script>
