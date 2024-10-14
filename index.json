@@ -9,119 +9,116 @@
   
   
   
-  <section id="OXrqGKv" data-type="section-container">  
+  
+  
+  <section id="eOrIzON" data-type="section-container">  
       <!--CSS-->
       <grid-css>
-        <style id="cHhkOoz" type="text/css" data-type="css" data-size="laptop" data-content="section">
+        <style id="UstCrCA" type="text/css" data-type="css" data-size="laptop" data-content="section">
   
-  grid-content#EnxYpZq{
+  grid-content#uxXxBkd{
     display: grid;
     padding:0px;
     min-height:100px;
     grid-template-columns:1fr;
   }
   </style>
-        <style id="zHQEXIy" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
-  grid-content#EnxYpZq{
+        <style id="yXtQcKN" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
+  grid-content#uxXxBkd{
     display: grid;
   }
   }</style>
-        <style id="KCldgaQ" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
-  grid-content#EnxYpZq{
+        <style id="KGQKfQB" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
+  grid-content#uxXxBkd{
     display: grid;
   }}</style>
       </grid-css>  
       <!--BG-->
-      <grid-bg id="ZYMQHOS" data-type="grid-bg">
+      <grid-bg id="KtlQjZg" data-type="grid-bg">
           <!-- bg-color -->
-          <grid-bg-color id="dzrOAVH" data-type="grid-bg-color" class="div-visible" style="background-color: rgba(255, 255, 255, 1);"></grid-bg-color> 
+          <grid-bg-color id="xHmvexT" data-type="grid-bg-color" class="div-visible" style="background-color: rgba(255, 255, 255, 1);"></grid-bg-color> 
           <!-- bg-image -->
-          <grid-bg-image id="RsEGRHP" data-type="grid-bg-image" class="div-hidden">
-            <picture id="dMKTRCD">
+          <grid-bg-image id="ftOlKYj" data-type="grid-bg-image" class="div-hidden">
+            <picture id="WBMsGlN">
               <source srcset="" media="(max-width:640px)">
               <source srcset="" media="(min-width:641px) and (max-width:1024px)">
-              <img id="QGxqovQ" src="https://images.unsplash.com/photo-1470337458703-46ad1756a187?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyM3x8Zm9vZHxlbnwwfDB8fHwxNzE2ODM1NjIzfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-bg" loading="lazy">
+              <img id="ASJsVDS" src="https://images.unsplash.com/photo-1470337458703-46ad1756a187?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyM3x8Zm9vZHxlbnwwfDB8fHwxNzE2ODM1NjIzfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-bg" loading="lazy">
             </picture>
           </grid-bg-image> 
           <!-- bg-video -->
-          <grid-bg-video id="QiCHSEN" data-type="grid-bg-video" class="div-hidden">
-            <video id="JLXtLDw" autoplay="" loop="" muted="" loading="lazy" data-type="video-bg" src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4"></video>
+          <grid-bg-video id="oMfhbqw" data-type="grid-bg-video" class="div-hidden">
+            <video id="otWeIqb" autoplay="" loop="" muted="" loading="lazy" data-type="video-bg" src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4"></video>
           </grid-bg-video> 
       </grid-bg>
       <!-- grid-container -->
-      <grid-container id="HAGsiTY" data-type="grid-container">
+      <grid-container id="lwNcKZd" data-type="grid-container">
         <!-- grid-content -->
-        <grid-content id="EnxYpZq" contenteditable="false" data-type="html"><article>  
-    <div data-type="post-meta" id="jvffzHi" contenteditable="true">
-        <h1 data-type="post-title" id="JBibmNM" contenteditable="true">Exploration de Mars : La Planète Rouge Décryptée</h1>
-        <p data-type="post-date" id="FikUKWg" contenteditable="true">Publié le : 23 Octobre 2023</p>
-    </div>   
-    <div data-type="post-cover" id="TAqsPDF" contenteditable="true"><img src="https://oaidalleapiprodscus.blob.core.windows.net/private/org-i2HB3pjBIxbq64xGvY1LEaeE/user-vfW3XnzFFs3BzFZweZZ6RIi9/img-gZ6xyOPxiX7alUlOmM63QPCc.png?st=2024-10-14T18%3A02%3A38Z&amp;se=2024-10-14T20%3A02%3A38Z&amp;sp=r&amp;sv=2024-08-04&amp;sr=b&amp;rscd=inline&amp;rsct=image/png&amp;skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&amp;sktid=a48cca56-e6da-484e-a814-9c849652bcb3&amp;skt=2024-10-13T23%3A35%3A25Z&amp;ske=2024-10-14T23%3A35%3A25Z&amp;sks=b&amp;skv=2024-08-04&amp;sig=6U1djQJO9vZmBA1QNku5XFjGuJ3eFNMvdpmqxeSAWdE%3D" data-type="image-fg" loading="lazy" id="uNiGgvD" contenteditable="true"></div>
-    <div data-type="post-body" id="xljpFKS" contenteditable="true">
-        <div data-type="content" id="rmywwVe" contenteditable="true">
-            <h2 id="mBZiyVm" contenteditable="true">Sommaire</h2>
-            <ol id="tSlwBzD" contenteditable="true">
-                <li id="lStqXZB" contenteditable="true">Introduction à Mars</li>
-                <li id="JPkYPCo" contenteditable="true">Caractéristiques Géologiques de Mars</li>
-                <li id="EYQLcjX" contenteditable="true">Histoire des Missions Vers Mars</li>
-                <li id="YGTotLy" contenteditable="true">Possibilité de Vie sur Mars</li>
-                <li id="EMdkaWB" contenteditable="true">Avenir de l'Exploration Martienne</li>
-                <li id="YOQWTRU" contenteditable="true">FAQ</li>
-            </ol>
-        </div>
-
-        <div data-type="content" id="AKbeXQH" contenteditable="true">
-            <h2 id="BpWrLSC" contenteditable="true">Introduction à Mars</h2>
-            <p id="vQjASRP" contenteditable="true">Mars, souvent appelée la <strong id="xZDuEGP" contenteditable="true">Planète Rouge</strong> en raison de sa couleur distinctive, a captivé l'imagination des humains depuis des siècles. Cette quatrième planète à partir du Soleil est, après la Terre, la plus étudiée par les scientifiques cherchant à comprendre les mystères de notre système solaire.</p>
+        <grid-content id="uxXxBkd" contenteditable="false" data-type="html"><article>
+    <div data-type="post-meta" id="TLdDExk" contenteditable="true">
+        <h1 data-type="post-title" id="CgprNMP" contenteditable="true">L'Amazonie : Un Écosystème Crucial pour Notre Planète</h1>
+        <p data-type="post-date" id="dIXpdFb" contenteditable="true">Publié le : Date</p>
+    </div>
+    <div data-type="post-cover" id="PqMFaXY" contenteditable="true"><img src="https://oaidalleapiprodscus.blob.core.windows.net/private/org-i2HB3pjBIxbq64xGvY1LEaeE/user-vfW3XnzFFs3BzFZweZZ6RIi9/img-dkW4AVBPPEZa5iMIJpJpgJZH.png?st=2024-10-14T18%3A21%3A08Z&amp;se=2024-10-14T20%3A21%3A08Z&amp;sp=r&amp;sv=2024-08-04&amp;sr=b&amp;rscd=inline&amp;rsct=image/png&amp;skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&amp;sktid=a48cca56-e6da-484e-a814-9c849652bcb3&amp;skt=2024-10-13T23%3A12%3A37Z&amp;ske=2024-10-14T23%3A12%3A37Z&amp;sks=b&amp;skv=2024-08-04&amp;sig=NSY5feBVcHI018PvH5SN2EzbKnrxCskOteBMOEHfHHE%3D" data-type="image-fg" loading="lazy" id="JyHlMQQ" contenteditable="true"></div>
+    <div data-type="post-body" id="gOBRvrK" contenteditable="true">
+        <h2 id="NmDOYwM" contenteditable="true">Sommaire</h2>
+        <ol id="lkXYBBT" contenteditable="true">
+            <li id="mJiXSYn" contenteditable="true">Introduction à l'Amazonie</li>
+            <li id="enNHsHw" contenteditable="true">Importance écologique</li>
+            <li id="pccRFEM" contenteditable="true">Risques et menaces actuels</li>
+            <li id="rcvcuPd" contenteditable="true">Initiatives de conservation</li>
+            <li id="nREXtlP" contenteditable="true">Conclusion</li>
+        </ol>
+        
+        <h2 id="suWDchI" contenteditable="true">Introduction à l'Amazonie</h2>
+        <div data-type="content">
+            <p id="DvRQWLo" contenteditable="true">L'<strong id="RkFsrGU" contenteditable="true">Amazonie</strong>, souvent appelée le "poumon de la Terre", est la plus grande forêt tropicale au monde. Elle s'étend sur plusieurs pays d'Amérique du Sud, principalement le <strong id="gjtIjcN" contenteditable="true">Brésil</strong>, et couvre une superficie de plus de 5,5 millions de kilomètres carrés. Cette région abrite une biodiversité impressionnante, avec des millions d'espèces de plantes, d'animaux et d'insectes, dont beaucoup ne se trouvent nulle part ailleurs sur Terre.</p>
         </div>
         
-        <div data-type="content" id="VOIoMns" contenteditable="true">
-            <h2 id="vUgwuyA" contenteditable="true">Caractéristiques Géologiques de Mars</h2>
-            <p id="mcUvlEt" contenteditable="true">Mars possède plusieurs caractéristiques <strong id="wKCLEJO" contenteditable="true">géologiques</strong> uniques, notamment le mont Olympus, le volcan le plus élevé du système solaire, et Valles Marineris, un impressionnant canyon qui s'étend sur plus de 4 000 km. Sa surface est recouverte de cratères, déserts et calottes glaciaires, nous offrant des indices précieux sur son passé <strong id="LHcgWEZ" contenteditable="true">climatique</strong> et <strong id="zCMrpGs" contenteditable="true">atmosphérique</strong>.</p>
+        <h2 id="OGgUzhr" contenteditable="true">Importance écologique</h2>
+        <div data-type="content">
+            <p id="rwbkxua" contenteditable="true">L'importance écologique de l'Amazonie ne peut être sous-estimée. Elle joue un rôle crucial dans la régulation du <strong id="mKYPySf" contenteditable="true">climat mondial</strong> en absorbant des quantités massives de dioxyde de carbone et en produisant environ 20 % de l'oxygène de la planète. En outre, elle influence les systèmes climatiques mondiaux et participe à la circulation de l'eau dans l'atmosphère, affectant ainsi les conditions météorologiques sur d'autres continents.</p>
         </div>
         
-        <div data-type="content" id="ukshIrf" contenteditable="true">
-            <h2 id="YqJlixg" contenteditable="true">Histoire des Missions Vers Mars</h2>
-            <p id="TlfOlZM" contenteditable="true">L'exploration de Mars a commencé avec des missions à distance telles que Mariner 4 en 1965. Depuis lors, plusieurs missions réussies, y compris les rovers Spirit, Opportunity, et plus récemment Persévérance, ont permis une meilleure compréhension de la planète. Ces missions ont mis en évidence des preuves de <strong id="RvNWbtB" contenteditable="true">vie</strong> potentielle et la présence d'eau liquide dans le passé.</p>
+        <h2 id="brIpSYY" contenteditable="true">Risques et menaces actuels</h2>
+        <div data-type="content">
+            <p id="CoPgjkL" contenteditable="true">Malgré son importance, l'Amazonie est confrontée à plusieurs menaces. La <strong id="VUKKRRG" contenteditable="true">déforestation</strong>, principalement due à l'agriculture, à l'élevage et à l'exploitation minière, réduit considérablement ses forêts chaque année. Les feux de forêt intentionnels ou accidentels, exacerbés par le <strong id="YoIfFlM" contenteditable="true">changement climatique</strong>, posent également un risque majeur. Ces menaces non seulement détruisent la couverture forestière, mais mettent aussi en péril ses habitants indigènes, qui dépendent de la forêt pour leur subsistance.</p>
         </div>
         
-        <div data-type="content" id="MYesaXf" contenteditable="true">
-            <h2 id="OGTKhOV" contenteditable="true">Possibilité de Vie sur Mars</h2>
-            <p id="lTwXjWJ" contenteditable="true">La question de la vie sur Mars est l'une des plus captivantes pour les chercheurs. Bien que le climat actuel de Mars soit hostile, des découvertes récentes suggèrent que Mars avait autrefois une atmosphère dense et de l'eau liquide en surface. Ces conditions auraient pu accueillir des formes de vie <strong id="edWTNDH" contenteditable="true">microbiennes</strong>, ce qui pousse les scientifiques à enquêter davantage.</p>
+        <h2 id="QVjhamQ" contenteditable="true">Initiatives de conservation</h2>
+        <div data-type="content">
+            <p id="NINwJZA" contenteditable="true">Plusieurs initiatives locales et internationales visent à protéger l'Amazonie. Des organisations collaborent avec des <strong id="hXGBHQY" contenteditable="true">communautés indigènes</strong> pour promouvoir des pratiques durables et pour établir des zones protégées. Des projets de reforestation sont en cours, et certains gouvernements mettent en place des lois plus strictes pour contrôler l'exploitation des ressources. Les efforts de conservation incluent également l'utilisation des nouvelles technologies pour surveiller la santé de l'Amazonie et prévenir les activités illégales.</p>
         </div>
         
-        <div data-type="content" id="BtpEChS" contenteditable="true">
-            <h2 id="uegJVvS" contenteditable="true">Avenir de l'Exploration Martienne</h2>
-            <p id="iKaPCqH" contenteditable="true">Avec l'avènement de nouvelles technologies et l'intérêt croissant pour la colonisation de Mars, l'avenir de l'<strong id="vdDCfYR" contenteditable="true">exploration</strong> martienne semble prometteur. Des agences spatiales comme la NASA et l'ESA, ainsi que des sociétés privées comme SpaceX, planifient des missions ambitieuses pour envoyer des humains sur Mars, dans l'espoir d'y installer des bases <strong id="ZpkjAJD" contenteditable="true">permanentes</strong>.</p>
+        <h2 id="LcUfogD" contenteditable="true">FAQ</h2>
+        <div data-type="content">
+            <h3 id="EFrLqsr" contenteditable="true">Qu'est-ce que l'Amazonie ?</h3>
+            <p id="mDKaXRm" contenteditable="true">L'Amazonie est la plus grande forêt tropicale du monde, située en Amérique du Sud, recouvrant principalement le Brésil et abritant une biodiversité exceptionnelle.</p>
+
+            <h3 id="VmnVmWs" contenteditable="true">Pourquoi l'Amazonie est-elle appelée le poumon de la Terre ?</h3>
+            <p id="hKiaXHw" contenteditable="true">Elle est appelée ainsi car elle produit une grande quantité d'oxygène vital pour notre planète et joue un rôle crucial dans l'absorption du dioxyde de carbone.</p>
+
+            <h3 id="ApDtgxj" contenteditable="true">Quels sont les principaux dangers pour l'Amazonie ?</h3>
+            <p id="WGGihXA" contenteditable="true">Les principales menaces incluent la déforestation, l'exploitation agricole et minière, ainsi que les feux de forêt exacerbés par le changement climatique.</p>
+
+            <h3 id="bRymzFn" contenteditable="true">Comment peut-on aider à la conservation de l'Amazonie ?</h3>
+            <p id="UJTRlnc" contenteditable="true">On peut aider en soutenant des organismes de conservation, en soutenant des pratiques durables et en faisant pression pour des politiques environnementales plus strictes.</p>
+
+            <h3 id="Ugxpevv" contenteditable="true">Pourquoi la biodiversité de l'Amazonie est-elle importante ?</h3>
+            <p id="KWkbbml" contenteditable="true">La biodiversité garantit la santé et le fonctionnement des écosystèmes, fournit des ressources vitales, et contribue à la stabilité climatique mondiale.</p>
         </div>
-
-        <div data-type="content" id="gMNQsYt" contenteditable="true">
-            <h2 id="emNVXCQ" contenteditable="true">FAQ</h2>
-            <h3 id="UmyxyAd" contenteditable="true">Pourquoi Mars est-elle appelée la Planète Rouge ?</h3>
-            <p id="ZbXnCiM" contenteditable="true">Mars est appelée la Planète Rouge en raison de l'oxyde de fer, ou rouille, qui recouvre sa surface et lui donne son apparence rougeâtre.</p>
-
-            <h3 id="OOQossd" contenteditable="true">Quelle est la durée d'une journée sur Mars ?</h3>
-            <p id="djdbVuJ" contenteditable="true">Une journée sur Mars, appelée "sol", dure environ 24,6 heures, soit légèrement plus longue qu'une journée terrestre.</p>
-
-            <h3 id="uwvQPHK" contenteditable="true">Y a-t-il de l'eau sur Mars ?</h3>
-            <p id="AtrJhWJ" contenteditable="true">Des preuves ont été trouvées pour l'existence de glace d'eau aux pôles de Mars et de petites quantités d'eau liquide sous forme de saumure près de la surface.</p>
-
-            <h3 id="ZJalhJT" contenteditable="true">Quel est le rover actuel en activité sur Mars ?</h3>
-            <p id="isyajCx" contenteditable="true">Le rover Persévérance, lancé par la NASA, est actuellement en activité sur Mars dans le cadre de la mission Mars 2020.</p>
-
-            <h3 id="EBtUaIY" contenteditable="true">Mars a-t-elle des saisons comme la Terre ?</h3>
-            <p id="FkyOpNE" contenteditable="true">Oui, Mars a des saisons en raison de son inclinaison axiale, bien que les variations saisonnières soient différentes de celles de la Terre en raison de son orbite elliptique.</p>
-
-            <p id="JVaKbhp" contenteditable="true"><strong id="QIpzfpG" contenteditable="true">Mots-clés :</strong> Mars, planète rouge, exploration martienne, vie sur Mars, missions spatiales, géologie de Mars, rover Persévérance, NASA, SpaceX, système solaire.</p>
-
-            <p id="TdfPLZI" contenteditable="true">En conclusion, Mars reste un point focal essentiel pour notre compréhension de l'univers et notre potentiel à vivre au-delà de la Terre. L'<strong id="kKDgQUv" contenteditable="true">exploration</strong> continue et les découvertes à venir promettent de dévoiler davantage de ses mystères et d'alimenter notre quête insatiable de connaissances.</p>
+        
+        <p id="DdnEsti" contenteditable="true"><strong id="JWtduyf" contenteditable="true">Mots-clés :</strong> Amazonie, forêt tropicale, biodiversité, climat mondial, déforestation, conservation.</p>
+        
+        <h2 id="WUcHRmW" contenteditable="true">Conclusion</h2>
+        <div data-type="content">
+            <p id="lASRfAW" contenteditable="true">La préservation de l'Amazonie est d'une importance vitale pour l'équilibre écologique de notre planète. En comprenant les menaces auxquelles elle est confrontée et en soutenant les initiatives qui visent à la protéger, nous contribuons à assurer sa survie pour les générations futures. Protéger l'Amazonie équivaut à protéger notre avenir commun.</p>
         </div>
     </div>
 </article></grid-content>
         <grid-edit-section class="grid-edit-section no-export" contenteditable="false" data-type="grid-edit-section"> 
           <div class="edit-ia">
-            <button contenteditable="false" class="section-assistant-btn" onclick="openIaAssistant('OXrqGKv','EnxYpZq')"><img src="../global/file/assistant.svg"> IA Assistant </button>
-            <button contenteditable="false" class="section-shortcuts-btn" onclick="openIaShorcuts('EnxYpZq')"><img src="../global/file/shortcuts.svg"> IA Shortcuts</button>
+            <button contenteditable="false" class="section-assistant-btn" onclick="openIaAssistant('eOrIzON','uxXxBkd')"><img src="../global/file/assistant.svg"> IA Assistant </button>
+            <button contenteditable="false" class="section-shortcuts-btn" onclick="openIaShorcuts('uxXxBkd')"><img src="../global/file/shortcuts.svg"> IA Shortcuts</button>
           </div>
           <div class="edit-settings">
             <button contenteditable="false" class="section-open-modal" onclick="toolsOpenModal(this)">⋮</button>
@@ -129,6 +126,6 @@
         </grid-edit-section> 
       </grid-container>
       <!--JS-->
-        <script id="ddkMCVo" data-type="js"></script>  
+        <script id="ziVFrgw" data-type="js"></script>  
   </section>
   </grid-body><script id="page-global.js" type="text/javascript" data-type="js"></script>
