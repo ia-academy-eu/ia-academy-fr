@@ -1,21 +1,18 @@
-<style id="page-laptop.css" type="text/css" data-type="css" data-size="laptop" data-content="page">*,
-:after,
-:before {
-  box-sizing: border-box;
-  border: 0 solid #e5e7eb;
+<style id="page-laptop.css" type="text/css" data-type="css" data-size="laptop" data-content="page">
+*, :after, :before {
+    box-sizing: border-box;
+    border: 0 solid #e5e7eb;
 }
-
-grid-page {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-  display: block;
-  background: none;
+grid-page{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    display:block;
+    background:none;
 }
-
-grid-body {
-  display: grid;
-  max-width: 1024px;
-  margin: 0 auto;
-  min-height: 100vh;
+grid-body{
+    display:grid;
+    max-width:1024px;
+    margin: 0 auto;
+    min-height: 100vh;
 }
 
 article {
@@ -33,16 +30,15 @@ article {
 
 #grid-body h1,
 #grid-body h2,
-#grid-body h3 {
+#grid-body h3{
   font-weight: 600;
 }
 
+
 #grid-body h1 {
-  font-size: clamp(40px, 5vw, 60px);
-  /* Ajusta entre 40px y 60px dependiendo del viewport */
+  font-size: clamp(36px, 5vw, 60px); /* Ajusta entre 40px y 60px dependiendo del viewport */
   letter-spacing: -.5px;
-  line-height: clamp(50px, 6vw, 72px);
-  /* Ajusta la altura de línea también */
+  line-height: clamp(36px, 6vw, 60px); /* Ajusta la altura de línea también */
   margin-top: 0;
   margin-bottom: clamp(1rem, 2vw, 1.5rem);
   -webkit-font-smoothing: antialiased;
@@ -55,12 +51,10 @@ article {
 }
 
 #grid-body h2 {
-  font-size: clamp(28px, 4vw, 36px);
-  /* Ajuste para diferentes tamaños de pantalla */
+  font-size: clamp(28px, 4vw, 36px); /* Ajuste para diferentes tamaños de pantalla */
   letter-spacing: -.25px;
   line-height: clamp(32px, 5vw, 44px);
-  padding: clamp(16px, 3vw, 24px) 0;
-  /* Ajusta el padding vertical */
+  padding: clamp(16px, 3vw, 24px) 0; /* Ajusta el padding vertical */
 }
 
 #grid-body h3 {
@@ -71,8 +65,7 @@ article {
 }
 
 #grid-body p {
-  font-size: clamp(16px, 2.5vw, 18px);
-  /* Mantiene los valores de clamp para adaptar el texto */
+  font-size: clamp(16px, 2.5vw, 18px); /* Mantiene los valores de clamp para adaptar el texto */
   line-height: 1.6;
   color: #333;
   margin-top: 0;
@@ -86,8 +79,7 @@ article {
   line-height: 1.6;
   margin-top: 0;
   margin-bottom: clamp(0.5rem, 1vw, 1rem);
-  padding-left: clamp(1rem, 2vw, 1.25rem);
-  /* Ajuste del padding para adaptarse */
+  padding-left: clamp(1rem, 2vw, 1.25rem); /* Ajuste del padding para adaptarse */
 }
 
 #grid-body ol {
@@ -97,23 +89,23 @@ article {
   line-height: 1.6;
   margin-top: 0;
   margin-bottom: clamp(0.5rem, 1vw, 1rem);
-  padding-left: clamp(1rem, 2vw, 1.25rem);
-  /* Ajuste del padding igual que en los <ul> */
+  padding-left: clamp(1rem, 2vw, 1.25rem); /* Ajuste del padding igual que en los <ul> */
 }
 
 div[data-type="post-meta"],
-div[data-type="post-body"] {
+div[data-type="post-body"]  {
   padding: 0 clamp(5%, 4vw, 10%);
 }
 
+
 div[data-type="post-cover"],
-div[data-type="post-cover"] img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  background-color: #f0f0f0;
-  min-height: 70vh;
-  border-radius: 10px;
-  box-shadow: 0 20px 25px -5px rgb(0 0 0 / 10%), 0 10px 10px -5px rgb(0 0 0 / 4%);
-}
-</style><style id="page-tablet.css" type="text/css" data-type="css" data-size="tablet" data-content="page">@media screen and (min-width:641px) and (max-width:1024px) { /* Tablet */ }</style><style id="page-mobile.css" type="text/css" data-type="css" data-size="mobile" data-content="page">@media screen and (max-width:640px) { /* Mobile */ }</style><grid-body id="grid-body"><article><div data="post-meta"><h1 data-type="post-title">La Vie de Lionel Messi : Un Parcours Vers la Gloire</h1>Publié le : Date <p></p></div><div data-type="post-cover"><img src="https://oaidalleapiprodscus.blob.core.windows.net/private/org-i2HB3pjBIxbq64xGvY1LEaeE/user-vfW3XnzFFs3BzFZweZZ6RIi9/img-b7T9C35lc3oVBvxXaCRiMTIZ.png?st=2024-10-19T12%3A22%3A02Z&amp;se=2024-10-19T14%3A22%3A02Z&amp;sp=r&amp;sv=2024-08-04&amp;sr=b&amp;rscd=inline&amp;rsct=image/png&amp;skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&amp;sktid=a48cca56-e6da-484e-a814-9c849652bcb3&amp;skt=2024-10-18T18%3A32%3A51Z&amp;ske=2024-10-19T18%3A32%3A51Z&amp;sks=b&amp;skv=2024-08-04&amp;sig=Cd%2BXDrvwOj7zli13LKed2MZv/1GSkPDD0bnorakV8BM%3D" data-type="image-fg" loading="lazy"></div><div data-type="post-body"><div data-type="content"><h2>Sommaire</h2><ol><li>Les Premières Années de Lionel Messi</li><li>L'Ascension Vers la Célébrité au FC Barcelone</li><li>Glorieuses Victoires et Records</li><li>Vie Personnelle et Carrière Internationale</li><li>L'Héritage de Lionel Messi</li></ol></div><div data-type="content"><h2>Les Premières Années de Lionel Messi</h2><p>Né le 24 juin 1987 à Rosario, en Argentine, Lionel Andrés Messi a montré une passion pour le football dès son plus jeune âge. Fils de Jorge Horácio Messi, un travailleur dans une usine sidérurgique, et de Celia María Cuccittini, employée à mi-temps dans le nettoyage, Messi a grandi avec ses trois frères et sœurs. À l'âge de cinq ans, il commence à jouer au football dans un petit club local, Grandoli, entraîné par son père. Rapidement repéré pour ses talents, il poursuit son développement au sein du club plus prestigieux de Newell's Old Boys.</p></div><div data-type="content"><h2>L'Ascension Vers la Célébrité au FC Barcelone</h2><p>En 2000, à l'âge de 13 ans, Messi déménage en Espagne pour rejoindre la prestigieuse académie de jeunes de Barcelone, La Masia. Malgré sa petite taille due à un déficit d'hormone de croissance, le talent de Messi brille. Le FC Barcelone prend en charge son traitement médical, et en retour, Messi impressionne par ses compétences extraordinaires. En 2004, il fait ses débuts professionnels avec l'équipe première de Barcelone, et très vite, Messi devient un pilier de l'équipe, illuminant les terrains avec sa technique inégalée.</p></div><div data-type="content"><h2>Glorieuses Victoires et Records</h2><p>La carrière de Messi au FC Barcelone est jalonnée de succès exceptionnels. Il remporte avec le club 10 titres de La Liga, 7 Copas del Rey, et 4 Ligues des champions de l'UEFA. Individuellement, Messi accumule les distinctions, notamment 7 Ballons d'Or, un témoignage de sa suprématie sur le football mondial. Il devient le meilleur buteur de l'histoire du FC Barcelone et de La Liga, avec des performances mémorables qui inspireront des générations.</p></div><div data-type="content"><h2>Vie Personnelle et Carrière Internationale</h2><p>En dehors du terrain, Messi mène une vie discrète avec sa famille. Marié à Antonela Roccuzzo, son amie d'enfance, le couple a trois enfants. Sur la scène internationale, Messi connaît des hauts et des bas avec l'équipe nationale argentine. Malgré plusieurs échecs en finale de la Copa America et de la Coupe du Monde, il remporte finalement la Copa America en 2021, un succès qui solidifie son statut d'icône en Argentine.</p></div><div data-type="content"><h2>L'Héritage de Lionel Messi</h2><p>Au-delà des records et trophées, l'héritage de Lionel Messi réside dans sa capacité à toucher et inspirer des millions de fans dans le monde entier. Son style de jeu unique, alliant rapidité, habileté et précision, change le visage du football moderne. Alors qu'il continue à jouer pour le Paris Saint-Germain et à représenter l'Argentine, Messi reste une référence et un modèle pour les jeunes aspirants footballeurs. Sa contribution au sport dépasse les terrains, avec une influence culturelle et une implication dans de nombreuses œuvres de charité à travers sa fondation.</p></div><div data-type="content"><h2>Résumé</h2><p>Lionel Messi, un nom synonyme de talent, dévouement et succès, a transformé le football avec ses performances incroyables et son humilité inégalée. Depuis ses modestes débuts à Rosario jusqu'à sa renommée mondiale, le parcours de Messi inspire profondément. Que ce soit à Barcelone, à Paris ou en jouant pour l'Argentine, Messi continue de tracer sa légende, un chapitre à la fois. Son héritage perdurera bien au-delà de sa carrière active, célébré par ceux qui ont eu la chance de le voir jouer.</p></div></div></article></grid-body><script id="page-global.js" type="text/javascript" data-type="js"></script>
+div[data-type="post-cover"] img
+ {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    background-color: #f0f0f0;
+    min-height: 70vh;
+    border-radius: 10px;
+    box-shadow: 0 20px 25px -5px rgb(0 0 0 / 10%), 0 10px 10px -5px rgb(0 0 0 / 4%);
+}</style><style id="page-tablet.css" type="text/css" data-type="css" data-size="tablet" data-content="page">@media screen and (min-width:641px) and (max-width:1024px) { /* Tablet */ }</style><style id="page-mobile.css" type="text/css" data-type="css" data-size="mobile" data-content="page">@media screen and (max-width:640px) { /* Mobile */ }</style><grid-body id="grid-body"><article><div data="post-meta"><h1 data-type="post-title">La Vie de Lionel Messi : Un Parcours Vers la Gloire</h1>Publié le : Date <p></p></div><div data-type="post-cover"><img src="https://oaidalleapiprodscus.blob.core.windows.net/private/org-i2HB3pjBIxbq64xGvY1LEaeE/user-vfW3XnzFFs3BzFZweZZ6RIi9/img-b7T9C35lc3oVBvxXaCRiMTIZ.png?st=2024-10-19T12%3A22%3A02Z&amp;se=2024-10-19T14%3A22%3A02Z&amp;sp=r&amp;sv=2024-08-04&amp;sr=b&amp;rscd=inline&amp;rsct=image/png&amp;skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&amp;sktid=a48cca56-e6da-484e-a814-9c849652bcb3&amp;skt=2024-10-18T18%3A32%3A51Z&amp;ske=2024-10-19T18%3A32%3A51Z&amp;sks=b&amp;skv=2024-08-04&amp;sig=Cd%2BXDrvwOj7zli13LKed2MZv/1GSkPDD0bnorakV8BM%3D" data-type="image-fg" loading="lazy"></div><div data-type="post-body"><div data-type="content"><h2>Sommaire</h2><ol><li>Les Premières Années de Lionel Messi</li><li>L'Ascension Vers la Célébrité au FC Barcelone</li><li>Glorieuses Victoires et Records</li><li>Vie Personnelle et Carrière Internationale</li><li>L'Héritage de Lionel Messi</li></ol></div><div data-type="content"><h2>Les Premières Années de Lionel Messi</h2><p>Né le 24 juin 1987 à Rosario, en Argentine, Lionel Andrés Messi a montré une passion pour le football dès son plus jeune âge. Fils de Jorge Horácio Messi, un travailleur dans une usine sidérurgique, et de Celia María Cuccittini, employée à mi-temps dans le nettoyage, Messi a grandi avec ses trois frères et sœurs. À l'âge de cinq ans, il commence à jouer au football dans un petit club local, Grandoli, entraîné par son père. Rapidement repéré pour ses talents, il poursuit son développement au sein du club plus prestigieux de Newell's Old Boys.</p></div><div data-type="content"><h2>L'Ascension Vers la Célébrité au FC Barcelone</h2><p>En 2000, à l'âge de 13 ans, Messi déménage en Espagne pour rejoindre la prestigieuse académie de jeunes de Barcelone, La Masia. Malgré sa petite taille due à un déficit d'hormone de croissance, le talent de Messi brille. Le FC Barcelone prend en charge son traitement médical, et en retour, Messi impressionne par ses compétences extraordinaires. En 2004, il fait ses débuts professionnels avec l'équipe première de Barcelone, et très vite, Messi devient un pilier de l'équipe, illuminant les terrains avec sa technique inégalée.</p></div><div data-type="content"><h2>Glorieuses Victoires et Records</h2><p>La carrière de Messi au FC Barcelone est jalonnée de succès exceptionnels. Il remporte avec le club 10 titres de La Liga, 7 Copas del Rey, et 4 Ligues des champions de l'UEFA. Individuellement, Messi accumule les distinctions, notamment 7 Ballons d'Or, un témoignage de sa suprématie sur le football mondial. Il devient le meilleur buteur de l'histoire du FC Barcelone et de La Liga, avec des performances mémorables qui inspireront des générations.</p></div><div data-type="content"><h2>Vie Personnelle et Carrière Internationale</h2><p>En dehors du terrain, Messi mène une vie discrète avec sa famille. Marié à Antonela Roccuzzo, son amie d'enfance, le couple a trois enfants. Sur la scène internationale, Messi connaît des hauts et des bas avec l'équipe nationale argentine. Malgré plusieurs échecs en finale de la Copa America et de la Coupe du Monde, il remporte finalement la Copa America en 2021, un succès qui solidifie son statut d'icône en Argentine.</p></div><div data-type="content"><h2>L'Héritage de Lionel Messi</h2><p>Au-delà des records et trophées, l'héritage de Lionel Messi réside dans sa capacité à toucher et inspirer des millions de fans dans le monde entier. Son style de jeu unique, alliant rapidité, habileté et précision, change le visage du football moderne. Alors qu'il continue à jouer pour le Paris Saint-Germain et à représenter l'Argentine, Messi reste une référence et un modèle pour les jeunes aspirants footballeurs. Sa contribution au sport dépasse les terrains, avec une influence culturelle et une implication dans de nombreuses œuvres de charité à travers sa fondation.</p></div><div data-type="content"><h2>Résumé</h2><p>Lionel Messi, un nom synonyme de talent, dévouement et succès, a transformé le football avec ses performances incroyables et son humilité inégalée. Depuis ses modestes débuts à Rosario jusqu'à sa renommée mondiale, le parcours de Messi inspire profondément. Que ce soit à Barcelone, à Paris ou en jouant pour l'Argentine, Messi continue de tracer sa légende, un chapitre à la fois. Son héritage perdurera bien au-delà de sa carrière active, célébré par ceux qui ont eu la chance de le voir jouer.</p></div></div></article></grid-body><script id="page-global.js" type="text/javascript" data-type="js"></script>
