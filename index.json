@@ -1,20 +1,22 @@
-<style id="page-laptop.css" type="text/css" data-type="css" data-size="laptop" data-content="page">*,
-:after,
-:before {
-  box-sizing: border-box;
-  border: 0 solid #e5e7eb;
+<style id="page-laptop.css" type="text/css" data-type="css" data-size="laptop" data-content="page">
+*, :after, :before {
+    box-sizing: border-box;
+    border: 0 solid #e5e7eb;
+}
+grid-page{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    display:block;
+    background:none;
+}
+grid-body{
+    display:grid;
+    max-width:1024px;
+    margin: 0 auto;
+    min-height: 100vh;
 }
 
-grid-page {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-  display: block;
-  background: none;
-}
-
-grid-body {
-  display: grid;
-  max-width: 1024px;
-  margin: 0 auto;
+article{
+  display:grid;
   min-height: 100vh;
 }
 
@@ -24,16 +26,15 @@ grid-body {
 
 #grid-body h1,
 #grid-body h2,
-#grid-body h3 {
+#grid-body h3{
   font-weight: 600;
 }
 
+
 #grid-body h1 {
-  font-size: clamp(40px, 5vw, 60px);
-  /* Ajusta entre 40px y 60px dependiendo del viewport */
+  font-size: clamp(40px, 5vw, 60px); /* Ajusta entre 40px y 60px dependiendo del viewport */
   letter-spacing: -.5px;
-  line-height: clamp(50px, 6vw, 72px);
-  /* Ajusta la altura de línea también */
+  line-height: clamp(50px, 6vw, 72px); /* Ajusta la altura de línea también */
   margin-top: 0;
   margin-bottom: clamp(1rem, 2vw, 1.5rem);
   -webkit-font-smoothing: antialiased;
@@ -46,12 +47,10 @@ grid-body {
 }
 
 #grid-body h2 {
-  font-size: clamp(28px, 4vw, 36px);
-  /* Ajuste para diferentes tamaños de pantalla */
+  font-size: clamp(28px, 4vw, 36px); /* Ajuste para diferentes tamaños de pantalla */
   letter-spacing: -.25px;
   line-height: clamp(32px, 5vw, 44px);
-  padding: clamp(16px, 3vw, 24px) 0;
-  /* Ajusta el padding vertical */
+  padding: clamp(16px, 3vw, 24px) 0; /* Ajusta el padding vertical */
 }
 
 #grid-body h3 {
@@ -62,8 +61,7 @@ grid-body {
 }
 
 #grid-body p {
-  font-size: clamp(16px, 2.5vw, 18px);
-  /* Mantiene los valores de clamp para adaptar el texto */
+  font-size: clamp(16px, 2.5vw, 18px); /* Mantiene los valores de clamp para adaptar el texto */
   line-height: 1.6;
   color: #333;
   margin-top: 0;
@@ -77,8 +75,7 @@ grid-body {
   line-height: 1.6;
   margin-top: 0;
   margin-bottom: clamp(0.5rem, 1vw, 1rem);
-  padding-left: clamp(1rem, 2vw, 1.25rem);
-  /* Ajuste del padding para adaptarse */
+  padding-left: clamp(1rem, 2vw, 1.25rem); /* Ajuste del padding para adaptarse */
 }
 
 #grid-body ol {
@@ -88,24 +85,24 @@ grid-body {
   line-height: 1.6;
   margin-top: 0;
   margin-bottom: clamp(0.5rem, 1vw, 1rem);
-  padding-left: clamp(1rem, 2vw, 1.25rem);
-  /* Ajuste del padding igual que en los <ul> */
+  padding-left: clamp(1rem, 2vw, 1.25rem); /* Ajuste del padding igual que en los <ul> */
 }
 
 div[data-type="post-meta"] {
   padding: clamp(3%, 4vw, 9%);
 }
 
+
 div[data-type="post-cover"],
-div[data-type="post-cover"] img {
+div[data-type="post-cover"] img
+ {
   width: 100%;
-  height: 100%;
+  height:100%;
   object-fit: cover;
-  background-color: #f0f0f0;
-  max-height: 70vh;
+  background-color: #f0f0f0; 
+  max-height:70vh;
 }
 
 div[data-type="post-body"] {
   padding: clamp(3%, 4vw, 9%);
-}
-</style><style id="page-tablet.css" type="text/css" data-type="css" data-size="tablet" data-content="page">@media screen and (min-width:641px) and (max-width:1024px) { /* Tablet */ }</style><style id="page-mobile.css" type="text/css" data-type="css" data-size="mobile" data-content="page">@media screen and (max-width:640px) { /* Mobile */ }</style><grid-body id="grid-body"><article><div data-type="post-meta"><h1 data-type="post-title">La Vie en Rose : Une Ode à l'Optimisme</h1><p data-type="post-date">Publié le : 25 octobre 2023</p></div><div data-type="post-cover"><img src="https://oaidalleapiprodscus.blob.core.windows.net/private/org-i2HB3pjBIxbq64xGvY1LEaeE/user-vfW3XnzFFs3BzFZweZZ6RIi9/img-jfGUn4DuTkiq6c3yj7Maxtx0.png?st=2024-10-19T10%3A57%3A43Z&amp;se=2024-10-19T12%3A57%3A43Z&amp;sp=r&amp;sv=2024-08-04&amp;sr=b&amp;rscd=inline&amp;rsct=image/png&amp;skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&amp;sktid=a48cca56-e6da-484e-a814-9c849652bcb3&amp;skt=2024-10-18T18%3A53%3A07Z&amp;ske=2024-10-19T18%3A53%3A07Z&amp;sks=b&amp;skv=2024-08-04&amp;sig=bl38v3TgmtFgtZyjvE/C803pMCrS0EdzlBn68Op9Aak%3D" data-type="image-fg" loading="lazy"></div><div data-type="post-body"><!-- Contenu du blog --><div data-type="content"><h2>Sommaire</h2><ol><li>Origines et Signification de "La Vie en Rose"</li><li>Impact Culturel de la Chanson</li><li>Interprétations et Reprises Modernes</li></ol></div><div data-type="content"><div data-type="content"><!-- Thématique 1 --><h3>Origines et Signification de "La Vie en Rose"</h3><p>"La Vie en Rose" est une chanson emblématique, synonyme de bonheur et de romance, écrite par la légendaire Édith Piaf en 1945. Ce titre évoque une perception optimiste de la vie, où tout semble tendre et merveilleux. L'expression "voir la vie en rose" signifie voir le monde avec optimisme, se concentrant sur ses aspects positifs.</p></div><div data-type="content"><!-- Thématique 2 --><h3>Impact Culturel de la Chanson</h3><p>Depuis sa sortie, "La Vie en Rose" s'est érigée en hymne international, traversant les âges et les frontières. Elle a influencé de nombreuses œuvres dans divers domaines artistiques, de la musique au cinéma. La chanson symbolise l'élégance et le charme parisien, devenant une référence culturelle incontournable.</p><p>Dans le cinéma, elle est souvent utilisée pour évoquer une atmosphère romantique ou nostalgique. De films hollywoodiens aux productions indépendantes, "La Vie en Rose" est un motif récurrent grâce à son universalité et sa profondeur émotionnelle.</p></div><div data-type="content"><!-- Thématique 3 --><h3>Interprétations et Reprises Modernes</h3><p>Au fil des ans, de nombreux artistes ont repris "La Vie en Rose", offrant à chaque fois une interprétation unique qui reflète leur style et leur époque. Ces versions modernes montrent la pérennité et la flexibilité de la chanson, capable de s'adapter à différents genres musicaux et contextes culturels.</p><p>Des artistes tels que Louis Armstrong, Grace Jones, et plus récemment Lady Gaga, ont contribué à renouveler l'intérêt pour cette œuvre. Ils ont permis à "La Vie en Rose" de toucher de nouvelles générations, consolidant encore plus sa place dans le patrimoine musical mondial.</p></div></div><div data-type="content"><!-- Résumé --><h2>Résumé</h2><p>"La Vie en Rose" est bien plus qu'une chanson ; elle est une célébration intemporelle de l'optimisme et de l'amour. Son héritage culturel fort témoigne de l'universalité de ses thèmes. En traversant les âges grâce à ses multiples interprétations, cette œuvre continue d'inspirer et de captiver des publics du monde entier, affirmant encore et toujours que voir "la vie en rose" est un état d'esprit aussi puissant qu'enchanteur.</p></div></div></article></grid-body><script id="page-global.js" type="text/javascript" data-type="js"></script>
+}</style><style id="page-tablet.css" type="text/css" data-type="css" data-size="tablet" data-content="page">@media screen and (min-width:641px) and (max-width:1024px) { /* Tablet */ }</style><style id="page-mobile.css" type="text/css" data-type="css" data-size="mobile" data-content="page">@media screen and (max-width:640px) { /* Mobile */ }</style><grid-body id="grid-body"><article><div data-type="post-meta"><h1 data-type="post-title">La Vie en Rose : Une Ode à l'Optimisme</h1><p data-type="post-date">Publié le : 25 octobre 2023</p></div><div data-type="post-cover"><img src="https://oaidalleapiprodscus.blob.core.windows.net/private/org-i2HB3pjBIxbq64xGvY1LEaeE/user-vfW3XnzFFs3BzFZweZZ6RIi9/img-jfGUn4DuTkiq6c3yj7Maxtx0.png?st=2024-10-19T10%3A57%3A43Z&amp;se=2024-10-19T12%3A57%3A43Z&amp;sp=r&amp;sv=2024-08-04&amp;sr=b&amp;rscd=inline&amp;rsct=image/png&amp;skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&amp;sktid=a48cca56-e6da-484e-a814-9c849652bcb3&amp;skt=2024-10-18T18%3A53%3A07Z&amp;ske=2024-10-19T18%3A53%3A07Z&amp;sks=b&amp;skv=2024-08-04&amp;sig=bl38v3TgmtFgtZyjvE/C803pMCrS0EdzlBn68Op9Aak%3D" data-type="image-fg" loading="lazy"></div><div data-type="post-body"><!-- Contenu du blog --><div data-type="content"><h2>Sommaire</h2><ol><li>Origines et Signification de "La Vie en Rose"</li><li>Impact Culturel de la Chanson</li><li>Interprétations et Reprises Modernes</li></ol></div><div data-type="content"><div data-type="content"><!-- Thématique 1 --><h3>Origines et Signification de "La Vie en Rose"</h3><p>"La Vie en Rose" est une chanson emblématique, synonyme de bonheur et de romance, écrite par la légendaire Édith Piaf en 1945. Ce titre évoque une perception optimiste de la vie, où tout semble tendre et merveilleux. L'expression "voir la vie en rose" signifie voir le monde avec optimisme, se concentrant sur ses aspects positifs.</p></div><div data-type="content"><!-- Thématique 2 --><h3>Impact Culturel de la Chanson</h3><p>Depuis sa sortie, "La Vie en Rose" s'est érigée en hymne international, traversant les âges et les frontières. Elle a influencé de nombreuses œuvres dans divers domaines artistiques, de la musique au cinéma. La chanson symbolise l'élégance et le charme parisien, devenant une référence culturelle incontournable.</p><p>Dans le cinéma, elle est souvent utilisée pour évoquer une atmosphère romantique ou nostalgique. De films hollywoodiens aux productions indépendantes, "La Vie en Rose" est un motif récurrent grâce à son universalité et sa profondeur émotionnelle.</p></div><div data-type="content"><!-- Thématique 3 --><h3>Interprétations et Reprises Modernes</h3><p>Au fil des ans, de nombreux artistes ont repris "La Vie en Rose", offrant à chaque fois une interprétation unique qui reflète leur style et leur époque. Ces versions modernes montrent la pérennité et la flexibilité de la chanson, capable de s'adapter à différents genres musicaux et contextes culturels.</p><p>Des artistes tels que Louis Armstrong, Grace Jones, et plus récemment Lady Gaga, ont contribué à renouveler l'intérêt pour cette œuvre. Ils ont permis à "La Vie en Rose" de toucher de nouvelles générations, consolidant encore plus sa place dans le patrimoine musical mondial.</p></div></div><div data-type="content"><!-- Résumé --><h2>Résumé</h2><p>"La Vie en Rose" est bien plus qu'une chanson ; elle est une célébration intemporelle de l'optimisme et de l'amour. Son héritage culturel fort témoigne de l'universalité de ses thèmes. En traversant les âges grâce à ses multiples interprétations, cette œuvre continue d'inspirer et de captiver des publics du monde entier, affirmant encore et toujours que voir "la vie en rose" est un état d'esprit aussi puissant qu'enchanteur.</p></div></div></article></grid-body><script id="page-global.js" type="text/javascript" data-type="js"></script>
